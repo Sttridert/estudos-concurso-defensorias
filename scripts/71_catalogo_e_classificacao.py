@@ -5,8 +5,8 @@ Substitui, para qualquer disciplina, os scripts por disciplina 21, 22, 31 e 58 a
 
 Uso:
   python -I scripts/71_catalogo_e_classificacao.py exportar [--saida PASTA]   # banco -> arquivos (uma vez; também serve para conferir)
-  python -I scripts/71_catalogo_e_classificacao.py aplicar [disciplina ...] [--simular] [--banco ARQ]
-  python -I scripts/71_catalogo_e_classificacao.py conferir [--banco ARQ]      # = aplicar --simular em todas
+  python -I scripts/71_catalogo_e_classificacao.py conferir [--banco ARQ]      # simulação: compara os arquivos com o banco e diz o que mudaria (só leitura)
+  (o subcomando `aplicar` está DESATIVADO desde 20/11/2026: recusa e aponta os caminhos novos; ver main)
   python -I scripts/71_catalogo_e_classificacao.py estado [mostrar | definir <disciplina> provisorio|fechado --motivo "..." [--versao v2] [--editais "..."] [--risco "..."] [--sim-do-usuario]]
                                                                                        # catálogo FECHADO só aceita acréscimo (ver scripts/lib_catalogo.py)
 
@@ -222,7 +222,11 @@ def main():
     a = sys.argv[1:]
     if a and a[0] == "estado":
         return estado(a[1:])
-    if not a or a[0] not in ("exportar", "aplicar", "conferir"):
+    if a and a[0] == "aplicar":
+        sys.exit("RECUSADO (decisão do usuário, 20/11/2026, fechamento do grupo C): o `aplicar` foi desativado. Os arquivos de dados/classificacao e "
+                 "dados/catalogo são cópias exportadas do banco, e aplicá-los desfaria edições feitas no editor de questões. Use: classificação em lote = "
+                 "`scripts/mapear_aplicar_classificacao.py`; edição pontual = página /questoes do `catalogar_editor.py`; catálogo = `scripts/catalogar_publicar.py`.")
+    if not a or a[0] not in ("exportar", "conferir"):
         sys.exit(__doc__)
     cmd, resto = a[0], a[1:]
     banco = BANCO

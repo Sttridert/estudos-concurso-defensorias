@@ -329,5 +329,32 @@ class TestApi(Base):
         self.assertIn('const TOKEN = "tok"', corpo)
 
 
+class Test71Aplicar(unittest.TestCase):
+    """O `71 aplicar` foi desativado (fechamento do grupo C): recusa; `exportar` e `conferir` seguem funcionando (só leitura do banco real)."""
+
+    def rodar(self, *args):
+        import subprocess
+        return subprocess.run([sys.executable, "-I", str(Path(__file__).resolve().parent / "71_catalogo_e_classificacao.py"), *args], capture_output=True, text=True, encoding="utf-8", errors="replace")
+
+    def test_aplicar_recusa_e_aponta_os_caminhos_novos(self):
+        r = self.rodar("aplicar")
+        self.assertNotEqual(r.returncode, 0)
+        self.assertIn("RECUSADO", r.stderr)
+        self.assertIn("mapear_aplicar_classificacao", r.stderr)
+        self.assertNotEqual(self.rodar("aplicar", "direito-penal", "--simular").returncode, 0)
+
+    def test_exportar_e_conferir_continuam(self):
+        pasta = tempfile.mkdtemp()
+        try:
+            r = self.rodar("exportar", "--saida", pasta)
+            self.assertEqual(r.returncode, 0, r.stderr)
+            self.assertTrue((Path(pasta) / "dados" / "classificacao").exists())
+        finally:
+            shutil.rmtree(pasta, ignore_errors=True)
+        r = self.rodar("conferir")
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertTrue(r.stdout.strip())
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=1)

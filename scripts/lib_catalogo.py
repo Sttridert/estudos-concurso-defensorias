@@ -11,7 +11,7 @@ O estado mora em `dados/catalogo/_estado.json` (o `_` no começo impede que o `7
   fechado_pelo_usuario_em   data em que o usuário disse "sim" (só para "fechado")
   historico          lista de {data, de, para, motivo}
 
-Catálogo FECHADO: o `71 aplicar` só aceita ACRÉSCIMO (assunto ou ponto novo); qualquer mudança em linha existente (nome, descrição, assunto de um
+Catálogo FECHADO (o `71 aplicar` foi desativado em 20/11/2026; a regra vale para quem gravar catálogo): só aceita ACRÉSCIMO (assunto ou ponto novo); qualquer mudança em linha existente (nome, descrição, assunto de um
 ponto, `ativo`) é recusada. Para mudar o que já existe: reabrir o catálogo (`71 estado definir <disciplina> provisorio --motivo ...`), com o mapa
 antigo→novo registrado e o "sim" do usuário.
 """
