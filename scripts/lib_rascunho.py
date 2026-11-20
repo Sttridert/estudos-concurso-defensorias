@@ -77,8 +77,10 @@ def salvar(d):
 
 
 def catalogos_disponiveis():
-    """[{slug, disciplina, tem_rascunho}] dos catálogos v1 (arquivos de `dados/catalogo` sem `_`)."""
+    """[{slug, disciplina, tem_rascunho, sem_v1}] dos catálogos v1 (arquivos de `dados/catalogo` sem `_`) e dos rascunhos que nasceram do zero
+    (disciplina nova, sem catálogo v1: `sem_v1` verdadeiro)."""
     out = []
+    vistos = set()
     for p in sorted(Path(PASTA).glob("*.json")):
         if p.name.startswith("_"):
             continue
@@ -86,7 +88,15 @@ def catalogos_disponiveis():
             nome = json.loads(p.read_text(encoding="utf-8"))["disciplina"]
         except Exception:
             continue
-        out.append({"slug": p.stem, "disciplina": nome, "tem_rascunho": existe(p.stem)})
+        out.append({"slug": p.stem, "disciplina": nome, "tem_rascunho": existe(p.stem), "sem_v1": False})
+        vistos.add(p.stem)
+    for p in sorted(Path(PASTA).glob("_rascunho_*_v2.json")):
+        try:
+            d = json.loads(p.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        if d.get("slug") and d["slug"] not in vistos:
+            out.append({"slug": d["slug"], "disciplina": d["disciplina"], "tem_rascunho": True, "sem_v1": True})
     return out
 
 
@@ -119,6 +129,121 @@ def criar_de_v1(slug, sobrescrever=False):
          "criado_em": datetime.datetime.now().isoformat(timespec="seconds"), "estado": "rascunho",
          "assuntos": assuntos, "lixeira": [], "lixeira_assuntos": [], "base_v1": {"assuntos": base_ass, "pontos": base_pts},
          "historico": {"passado": [], "futuro": []}}
+    salvar(d)
+    return d
+
+
+# ---------------------------------------------------------------- criação do zero (disciplina nova, sem catálogo v1)
+def ler_roteiro(texto):
+    """Lê um roteiro em texto simples e devolve [{nome, descricao, pontos: [{texto, descricao, adotar}]}].
+
+    Formato (uma linha por item; linhas em branco e as que começam com `//` são ignoradas):
+        # Nome do assunto | descrição opcional
+        - Nome do tópico | descrição opcional | @Disciplina do banco:CÓDIGO     (o campo com @, em qualquer posição após o nome, ADOTA um ponto que já existe no banco)
+    A ORDEM do roteiro é a ordem didática. Erros dizem o número da linha."""
+    assuntos = []
+    for n, bruta in enumerate((texto or "").splitlines(), 1):
+        linha = bruta.strip()
+        if not linha or linha.startswith("//"):
+            continue
+        if linha.startswith("#"):
+            partes = [x.strip() for x in linha.lstrip("#").split("|")]
+            if not partes[0]:
+                raise ErroOp(f"linha {n}: assunto sem nome.")
+            assuntos.append({"nome": partes[0], "descricao": (partes[1] if len(partes) > 1 and partes[1] else None), "pontos": []})
+        elif linha.startswith("-"):
+            if not assuntos:
+                raise ErroOp(f"linha {n}: tópico antes de qualquer assunto (use '# Nome do assunto' antes).")
+            partes = [x.strip() for x in linha.lstrip("-").split("|")]
+            if not partes[0]:
+                raise ErroOp(f"linha {n}: tópico sem nome.")
+            adotar, desc = None, None
+            for campo in partes[1:]:                      # o campo que começa com @ adota um ponto do banco; o outro é a descrição
+                if not campo:
+                    continue
+                if campo.startswith("@"):
+                    m = re.fullmatch(r"@\s*(.+?)\s*:\s*([A-Za-z]+\d+(?:\.\d+)?)", campo)
+                    if not m:
+                        raise ErroOp(f"linha {n}: use '@Disciplina:CÓDIGO' para adotar um ponto (ex.: @Direito Penal:PE02.01).")
+                    adotar = {"disciplina": m.group(1), "codigo": m.group(2)}
+                elif desc is None:
+                    desc = campo
+                else:
+                    raise ErroOp(f"linha {n}: campo sobrando ('{campo}').")
+            if any(p["texto"].lower() == partes[0].lower() for p in assuntos[-1]["pontos"]):
+                raise ErroOp(f"linha {n}: tópico repetido dentro do assunto '{assuntos[-1]['nome']}'.")
+            assuntos[-1]["pontos"].append({"texto": partes[0], "descricao": desc, "adotar": adotar})
+        else:
+            raise ErroOp(f"linha {n}: comece com '#' (assunto) ou '-' (tópico).")
+    if not assuntos:
+        raise ErroOp("o roteiro está vazio.")
+    vazios = [a["nome"] for a in assuntos if not a["pontos"]]
+    if vazios:
+        raise ErroOp("assunto sem tópico: " + ", ".join(vazios) + " (cada assunto precisa de pelo menos um tópico).")
+    return assuntos
+
+
+def criar_do_zero(slug, disciplina, prefixo, assuntos, sobrescrever=False, textos_banco=None):
+    """Cria o rascunho de uma disciplina NOVA, sem catálogo v1 (a base v1 fica vazia, só os pontos ADOTADOS do banco entram nela).
+    `assuntos` vem de `ler_roteiro`. `textos_banco` = {(disciplina, código): texto atual no banco}, para o mapa dos pontos adotados."""
+    if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", slug or ""):
+        raise ErroOp("o identificador (slug) deve ter só letras minúsculas sem acento, números e hífens.")
+    if not re.fullmatch(r"[A-Z]{1,3}", prefixo or ""):
+        raise ErroOp("o prefixo dos códigos deve ter de 1 a 3 letras maiúsculas (ex.: TR).")
+    if existe(slug) and not sobrescrever:
+        raise ErroOp(f"já existe rascunho de '{slug}'.")
+    textos_banco = textos_banco or {}
+    base_ass, base_pts, lista = {}, {}, []
+    for a in assuntos:
+        pontos = []
+        for p in a["pontos"]:
+            if p.get("adotar"):
+                cod = p["adotar"]["codigo"]
+                puid = "v1:" + cod
+                base_pts[puid] = {"codigo": cod, "texto": textos_banco.get((p["adotar"]["disciplina"], cod), p["texto"]), "assunto_uid": "v1:" + cod.split(".")[0],
+                                  "banco": {"disciplina": p["adotar"]["disciplina"], "codigo": cod}}
+                pontos.append({"uid": puid, "antigo": cod, "texto": p["texto"], "descricao": p.get("descricao"), "origem": f"adotado de {p['adotar']['disciplina']} {cod}"})
+            else:
+                pontos.append({"uid": _novo_uid(), "antigo": None, "texto": p["texto"], "descricao": p.get("descricao"), "origem": "rascunho do zero (IA; confirmar)"})
+        lista.append({"uid": _novo_uid(), "antigo": None, "nome": a["nome"], "descricao": a.get("descricao"), "pre_requisito": None, "pontos": pontos})
+    d = {"slug": slug, "disciplina": disciplina, "prefixo": prefixo, "versao_base": "(nova)", "versao_alvo": "v1",
+         "criado_em": datetime.datetime.now().isoformat(timespec="seconds"), "estado": "rascunho", "do_zero": True,
+         "assuntos": lista, "lixeira": [], "lixeira_assuntos": [], "base_v1": {"assuntos": base_ass, "pontos": base_pts},
+         "historico": {"passado": [], "futuro": []}}
+    salvar(d)
+    return d
+
+
+def tirar_ponto(slug, antigo, destino_externo=None, movido_para=None):
+    """Tira do rascunho `slug` um ponto que veio do v1 (pelo código antigo) e o põe na lixeira com um destino em OUTRA disciplina:
+      - `destino_externo` = {"disciplina": nome, "codigo": código ATUAL do banco}: o ponto é fundido nesse ponto na publicação;
+      - `movido_para` = slug de um rascunho novo que ADOTOU o ponto: o mesmo registro do banco passa à disciplina nova.
+    Um (e só um) dos dois. A publicação lê esses campos; nada aqui toca no banco."""
+    if bool(destino_externo) == bool(movido_para):
+        raise ErroOp("informe o destino externo OU o rascunho que adotou o ponto (um dos dois).")
+    d = carregar(slug)
+    alvo = None
+    for a in d["assuntos"]:
+        for i, p in enumerate(a["pontos"]):
+            if p.get("antigo") == antigo:
+                alvo = (a, i, p)
+    if alvo is None:
+        ja = [x for x in d["lixeira"] if x.get("antigo") == antigo]
+        if not ja:
+            raise ErroOp(f"o rascunho '{slug}' não tem o ponto de código antigo {antigo}.")
+        entrada = ja[0]
+    else:
+        a, i, p = alvo
+        a["pontos"].pop(i)
+        entrada = {"uid": p["uid"], "antigo": p["antigo"], "texto": p["texto"], "descricao": p.get("descricao"), "assunto_uid": a["uid"],
+                   "apagado_em": _agora(), "destino": None}
+        d["lixeira"].append(entrada)
+    entrada.pop("destino_externo", None)
+    entrada.pop("movido_para", None)
+    if destino_externo:
+        entrada["destino_externo"] = destino_externo
+    else:
+        entrada["movido_para"] = movido_para
     salvar(d)
     return d
 

@@ -9,7 +9,7 @@ Uso:
   python -I scripts/71_catalogo_e_classificacao.py conferir [--banco ARQ]      # = aplicar --simular em todas
   python -I scripts/71_catalogo_e_classificacao.py estado [mostrar | definir <disciplina> provisorio|fechado --motivo "..." [--versao v2] [--editais "..."] [--risco "..."] [--sim-do-usuario]]
                                                                                        # catálogo FECHADO só aceita acréscimo (ver scripts/lib_catalogo.py)
-  python -I scripts/71_catalogo_e_classificacao.py semear SIGLA "Nome da disciplina"   # disciplina NOVA: catálogo inicial a partir de
+  python -I scripts/71_catalogo_e_classificacao.py semear SIGLA "Nome da disciplina"   # SUPERADO (decisão 53; use scripts/catalogar_novo.py criar). Antes: disciplina NOVA, catálogo inicial a partir de
                                                                                        # dados/edital_ficticio_geral/taxonomia_SIGLA.json (depois conferir e `aplicar`)
 
 Arquivos (um par por disciplina; o nome é o da disciplina sem acento, ex.: direito-penal):
