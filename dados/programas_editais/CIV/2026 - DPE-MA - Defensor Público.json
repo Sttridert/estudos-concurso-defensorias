@@ -1,0 +1,248 @@
+{
+ "pasta": "2026 - DPE-MA - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "CIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 4512,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Lei de introdução às normas do direito brasileiro.",
+      "Vigência, aplicação, obrigatoriedade, interpretação e integração das leis.",
+      "Aplicação das leis no tempo.",
+      "Aplicação das leis no espaço."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Pessoas naturais.",
+      "Conceito.",
+      "Início da personalidade.",
+      "Personalidade.",
+      "Capacidade.",
+      "Direitos da personalidade.",
+      "Nome civil.",
+      "Estado civil.",
+      "Domicílio.",
+      "Ausência."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Pessoas jurídicas.",
+      "Disposições Gerais..",
+      "Conceito e elementos caracterizadores.",
+      "Constituição.",
+      "Extinção.",
+      "Capacidade e direitos da personalidade.",
+      "Domicílio.",
+      "Sociedades de fato.",
+      "Associações.",
+      "Fundações.",
+      "Grupos despersonalizados.",
+      "Desconsideração da personalidade jurídica.",
+      "Responsabilidade da pessoa jurídica e dos sócios."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Bens.",
+      "Diferentes classes.",
+      "Bens Corpóreos e incorpóreos.",
+      "Bens no comércio e fora do comércio."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Fato jurídico."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Negócio jurídico.",
+      "Disposições gerais.",
+      "Elementos.",
+      "Representação.",
+      "Condição, termo e encargo.",
+      "Defeitos do negócio jurídico.",
+      "Existência, eficácia, validade, invalidade e nulidade do negócio jurídico.",
+      "Simulação."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Atos jurídicos lícitos e ilícitos."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Prescrição e decadência."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Prova do fato jurídico."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Obrigações.",
+      "Elementos Princípios.",
+      "Boa-fé.",
+      "Obrigação complexa (a obrigação como um processo).",
+      "Obrigações de dar.",
+      "Obrigações de fazer e de não fazer.",
+      "Obrigações alternativas e facultativas.",
+      "Obrigações divisíveis e indivisíveis.",
+      "Obrigações solidárias.",
+      "Obrigações civis e naturais, de meio, de resultado e de garantia.",
+      "Obrigações de execução instantânea, diferida e continuada.",
+      "Obrigações puras e simples, condicionais, a termo e modais.",
+      "Obrigações líquidas e ilíquidas.",
+      "Obrigações principais e acessórias.",
+      "Transmissão das obrigações.",
+      "Adimplemento e extinção das obrigações.",
+      "Inadimplemento das obrigações."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Contratos.",
+      "Princípios.",
+      "Contratos em geral.",
+      "Disposições gerais.",
+      "Interpretação.",
+      "Extinção.",
+      "Espécies de contratos regulados no Código Civil."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Atos unilaterais."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Responsabilidade civil.",
+      "Conceito e princípios.",
+      "Evolução da responsabilidade civil no Direito brasileiro.",
+      "Funções da responsabilidade civil contemporânea.",
+      "Responsabilidade civil extracontratual, pré-contratual e contratual.",
+      "Responsabilidade civil por acidente de trabalho.",
+      "Teorias da responsabilidade civil: conceito, espécies, requisitos e aplicabilidade.",
+      "Espécies de responsabilidade civil.",
+      "Causas excludentes da responsabilidade civil.",
+      "Obrigação de indenizar.",
+      "Indenização e compensação de danos.",
+      "Securitização.",
+      "DPVAT."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Preferências e privilégios creditórios."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Posse.",
+      "Teorias da posse.",
+      "Conceito, classificação, aquisição, efeitos, proteção e perda da posse.",
+      "Função social da posse.",
+      "Teorias da função social da posse.",
+      "Conceito, conteúdo e concretização da função social da posse.",
+      "Função socioambiental da posse."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Direitos reais.",
+      "Evolução da propriedade no Direito brasileiro.",
+      "Disposições gerais.",
+      "Propriedade.",
+      "Superfície.",
+      "Servidões.",
+      "Usufruto.",
+      "Uso.",
+      "Habitação.",
+      "Direito do promitente comprador."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Direitos reais de garantia.",
+      "Características.",
+      "Princípios.",
+      "Penhor, hipoteca e anticrese."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Direito de Família.",
+      "Entidades familiares.",
+      "Origem e conceitos.",
+      "Relações familiares plurais.",
+      "Fundamentos da diversidade familiar e afetiva.",
+      "Diversidade sexual.",
+      "Família homoafetiva.",
+      "Princípios constitucionais da família.",
+      "Princípios constitucionais aplicáveis às relações familiares.",
+      "Planejamento familiar.",
+      "Violência doméstica.",
+      "Homofobia.",
+      "Discriminação em razão de orientação sexual.",
+      "Provimento nº 16/2012 do CNJ.",
+      "Provimento nº 19/2012 do CNJ.",
+      "Provimento nº 63/2017 do CNJ.",
+      "Resolução nº 175/2013 do CNJ."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Direito das sucessões.",
+      "Sucessão em geral.",
+      "Sucessão legítima.",
+      "Sucessão testamentária.",
+      "Inventário e partilha.20.",
+      "Lei nº 6.766/1979, e suas alterações (Parcelamento do solo urbano).",
+      "Lei nº 6.015/1973 (Registros Públicos).",
+      "Noções gerais, registros, presunção de fé pública, prioridade, especialidade, legalidade, continuidade, transcrição, inscrição e averbação.",
+      "Procedimento de dúvida.",
+      "Provimento nº 28/2013 do CNJ.",
+      "Lei nº 10.741/2003, e suas alterações (Estatuto do Idoso).",
+      "Lei nº 8.245/1991, e suas alterações (Locação de imóveis urbanos).",
+      "Disposições gerais, locação em geral, sublocações, aluguel, deveres do locador e do locatário, direito de preferência, benfeitorias, garantias locatícias, penalidades civis, nulidades, locação residencial, locação para temporada, locação não residencial.",
+      "Jurisprudência aplicada dos tribunais superiores.",
+      "Lei Geral de Proteção de Dados (LGPD) – Lei nº 13.709/2018. 26.",
+      "Repercussões civis da violência doméstica.",
+      "26.1 Dano por violência obstétrica.",
+      "Jurisprudência aplicada dos tribunais superiores."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,608 @@
+{
+ "perfil": {
+  "id": 3,
+  "nome": "Direito Penal · Analista Jurídico · FCC · DPE-AM 2026 (edital)",
+  "banca": "FCC",
+  "carreira": "Defensoria Pública",
+  "cargo": "Analista Jurídico",
+  "ano_referencia": 2026,
+  "meia_vida": 8,
+  "pesos": {
+   "A": 1,
+   "B": 0.5,
+   "C": 0.25
+  }
+ },
+ "modo": "pontos",
+ "universo": {
+  "id": 7,
+  "nome": "Analista FCC",
+  "filtro": {
+   "bancas": [
+    "FCC"
+   ],
+   "cargos_prefixo": [
+    "Analista"
+   ]
+  }
+ },
+ "n_total": 44,
+ "n_validas": 44,
+ "n_anuladas_ou_fora": 0,
+ "n_provas": 8,
+ "provas_por_grupo": {
+  "A": 5,
+  "B": 1,
+  "C": 2
+ },
+ "soma_pesos": 22.43,
+ "n_efetivo": 38.7,
+ "K_assuntos": 13,
+ "assuntos": {
+  "PE01": {
+   "nome": "Fundamentos e princípios do Direito Penal",
+   "n": 2.0,
+   "peso": 1.48,
+   "p": 6.6,
+   "lo": 2.1,
+   "hi": 18.9,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE03": {
+   "nome": "Lei penal: aplicação e interpretação",
+   "n": 2.5,
+   "peso": 1.83,
+   "p": 8.2,
+   "lo": 2.9,
+   "hi": 21.0,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PE04": {
+   "nome": "Teoria do delito e tipicidade",
+   "n": 3.0,
+   "peso": 2.19,
+   "p": 9.7,
+   "lo": 3.8,
+   "hi": 23.0,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PE05": {
+   "nome": "Ilicitude",
+   "n": 2.0,
+   "peso": 1.48,
+   "p": 6.6,
+   "lo": 2.1,
+   "hi": 18.9,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE06": {
+   "nome": "Culpabilidade, imputabilidade e erro",
+   "n": 3.5,
+   "peso": 2.02,
+   "p": 9.0,
+   "lo": 3.3,
+   "hi": 22.1,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "PE07": {
+   "nome": "Arrependimento posterior, crime impossível e concursos",
+   "n": 4.0,
+   "peso": 2.26,
+   "p": 10.1,
+   "lo": 3.9,
+   "hi": 23.4,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PE08": {
+   "nome": "Pena: teorias, espécies e aplicação",
+   "n": 9.0,
+   "peso": 4.53,
+   "p": 20.2,
+   "lo": 10.5,
+   "hi": 35.2,
+   "provas": 6,
+   "grupo": "Cai muito"
+  },
+  "PE09": {
+   "nome": "Punibilidade e prescrição",
+   "n": 5.0,
+   "peso": 2.52,
+   "p": 11.3,
+   "lo": 4.6,
+   "hi": 24.9,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "PE10": {
+   "nome": "Crimes contra a pessoa",
+   "n": 2.0,
+   "peso": 0.71,
+   "p": 3.2,
+   "lo": 0.6,
+   "hi": 14.1,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE11": {
+   "nome": "Crimes contra o patrimônio",
+   "n": 3.0,
+   "peso": 0.98,
+   "p": 4.4,
+   "lo": 1.1,
+   "hi": 15.9,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PE12": {
+   "nome": "Crimes contra a dignidade sexual",
+   "n": 1.5,
+   "peso": 0.36,
+   "p": 1.6,
+   "lo": 0.2,
+   "hi": 11.8,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE13": {
+   "nome": "Crimes contra a administração pública, o Estado Democrático de Direito e outros crimes do CP",
+   "n": 3.0,
+   "peso": 1.15,
+   "p": 5.1,
+   "lo": 1.4,
+   "hi": 16.9,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE14": {
+   "nome": "Legislação penal especial",
+   "n": 3.5,
+   "peso": 0.93,
+   "p": 4.1,
+   "lo": 1.0,
+   "hi": 15.6,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "n_assuntos_80pct": 8,
+ "cobranca_pct": {
+  "lei_seca": 58.5,
+  "caso_concreto": 26.5,
+  "jurisprudencia": 8.4,
+  "doutrina": 6.6
+ },
+ "retro_assuntos": {
+  "k": 4,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 4.0,
+    "acertos": 2.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 2.0,
+    "pct": 40.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 5.0,
+    "acertos": 2.5,
+    "pct": 50.0
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 1.0,
+    "pct": 20.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 43.8,
+  "acaso": 30.8
+ },
+ "K_pontos": 28,
+ "pontos": {
+  "PE01.02": {
+   "texto": "Princípios penais",
+   "assunto": "PE01",
+   "n": 2.0,
+   "peso": 1.48,
+   "p": 6.6,
+   "lo": 2.1,
+   "hi": 18.9,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE03.01": {
+   "texto": "Lei penal no tempo",
+   "assunto": "PE03",
+   "n": 2.0,
+   "peso": 1.48,
+   "p": 6.6,
+   "lo": 2.1,
+   "hi": 18.9,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE03.02": {
+   "texto": "Lei penal no espaço, tempo e lugar do crime, imunidades e extradição",
+   "assunto": "PE03",
+   "n": 0.5,
+   "peso": 0.35,
+   "p": 1.6,
+   "lo": 0.2,
+   "hi": 11.7,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PE04.03": {
+   "texto": "Dolo e culpa",
+   "assunto": "PE04",
+   "n": 1.0,
+   "peso": 0.77,
+   "p": 3.4,
+   "lo": 0.7,
+   "hi": 14.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PE04.04": {
+   "texto": "Iter criminis, consumação e tentativa",
+   "assunto": "PE04",
+   "n": 2.0,
+   "peso": 1.41,
+   "p": 6.3,
+   "lo": 2.0,
+   "hi": 18.6,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE05.02": {
+   "texto": "Excludentes da ilicitude",
+   "assunto": "PE05",
+   "n": 2.0,
+   "peso": 1.48,
+   "p": 6.6,
+   "lo": 2.1,
+   "hi": 18.9,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE06.02": {
+   "texto": "Imputabilidade e medida de segurança",
+   "assunto": "PE06",
+   "n": 1.5,
+   "peso": 0.81,
+   "p": 3.6,
+   "lo": 0.8,
+   "hi": 14.8,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE06.04": {
+   "texto": "Erro de tipo e erro de proibição",
+   "assunto": "PE06",
+   "n": 2.0,
+   "peso": 1.21,
+   "p": 5.4,
+   "lo": 1.5,
+   "hi": 17.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE07.02": {
+   "texto": "Crime impossível",
+   "assunto": "PE07",
+   "n": 1.0,
+   "peso": 0.55,
+   "p": 2.4,
+   "lo": 0.4,
+   "hi": 13.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PE07.03": {
+   "texto": "Concurso de pessoas",
+   "assunto": "PE07",
+   "n": 1.0,
+   "peso": 0.71,
+   "p": 3.2,
+   "lo": 0.6,
+   "hi": 14.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PE07.04": {
+   "texto": "Concurso de crimes",
+   "assunto": "PE07",
+   "n": 2.0,
+   "peso": 1.0,
+   "p": 4.5,
+   "lo": 1.1,
+   "hi": 16.0,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE08.02": {
+   "texto": "Espécies de pena, regimes de cumprimento e progressão",
+   "assunto": "PE08",
+   "n": 2.0,
+   "peso": 0.96,
+   "p": 4.3,
+   "lo": 1.1,
+   "hi": 15.7,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE08.03": {
+   "texto": "Dosimetria: sistema trifásico e circunstâncias",
+   "assunto": "PE08",
+   "n": 2.5,
+   "peso": 1.48,
+   "p": 6.6,
+   "lo": 2.1,
+   "hi": 19.0,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PE08.04": {
+   "texto": "Reincidência e antecedentes",
+   "assunto": "PE08",
+   "n": 2.0,
+   "peso": 1.25,
+   "p": 5.6,
+   "lo": 1.6,
+   "hi": 17.6,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE08.05": {
+   "texto": "Penas restritivas de direitos e multa",
+   "assunto": "PE08",
+   "n": 1.0,
+   "peso": 0.25,
+   "p": 1.1,
+   "lo": 0.1,
+   "hi": 11.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PE08.06": {
+   "texto": "Sursis, livramento condicional e reabilitação",
+   "assunto": "PE08",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 2.0,
+   "lo": 0.3,
+   "hi": 12.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PE09.01": {
+   "texto": "Causas de extinção da punibilidade",
+   "assunto": "PE09",
+   "n": 1.5,
+   "peso": 1.02,
+   "p": 4.6,
+   "lo": 1.2,
+   "hi": 16.1,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE09.02": {
+   "texto": "Prescrição",
+   "assunto": "PE09",
+   "n": 3.5,
+   "peso": 1.5,
+   "p": 6.7,
+   "lo": 2.1,
+   "hi": 19.1,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "PE10.01": {
+   "texto": "Homicídio, feminicídio e crimes contra a vida",
+   "assunto": "PE10",
+   "n": 2.0,
+   "peso": 0.71,
+   "p": 3.2,
+   "lo": 0.6,
+   "hi": 14.1,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE11.01": {
+   "texto": "Furto e roubo",
+   "assunto": "PE11",
+   "n": 3.0,
+   "peso": 0.98,
+   "p": 4.4,
+   "lo": 1.1,
+   "hi": 15.9,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PE12.01": {
+   "texto": "Estupro e estupro de vulnerável",
+   "assunto": "PE12",
+   "n": 0.5,
+   "peso": 0.11,
+   "p": 0.5,
+   "lo": 0.0,
+   "hi": 9.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PE12.02": {
+   "texto": "Importunação, assédio e demais crimes sexuais",
+   "assunto": "PE12",
+   "n": 1.0,
+   "peso": 0.25,
+   "p": 1.1,
+   "lo": 0.1,
+   "hi": 11.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PE13.01": {
+   "texto": "Crimes contra a administração pública",
+   "assunto": "PE13",
+   "n": 1.0,
+   "peso": 0.23,
+   "p": 1.0,
+   "lo": 0.1,
+   "hi": 10.8,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PE13.03": {
+   "texto": "Outros crimes do Código Penal",
+   "assunto": "PE13",
+   "n": 2.0,
+   "peso": 0.92,
+   "p": 4.1,
+   "lo": 1.0,
+   "hi": 15.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PE14.01": {
+   "texto": "Lei de Drogas",
+   "assunto": "PE14",
+   "n": 1.5,
+   "peso": 0.46,
+   "p": 2.0,
+   "lo": 0.3,
+   "hi": 12.4,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE14.02": {
+   "texto": "Violência doméstica (Lei Maria da Penha)",
+   "assunto": "PE14",
+   "n": 0.5,
+   "peso": 0.11,
+   "p": 0.5,
+   "lo": 0.0,
+   "hi": 9.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PE14.10": {
+   "texto": "Abuso de autoridade",
+   "assunto": "PE14",
+   "n": 1.5,
+   "peso": 0.35,
+   "p": 1.6,
+   "lo": 0.2,
+   "hi": 11.7,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PE08.07": {
+   "texto": "Efeitos da condenação",
+   "assunto": "PE08",
+   "n": 0.5,
+   "peso": 0.12,
+   "p": 0.6,
+   "lo": 0.0,
+   "hi": 10.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "pontos_com_1_questao": 11,
+ "pontos_sem_questao": [
+  "PE01.01",
+  "PE01.03",
+  "PE02.01",
+  "PE02.02",
+  "PE02.03",
+  "PE02.04",
+  "PE03.03",
+  "PE04.01",
+  "PE04.02",
+  "PE04.05",
+  "PE05.01",
+  "PE06.01",
+  "PE06.03",
+  "PE07.01",
+  "PE08.01",
+  "PE10.02",
+  "PE11.02",
+  "PE13.02",
+  "PE14.03",
+  "PE14.04",
+  "PE14.05",
+  "PE14.06",
+  "PE14.07",
+  "PE14.08",
+  "PE14.09",
+  "PE14.11",
+  "PE14.12"
+ ],
+ "good_turing_pontos_pct": 25.0,
+ "retro_pontos": {
+  "k": 10,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 4.0,
+    "acertos": 0.5,
+    "pct": 12.5
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 2.0,
+    "pct": 40.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 1.0,
+    "pct": 20.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 5.0,
+    "acertos": 0.0,
+    "pct": 0.0
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 0.0,
+    "pct": 0.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 14.6,
+  "acaso": 35.7
+ },
+ "avisos": [
+  "Número efetivo pequeno: faixas de Wilson largas."
+ ],
+ "grupos_desc": {
+  "A": "mesmo órgão (DPE-AM), carreira, banca e cargo",
+  "B": "mesma carreira e banca, de outro órgão ou cargo",
+  "C": "outra banca ou carreira"
+ }
+}

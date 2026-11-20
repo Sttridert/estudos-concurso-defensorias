@@ -1,0 +1,610 @@
+{
+ "pasta": "2017 - DPU - Defensor Público Federal (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "PPEN",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL PENAL",
+   "caracteres": 1877,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Princípios gerais."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Aplicação da lei processual no tempo, no espaço e em relação às pessoas."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Sujeitos da relação processual."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Inquérito policial."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Ação penal: conceito, condições, pressupostos processuais."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Ação penal pública."
+     ]
+    },
+    {
+     "item": "2.1.1",
+     "frases": [
+      "Titularidade, condições de procedibilidade."
+     ]
+    },
+    {
+     "item": "2.1.2",
+     "frases": [
+      "Denúncia: forma e conteúdo; recebimento e rejeição."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Ação penal privada."
+     ]
+    },
+    {
+     "item": "2.2.1",
+     "frases": [
+      "Titularidade."
+     ]
+    },
+    {
+     "item": "2.2.2",
+     "frases": [
+      "Queixa."
+     ]
+    },
+    {
+     "item": "2.2.3",
+     "frases": [
+      "Renúncia."
+     ]
+    },
+    {
+     "item": "2.2.4",
+     "frases": [
+      "Perdão."
+     ]
+    },
+    {
+     "item": "2.2.5",
+     "frases": [
+      "Perempção."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Jurisdição."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Competência: critérios de determinação e modificação."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Incompetência."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Efeitos."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Questões e processos incidentes."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Prova: conceito, princípios básicos, objeto, meios, ônus, limitações constitucionais das provas, sistemas de apreciação."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Juiz, Ministério Público, acusado e defensor, assistentes e auxiliares da justiça."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Prisão, liberdade provisória e medidas cautelares alternativas à prisão."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Citações e intimações."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Atos processuais."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Forma, lugar e tempo dos atos processuais."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Atos das partes, dos juízes, dos auxiliares da Justiça e de terceiros."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Prazos: características, princípios e contagem."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Sentença."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Conceito, requisitos, classificação, publicação e intimação."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Sentença absolutória: providências e efeitos."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Sentença condenatória: fundamentação da pena e efeitos."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Coisa julgada."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Procedimento comum."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Procedimento dos Juizados Especiais Criminais."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Procedimento no júri."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Nulidades."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Recursos em geral: princípios básicos e modalidades."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Revisão criminal."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Exceções."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Habeas corpus."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Desaforamento."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Processo e julgamento dos crimes de responsabilidade dos funcionários públicos."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Processo e do julgamento dos crimes de tráfico e uso indevido de substâncias entorpecentes ou que determinem dependência física ou psíquica."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Interceptação telefônica."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Organização criminosa."
+     ]
+    },
+    {
+     "item": "24.1",
+     "frases": [
+      "Investigação e dos meios de obtenção da prova."
+     ]
+    }
+   ]
+  },
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL PENAL MILITAR",
+   "caracteres": 1422,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Processo Penal Militar e sua aplicação."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Polícia judiciária militar."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Inquérito policial militar."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Ação penal militar e seu exercício."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Processo."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Juiz, auxiliares e partes do processo."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Denúncia."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "A Justiça Militar da União."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Lei nº 8.457/1992 (Organização da Justiça Militar da União)."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Competência da Justiça Militar da União."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Questões prejudiciais."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Exceções."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Incidente de sanidade mental do acusado."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Incidente de falsidade de documento."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Medidas preventivas e assecuratórias."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Providências que recaem sobre coisas."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Providências que recaem sobre pessoas."
+     ]
+    },
+    {
+     "item": "15.1",
+     "frases": [
+      "Prisão em flagrante."
+     ]
+    },
+    {
+     "item": "15.2",
+     "frases": [
+      "Prisão preventiva."
+     ]
+    },
+    {
+     "item": "15.3",
+     "frases": [
+      "Menagem."
+     ]
+    },
+    {
+     "item": "15.4",
+     "frases": [
+      "Liberdade provisória."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Citação, intimação e notificação."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Atos probatórios."
+     ]
+    },
+    {
+     "item": "17.1",
+     "frases": [
+      "Interrogatório."
+     ]
+    },
+    {
+     "item": "17.2",
+     "frases": [
+      "Confissão."
+     ]
+    },
+    {
+     "item": "17.3",
+     "frases": [
+      "Perícias e exames."
+     ]
+    },
+    {
+     "item": "17.4",
+     "frases": [
+      "Testemunhas."
+     ]
+    },
+    {
+     "item": "17.5",
+     "frases": [
+      "Acareação."
+     ]
+    },
+    {
+     "item": "17.6",
+     "frases": [
+      "Reconhecimento de pessoa e coisa."
+     ]
+    },
+    {
+     "item": "17.7",
+     "frases": [
+      "Documentos."
+     ]
+    },
+    {
+     "item": "17.8",
+     "frases": [
+      "Indícios."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Processos em espécie."
+     ]
+    },
+    {
+     "item": "18.1",
+     "frases": [
+      "Processo ordinário."
+     ]
+    },
+    {
+     "item": "18.2",
+     "frases": [
+      "Processos especiais."
+     ]
+    },
+    {
+     "item": "18.3",
+     "frases": [
+      "Deserção de oficial e de praça."
+     ]
+    },
+    {
+     "item": "18.4",
+     "frases": [
+      "Insubmissão."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Nulidades."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Recursos."
+     ]
+    },
+    {
+     "item": "20.1",
+     "frases": [
+      "Regras gerais."
+     ]
+    },
+    {
+     "item": "20.2",
+     "frases": [
+      "Recurso em sentido estrito."
+     ]
+    },
+    {
+     "item": "20.3",
+     "frases": [
+      "Correição parcial."
+     ]
+    },
+    {
+     "item": "20.4",
+     "frases": [
+      "Apelação."
+     ]
+    },
+    {
+     "item": "20.5",
+     "frases": [
+      "Embargos."
+     ]
+    },
+    {
+     "item": "20.6",
+     "frases": [
+      "Revisão."
+     ]
+    },
+    {
+     "item": "20.7",
+     "frases": [
+      "Recurso extraordinário."
+     ]
+    },
+    {
+     "item": "20.8",
+     "frases": [
+      "Reclamação."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Execução."
+     ]
+    },
+    {
+     "item": "21.1",
+     "frases": [
+      "Incidentes."
+     ]
+    },
+    {
+     "item": "21.2",
+     "frases": [
+      "Suspensão condicional da pena."
+     ]
+    },
+    {
+     "item": "21.3",
+     "frases": [
+      "Livramento condicional."
+     ]
+    },
+    {
+     "item": "21.4",
+     "frases": [
+      "Indulto, comutação da pena, anistia e reabilitação."
+     ]
+    },
+    {
+     "item": "21.5",
+     "frases": [
+      "Execução das medidas de segurança."
+     ]
+    }
+   ]
+  }
+ ]
+}

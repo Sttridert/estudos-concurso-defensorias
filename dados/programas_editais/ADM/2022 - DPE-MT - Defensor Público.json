@@ -1,0 +1,172 @@
+{
+ "pasta": "2022 - DPE-MT - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 3303,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito administrativo.",
+      "Conceito.",
+      "Objeto.",
+      "Fontes."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Administração pública.",
+      "Conceito, organização e modelos.",
+      "Regime jurídico administrativo.",
+      "Princípios expressos e reconhecidos.",
+      "Poderes da Administração Pública.",
+      "Poderes e deveres dos administradores públicos.",
+      "Uso e abuso do poder.",
+      "Controle da Administração Pública no Brasil.",
+      "Transparência e acesso à informação no Poder Público.",
+      "Órgãos públicos."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Administração Direta e Indireta.",
+      "Aspectos gerais da Administração Direta.",
+      "Autarquias.",
+      "Empresas públicas e sociedades de economia mista.",
+      "Fundações públicas.",
+      "Pessoas jurídicas vinculadas ao Estado."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Ato administrativo.",
+      "Conceito, características e atributos.",
+      "Elementos e requisitos de validade.",
+      "Classificação e espécies.",
+      "Formação e efeitos.",
+      "Extinção, revogação, invalidação e convalidação.",
+      "Procedimento administrativo."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Licitação.",
+      "Conceito, natureza jurídica, objeto e finalidade.",
+      "Princípios básicos e correlatos.",
+      "Modalidades.",
+      "Obrigatoriedade, dispensa e inexigibilidade.",
+      "Procedimento licitatório (fase interna e interna).",
+      "Anulação, revogação e recursos administrativos.",
+      "Procedimentos voltados ao processo administrativo sancionatório.",
+      "Convivência e dispositivos da Lei Federal nº 8.666/93 e da Lei Federal nº 14.133/21.",
+      "Políticas de fomento por meio das contratações públicas."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Contrato administrativo.",
+      "Conceito, principais características e espécies.",
+      "Formalização, execução e inexecução.",
+      "Duração, prorrogação, renovação e extinção.",
+      "Revisão e rescisão.",
+      "Convênios, consórcios, acordos e termo de cooperação."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Serviços públicos.",
+      "Conceito, características e classificação.",
+      "Competência, regulamentação e controle.",
+      "Princípios.",
+      "Direitos e deveres dos usuários.",
+      "Atendimento Especializado ao Público no âmbito da Defensoria Pública.",
+      "Formas de prestação e remuneração.",
+      "Concessão, permissão, autorização e parceria público-privada."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Bens públicos.",
+      "Conceito, elementos e classificação.",
+      "Aquisição e espécies.",
+      "Utilização e regime jurídico.",
+      "Afetação e desafetação.",
+      "Gestão e alienação."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Agentes públicos.",
+      "Espécies de Agentes Públicos.",
+      "Regime Jurídico, estatutários e celetistas.",
+      "Cargos públicos e Funções públicas.",
+      "Acumulação de Cargos Públicos.",
+      "Condições de Acesso aos Cargos Públicos.",
+      "Sistema Remuneratório dos Agentes Públicos.",
+      "Responsabilidade do Servidor.",
+      "Procedimento administrativo disciplinar.",
+      "Regime previdenciário."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Responsabilidade patrimonial extracontratual do Estado.",
+      "Noções gerais sobre a responsabilidade extracontratual do Estado.",
+      "Teorias sobre a responsabilidade e a irresponsabilidade do Estado.",
+      "Responsabilidade por atos administrativos, legislativos e judiciais.",
+      "Reparação do dano e direito de regresso."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Intervenção do Estado na propriedade.",
+      "Fundamentos, competência e controle judicial.",
+      "Desapropriação.",
+      "Servidão administrativa.",
+      "Requisição.",
+      "Ocupação temporária.",
+      "Limitações administrativas.",
+      "Tombamento."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Atuação do Estado no domínio econômico.",
+      "Liberalismo econômico e o intervencionismo.",
+      "Fundamentos da ordem econômica.",
+      "Formas de atuação do Estado.",
+      "Estado regulador e executor.",
+      "Monopólio estatal."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Controle da Administração Pública.",
+      "Controle político e administrativo.",
+      "Conceito, fundamentos, natureza jurídica, objetivo e classificação.",
+      "Controle legislativo e Tribunal de Contas.",
+      "Súmulas vinculantes e demais instrumentos de controle judicial.",
+      "Improbidade administrativa."
+     ]
+    }
+   ]
+  }
+ ]
+}

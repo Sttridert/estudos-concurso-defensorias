@@ -1,0 +1,64 @@
+{
+ "2021 - DPE-AM - Defensor Público|2": {
+  "c": "Pergunta pelo autor da tese do \"choque de civilizações\": Samuel Huntington. Fukuyama é o autor do \"fim da História\"; Herrera Flores, da teoria crítica dos direitos humanos; Amartya Sen, do desenvolvimento como liberdade.",
+  "p": "Misturar autores de teorias de relações internacionais e de direitos humanos que aparecem juntos nos programas.",
+  "d": []
+ },
+ "2021 - DPE-BA - Defensor Público|6": {
+  "c": "A alternativa certa trata da proibição do retrocesso (efeito cliquet): não se pode diminuir a proteção já alcançada. As erradas distorcem características dos direitos humanos: eles valem para todos, inclusive apátridas; são inexauríveis, porque o rol não é taxativo; e a imprescritibilidade não se explica por falta de conteúdo patrimonial.",
+  "p": "Trocar \"inexauríveis\" por \"exauríveis\", criar exceção para apátridas, ou trocar o fundamento de uma característica (irrenunciável, imprescritível).",
+  "d": []
+ },
+ "2021 - DPE-BA - Defensor Público|8": {
+  "c": "Questão anulada pela banca, sem gabarito oficial. Tratava da história dos direitos humanos (declarações de 1689, 1776, 1789, 1918 e 1948). Use as declarações apenas como leitura de fundamentos; não use esta questão como referência de resposta.",
+  "p": "Atribuir a uma declaração histórica conteúdo que ela não tem.",
+  "d": []
+ },
+ "2021 - DPE-RR - Defensor Público|75": {
+  "c": "A concepção dos direitos humanos como \"convenção cultural\" e resultado de lutas sociais é de Joaquín Herrera Flores e corresponde à teoria crítica dos direitos humanos. A hermenêutica diatópica é de Boaventura de Sousa Santos (alternativa A, errada).",
+  "p": "Oferecer a corrente de outro autor (diatópica, juspositivista, contratualista) para quem decorou só o nome.",
+  "d": []
+ },
+ "2022 - DPE-MT - Defensor Público|85": {
+  "c": "A frase (\"todos os homens são criados iguais [...] vida, liberdade e busca da felicidade\") está na Declaração de Independência dos Estados Unidos, de 1776. As outras opções são marcos históricos que a banca usa como distratores.",
+  "p": "Confundir com a Declaração dos Direitos do Homem e do Cidadão (1789) ou a DUDH (1948).",
+  "d": []
+ },
+ "2022 - DPE-PB - Defensor Público|91": {
+  "c": "A CF coloca a dignidade da pessoa humana como fundamento da República (art. 1º, III). Os objetivos fundamentais estão no art. 3º, e a prevalência dos direitos humanos é princípio das relações internacionais (art. 4º, II).",
+  "p": "As alternativas trocam o enquadramento: direito individual, objetivo fundamental, princípio das relações internacionais.",
+  "d": [
+   "CF|art. 1º, III",
+   "CF|art. 3º",
+   "CF|art. 4º, II"
+  ]
+ },
+ "2023 - DPE-SP - Defensor Público|65": {
+  "c": "A leitura de Herrera Flores (direitos como processos de luta) leva à ideia de que as garantias de não repetição, junto com verdade, memória, justiça e reparação, fortalecem a democracia. As erradas afirmam que o processo é linear, definitivo ou sem retrocessos, ou que o direito à verdade só vale em ditaduras.",
+  "p": "Afirmações absolutas (\"definitivo\", \"sem retrocessos\", \"não se aplica\") contrariam a ideia de processo.",
+  "d": []
+ },
+ "2023 - DPE-SP - Defensor Público|68": {
+  "c": "A amefricanidade (Lélia Gonzalez) é uma crítica ao discurso hegemônico dos direitos humanos, que se apoia num sujeito universal construído pela exclusão material, subjetiva e epistêmica dos povos subalternizados. As alternativas erradas reduzem o conceito a reforma de tratados ou à inclusão formal em declarações.",
+  "p": "Respostas que transformam a crítica teórica em reforma institucional (incluir categorias em tratados, inclusão formal).",
+  "d": []
+ },
+ "2025 - DPE-AM - Defensor Público|2": {
+  "c": "O trecho trata do cruzamento entre gênero e raça na formação social brasileira: o instrumento analítico é a interseccionalidade (Sueli Carneiro, Kimberlé Crenshaw).",
+  "p": "Termos que soam teóricos (genealogia, heterotopia, transicionalidade) e não são o conceito do trecho.",
+  "d": []
+ },
+ "2025 - DPE-AM - Defensor Público|5": {
+  "c": "As perspectivas críticas tratam os direitos humanos como campo aberto, construído nas lutas concretas contra a opressão, e não como código fechado imposto de cima para baixo. As erradas descrevem a posição oposta (multiplicação de tratados, retorno ao indivíduo autônomo, crítica à indivisibilidade, foco só em instrumentos processuais).",
+  "p": "Alternativas que descrevem a abordagem tradicional ou convencional como se fosse a crítica.",
+  "d": []
+ },
+ "2026 - DPE-BA - Defensor Público|6": {
+  "c": "Sem negar a universalidade (DUDH e Declaração de Viena de 1993), o contexto cultural pode ser considerado na interpretação, sem esvaziar o núcleo essencial do direito. Nem o relativismo absoluto (a cultura afasta o tratado) nem a cegueira ao contexto são a posição compatível com a DUDH. Confirmar o texto do §5º da Declaração e Programa de Ação de Viena.",
+  "p": "Extremos: \"exclui o controle internacional\", \"afasta o tratado\", \"impede qualquer consideração do contexto\".",
+  "d": [
+   "Declaração e Programa de Ação de Viena|§ 5º (1993)",
+   "DUDH|1948"
+  ]
+ }
+}

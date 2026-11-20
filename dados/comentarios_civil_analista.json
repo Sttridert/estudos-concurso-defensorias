@@ -1,0 +1,457 @@
+{
+"2018 - DPE-AM - Analista Jurídico|34": {
+"c": "Cada item corresponde a uma súmula do STJ. I está certo: a pessoa jurídica pode sofrer dano moral (Súmula 227). IV está certo: o seguro de danos pessoais compreende os danos morais, salvo cláusula expressa de exclusão (Súmula 402). II está errado: a correção monetária do dano moral incide desde a data do arbitramento, e não do evento danoso (Súmula 362). III está errado: a apresentação antecipada de cheque pré-datado caracteriza dano moral (Súmula 370). Resposta: I e IV.",
+"p": "Trocar o termo inicial da correção (arbitramento, não evento) e inverter a Súmula 370 (a apresentação antecipada do pré-datado gera dano moral).",
+"d": [
+"STJ|Súmula 227",
+"STJ|Súmula 362",
+"STJ|Súmula 370",
+"STJ|Súmula 402"
+],
+"pend": 0
+},
+"2018 - DPE-AM - Analista Jurídico|35": {
+"c": "Na solidariedade ativa, se um dos credores solidários morre deixando herdeiros, cada herdeiro só tem direito a exigir e receber a quota do crédito que corresponder ao seu quinhão hereditário, salvo se a obrigação for indivisível (CC, art. 270). Por isso B e C estão erradas, e E inventa uma redução automática à metade. D inverte o art. 268: enquanto nenhum credor solidário demandar o devedor, ele pode pagar a qualquer deles.",
+"p": "Achar que o herdeiro herda a solidariedade inteira; ela se divide pelo quinhão, salvo obrigação indivisível.",
+"d": [
+"CC|art. 270",
+"CC|art. 268"
+],
+"pend": 0
+},
+"2018 - DPE-AM - Analista Jurídico|36": {
+"c": "O adquirente da coisa com vício redibitório pode escolher entre as ações edilícias: a redibitória (devolver a coisa e receber o preço) ou a de abatimento no preço (CC, art. 442). A erra: na venda de animais os vícios também existem, e os prazos seguem lei especial ou usos locais (art. 445, §2º). B erra o prazo: é de trinta dias para móvel e um ano para imóvel, a contar da entrega efetiva (art. 445). D erra: se o alienante conhecia o vício, restitui o que recebeu com perdas e danos (art. 443). E erra: as regras valem também para as doações onerosas (art. 441, parágrafo único).",
+"p": "Prazo decadencial de noventa dias (o correto é trinta para móvel, um ano para imóvel) e esquecer que o conhecimento do vício gera perdas e danos.",
+"d": [
+"CC|art. 441",
+"CC|art. 442",
+"CC|art. 443",
+"CC|art. 445"
+],
+"pend": 0
+},
+"2019 - DPE-AM - Analista Jurídico|29": {
+"c": "Depois da Lei 13.146/2015, o art. 4º do Código Civil considera relativamente incapazes os maiores de 16 e menores de 18 anos, os ébrios habituais e os viciados em tóxico, quem não puder exprimir sua vontade (causa transitória ou permanente) e os pródigos. A única alternativa que não contém erro é a A. A B ignora que só os menores de 16 são absolutamente incapazes. A C erra ao usar «somente» e ao manter a deficiência mental com discernimento reduzido, que saiu do art. 4º. A D e a E também estão erradas (a emancipação cessa a incapacidade).",
+"p": "Usar o texto antigo do Código Civil (deficiência mental como causa de incapacidade relativa) e cair na palavra «somente» das alternativas.",
+"d": [
+"CC|art. 4º",
+"Lei 13.146/2015|art. 114"
+],
+"pend": 0
+},
+"2019 - DPE-AM - Analista Jurídico|30": {
+"c": "Na comunhão parcial, o imóvel adquirido onerosamente na constância do casamento é comum (CC, art. 1.660, I): metade é meação de Rogério. A outra metade é a herança de Matilde. O cônjuge só concorre com os descendentes no regime de comunhão parcial se o falecido deixou bens particulares (art. 1.829, I); como ela não deixou outros bens, Rogério não herda. Os filhos, descendentes, excluem os ascendentes (art. 1.829, I e II). Rogério tem, porém, o direito real de habitação sobre o único imóvel residencial, em qualquer regime (art. 1.831). Resposta E.",
+"p": "Esquecer que a meação não é herança, e achar que o cônjuge concorre com os filhos mesmo sem bens particulares; ou excluir o direito de habitação.",
+"d": [
+"CC|art. 1.660, I",
+"CC|art. 1.829",
+"CC|art. 1.831"
+],
+"pend": 0
+},
+"2019 - DPE-AM - Analista Jurídico|31": {
+"c": "Para anular o negócio por fraude contra credores é preciso que a dívida seja anterior ao ato (somente quem já era credor pode pleitear a anulação; CC, art. 158, §2º), que o ato reduza o devedor à insolvência, e, se o ato for oneroso, que a insolvência seja notória ou o outro contratante tenha motivo para conhecê-la (consilium fraudis; art. 159). Para os atos gratuitos (doação, remissão de dívida) não se exige prova do consilium (art. 158). Resposta B. A restringe aos atos gratuitos, C e D dispensam requisitos, E exige o consilium em qualquer caso.",
+"p": "Exigir o consilium fraudis também nos atos gratuitos, ou dispensar a anterioridade da dívida.",
+"d": [
+"CC|art. 158",
+"CC|art. 159",
+"CC|art. 178, II"
+],
+"pend": 0
+},
+"2019 - DPE-AM - Analista Jurídico|32": {
+"c": "O empregado que vive no imóvel em razão do vínculo de trabalho e em nome do empregador é mero detentor (fâmulo da posse): quem conserva a posse em nome de outro, em cumprimento de ordens, não é possuidor (CC, art. 1.198). Atos de mera permissão ou tolerância não induzem posse (art. 1.208). Por isso Paulo não é possuidor nem proprietário, e também não usucapiria nem a casa. «Posse pro labore» e «posse precária» são conceitos de outra natureza e não se aplicam.",
+"p": "Chamar de posse (precária ou pro labore) o que é detenção; o detentor não usucapi.",
+"d": [
+"CC|art. 1.198",
+"CC|art. 1.208"
+],
+"pend": 0
+},
+"2019 - DPE-AM - Analista Jurídico|33": {
+"c": "A maioridade não faz cessar automaticamente a obrigação alimentar: o cancelamento da pensão do filho que atingiu a maioridade depende de decisão judicial, com contraditório (Súmula 358 do STJ). Enquanto não houver exoneração, a obrigação segue, e a necessidade do filho (estudante universitário sem renda) é apreciada pelo binômio necessidade-possibilidade, sem presunção absoluta. Por isso a C está certa e a B e a D (cessação de pleno direito) erradas. A E erra ao afirmar presunção absoluta até o fim do curso superior. A A erra ao excluir a prisão civil (o STJ a admite para a dívida atual de alimentos devidos a filho maior ainda não exonerado; confirmar no tribunal).",
+"p": "Aplicar a cessação automática aos 18 anos e tratar a necessidade do filho universitário como presunção absoluta.",
+"d": [
+"STJ|Súmula 358",
+"CC|art. 1.694",
+"CC|art. 1.695"
+],
+"pend": 1
+},
+"2022 - DPE-AM - Analista Jurídico|31": {
+"c": "O art. 44 do Código Civil lista as pessoas jurídicas de direito privado: associações, sociedades, fundações, organizações religiosas e partidos políticos (e, na redação da época, a empresa individual de responsabilidade limitada). A B traz só nomes dessa lista. As demais misturam entes de direito público: autarquias, agências reguladoras, União e Municípios são de direito público (art. 41). Confirmar a situação atual do inciso VI do art. 44 (a EIRELI foi extinta pela Lei 14.382/2022).",
+"p": "Incluir autarquias e agências reguladoras entre as pessoas jurídicas de direito privado.",
+"d": [
+"CC|art. 41",
+"CC|art. 44"
+],
+"pend": 1
+},
+"2022 - DPE-AM - Analista Jurídico|32": {
+"c": "O dolo (CC, art. 145) é defeito do negócio jurídico que o torna anulável (art. 171, II), não nulo. O direito de anular, por defeito do negócio, extingue-se em quatro anos, contados do dia em que o negócio se realizou, no caso de dolo (art. 178, II). Por isso a resposta é a C. As alternativas com nulidade (A e E) confundem anulabilidade com nulidade; B e D erram o prazo e o termo inicial.",
+"p": "Confundir a nulidade (que pode ser alegada a qualquer tempo) com a anulabilidade por dolo, que é decadencial em 4 anos.",
+"d": [
+"CC|art. 145",
+"CC|art. 171, II",
+"CC|art. 178, II"
+],
+"pend": 0
+},
+"2022 - DPE-AM - Analista Jurídico|33": {
+"c": "Na composse, cada compossuidor pode exercer sobre a coisa indivisa atos possessórios, contanto que não excluam os dos outros compossuidores (CC, art. 1.199). Por isso a A está certa. B admite a exclusão; C exige anuência; D e E negam ou limitam o exercício sem base legal.",
+"p": "Achar que a composse exige anuência dos demais ou que se limita à defesa contra terceiros.",
+"d": [
+"CC|art. 1.199"
+],
+"pend": 0
+},
+"2022 - DPE-AM - Analista Jurídico|34": {
+"c": "Na união estável, salvo contrato escrito entre os companheiros, aplica-se às relações patrimoniais, no que couber, o regime da comunhão parcial de bens (CC, art. 1.725). Os companheiros podem, portanto, escolher outro regime, como a separação de bens, por contrato escrito. A D está certa. A nega a escolha; B diz que a comunhão parcial é obrigatória; C e E indicam o regime supletivo errado.",
+"p": "Trocar o regime supletivo (a regra é a comunhão parcial) ou tratar a união estável como sociedade de fato sem regime.",
+"d": [
+"CC|art. 1.725"
+],
+"pend": 0
+},
+"2022 - DPE-AM - Analista Jurídico|35": {
+"c": "A Lei 8.009/1990 protege o bem de família, mas o art. 3º lista exceções. A dívida de fiança concedida em contrato de locação (item II) é exceção (art. 3º, VII; Súmula 549 do STJ), então o bem pode ser penhorado. O imposto de renda (I) não se confunde com o imposto sobre o próprio imóvel (art. 3º, IV, cobre IPTU e taxas do imóvel), e o empréstimo bancário pessoal (III) não consta das exceções: nos dois casos a impenhorabilidade se mantém. Resposta: I e III.",
+"p": "Achar que qualquer tributo afasta a impenhorabilidade (só os tributos do próprio imóvel) e esquecer que a fiança locatícia é exceção.",
+"d": [
+"Lei 8.009/1990|art. 3º",
+"STJ|Súmula 549"
+],
+"pend": 0
+},
+"2022 - DPE-AM - Analista Jurídico (2)|31": {
+"c": "O servidor público tem domicílio necessário no lugar em que exerce permanentemente suas funções (CC, art. 76, parágrafo único). A está errada: havendo vários estabelecimentos em lugares diferentes, cada um é domicílio para os atos nele praticados (art. 75, §1º). C está errada: o contrato escrito pode eleger domicílio onde se cumpram os direitos e obrigações (art. 78). D está errada: o domicílio do curatelado é o do curador (art. 76, parágrafo único). E está errada: o preso tem domicílio no lugar em que cumpre a sentença.",
+"p": "Dar ao curatelado o domicílio do juízo da interdição e ao preso o do último crime; o domicílio do incapaz é o do representante ou assistente.",
+"d": [
+"CC|art. 75",
+"CC|art. 76",
+"CC|art. 78"
+],
+"pend": 0
+},
+"2022 - DPE-AM - Analista Jurídico (2)|32": {
+"c": "Os bens públicos de uso comum do povo e os de uso especial são inalienáveis enquanto conservarem sua qualificação, na forma que a lei determinar (CC, art. 100). B erra: bens públicos não se sujeitam a usucapião (art. 102). C erra: os dominicais podem ser alienados, observadas as exigências legais (art. 101). D erra: o uso comum pode ser gratuito ou retribuído (art. 103). E descreve os bens dominicais (art. 99, III), não os de uso especial.",
+"p": "Misturar a definição de bem dominical com a de uso especial, e achar que bem público pode ser usucapido.",
+"d": [
+"CC|art. 99",
+"CC|art. 100",
+"CC|art. 101",
+"CC|art. 102",
+"CC|art. 103"
+],
+"pend": 0
+},
+"2022 - DPE-AM - Analista Jurídico (2)|33": {
+"c": "O caso descreve lesão: obrigação manifestamente desproporcional assumida por premente necessidade ou inexperiência (CC, art. 157). É defeito do negócio jurídico e gera anulabilidade (art. 171, II). Não se decreta a anulação se for oferecido suplemento suficiente ou se a parte favorecida concordar com a redução do proveito (art. 157, §2º). Por isso a E está certa. B erra o prazo: 4 anos, contados do dia em que o negócio se realizou, e não da descoberta (art. 178, II). C confunde com nulidade, e D e A negam a conservação do negócio, que a lei prevê.",
+"p": "Contar o prazo da descoberta da desproporção (é da celebração) e esquecer que a lesão admite revisão do contrato.",
+"d": [
+"CC|art. 157",
+"CC|art. 171, II",
+"CC|art. 178, II"
+],
+"pend": 0
+},
+"2022 - DPE-AM - Analista Jurídico (2)|34": {
+"c": "Os alimentos gravídicos (Lei 11.804/2008) compreendem os valores suficientes para cobrir as despesas adicionais do período da gravidez, considerando a contribuição que também deverá ser dada pela mulher grávida, na proporção dos recursos de ambos (art. 2º). A está errada: bastam indícios de paternidade (art. 6º). B está errada: nascida a criança com vida, os alimentos gravídicos ficam convertidos em pensão alimentícia em favor do menor, até que uma das partes peça a revisão (art. 6º, parágrafo único). D está errada: o juiz considera as necessidades da autora e as possibilidades do réu (art. 6º). E está errada: o direito a alimentos é irrenunciável (CC, art. 1.707).",
+"p": "Exigir prova definitiva da paternidade e negar a conversão automática em pensão depois do nascimento.",
+"d": [
+"Lei 11.804/2008|art. 2º",
+"Lei 11.804/2008|art. 6º",
+"CC|art. 1.707"
+],
+"pend": 0
+},
+"2022 - DPE-AM - Analista Jurídico (2)|35": {
+"c": "O proprietário pode conceder a outrem o direito de construir ou de plantar em seu terreno, por tempo determinado, mediante escritura pública registrada no Cartório de Registro de Imóveis: é o direito de superfície (CC, art. 1.369). Pode ser gratuito ou oneroso (art. 1.370). As demais figuras não combinam com o caso: habitação é moradia gratuita, usufruto é o uso e os frutos de coisa alheia, servidão é utilidade imposta a um prédio em favor de outro e penhor é garantia sobre bem móvel.",
+"p": "Confundir superfície (plantar ou construir em terreno alheio) com usufruto, que incide sobre a coisa e seus frutos.",
+"d": [
+"CC|art. 1.369",
+"CC|art. 1.370",
+"Lei 10.257/2001|art. 21"
+],
+"pend": 0
+},
+"2023 - DPE-AM - Analista Jurídico|31": {
+"c": "A omissão dolosa é o silêncio intencional de uma das partes, nos negócios bilaterais, a respeito de fato ou qualidade que a outra haja ignorado, provando-se que sem ele o negócio não se teria celebrado (CC, art. 147). É espécie de dolo, defeito que torna o negócio anulável (art. 171, II). Estado de perigo (art. 156), lesão (art. 157), erro (art. 138) e coação (art. 151) têm requisitos próprios, que o enunciado não descreve.",
+"p": "Confundir o silêncio intencional (dolo por omissão) com o erro, em que a parte se engana sozinha.",
+"d": [
+"CC|art. 147",
+"CC|art. 171, II"
+],
+"pend": 0
+},
+"2023 - DPE-AM - Analista Jurídico|32": {
+"c": "Multipropriedade é o regime de condomínio em que cada proprietário é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, de todo o imóvel, exercida de forma alternada (CC, art. 1.358-C, incluído pela Lei 13.777/2018). Direito de laje (art. 1.510-A) e condomínio edilício (art. 1.331 e seguintes) são outros institutos de direito das coisas.",
+"p": "Confundir o uso alternado por frações de tempo com o condomínio edilício, em que há unidades autônomas.",
+"d": [
+"CC|art. 1.358-C",
+"Lei 13.777/2018"
+],
+"pend": 0
+},
+"2023 - DPE-AM - Analista Jurídico|33": {
+"c": "O reconhecimento voluntário da paternidade ou maternidade socioafetiva pode ser feito de forma extrajudicial, diretamente perante o oficial de registro civil das pessoas naturais, sem exclusão dos dados dos genitores biológicos, pois o STF admitiu a multiparentalidade (RE 898.060, Tema 622). A disciplina administrativa está nos provimentos do CNJ (Provimento 63/2017, alterado pelo Provimento 83/2019; confirmar a norma vigente no Código Nacional de Normas da Corregedoria). As demais alternativas misturam adoção, destituição e testamento conjuntivo, sem base.",
+"p": "Achar que a socioafetividade depende de ação judicial de adoção ou que exclui o registro dos genitores biológicos.",
+"d": [
+"STF|RE 898.060 (Tema 622)",
+"CNJ|Provimento 63/2017"
+],
+"pend": 1
+},
+"2023 - DPE-AM - Analista Jurídico|34": {
+"c": "São absolutamente incapazes de exercer pessoalmente os atos da vida civil somente os menores de 16 anos (CC, art. 3º, na redação da Lei 13.146/2015). Os pródigos e os viciados em tóxico são relativamente incapazes (art. 4º). Deficiência mental com discernimento reduzido e a pessoa que não puder exprimir sua vontade por causa permanente deixaram de ser hipóteses de incapacidade absoluta (a segunda passou ao art. 4º, III, como causa transitória ou permanente). Resposta D.",
+"p": "Usar a redação antiga do art. 3º, que arrolava os enfermos e os que não podiam exprimir a vontade.",
+"d": [
+"CC|art. 3º",
+"CC|art. 4º",
+"Lei 13.146/2015|art. 114"
+],
+"pend": 0
+},
+"2023 - DPE-AM - Analista Jurídico|35": {
+"c": "O pacto antenupcial é feito por escritura pública, sob pena de nulidade, e só tem eficácia se seguir o casamento (CC, art. 1.653). Na habilitação, a opção pela comunhão parcial se reduz a termo e os demais regimes exigem pacto antenupcial (art. 1.640, parágrafo único), por isso a E está certa e a D errada. A está errada: a alteração do regime depende de autorização judicial (art. 1.639, §2º). B está errada: o pacto do menor exige a aprovação do representante legal (art. 1.654). C está errada: no regime de participação final nos aquestos pode-se convencionar a livre disposição dos imóveis particulares (art. 1.656).",
+"p": "Achar que a mudança de regime depois do casamento se faz por escritura pública (é por autorização judicial).",
+"d": [
+"CC|art. 1.640",
+"CC|art. 1.639, §2º",
+"CC|art. 1.653",
+"CC|art. 1.654",
+"CC|art. 1.656"
+],
+"pend": 0
+},
+"2025 - DPE-SP - Analista de Defensoria|62": {
+"c": "Suzana está há 11 anos na posse do imóvel urbano como moradia habitual, sem interrupção nem oposição. Esse prazo cumpre a usucapião extraordinária com prazo reduzido para dez anos, quando o possuidor estabelece moradia habitual (CC, art. 1.238, parágrafo único), e também o prazo da usucapião especial urbana (cinco anos, CF, art. 183), se os demais requisitos forem atendidos. Quanto à área, o STF fixou que, preenchidos os requisitos da usucapião especial urbana, não se pode opor o módulo mínimo urbano municipal (RE 422.349, Tema 815; confirmar o número do tema). A resposta é a A. A E erra ao exigir justo título e boa-fé, requisitos da usucapião ordinária.",
+"p": "Aplicar o módulo mínimo do lote como requisito da usucapião e esquecer que o prazo cai para dez anos com moradia habitual.",
+"d": [
+"CC|art. 1.238, parágrafo único",
+"CF|art. 183",
+"STF|RE 422.349 (Tema 815)"
+],
+"pend": 1
+},
+"2025 - DPE-SP - Analista de Defensoria|63": {
+"c": "I está certo: não constitui desvio de finalidade a mera expansão ou a alteração da finalidade original da atividade econômica específica da pessoa jurídica (CC, art. 50, §5º). III está certo: aplica-se às pessoas jurídicas, no que couber, a proteção dos direitos da personalidade (art. 52). II está errado: partido político é pessoa jurídica de direito privado (art. 44, V). IV está errado: autarquia é pessoa jurídica de direito público interno (art. 41, IV). Resposta: I e III.",
+"p": "Classificar partido político como pessoa jurídica de direito público e autarquia como de direito privado.",
+"d": [
+"CC|art. 41",
+"CC|art. 44",
+"CC|art. 50, §5º",
+"CC|art. 52"
+],
+"pend": 0
+},
+"2025 - DPE-SP - Analista de Defensoria|64": {
+"c": "É nulo o negócio simulado (CC, art. 167), e a simulação absoluta é hipótese clássica: as partes fingem um negócio que não querem de fato. Erro, dolo, lesão e fraude contra credores são defeitos do negócio que o tornam apenas anulável (art. 171, II). Resposta B.",
+"p": "Tratar a simulação como causa de anulabilidade (no Código atual ela gera nulidade) e a fraude contra credores como nulidade.",
+"d": [
+"CC|art. 166",
+"CC|art. 167",
+"CC|art. 171"
+],
+"pend": 0
+},
+"2025 - DPE-SP - Analista de Defensoria|66": {
+"c": "Na Reurb, a Lei 13.465/2017 admite, sem prejuízo de outros, vários institutos jurídicos, como a doação, a compra e venda, a concessão de direito real de uso e a concessão de uso especial para fins de moradia (art. 15; confirmar a lista no texto da lei). B inverte os conceitos: a Reurb de interesse social (Reurb-S) é a aplicada a núcleos ocupados predominantemente por população de baixa renda; a de interesse específico (Reurb-E) é a dos demais casos (art. 13). D erra: o rol de legitimados é mais amplo (art. 14, incluindo, além dos entes públicos, a Defensoria e o Ministério Público, os próprios beneficiários e outros). E erra: na Reurb-S há isenção de custas e emolumentos (art. 13, §1º). C erra: a lei não exige a instituição prévia de Zeis para a Reurb.",
+"p": "Trocar Reurb-S (baixa renda) por Reurb-E (interesse específico) e achar que a Reurb exige Zeis ou legitima só os entes públicos.",
+"d": [
+"Lei 13.465/2017|art. 13",
+"Lei 13.465/2017|art. 14",
+"Lei 13.465/2017|art. 15"
+],
+"pend": 1
+},
+"2025 - DPE-SP - Analista de Defensoria|67": {
+"c": "Os pais respondem pelos atos dos filhos menores que estiverem sob sua autoridade e companhia (CC, art. 932, I), e a responsabilidade é objetiva (art. 933). A escola responde pelos educandos em estabelecimento onde se alberga por dinheiro, mesmo para fins de educação (art. 932, IV), também de forma objetiva (art. 933; no mesmo sentido, o CDC, art. 14, para a relação de consumo). A resposta é a A. As demais alternativas apontam responsabilidade subjetiva, subsidiária ou mista, que não corresponde ao regime legal.",
+"p": "Achar que a responsabilidade dos pais ou da escola depende de prova de culpa; no regime do Código Civil ela é objetiva.",
+"d": [
+"CC|art. 932, I e IV",
+"CC|art. 933",
+"CDC|art. 14",
+"Lei 13.185/2015"
+],
+"pend": 0
+},
+"2025 - DPE-SP - Analista de Defensoria|68": {
+"c": "A obrigação alimentar dos avós tem natureza complementar e subsidiária: só se configura quando os pais não podem cumprir total ou parcialmente a prestação (Súmula 596 do STJ; CC, art. 1.698). Por isso a C está certa. A e B estão erradas: os alimentos avoengos obedecem ao binômio necessidade-possibilidade e dependem da impossibilidade, total ou parcial, dos pais. D erra ao falar em obrigação solidária. E erra: a impossibilidade parcial autoriza a complementação pelos avós.",
+"p": "Tratar a obrigação dos avós como solidária ou principal, em vez de complementar e subsidiária.",
+"d": [
+"STJ|Súmula 596",
+"CC|art. 1.696",
+"CC|art. 1.698"
+],
+"pend": 0
+},
+"2025 - DPE-SP - Analista de Defensoria|69": {
+"c": "O bem de família pode ser penhorado na execução de pensão alimentícia, resguardada a meação do cônjuge ou companheiro que não é devedor (Lei 8.009/1990, art. 3º, III, com a redação da Lei 13.144/2015). Como o regime é a comunhão parcial e o imóvel foi adquirido na constância do casamento, a meação de Jéssica é protegida. A E está certa. A e B falam em herança, o que não se aplica (não há morte). C e D ignoram a proteção da meação.",
+"p": "Esquecer a ressalva da meação do cônjuge que não deve (introduzida em 2015).",
+"d": [
+"Lei 8.009/1990|art. 3º, III",
+"CC|art. 1.660, I"
+],
+"pend": 0
+},
+"2025 - DPE-SP - Analista de Defensoria|70": {
+"c": "A situação descreve pessoa com deficiência que, com apoio, exerce os atos da vida civil: o instituto adequado é a tomada de decisão apoiada (CC, art. 1.783-A). A decisão tomada pela pessoa apoiada tem validade e efeitos sobre terceiros, sem restrições, desde que dentro dos limites do apoio acordado (§4º). A D está certa. A E erra: o terceiro pode solicitar que os apoiadores contra-assinem o contrato (§5º). A curatela é medida extraordinária, proporcional às necessidades (Lei 13.146/2015, art. 84, §3º) e afeta só os atos patrimoniais e negociais, sem alcançar casamento, união estável e direitos reprodutivos (art. 85). Mais de um curador pode exercer a curatela de forma compartilhada (CC, art. 1.775-A). Emancipação não é cabível aos 18 anos.",
+"p": "Aplicar curatela quando a pessoa tem condições de exercer a capacidade com apoio, e achar que o terceiro não pode exigir a contra-assinatura dos apoiadores.",
+"d": [
+"CC|art. 1.783-A",
+"CC|art. 1.775-A",
+"Lei 13.146/2015|art. 84",
+"Lei 13.146/2015|art. 85"
+],
+"pend": 0
+},
+"2025 - MPPI - Analista Ministerial|45": {
+"c": "Só a autoridade judiciária brasileira é competente para conhecer das ações relativas a imóveis situados no Brasil (LINDB, art. 12, §1º). Por isso a sentença estrangeira sobre imóvel aqui situado não pode ser executada no Brasil, mesmo que a parte seja brasileira e a sentença tenha transitado em julgado. As alternativas B, C e D tratam da homologação e das formalidades da sentença estrangeira (art. 15), que só se discutem quando a competência estrangeira é válida.",
+"p": "Aplicar as regras de homologação de sentença estrangeira sem notar que a competência exclusiva da justiça brasileira para imóveis no Brasil impede o reconhecimento.",
+"d": [
+"LINDB|art. 12, §1º",
+"LINDB|art. 15"
+],
+"pend": 1
+},
+"2025 - MPPI - Analista Ministerial|46": {
+"c": "Os empreendimentos de economia solidária são pessoas jurídicas de direito privado, segundo o rol do art. 44 do Código Civil (inciso incluído por lei recente; confirmar a lei de inclusão e o inciso no texto atualizado do Código). As demais alternativas os tratam como entes de direito público ou sem personalidade.",
+"p": "Esquecer que o rol do art. 44 foi ampliado e achar que o empreendimento solidário não tem personalidade jurídica.",
+"d": [
+"CC|art. 44"
+],
+"pend": 1
+},
+"2025 - MPPI - Analista Ministerial|47": {
+"c": "Pertenças são os bens que, não constituindo partes integrantes, se destinam, de modo duradouro, ao uso, ao serviço ou ao aformoseamento de outro (CC, art. 93). Os negócios jurídicos que dizem respeito ao bem principal não abrangem as pertenças, salvo se o contrário resultar da lei, da manifestação de vontade ou das circunstâncias do caso (art. 94). Benfeitorias são melhoramentos na própria coisa (art. 96) e acessões são incorporações naturais ou artificiais.",
+"p": "Confundir pertença (bem autônomo que serve a outro) com benfeitoria (melhoramento da própria coisa).",
+"d": [
+"CC|art. 93",
+"CC|art. 94"
+],
+"pend": 0
+},
+"2025 - MPPI - Analista Ministerial|48": {
+"c": "A transmissão errônea da vontade por meios interpostos é anulável nos mesmos casos em que o é a declaração direta (CC, art. 141). O vício é de erro, defeito que torna o negócio anulável, com prazo decadencial de quatro anos (art. 178, II). Por isso a D está certa; as alternativas com nulidade absoluta ou prazos de 30 dias não têm base legal.",
+"p": "Tratar o erro na transmissão como nulidade ou criar prazo curto de 30 dias.",
+"d": [
+"CC|art. 141",
+"CC|art. 171, II",
+"CC|art. 178, II"
+],
+"pend": 0
+},
+"2025 - MPPI - Analista Ministerial|49": {
+"c": "A cessão de crédito não depende da concordância do devedor, salvo se a natureza da obrigação, a lei ou a convenção a vedarem (CC, art. 286). A cessão por instrumento particular é válida entre as partes, mas só tem eficácia em relação a terceiros se feita por instrumento público ou particular revestido das solenidades do art. 654, §1º, que inclui a indicação do lugar e da data (art. 288). Em relação ao devedor, a eficácia depende da notificação (art. 290). Por isso a E está certa: válida, porém ineficaz perante terceiros. As alternativas que falam em nulidade ou exigem anuência do devedor erram.",
+"p": "Exigir a concordância do devedor ou considerar nula a cessão feita sem data e lugar; o defeito afeta a eficácia contra terceiros.",
+"d": [
+"CC|art. 286",
+"CC|art. 288",
+"CC|art. 290",
+"CC|art. 654, §1º"
+],
+"pend": 0
+},
+"2025 - MPPI - Analista Ministerial|50": {
+"c": "Podem ser adquiridos por usucapião os bens móveis e imóveis, com exceção dos bens públicos (CC, arts. 1.238 e seguintes para imóveis e arts. 1.260 e 1.261 para móveis; art. 102 e CF, arts. 183, §3º, e 191, parágrafo único, vedam a usucapião de bens públicos). A E está certa. As demais restringem aos imóveis ou incluem os públicos.",
+"p": "Achar que só imóveis são usucapíveis ou que o bem público pode ser usucapido.",
+"d": [
+"CC|art. 102",
+"CC|art. 1.260",
+"CF|art. 183, §3º",
+"CF|art. 191, parágrafo único"
+],
+"pend": 0
+},
+"2025 - MPPI - Analista Ministerial|51": {
+"c": "Falecendo os pais, os filhos menores são postos em tutela (CC, art. 1.728, I). A tutela pode ser nomeada pelos pais, em conjunto, por testamento ou outro documento autêntico (art. 1.729). Só na falta de tutor nomeado a tutela incumbe aos parentes consanguíneos, na ordem do art. 1.731 (ascendentes, depois colaterais até o terceiro grau). A B está certa: o tutor nomeado tem preferência, ainda que não seja parente. Curatela é medida para maiores incapazes, não para menores impúberes.",
+"p": "Inverter a ordem: o tutor nomeado pelos pais precede os parentes, que só atuam na falta dele.",
+"d": [
+"CC|art. 1.728",
+"CC|art. 1.729",
+"CC|art. 1.731"
+],
+"pend": 0
+},
+"2025 - MPPI - Analista Ministerial|52": {
+"c": "Pelo Estatuto da Pessoa Idosa, os alimentos são prestados na forma da lei civil e a obrigação alimentar é solidária, podendo a pessoa idosa optar entre os prestadores (Lei 10.741/2003, art. 12). Por isso a C está certa. As demais alternativas negam a solidariedade ou a possibilidade de escolha.",
+"p": "Aplicar a regra do Código Civil (obrigação alimentar sucessiva e divisível entre parentes) ao idoso, para quem o Estatuto prevê solidariedade com opção entre os prestadores.",
+"d": [
+"Lei 10.741/2003|art. 11",
+"Lei 10.741/2003|art. 12"
+],
+"pend": 0
+},
+"2026 - TJCE - Analista Judiciário|37": {
+"c": "O STF decidiu que, após a EC 66/2010, a separação judicial não é mais requisito para o divórcio e não subsiste como figura autônoma no ordenamento; sem prejuízo, preserva-se o estado civil das pessoas já separadas por decisão judicial ou escritura pública, por se tratar de ato jurídico perfeito (RE 1.167.478, Tema 1.053; confirmar o número do tema). A C reproduz essa tese. A erra ao dizer que o estado civil passa automaticamente a divorciado; B inventa prazo de 20 anos; D e E mantêm a separação como requisito ou por motivo religioso.",
+"p": "Achar que quem já estava separado vira divorciado automaticamente, ou que ainda exista prazo para regularizar.",
+"d": [
+"CF|art. 226, §6º",
+"STF|RE 1.167.478 (Tema 1.053)"
+],
+"pend": 1
+},
+"2026 - TJCE - Analista Judiciário|38": {
+"c": "Mévio preenche os requisitos da usucapião especial urbana: posse, como sua, de área urbana de até 250 m², por cinco anos ininterruptos e sem oposição, para moradia sua ou da família, sem ser proprietário de outro imóvel (CC, art. 1.240; CF, art. 183). Ele tem oito anos e 200 m². A C está certa. A e B erram a metragem (150 m²) e o prazo (10 anos). D usa o prazo de dois anos, que é da usucapião familiar (art. 1.240-A, com requisitos de abandono do lar). E exige boa-fé, requisito que a usucapião especial urbana dispensa.",
+"p": "Exigir justo título e boa-fé (que a usucapião especial urbana dispensa) ou confundir com a usucapião familiar de dois anos.",
+"d": [
+"CC|art. 1.240",
+"CC|art. 1.240-A",
+"CF|art. 183"
+],
+"pend": 0
+},
+"2026 - TJCE - Analista Judiciário|39": {
+"c": "Quem deve dois ou mais débitos da mesma natureza a um só credor pode indicar qual deles paga, se todos forem líquidos e vencidos (CC, art. 352). Se omitir a indicação e a quitação também for omissa, a imputação se faz nas dívidas líquidas e vencidas em primeiro lugar; sendo todas líquidas e vencidas ao mesmo tempo, na mais onerosa (art. 355). A E reproduz isso. B e D erram a ordem ou o titular da escolha. C inverte a regra de capital e juros: o pagamento se imputa primeiro nos juros vencidos e depois no capital (art. 354). A troca devedor e credor: se o devedor não declarar e aceitar a quitação, não pode reclamar da imputação feita pelo credor (art. 353).",
+"p": "Imputar primeiro no capital e depois nos juros; o correto é primeiro nos juros vencidos.",
+"d": [
+"CC|art. 352",
+"CC|art. 353",
+"CC|art. 354",
+"CC|art. 355"
+],
+"pend": 0
+},
+"2026 - TJCE - Analista Judiciário|40": {
+"c": "A jurisprudência do STJ, acompanhando a regulamentação da ANS, considera abusiva a cláusula de plano de saúde que limita o número de sessões das terapias multidisciplinares (psicologia, fonoaudiologia, fisioterapia e terapia ocupacional) prescritas a paciente com TEA. A C está certa. As demais admitem limitação para alguma terapia ou afirmam que o limite não é abusivo. Confirmar a tese e a norma da ANS vigente (RN 539/2022) antes de citar.",
+"p": "Achar que só algumas terapias do TEA não admitem limite de sessões; a tese vale para o conjunto multidisciplinar.",
+"d": [
+"Lei 12.764/2012",
+"CDC|art. 51, IV",
+"ANS|RN 539/2022 (confirmar)"
+],
+"pend": 1
+},
+"2026 - TJCE - Analista Judiciário|41": {
+"c": "Não corre prescrição entre ascendentes e descendentes durante o poder familiar (CC, art. 197, II) e contra os absolutamente incapazes, os menores de 16 anos (art. 198, I, com o art. 3º). Tício tinha 6 anos em 2020 e tem 12 em 2026: a prescrição da pretensão de cobrar os alimentos (dois anos, art. 206, §2º) não correu. Por isso é possível cobrar todos os valores em atraso (D). As alternativas A, B, C e E aplicam prazos de prescrição que não correram.",
+"p": "Aplicar o prazo de dois anos do art. 206, §2º, sem notar as causas impeditivas (poder familiar e incapacidade absoluta).",
+"d": [
+"CC|art. 197, II",
+"CC|art. 198, I",
+"CC|art. 206, §2º"
+],
+"pend": 0
+},
+"2026 - TJCE - Analista Judiciário|42": {
+"c": "Toda pessoa capaz pode dispor por testamento da totalidade de seus bens ou de parte deles, para depois da morte (CC, art. 1.857), respeitada a legítima dos herdeiros necessários (§1º). A está errada: rompe-se o testamento quando o testador dispuser da sua metade sem ter ciência de herdeiros necessários (art. 1.974). C inverte a lógica: o rompimento ocorre na ignorância, e não quando o testador sabe da existência. D erra: a revogação pode ser total ou parcial (art. 1.970). E erra: o testamento cerrado aberto ou dilacerado com o consentimento do testador considera-se revogado (art. 1.972).",
+"p": "Achar que o testamento se rompe quando o testador conhecia os herdeiros necessários; é o desconhecimento que o rompe.",
+"d": [
+"CC|art. 1.857",
+"CC|art. 1.970",
+"CC|art. 1.972",
+"CC|art. 1.974"
+],
+"pend": 0
+},
+"2026 - TJCE - Analista Judiciário|43": {
+"c": "A multipropriedade não se extingue automaticamente se todas as frações de tempo passarem a pertencer ao mesmo multiproprietário (CC, art. 1.358-C, parágrafo único). A E está certa. A erra: a multipropriedade se institui por ato entre vivos ou por testamento, registrado no cartório de imóveis (art. 1.358-F). B erra: o uso e gozo se exercem de forma alternada, não simultânea (art. 1.358-C). C erra: a fração de tempo é de, no mínimo, sete dias, seguidos ou intercalados (art. 1.358-E). D erra: o imóvel é indivisível e não se sujeita a ação de divisão ou de extinção de condomínio (art. 1.358-D).",
+"p": "Confundir o uso alternado por frações de tempo com o uso simultâneo, e esquecer o mínimo de sete dias.",
+"d": [
+"CC|art. 1.358-C",
+"CC|art. 1.358-D",
+"CC|art. 1.358-E",
+"CC|art. 1.358-F"
+],
+"pend": 1
+}
+}

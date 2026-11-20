@@ -1,0 +1,209 @@
+{
+ "pasta": "2024 - DPE-AC - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "PPEN",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL PENAL",
+   "caracteres": 2787,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito processual penal."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Princípios gerais, conceito, finalidade, características."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Fontes."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Lei processual penal: fontes, eficácia, interpretação, analogia, imunidades."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Sistemas processuais penais."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Inquérito policial."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Histórico; natureza; conceito; finalidade; características; fundamentos; titularidade; grau de cognição; valor probatório; formas de instauração; notitia criminis; delatio criminis; procedimentos investigativos; indiciamento; garantias do investigado; conclusão; prazos; jurisdição; competência; conexão e continência; prevenção; questões e procedimentos incidentes."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Competência da justiça federal e estadual, dos tribunais regionais federais e estaduais, do STJ e do STF, conflito de competência."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Processo criminal: finalidade, pressupostos e sistemas."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Ação penal."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Conceito, características, espécies e condições."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Sujeitos do processo: juiz, Ministério Público, acusado e seu defensor, assistente, curador do réu menor, auxiliares da justiça, assistentes, peritos e intérpretes, serventuários da justiça."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Juizados especiais criminais: aplicação na justiça federal."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Termo circunstanciado de ocorrência."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Atos processuais.",
+      "Forma, lugar e tempo."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Provas."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Conceito, objeto, classificação e sistemas de avaliação."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Princípios gerais da prova e procedimento probatório."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Valoração."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Ônus da prova."
+     ]
+    },
+    {
+     "item": "8.5",
+     "frases": [
+      "Provas ilícitas."
+     ]
+    },
+    {
+     "item": "8.6",
+     "frases": [
+      "Meios de prova: perícias, interrogatório, confissão, testemunhas, reconhecimento de pessoas e coisas, acareação, documentos, indícios."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Busca e apreensão: pessoal, domiciliar, requisitos, restrições, horários."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Prisão."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Conceito, espécies, mandado de prisão e cumprimento."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Prisão em flagrante."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Prisão temporária."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Prisão preventiva."
+     ]
+    },
+    {
+     "item": "10.5",
+     "frases": [
+      "Prisão especial."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Medidas cautelares e liberdade provisória.",
+      "13 Medidas cautelares diversas da prisão.",
+      "14 Fiança.",
+      "15 Sentença e coisa julgada.",
+      "16 Recursos em geral.",
+      "17 Habeas corpus e mandado de segurança em matéria criminal.",
+      "18 Lei nº 12.830/2013 e suas alterações (Investigação criminal conduzida pelo delegado de polícia).",
+      "19 Enunciados dos tribunais superiores acerca dos institutos de direito processual penal.",
+      "20 Regras Mínimas para o Tratamento do Preso no Brasil – Resolução nº 14/1994 do Conselho Nacional de Política Criminal e Penitenciária (CNPCP).",
+      "21 Monitoramento Eletrônico: Lei nº 12.106/2009 e suas alterações.",
+      "Lei nº 12.258/2010 e suas alterações.",
+      "22 Assistência jurídica integral e gratuita: aspectos processuais.",
+      "23 Prerrogativas e garantias dos defensores públicos relacionadas com o processo penal: Lei Orgânica Nacional da Defensoria Pública (Lei Complementar nº 80/1994) e Lei Orgânica da Defensoria Pública do Estado Acre (Lei Complementar Estadual nº 158/2006).",
+      "24 Jurisprudência dos tribunais superiores."
+     ]
+    }
+   ]
+  }
+ ]
+}

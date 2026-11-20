@@ -1,0 +1,255 @@
+{
+ "pasta": "2018 - DPE-RS - Defensor Público (edital, sem prova)",
+ "banca": "FCC",
+ "disciplina": "PENAL",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PENAL",
+   "caracteres": 2227,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Princípios de Direito Penal."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Teoria da norma penal.",
+      "Aplicação da lei penal no tempo e no espaço."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Interpretação da lei penal.",
+      "Concurso de normas penais."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Teoria geral do crime.",
+      "Conceito e Classificação dos crimes."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Conduta.",
+      "Ação e omissão.",
+      "Dolo e culpa.",
+      "Relação de causalidade e imputação.",
+      "Resultado.",
+      "Consumação e tentativa.",
+      "Crime impossível.",
+      "Desistência voluntária.",
+      "Arrependimento eficaz.",
+      "Arrependimento posterior."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Tipicidade.",
+      "Excludentes da tipicidade."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Ilicitude.",
+      "Excludentes da ilicitude."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Culpabilidade.",
+      "Excludentes da culpabilidade."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Teoria do erro.",
+      "Erro de tipo.",
+      "Erro de proibição.",
+      "Descriminantes putativas.",
+      "Erro na execução.",
+      "Resultado diverso do pretendido."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Imputabilidade penal."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Concurso de pessoas.",
+      "Coautoria e participação.",
+      "Circunstâncias incomunicáveis.",
+      "Casos de impunibilidade."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Concurso de crimes."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Extinção da punibilidade."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Teorias da pena.",
+      "Espécies de pena.",
+      "Penas privativas de liberdade.",
+      "Direitos do preso.",
+      "Trabalho do preso.",
+      "Superveniência de doença mental ao condenado.",
+      "Detração.",
+      "Limite das penas.",
+      "Penas restritivas de direitos.",
+      "Pena de multa."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Cominação e aplicação das penas.",
+      "Dosimetria: definição da pena-base, circunstâncias agravantes e atenuantes, causas de aumento e diminuição da pena.",
+      "Fixação do regime inicial para execução da pena privativa de liberdade.",
+      "Substituição da pena privativa de liberdade por penas restritivas de direitos.",
+      "Fixação de valor mínimo para reparação dos danos causados pela infração."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Suspensão condicional da pena."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Livramento condicional."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Medida de Segurança."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Efeitos da condenação."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Reabilitação."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Ação penal."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Crimes contra a pessoa."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Crimes contra o patrimônio."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Crimes contra a propriedade imaterial."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Crimes contra o sentimento religioso e contra o respeito aos mortos."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Crimes contra a dignidade sexual."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Crimes contra a família."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Crimes contra a incolumidade pública."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Crimes contra a paz pública."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Crimes contra a fé pública."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Crimes contra a administração pública."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Legislação penal extravagante."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Súmulas e jurisprudência dos tribunais superiores (STJ e STF) em matéria penal."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Jurisprudência do Tribunal de Justiça do Rio Grande do Sul (TJRS) em matéria penal."
+     ]
+    }
+   ]
+  }
+ ]
+}

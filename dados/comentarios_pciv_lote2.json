@@ -1,0 +1,122 @@
+{
+"2025 - DPE-SP - Analista de Defensoria|71": {
+ "c": "Gabarito C. Pela tese do STJ em recurso repetitivo (Tema 1.061, REsp 1.846.649), quando o consumidor impugna a autenticidade da assinatura em contrato bancário juntado pela instituição financeira, é dela o ônus de provar que a assinatura é autêntica (CPC, arts. 369 e 429, II). A e E: não há inversão judicial caso a caso nem dependência dos requisitos do CDC; a regra vem do próprio CPC. B: o ônus não é de quem alega a falsidade. D: a natureza pública do banco não leva à improcedência. Confirmar a redação da tese no portal do STJ.",
+ "p": "Aplicar a regra geral de que quem alega prova, quando o STJ fixou o ônus para quem produziu o documento.",
+ "d": ["CPC|art. 369", "CPC|art. 429, II", "STJ|REsp 1.846.649 (Tema 1.061)"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|72": {
+ "c": "Gabarito B. A opção pelo Juizado implica renúncia ao crédito que exceder 40 salários mínimos, mas essa renúncia não vale para a conciliação, que pode superar o limite (Lei 9.099/1995, art. 3º, § 3º). A: a opção pelo Juizado é do autor, e a competência não é absoluta no Juizado Especial Cível (a absoluta é a da Fazenda Pública, Lei 12.153). C: nas causas até 20 salários o autor pode ir sem advogado, mas só em primeiro grau; no recurso o advogado é obrigatório (art. 9º). D: não se admite citação por edital (art. 18, § 2º). E: admite-se litisconsórcio, e a lei veda a intervenção de terceiros (art. 10).",
+ "p": "Esquecer que a conciliação pode ultrapassar 40 salários e que o Juizado não admite citação por edital.",
+ "d": ["Lei 9.099/1995|art. 3º, § 3º", "Lei 9.099/1995|art. 9º", "Lei 9.099/1995|art. 10", "Lei 9.099/1995|art. 18, § 2º"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|73": {
+ "c": "Gabarito A (I e II). I está certo: a mediação e a conciliação podem ser feitas como trabalho voluntário (CPC, art. 169, § 1º). II está certo: o conciliador pode sugerir soluções, vedada qualquer intimidação ou constrangimento (art. 165, § 2º, e art. 166, § 4º). III está errado: o sigilo vale também para o juiz, e as informações da mediação não podem ser usadas para outro fim (art. 166, §§ 1º e 2º). IV está errado: o impedimento do mediador é de 1 ano, e não de 2 (art. 172).",
+ "p": "Trocar o prazo de impedimento do mediador (1 ano) e achar que o sigilo não vale para o juiz.",
+ "d": ["CPC|art. 165, § 2º", "CPC|art. 166, §§ 1º, 2º e 4º", "CPC|art. 169, § 1º", "CPC|art. 172"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|74": {
+ "c": "Gabarito E. Na ação de consignação de aluguéis, o réu pode contestar e, em reconvenção, pedir o despejo e a cobrança dos valores objeto da consignatória (Lei 8.245/1991, art. 67). A: a apelação tem efeito só devolutivo nas ações de despejo, consignação de aluguéis e revisionais (art. 58, V). B: o prazo para o depósito é de 24 horas, contado da citação, e não de 5 dias. C: sem contestação, o réu arca com custas e honorários. D: havendo contestação, o réu pode levantar as quantias incontroversas. Confirmar os incisos do art. 67 no Planalto.",
+ "p": "Achar que a apelação na consignação suspende a sentença.",
+ "d": ["Lei 8.245/1991|art. 58, V", "Lei 8.245/1991|art. 67 (confirmar incisos)"],
+ "pend": 1},
+"2025 - DPE-SP - Analista de Defensoria|75": {
+ "c": "Gabarito D. A decisão que acolhe a impugnação para excluir um dos devedores, mas segue o cumprimento de sentença contra o outro, não encerra a fase de cumprimento: é decisão interlocutória, agravável por instrumento (CPC, art. 1.015, parágrafo único). A: não é sentença, porque a fase continua. B: só haveria apelação se a decisão extinguisse a fase de cumprimento. C e E: o agravo de instrumento cabe, não precisando de mandado de segurança ou de agravo interno.",
+ "p": "Pensar que toda decisão que exclui uma parte é sentença.",
+ "d": ["CPC|art. 1.015, parágrafo único", "CPC|art. 203, §§ 1º e 2º", "CPC|art. 525, § 1º"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|76": {
+ "c": "Gabarito C. Na ação de divórcio, o foro competente é o do domicílio da vítima de violência doméstica e familiar (CPC, art. 53, I, d, com a redação da Lei 13.894/2019). Como Maria relatou violência, a ação pode ser proposta no foro do seu domicílio, em São José dos Campos. A, B e E: o domicílio do réu, o último domicílio do casal e o local do bem seriam o critério sem a violência. D: a lei fixa o domicílio da vítima, e não a escolha entre domicílios.",
+ "p": "Esquecer a regra especial da Lei 13.894/2019 para a vítima de violência doméstica.",
+ "d": ["CPC|art. 53, I, d"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|77": {
+ "c": "Gabarito C. Para decretar o divórcio antes da citação e da resolução das demais questões (guarda, alimentos e partilha), a Defensoria pode pedir a tutela provisória de evidência, pela doutrina e jurisprudência que tratam o divórcio como direito potestativo, que independe de culpa e de prova a produzir (CPC, art. 311; CF, art. 226, § 6º). A: a nomeação de curador especial ao réu citado por edital ou com hora certa só acontece nessas hipóteses. B: a produção antecipada de provas não dissolve o vínculo. D: o julgamento antecipado depende da citação. E: a dispensa da audiência não decreta o divórcio.",
+ "p": "Esperar a citação do réu para pedir o divórcio, quando se pode pedir a decretação liminar.",
+ "d": ["CPC|art. 311", "CF|art. 226, § 6º"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|78": {
+ "c": "Gabarito D. A Defensora deve indicar só o pai no polo passivo, porque o empregador não é parte, e requerer a prisão civil (CPC, art. 528, § 3º), a expedição de ofício ao empregador para o desconto em folha das prestações vincendas (art. 529) e o desconto parcelado do débito, desde que, somado à parcela devida, não passe de 50% dos ganhos líquidos (art. 529, § 3º). A e E: o empregador não figura como réu, e o percentual é de 50%, não de 60%. B e C: faltam pedidos que a lei permite.",
+ "p": "Colocar o empregador no polo passivo e errar o limite de 50% dos ganhos líquidos.",
+ "d": ["CPC|art. 528, § 3º", "CPC|art. 529, caput e § 3º"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|79": {
+ "c": "Gabarito B. O pedido de gratuidade já deferido pode ser impugnado pela parte contrária na réplica, nas contrarrazões ou por petição simples nos autos, sem suspensão do processo (CPC, art. 100, caput e parágrafo único). A e C: o agravo de instrumento cabe contra a decisão que indefere ou revoga a gratuidade (art. 101), e não contra a que a concede. D: a impugnação é feita nos próprios autos, e não em incidente apartado. E: a impugnação não suspende o processo.",
+ "p": "Tentar agravar a decisão que concede a gratuidade, quando o caminho é a impugnação nos autos.",
+ "d": ["CPC|art. 100", "CPC|art. 101"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|53": {
+ "c": "Gabarito A. Reputam-se conexas duas ou mais ações quando lhes for comum o pedido OU a causa de pedir; elas serão reunidas para decisão conjunta, salvo se uma já tiver sido sentenciada (CPC, art. 55, caput e § 1º; Súmula 235 do STJ). B e E: a conexão se estende à execução de título extrajudicial e à ação de conhecimento sobre o mesmo ato jurídico (art. 55, § 2º, I). C: a hipótese descrita é de continência. D: a reunião não ocorre se uma ação já foi sentenciada.",
+ "p": "Trocar o 'ou' (pedido ou causa de pedir) por 'e'.",
+ "d": ["CPC|art. 55, §§ 1º e 2º", "STJ|Súmula 235"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|54": {
+ "c": "Gabarito A. A improcedência liminar do pedido (CPC, art. 332) é decidida independentemente da citação do réu, nas causas que dispensem a fase instrutória. B e C: não exige citação nem cabe se houver necessidade de provas. D: o recurso é a apelação. E: o juiz pode se retratar em 5 dias (art. 332, § 3º).",
+ "p": "Achar que a improcedência liminar exige a citação do réu.",
+ "d": ["CPC|art. 332, caput e §§ 3º e 4º"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|55": {
+ "c": "Gabarito D. Na contestação é lícito ao réu propor reconvenção para manifestar pretensão própria, conexa com a ação principal ou com o fundamento da defesa (CPC, art. 343). A: a prescrição é matéria de mérito, e seu reconhecimento resolve o mérito (art. 487, II). B: a incompetência absoluta ou relativa pode ser alegada em preliminar (art. 337, II). C: não se presumem verdadeiros os fatos não impugnados se não for admissível a confissão (art. 341, I). E: o reconhecimento de coisa julgada leva à extinção SEM resolução do mérito (art. 485, V).",
+ "p": "Achar que a prescrição extingue sem resolver o mérito e a coisa julgada, com resolução.",
+ "d": ["CPC|art. 337", "CPC|art. 341, I", "CPC|art. 343", "CPC|art. 485, V", "CPC|art. 487, II"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|56": {
+ "c": "Gabarito A. A liquidação pelo procedimento comum ocorre a requerimento do credor ou do devedor, quando é preciso alegar e provar fato novo, sendo vedado rediscutir a lide ou modificar a sentença (CPC, art. 509, II, e § 4º). B: o réu é intimado para se manifestar em 15 dias (art. 511). C e E: a liquidação por arbitramento é a requerimento, e não de ofício, e o arbitramento é para quando a sentença o determina, as partes convencionam ou a natureza do objeto o exige (art. 509, I). D: a liquidação pode ocorrer na pendência de recurso (art. 512).",
+ "p": "Achar que a liquidação é instaurada de ofício ou que não cabe durante recurso.",
+ "d": ["CPC|art. 509, I, II e § 4º", "CPC|art. 511", "CPC|art. 512"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|57": {
+ "c": "Gabarito E. O cumprimento de sentença se processa, em regra, no juízo que decidiu a causa em primeiro grau, e o exequente pode optar pelo juízo do atual domicílio do executado, do local dos bens ou do local da obrigação de fazer ou não fazer (CPC, art. 516, parágrafo único). A e C: o cumprimento da pena de prisão não exime o devedor do pagamento das prestações (art. 528, § 5º). B: o cumprimento provisório é admitido antes do trânsito em julgado (art. 520). D: o cumprimento da sentença que condena a pagar quantia depende de requerimento do exequente (art. 513, § 1º).",
+ "p": "Achar que a prisão do devedor de alimentos quita a dívida.",
+ "d": ["CPC|art. 513, § 1º", "CPC|art. 516, parágrafo único", "CPC|art. 520", "CPC|art. 528, § 5º"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|58": {
+ "c": "Gabarito D. As ações possessórias são fungíveis (art. 554), dúplices (art. 556) e admitem a cumulação do pedido condenatório (perdas e danos, multa e outras, art. 555) ao possessório. A: passado o prazo de ano e dia, segue-se o procedimento comum (art. 558, parágrafo único). B: na pendência de ação possessória é vedado propor ação de reconhecimento do domínio, mas isso não suspende o processo (art. 557). C: o pedido contraposto é feito na contestação, sem reconvenção (art. 556). E: o litisconsórcio passivo é admitido, inclusive em litígios coletivos.",
+ "p": "Exigir reconvenção para o pedido contraposto nas possessórias, que são dúplices.",
+ "d": ["CPC|art. 554", "CPC|art. 555", "CPC|art. 556", "CPC|art. 557", "CPC|art. 558, parágrafo único"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|59": {
+ "c": "Gabarito C (II e IV). II está certo: o inventariante, ouvidos os interessados e com autorização do juiz, pode alienar bens de qualquer espécie e transigir (CPC, art. 619, I e II). IV está certo: o juiz pode deferir a qualquer herdeiro, antecipadamente, os direitos de usar e fruir de bem que integrará seu quinhão, com os ônus e bônus (art. 647, parágrafo único). I está errado: a legitimidade para requerer o inventário é concorrente, de vários legitimados (art. 616). III está errado: a dívida com a Fazenda não impede o julgamento da partilha se o pagamento estiver garantido (art. 654, parágrafo único).",
+ "p": "Achar que a legitimidade é só de quem está na posse do espólio e que a dívida com a Fazenda sempre impede a partilha.",
+ "d": ["CPC|art. 616", "CPC|art. 619, I e II", "CPC|art. 647, parágrafo único", "CPC|art. 654, parágrafo único"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|60": {
+ "c": "Gabarito D. Os embargos de terceiro cabem a quem, não sendo parte, sofre constrição sobre bens que possui ou dos quais é proprietário, inclusive fiduciário (CPC, art. 674, caput). A: admitem a alegação de posse e de domínio. B: o cônjuge pode opor embargos para defender bens próprios ou sua meação (art. 674, § 2º, I). C: a citação é pessoal, exceto se o embargado tiver procurador constituído nos autos da ação principal (art. 677, § 3º). E: no cumprimento de sentença e na execução, o prazo é de até 5 dias depois da adjudicação, alienação ou arrematação, e sempre antes da assinatura da carta (art. 675), e não depois da penhora.",
+ "p": "Contar o prazo dos embargos de terceiro da penhora, e não da adjudicação, alienação ou arrematação.",
+ "d": ["CPC|art. 674", "CPC|art. 675", "CPC|art. 677, § 3º"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|44": {
+ "c": "Gabarito E. O processo civil deve observar os princípios constitucionais, entre eles o contraditório, a ampla defesa e a duração razoável do processo (CPC, arts. 1º a 6º; CF, art. 5º, LV e LXXVIII). A: a jurisdição é exercida pelo Estado, e a arbitragem só é admitida na forma da lei (art. 3º, § 1º). B: o CPC prevê negócios processuais (art. 190). C: o contraditório exige a possibilidade de manifestar-se e de influenciar a decisão (arts. 9º e 10). D: as normas processuais são interpretadas conforme a Constituição (art. 1º).",
+ "p": "Reduzir o contraditório à mera informação dos atos.",
+ "d": ["CPC|arts. 1º a 6º", "CPC|art. 9º e art. 10", "CPC|art. 190", "CF|art. 5º, LV e LXXVIII"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|45": {
+ "c": "Gabarito D (I, II e III). I está certo: a ação civil pública tutela direitos difusos, coletivos e individuais homogêneos, e pode apreciar a constitucionalidade de forma incidental, desde que não seja o pedido principal. II está certo: a reclamação serve para garantir a autoridade das decisões do STF, inclusive em controle concentrado (CPC, art. 988, III). III está certo: o mandado de segurança não cabe contra ato judicial recorrível com efeito suspensivo, nem é sucedâneo de recurso (Lei 12.016/2009, art. 5º, II; Súmula 267 do STF). IV está errado: a ação popular pode ser proposta por qualquer cidadão, sem exigir interesse econômico direto (CF, art. 5º, LXXIII).",
+ "p": "Exigir interesse econômico do autor da ação popular.",
+ "d": ["Lei 7.347/1985", "CPC|art. 988, III", "Lei 12.016/2009|art. 5º, II", "STF|Súmula 267", "CF|art. 5º, LXXIII"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|46": {
+ "c": "Gabarito C. A revelia de um dos litisconsortes passivos não produz os seus efeitos se o outro réu contestar a ação (CPC, art. 345, I), o que é o caso, pois a dívida é comum aos devedores solidários. A: o impedimento e a suspeição devem ser alegados em 15 dias a partir do conhecimento do fato (art. 146); o impedimento não alegado a tempo ainda pode fundamentar ação rescisória (art. 966, II). B: a assistência simples exige interesse jurídico, e não comunhão de direitos, e não gera litisconsórcio necessário. D: os efeitos da revelia não valem se o outro litisconsorte contesta. E: o ingresso do assistente depende de decisão do juiz, se houver impugnação, e não de concordância expressa das partes, e não suspende o processo (art. 120).",
+ "p": "Aplicar a presunção de veracidade da revelia a todos os litisconsortes, mesmo quando um contesta.",
+ "d": ["CPC|art. 119", "CPC|art. 120", "CPC|art. 146", "CPC|art. 345, I"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|47": {
+ "c": "Gabarito B. Se não há necessidade de outras provas, o juiz profere o julgamento antecipado do mérito (CPC, art. 355, I). A: a falta de impugnação específica leva à presunção de veracidade, e não à nulidade (art. 341). C: a prescrição é matéria de defesa, que pode ser alegada na contestação, e não só em reconvenção. D: a presunção de veracidade da revelia é relativa. E: o pedido deve ser certo e determinado, e só excepcionalmente genérico (art. 324).",
+ "p": "Achar que a revelia produz presunção absoluta.",
+ "d": ["CPC|art. 324", "CPC|art. 341", "CPC|art. 344", "CPC|art. 355, I"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|48": {
+ "c": "Gabarito D. A incompetência relativa, como a territorial, deve ser alegada pelo réu como preliminar da contestação; se ele não alega, a competência se prorroga (CPC, arts. 64 e 65), e o juiz não pode declinar dela de ofício (Súmula 33 do STJ). A: a competência territorial é, em regra, relativa e pode ser modificada pelas partes. B: a conexão permite a reunião dos processos. C: só a incompetência absoluta é conhecida de ofício e a qualquer tempo. E: a absoluta também pode ser reconhecida de ofício.",
+ "p": "Achar que o juiz pode declinar de ofício da competência territorial.",
+ "d": ["CPC|art. 63", "CPC|art. 64", "CPC|art. 65", "STJ|Súmula 33"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|49": {
+ "c": "Gabarito A. A liquidação é necessária quando a sentença não permite determinar o valor, e pode ser por arbitramento ou pelo procedimento comum (CPC, art. 509). B: o excesso de execução pode ser alegado na impugnação ao cumprimento de sentença (art. 525, § 1º, V). C: a liquidação não é dispensada só porque a sentença não indica o valor, e sim se o valor depende de simples cálculo. D: a impugnação, em regra, não tem efeito suspensivo (art. 525, § 6º). E: os bens públicos são impenhoráveis, e a Fazenda paga por precatório ou requisição de pequeno valor (art. 910).",
+ "p": "Achar que a impugnação suspende automaticamente o cumprimento e que cabe penhora de bens públicos.",
+ "d": ["CPC|art. 509", "CPC|art. 525, § 1º, V e § 6º", "CPC|art. 910"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|50": {
+ "c": "Gabarito A. A citação válida da Fazenda Pública produz os efeitos do art. 240 do CPC, como a constituição em mora e a litispendência, e o prazo de resposta é contado em dobro (art. 183). B: a intimação pode ser por carga, remessa ou meio eletrônico (art. 183, § 1º). C: o prazo em dobro não vale quando a lei fixa prazo próprio (art. 183, § 2º). D: a nulidade só é declarada se houver prejuízo (art. 282, § 1º; princípio da instrumentalidade). E: a prática do ato fora do prazo gera preclusão também para a Fazenda.",
+ "p": "Achar que o prazo em dobro vale mesmo quando a lei fixa prazo próprio e que não há preclusão para a Fazenda.",
+ "d": ["CPC|art. 183", "CPC|art. 240", "CPC|art. 246", "CPC|art. 282, § 1º"],
+ "pend": 0}
+}

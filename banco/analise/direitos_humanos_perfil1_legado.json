@@ -1,0 +1,322 @@
+{
+ "perfil": {
+  "id": 1,
+  "nome": "Direitos Humanos · Defensor Público · FCC (estudo geral)",
+  "banca": "FCC",
+  "carreira": "Defensoria Pública",
+  "cargo": "Defensor Público",
+  "ano_referencia": 2026,
+  "meia_vida": 8,
+  "pesos": {
+   "A": 1,
+   "B": 0.5,
+   "C": 0.25
+  }
+ },
+ "modo": "legado",
+ "universo": {
+  "id": 1,
+  "nome": "Todas as questões",
+  "filtro": {}
+ },
+ "n_total": 176,
+ "n_validas": 174,
+ "n_anuladas_ou_fora": 2,
+ "n_provas": 22,
+ "provas_por_grupo": {
+  "A": 16,
+  "B": 6,
+  "C": 0
+ },
+ "soma_pesos": 121.15,
+ "n_efetivo": 158.8,
+ "K_assuntos": 10,
+ "assuntos": {
+  "DH01": {
+   "nome": "Teoria geral e fundamentos dos direitos humanos",
+   "n": 10.0,
+   "peso": 7.74,
+   "p": 6.4,
+   "lo": 3.5,
+   "hi": 11.3,
+   "provas": 8,
+   "grupo": "Cai às vezes"
+  },
+  "DH02": {
+   "nome": "Direito Internacional dos Direitos Humanos: fontes e regras gerais",
+   "n": 8.0,
+   "peso": 6.08,
+   "p": 5.0,
+   "lo": 2.6,
+   "hi": 9.6,
+   "provas": 7,
+   "grupo": "Cai pouco"
+  },
+  "DH03": {
+   "nome": "Sistema global (ONU): tratados, comitês e protocolos",
+   "n": 16.0,
+   "peso": 10.68,
+   "p": 8.8,
+   "lo": 5.3,
+   "hi": 14.3,
+   "provas": 12,
+   "grupo": "Cai às vezes"
+  },
+  "DH04": {
+   "nome": "Sistema interamericano e demais sistemas regionais",
+   "n": 32.0,
+   "peso": 21.99,
+   "p": 18.1,
+   "lo": 12.9,
+   "hi": 24.9,
+   "provas": 20,
+   "grupo": "Cai muito"
+  },
+  "DH05": {
+   "nome": "Direito Internacional Humanitário, Direito Internacional Penal e refugiados",
+   "n": 11.0,
+   "peso": 7.44,
+   "p": 6.1,
+   "lo": 3.3,
+   "hi": 11.0,
+   "provas": 11,
+   "grupo": "Cai às vezes"
+  },
+  "DH06": {
+   "nome": "Tratados no Brasil: hierarquia, convencionalidade e federalização",
+   "n": 19.0,
+   "peso": 12.14,
+   "p": 10.0,
+   "lo": 6.3,
+   "hi": 15.7,
+   "provas": 11,
+   "grupo": "Cai às vezes"
+  },
+  "DH07": {
+   "nome": "Direitos humanos no Brasil: políticas, memória e acesso à justiça",
+   "n": 10.0,
+   "peso": 6.8,
+   "p": 5.6,
+   "lo": 3.0,
+   "hi": 10.3,
+   "provas": 7,
+   "grupo": "Cai às vezes"
+  },
+  "DH08": {
+   "nome": "Igualdade e grupos vulnerabilizados",
+   "n": 41.0,
+   "peso": 29.96,
+   "p": 24.7,
+   "lo": 18.7,
+   "hi": 32.0,
+   "provas": 17,
+   "grupo": "Cai muito"
+  },
+  "DH09": {
+   "nome": "Tortura e privação de liberdade",
+   "n": 12.0,
+   "peso": 7.39,
+   "p": 6.1,
+   "lo": 3.3,
+   "hi": 11.0,
+   "provas": 10,
+   "grupo": "Cai às vezes"
+  },
+  "DH10": {
+   "nome": "Direitos em espécie e temas contemporâneos",
+   "n": 15.0,
+   "peso": 10.93,
+   "p": 9.0,
+   "lo": 5.5,
+   "hi": 14.5,
+   "provas": 10,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "n_assuntos_80pct": 7,
+ "cobranca_pct": {
+  "lei/tratado": 58.3,
+  "caso pratico": 19.3,
+  "jurisprudencia": 14.3,
+  "doutrina": 7.8,
+  "sumula": 0.4
+ },
+ "retro_assuntos": {
+  "k": 4,
+  "temporal": [
+   {
+    "prova": "2022 - DPE-AP - Defensor Público",
+    "n": 8.0,
+    "acertos": 3.0,
+    "pct": 37.5
+   },
+   {
+    "prova": "2022 - DPE-CE - Defensor Público",
+    "n": 11.0,
+    "acertos": 6.0,
+    "pct": 54.5
+   },
+   {
+    "prova": "2022 - DPE-MT - Defensor Público",
+    "n": 8.0,
+    "acertos": 5.0,
+    "pct": 62.5
+   },
+   {
+    "prova": "2022 - DPE-PB - Defensor Público",
+    "n": 9.0,
+    "acertos": 4.0,
+    "pct": 44.4
+   },
+   {
+    "prova": "2023 - DPE-ES - Defensor Público",
+    "n": 8.0,
+    "acertos": 4.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2023 - DPE-SP - Defensor Público",
+    "n": 8.0,
+    "acertos": 3.0,
+    "pct": 37.5
+   },
+   {
+    "prova": "2025 - DPE-AM - Defensor Público",
+    "n": 8.0,
+    "acertos": 5.0,
+    "pct": 62.5
+   },
+   {
+    "prova": "2025 - DPE-RS - Defensor Público",
+    "n": 6.0,
+    "acertos": 5.0,
+    "pct": 83.3
+   },
+   {
+    "prova": "2026 - DPE-BA - Defensor Público",
+    "n": 13.0,
+    "acertos": 6.0,
+    "pct": 46.2
+   },
+   {
+    "prova": "2026 - DPE-MA - Defensor Público",
+    "n": 11.0,
+    "acertos": 7.0,
+    "pct": 63.6
+   },
+   {
+    "prova": "2026 - DPE-MT - Defensor Público",
+    "n": 7.0,
+    "acertos": 4.0,
+    "pct": 57.1
+   }
+  ],
+  "loo": [
+   {
+    "prova": "2021 - DPE-AM - Defensor Público",
+    "n": 8.0,
+    "acertos": 4.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2021 - DPE-BA - Defensor Público",
+    "n": 9.0,
+    "acertos": 6.0,
+    "pct": 66.7
+   },
+   {
+    "prova": "2021 - DPE-GO - Defensor Público",
+    "n": 10.0,
+    "acertos": 3.0,
+    "pct": 30.0
+   },
+   {
+    "prova": "2021 - DPE-RR - Defensor Público",
+    "n": 10.0,
+    "acertos": 6.0,
+    "pct": 60.0
+   },
+   {
+    "prova": "2021 - DPE-SC - Defensor Público",
+    "n": 5.0,
+    "acertos": 5.0,
+    "pct": 100.0
+   },
+   {
+    "prova": "2022 - DPE-AP - Defensor Público",
+    "n": 8.0,
+    "acertos": 3.0,
+    "pct": 37.5
+   },
+   {
+    "prova": "2022 - DPE-CE - Defensor Público",
+    "n": 11.0,
+    "acertos": 5.0,
+    "pct": 45.5
+   },
+   {
+    "prova": "2022 - DPE-MT - Defensor Público",
+    "n": 8.0,
+    "acertos": 6.0,
+    "pct": 75.0
+   },
+   {
+    "prova": "2022 - DPE-PB - Defensor Público",
+    "n": 9.0,
+    "acertos": 3.0,
+    "pct": 33.3
+   },
+   {
+    "prova": "2023 - DPE-ES - Defensor Público",
+    "n": 8.0,
+    "acertos": 4.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2023 - DPE-SP - Defensor Público",
+    "n": 8.0,
+    "acertos": 3.0,
+    "pct": 37.5
+   },
+   {
+    "prova": "2025 - DPE-AM - Defensor Público",
+    "n": 8.0,
+    "acertos": 4.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2025 - DPE-RS - Defensor Público",
+    "n": 6.0,
+    "acertos": 5.0,
+    "pct": 83.3
+   },
+   {
+    "prova": "2026 - DPE-BA - Defensor Público",
+    "n": 13.0,
+    "acertos": 6.0,
+    "pct": 46.2
+   },
+   {
+    "prova": "2026 - DPE-MA - Defensor Público",
+    "n": 11.0,
+    "acertos": 7.0,
+    "pct": 63.6
+   },
+   {
+    "prova": "2026 - DPE-MT - Defensor Público",
+    "n": 7.0,
+    "acertos": 2.0,
+    "pct": 28.6
+   }
+  ],
+  "media_temporal": 53.6,
+  "media_loo": 51.8,
+  "acaso": 40.0
+ },
+ "avisos": [],
+ "grupos_desc": {
+  "A": "mesma carreira, banca e cargo",
+  "B": "mesma carreira e banca, outro cargo",
+  "C": "outra banca ou outra carreira"
+ }
+}

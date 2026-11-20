@@ -1,0 +1,282 @@
+{
+ "pasta": "2025 - DPE-SP - Analista de Defensoria",
+ "banca": "FCC",
+ "disciplina": "PCIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 4465,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Código de Processo Civil (Lei nº 13.105, de 16 de março de 2015)."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Constituição e Processo."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "A Constitucionalização do processo.",
+      "Princípios constitucionais no processo civil."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Normas de Direito Processual Civil: natureza jurídica, fontes, princípios processuais civis, interpretação e direito processual intertemporal.",
+      "Princípios infraconstitucionais do processo civil."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Jurisdição: conceito, características, princípios e espécies."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Competência."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Meios alternativos de solução de conflitos: autotutela, conciliação e mediação, arbitragem e tribunais administrativos."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Ação: teorias, classificação, elementos, condições e cumulação."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Processo: pressupostos processuais, atos processuais, vícios dos atos processuais, lugar, tempo e forma dos atos processuais, comunicação dos atos processuais.",
+      "Preclusão.",
+      "Formação, suspensão e extinção do processo."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Sujeitos do processo: partes, capacidade, deveres e responsabilidade por dano processual, substituição, sucessão.",
+      "Litisconsórcio.",
+      "Intervenção de terceiros: típicas e atípicas."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Tutela de urgência e da evidência."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Procedimento comum: petição inicial, improcedência liminar do pedido.",
+      "Audiência de conciliação ou de mediação.",
+      "Respostas do réu; contestação, reconvenção e revelia.",
+      "Providências preliminares.",
+      "Julgamento conforme o estado do processo.",
+      "Das provas; teoria geral das provas e provas em espécie.",
+      "Sentença e coisa julgada."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Procedimentos do processo de conhecimento: procedimentos especiais (jurisdição contenciosa e jurisdição voluntária)."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Normas processuais civis e medidas tutelares:"
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "No Estatuto da Criança e Adolescente."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "No Estatuto do Idoso;"
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "No Estatuto das Cidades;"
+     ]
+    },
+    {
+     "item": "12.4",
+     "frases": [
+      "Na Lei de Inclusão da Pessoa com Deficiência;"
+     ]
+    },
+    {
+     "item": "12.5",
+     "frases": [
+      "No Código de Defesa aos Consumidores;"
+     ]
+    },
+    {
+     "item": "12.6",
+     "frases": [
+      "Na Lei Maria da Penha;"
+     ]
+    },
+    {
+     "item": "12.7",
+     "frases": [
+      "No Estatuto da Igualdade Racial."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Tutelas declaratórias, condenatórias, mandamentais, cominatórias e específicas."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Cumprimento de sentença e processo de execução.",
+      "Diversas espécies de execução.",
+      "Defesas do executado e de terceiros na execução.",
+      "Ações prejudiciais à execução."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Processo nos tribunais e meios de impugnação das decisões judiciais.",
+      "Incidente de assunção de competência; incidente de arguição de inconstitucionalidade; conflito de competência; homologação de decisão estrangeira; ação rescisória; incidente de resolução de demandas repetitivas; reclamação."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Recursos e meios de impugnação.",
+      "Teoria geral dos recursos.",
+      "Admissibilidade e efeitos.",
+      "Princípios.",
+      "Apelação, agravos, embargos de declaração, embargos de divergência.",
+      "Recursos nos Tribunais Superiores.",
+      "Repercussão Geral.",
+      "Arguição de relevância.",
+      "Súmula.",
+      "Súmula Vinculante.",
+      "Reexame necessário, mandado de segurança contra ato judicial, ação declaratória de inexistência de ato processual e querela nullitatis."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Precedentes: teoria geral, distinguishing e overhulling."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Prerrogativas processuais da Defensoria Pública."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "A Fazenda Pública como parte no processo: polos ativo e passivo.",
+      "Prerrogativas.",
+      "Ação de conhecimento e execução.",
+      "A Fazenda nos procedimentos especiais.",
+      "Juizados Especiais da Fazenda Pública Estadual."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Ação de usucapião.",
+      "Usucapião como matéria de defesa."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Processo coletivo.",
+      "Ação civil pública e outros instrumentos processuais de tutela coletiva e Leis nºs 4.717/65, 7.347/85, 8.078/90, 9.507/97, 12.016/09, 13.105/15.",
+      "Instrumentos administrativos de resolução extrajudicial de conflitos de natureza coletiva.",
+      "Inquérito civil e outros procedimentos administrativos de tutela coletiva.",
+      "A requisição e recomendação do/a Defensor/a Público/a em matéria coletiva.",
+      "Custos vulnerabilis."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Ação declaratória de inconstitucionalidade/constitucionalidade.",
+      "Ação de descumprimento de preceito constitucional.",
+      "Habeas Corpus, Habeas Data e Mandado de Injunção.",
+      "Mandado de segurança individual e coletivo."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Ações da Lei de Locação dos Imóveis Urbanos: despejo, consignatória de aluguel e acessórios, renovatória e revisional.",
+      "Postulação e defesa."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Ações de família.",
+      "Alimentos.",
+      "Execução de alimentos.",
+      "Lei de Alimentos e disposições do Código de Processo Civil.",
+      "Ações declaratória e negatória de vínculo parental (em vida e póstuma).",
+      "Separação, divórcio direto e mediante conversão.",
+      "Declaratória de união estável (em vida e póstuma).",
+      "Separação e divórcio extrajudiciais.",
+      "Inventário judicial e extrajudicial.",
+      "Arrolamento.",
+      "Alvará."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Juizados Especiais Cíveis.",
+      "Enunciados."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Assistência Judiciária: aspectos processuais."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Processo eletrônico."
+     ]
+    }
+   ]
+  }
+ ]
+}

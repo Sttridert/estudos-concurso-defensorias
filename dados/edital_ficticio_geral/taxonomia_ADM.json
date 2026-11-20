@@ -1,0 +1,297 @@
+{
+ "disciplina": "Direito Administrativo",
+ "sem_acento": true,
+ "herdar_do_pai": "amplo",
+ "temas": [
+  {
+   "codigo": "AD01",
+   "nome": "Noções gerais e regime jurídico administrativo"
+  },
+  {
+   "codigo": "AD02",
+   "nome": "Organização administrativa"
+  },
+  {
+   "codigo": "AD03",
+   "nome": "Poderes e deveres da Administração"
+  },
+  {
+   "codigo": "AD04",
+   "nome": "Atos administrativos"
+  },
+  {
+   "codigo": "AD05",
+   "nome": "Processo administrativo"
+  },
+  {
+   "codigo": "AD06",
+   "nome": "Licitações"
+  },
+  {
+   "codigo": "AD07",
+   "nome": "Contratos e ajustes administrativos"
+  },
+  {
+   "codigo": "AD08",
+   "nome": "Serviços públicos e delegação"
+  },
+  {
+   "codigo": "AD09",
+   "nome": "Bens públicos"
+  },
+  {
+   "codigo": "AD10",
+   "nome": "Agentes públicos"
+  },
+  {
+   "codigo": "AD11",
+   "nome": "Responsabilidade civil do Estado"
+  },
+  {
+   "codigo": "AD12",
+   "nome": "Intervenção do Estado na propriedade"
+  },
+  {
+   "codigo": "AD13",
+   "nome": "Atuação do Estado no domínio econômico"
+  },
+  {
+   "codigo": "AD14",
+   "nome": "Controle da Administração, improbidade e transparência"
+  },
+  {
+   "codigo": "AD15",
+   "nome": "Gestão e finanças da Defensoria Pública"
+  }
+ ],
+ "topicos": [
+  {
+   "codigo": "AD01.01",
+   "tema": "AD01",
+   "nome": "Conceito, objeto, fontes e evolução do direito administrativo",
+   "regex": "^direito administrativo|conceito, objeto|introducao ao direito administrativo|fontes do direito administrativo|evolucao historica|sistemas administrativos|disposicoes doutrinarias|legislacao pertinente|origens, objeto|estado, governo e administracao|funcoes do estado"
+  },
+  {
+   "codigo": "AD01.02",
+   "tema": "AD01",
+   "nome": "Regime jurídico administrativo e princípios da Administração",
+   "regex": "regime juridico administrativo|principios (expressos|do direito administrativo|da administracao|basicos|constitucionais|implicitos)|supremacia do interesse|indisponibilidade|legalidade|impessoalidade|moralidade|publicidade|eficiencia|razoabilidade|proporcionalidade|motivacao|prerrogativas|sujeicoes|principios do processo"
+  },
+  {
+   "codigo": "AD01.03",
+   "tema": "AD01",
+   "nome": "Administração pública: conceito, sentidos e modelos",
+   "regex": "^administracao publica|administracao publica: em sentido|conceito, organizacao e modelos|modelos de administracao|burocratico|gerencial|governanca"
+  },
+  {
+   "codigo": "AD02.01",
+   "tema": "AD02",
+   "nome": "Organização administrativa: centralização, descentralização e órgãos públicos",
+   "regex": "organizacao administrativa|centralizacao|descentralizacao|concentracao|desconcentracao|orgaos publicos|administracao direta|aspectos gerais da administracao direta|hierarquia|organizacao funcional|divisao de competencias|delegacao e avocacao|estrutura da administracao|orgaos e entes publicos|avocacao"
+  },
+  {
+   "codigo": "AD02.02",
+   "tema": "AD02",
+   "nome": "Administração indireta: autarquias, fundações, empresas estatais e agências",
+   "regex": "administracao indireta|autarquias|fundacoes publicas|empresas publicas|sociedades de economia mista|pessoas juridicas vinculadas|agencias (reguladoras|executivas)|empresas estatais|regime especial"
+  },
+  {
+   "codigo": "AD02.03",
+   "tema": "AD02",
+   "nome": "Terceiro setor e entidades paraestatais",
+   "regex": "paraestatais|terceiro setor|organizacoes sociais|oscip|sociedade civil de interesse publico|organizacao da sociedade civil|servicos sociais autonomos|entidades de apoio|utilidade publica"
+  },
+  {
+   "codigo": "AD03.01",
+   "tema": "AD03",
+   "nome": "Poderes administrativos: hierárquico, disciplinar e regulamentar; uso e abuso do poder",
+   "regex": "poderes da administracao|poderes e deveres|poder (hierarquico|disciplinar|regulamentar|normativo)|uso e abuso do poder|abuso de poder|desvio de (poder|finalidade)|excesso de poder"
+  },
+  {
+   "codigo": "AD03.02",
+   "tema": "AD03",
+   "nome": "Poder de polícia",
+   "regex": "poder de policia|delegabilidade do poder de policia|mecanismos consensuais no exercicio|limites a delegabilidade|sancoes administrativas|ciclo de policia"
+  },
+  {
+   "codigo": "AD03.03",
+   "tema": "AD03",
+   "nome": "Deveres dos administradores públicos",
+   "regex": "deveres|dever de (agir|eficiencia|probidade|prestacao de contas)|probidade|prestacao de contas|poder-dever"
+  },
+  {
+   "codigo": "AD04.01",
+   "tema": "AD04",
+   "nome": "Ato administrativo: conceito, elementos, atributos e classificação",
+   "regex": "ato administrativo|atos administrativos|atributos|elementos e requisitos|requisitos de validade|classificacao e especies|atos administrativos em especie|negocios juridicos da administracao|fato administrativo|formacao e efeitos|teoria dos atos"
+  },
+  {
+   "codigo": "AD04.02",
+   "tema": "AD04",
+   "nome": "Vinculação, discricionariedade e controle do mérito",
+   "regex": "vinculacao e discricionariedade|discricionariedade|merito administrativo|teoria dos motivos determinantes|motivo e motivacao|conceitos juridicos indeterminados"
+  },
+  {
+   "codigo": "AD04.03",
+   "tema": "AD04",
+   "nome": "Extinção dos atos: revogação, anulação, convalidação e nulidades",
+   "regex": "revogacao|invalidacao|convalidacao|anulacao|teoria das nulidades|atos administrativos nulos|coisa julgada administrativa|extincao dos atos|cassacao|caducidade|decadencia administrativa|autotutela"
+  },
+  {
+   "codigo": "AD05.01",
+   "tema": "AD05",
+   "nome": "Processo e procedimento administrativo",
+   "regex": "processo administrativo|procedimento administrativo|lei n.{0,4}9\\.784|recursos administrativos|principios do processo administrativo|processo administrativo (federal|estadual)"
+  },
+  {
+   "codigo": "AD05.02",
+   "tema": "AD05",
+   "nome": "Processo administrativo disciplinar e sindicância",
+   "regex": "processo administrativo disciplinar|sindicancia|\\bpad\\b|procedimento disciplinar|penalidades|infracoes disciplinares|regime disciplinar"
+  },
+  {
+   "codigo": "AD06.01",
+   "tema": "AD06",
+   "nome": "Licitação: conceito, princípios, modalidades, procedimento, anulação e sanções",
+   "regex": "licitacao|licitacoes|modalidades|procedimento licitatorio|criterios de julgamento|tipos de licitacao|14\\.133|nova lei de licitacoes|lei n.{0,4}8\\.666|pregao|concorrencia|dialogo competitivo|fases|registro de precos|anulacao, revogacao e recursos|politicas de fomento por meio das contratacoes|sancoes administrativas|margem de preferencia|desenvolvimento nacional sustentavel"
+  },
+  {
+   "codigo": "AD06.02",
+   "tema": "AD06",
+   "nome": "Contratação direta: dispensa e inexigibilidade",
+   "regex": "contratacao direta|dispensa|inexigibilidade|obrigatoriedade, dispensa"
+  },
+  {
+   "codigo": "AD07.01",
+   "tema": "AD07",
+   "nome": "Contrato administrativo: conceito, características e cláusulas exorbitantes",
+   "regex": "contratos? administrativos?|clausulas exorbitantes|clausula de privilegio|formalizacao|especies|equacao economico-financeira|prerrogativas|garantias"
+  },
+  {
+   "codigo": "AD07.02",
+   "tema": "AD07",
+   "nome": "Execução, alteração, equilíbrio econômico-financeiro, rescisão e extinção",
+   "regex": "execucao|inexecucao|duracao, prorrogacao|renovacao|revisao e rescisao|rescisao|equacao economico-financeira|equilibrio economico|reajuste|alteracao unilateral|extincao do contrato|teoria da imprevisao|fato do principe"
+  },
+  {
+   "codigo": "AD07.03",
+   "tema": "AD07",
+   "nome": "Convênios, consórcios, ajustes e meios consensuais (arbitragem, mediação)",
+   "regex": "convenios|consorcios|termos de ajuste|termos substitutivos|acordos administrativos|parcerias|termo de (fomento|colaboracao)|marco regulatorio das organizacoes|arbitragem|mediacao|autocomposicao|meios consensuais|solucao consensual"
+  },
+  {
+   "codigo": "AD08.01",
+   "tema": "AD08",
+   "nome": "Serviços públicos: conceito, princípios, classificação e direitos dos usuários",
+   "regex": "servicos publicos|servicos sociais|direitos e deveres dos usuarios|atendimento especializado|principios do servico|competencia, regulamentacao e controle|classificacao dos servicos|cadeia de valor|servico adequado"
+  },
+  {
+   "codigo": "AD08.02",
+   "tema": "AD08",
+   "nome": "Concessão, permissão, autorização e parcerias público-privadas",
+   "regex": "concessao|permissao|autorizacao|parceria publico-privada|\\bppp\\b|formas de prestacao e remuneracao|delegacao de servicos|lei n.{0,4}8\\.987|11\\.079|tarifas|reversao"
+  },
+  {
+   "codigo": "AD09.01",
+   "tema": "AD09",
+   "nome": "Bens públicos: conceito, classificação, afetação e regime jurídico",
+   "regex": "bens publicos|afetacao e desafetacao|afetacao|desafetacao|regime juridico dos bens|conceito, elementos e classificacao|especies de bens|dominio publico|inalienabilidade|imprescritibilidade|impenhorabilidade|bens (da|do) uniao|terras devolutas|terrenos de marinha|aquisicao e especies"
+  },
+  {
+   "codigo": "AD09.02",
+   "tema": "AD09",
+   "nome": "Uso, gestão e alienação de bens públicos",
+   "regex": "utilizacao e regime juridico|uso privativo|diferentes tipos de uso|concessao de direito real de uso|concessao de uso especial|autorizacao de uso|permissao de uso|gestao e alienacao|aquisicao e alienacao|alienacao|uso comum|cessao de uso|enfiteuse|aforamento"
+  },
+  {
+   "codigo": "AD10.01",
+   "tema": "AD10",
+   "nome": "Agentes públicos: conceito, classificação, regime jurídico e responsabilidade",
+   "regex": "agentes publicos|servidores publicos|organizacao e regime juridico funcional|regime juridico funcional|provimento|estagio probatorio|estabilidade|remuneracao|cargos|empregos e funcoes|acumulacao|concurso publico|vacancia|direitos e deveres dos servidores|ferias|licencas|improbidade? .*servidor|responsabilidade administrativa, civil e criminal|responsabilidade dos (agentes|servidores)|responsabilidade (civil|penal|civil e penal)[^.]*servidor|responsabilidade do servidor|acumulacao de responsabilidades|independencia das instancias|responsabilidade do parecerista|responsabilidade[^.]*agentes publicos"
+  },
+  {
+   "codigo": "AD10.02",
+   "tema": "AD10",
+   "nome": "Regime previdenciário dos servidores públicos",
+   "regex": "regime previdenciario|regime de previdencia|previdencia (dos|do) servidor|aposentadoria|pensao|rpps"
+  },
+  {
+   "codigo": "AD11.01",
+   "tema": "AD11",
+   "nome": "Responsabilidade civil do Estado: teorias e responsabilidade objetiva",
+   "regex": "responsabilidade (civil|patrimonial|extracontratual)(?![^.]*(servidor|agente|pessoas juridicas|improbidade))|teorias sobre a responsabilidade|irresponsabilidade|responsabilidade objetiva|responsabilidade por atos|panorama teorico e evolutivo|nocoes gerais sobre a responsabilidade|risco administrativo|responsabilidade por omissao|prescricao d[ae]s? pretensoes? (contra|em face)"
+  },
+  {
+   "codigo": "AD11.02",
+   "tema": "AD11",
+   "nome": "Reparação do dano, direito de regresso e excludentes",
+   "regex": "reparacao do dano|direito de regresso|causas excludentes|atenuantes|responsabilidade civil do estado.*excludentes|denunciacao da lide|culpa exclusiva da vitima|caso fortuito|forca maior"
+  },
+  {
+   "codigo": "AD12.01",
+   "tema": "AD12",
+   "nome": "Desapropriação",
+   "regex": "desapropriacao|retrocessao|expropriacao|desapropriacao indireta|justa e previa indenizacao|utilidade publica|interesse social"
+  },
+  {
+   "codigo": "AD12.02",
+   "tema": "AD12",
+   "nome": "Servidão, requisição, ocupação temporária, limitações administrativas e tombamento",
+   "regex": "servidao|requisicao|ocupacao temporaria|limitacoes administrativas|limitacao administrativa|tombamento|intervencao do estado na propriedade|fundamentos, competencia e controle judicial"
+  },
+  {
+   "codigo": "AD13.01",
+   "tema": "AD13",
+   "nome": "Atuação do Estado no domínio econômico e Estado regulador",
+   "regex": "dominio economico|ordem economica|liberalismo economico|intervencionismo|estado regulador|monopolio estatal|formas de atuacao do estado|regulacao|agencias reguladoras|livre iniciativa|concorrencia|fundamentos da ordem"
+  },
+  {
+   "codigo": "AD14.01",
+   "tema": "AD14",
+   "nome": "Controle da Administração: administrativo, legislativo e Tribunal de Contas",
+   "regex": "controle da administracao|controle (administrativo|interno|externo|legislativo|politico|exercido)|tribunal de contas|controle e responsabilidade|controle social|controladoria|ouvidoria"
+  },
+  {
+   "codigo": "AD14.02",
+   "tema": "AD14",
+   "nome": "Controle judicial e súmulas vinculantes",
+   "regex": "controle judicial|sumulas vinculantes|instrumentos de controle judicial|mandado de seguranca|acao popular|habeas|acao civil publica"
+  },
+  {
+   "codigo": "AD14.03",
+   "tema": "AD14",
+   "nome": "Improbidade administrativa",
+   "regex": "improbidade|8\\.429|14\\.230|enriquecimento ilicito|atos de improbidade"
+  },
+  {
+   "codigo": "AD14.04",
+   "tema": "AD14",
+   "nome": "Transparência, acesso à informação, anticorrupção e integridade",
+   "regex": "transparencia|acesso a informacao|12\\.527|anticorrupcao|12\\.846|integridade|compliance|lgpd|protecao de dados|governo digital|governo aberto"
+  },
+  {
+   "codigo": "AD15.01",
+   "tema": "AD15",
+   "nome": "Atribuições administrativas e atendimento ao público na Defensoria",
+   "regex": "defensoria|atendimento especializado|atribuicoes administrativas|gestao publica|defensor publico-geral|conselho superior"
+  },
+  {
+   "codigo": "AD15.02",
+   "tema": "AD15",
+   "nome": "Orçamento, responsabilidade fiscal e atividade financeira",
+   "regex": "responsabilidade fiscal|atividade financeira|orcamento|proposta orcamentaria|competencia legislativa|iniciativa|lei de responsabilidade|financas publicas|despesa publica|receita publica|dotacao|lei orcamentaria|\\bldo\\b|\\bppa\\b|\\bloa\\b|4\\.320|contabil|nbc tsp|plano de contas|demonstracoes contabeis|instrucao normativa tcu|decisao normativa tcu"
+  }
+ ],
+ "outra_disciplina": {
+  "Direito Tributário": "tributari|tributos?\\b|poder de tributar|impostos|icms|\\biss\\b|\\bipi\\b|contribuicao de iluminacao|contribuicoes? (de|sociais)|credito tributario|lancamento|obrigacao tributaria|imunidades",
+  "Direito Constitucional": "poder legislativo|poder judiciario|processo legislativo|controle de constitucionalidade|direitos fundamentais",
+  "Direito Penal": "crimes contra a administracao|codigo penal|peculato|corrupcao passiva",
+  "Seguridade, assistência social e políticas sociais (outras disciplinas)": "\\bsus\\b|8\\.080|loas|8\\.742|socioassistenciais|assistencia social|maria da penha|privadas de liberdade|pnaisp|violencia domestica",
+  "Constituição estadual e leis locais (conteúdo local)": "constituicao do estado|constituicao estadual|lei organica do|leis? (estadual|municipal)",
+  "Informática / outros cargos": "microsoft|office 365|redacao oficial|secretariado|manual de redacao",
+  "Auditoria e contabilidade (outros cargos)": "auditoria|evidencia de auditoria|avaliacao de riscos|documentacao de auditoria|contabilidade|demonstracoes contabeis",
+  "Texto do edital (não é conteúdo)": "diario oficial eletronico|diario oficial|pagina \\d+|publicado no diario|edital n.{0,4}\\d|0800|defensoria publica do estado de|concurso publico \\d+"
+ },
+ "congelada": "v1 em 14/11/2026",
+ "fragmentos_genericos": "^(disposicoes (gerais|comuns|finais)|classificacoes?|conceito|conceitos|principios|caracteristicas|natureza|requisitos|efeitos|especies|elementos|fontes|objeto|fases|forma|audiencias|aspectos processuais|estrutura|competencia|procedimento|generalidades|noções|nocoes|jurisprudencia.*|enunciados.*|legislacao (pertinente|especial|federal.*)|demais aspectos.*)\\.?$"
+}

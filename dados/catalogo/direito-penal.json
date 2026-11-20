@@ -1,0 +1,666 @@
+{
+ "disciplina": "Direito Penal",
+ "assuntos": [
+  {
+   "codigo": "PE01",
+   "nome": "Fundamentos do Direito Penal",
+   "descricao": "Conceito, fontes, escolas, princípios e relação com a Constituição e os Direitos Humanos."
+  },
+  {
+   "codigo": "PE02",
+   "nome": "Lei penal e sua aplicação",
+   "descricao": "Eficácia da lei penal no tempo e no espaço, interpretação e conflito entre normas."
+  },
+  {
+   "codigo": "PE03",
+   "nome": "Teoria do delito: conceito e estrutura",
+   "descricao": "Visão geral do crime e das teorias que o explicam; a tipicidade, a ilicitude e a culpabilidade vêm nos três assuntos seguintes."
+  },
+  {
+   "codigo": "PE04",
+   "nome": "Teoria do delito: tipicidade",
+   "descricao": "Tudo o que torna a conduta típica: tipo, conduta, resultado, causalidade, elemento subjetivo, erro de tipo e as fases e figuras que afetam a tipicidade (tentativa e afins)."
+  },
+  {
+   "codigo": "PE05",
+   "nome": "Teoria do delito: ilicitude",
+   "descricao": "Contrariedade da conduta típica ao Direito e as causas que a excluem."
+  },
+  {
+   "codigo": "PE06",
+   "nome": "Teoria do delito: culpabilidade",
+   "descricao": "Reprovabilidade do autor e as causas que a afastam."
+  },
+  {
+   "codigo": "PE07",
+   "nome": "Concurso de pessoas",
+   "descricao": "Pluralidade de agentes no mesmo crime."
+  },
+  {
+   "codigo": "PE08",
+   "nome": "Penas",
+   "descricao": "Teoria e espécies das sanções penais."
+  },
+  {
+   "codigo": "PE09",
+   "nome": "Aplicação da pena",
+   "descricao": "Como o juiz chega à pena concreta."
+  },
+  {
+   "codigo": "PE10",
+   "nome": "Medidas posteriores à condenação",
+   "descricao": "Suspensão, livramento e efeitos da condenação."
+  },
+  {
+   "codigo": "PE11",
+   "nome": "Punibilidade",
+   "descricao": "Extinção da punibilidade."
+  },
+  {
+   "codigo": "PE12",
+   "nome": "Crimes em espécie",
+   "descricao": "Os crimes do Código Penal, um tópico por grupo de crimes (bem jurídico protegido)."
+  },
+  {
+   "codigo": "PE13",
+   "nome": "Legislação penal especial",
+   "descricao": "Leis penais fora do Código Penal; aqui a própria lei é o tópico (confirmar se convém agrupar por tema)."
+  }
+ ],
+ "pontos": [
+  {
+   "codigo": "PE01.01",
+   "assunto": "PE01",
+   "texto": "Conceito, fontes e finalidades do Direito Penal",
+   "descricao": "Conceito e fontes do Direito Penal, poder punitivo e função do Direito Penal.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE01.02",
+   "assunto": "PE01",
+   "texto": "Escolas penais e evolução histórica",
+   "descricao": "Escolas penais e história da criminalização no Brasil.",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE01.03",
+   "assunto": "PE01",
+   "texto": "Princípios penais",
+   "descricao": "Legalidade, intervenção mínima, fragmentariedade, insignificância, ofensividade, adequação social, humanidade, culpabilidade, individualização.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE01.04",
+   "assunto": "PE01",
+   "texto": "Direito Penal, Constituição e Direitos Humanos",
+   "descricao": "CF art. 5º (incisos penais), garantismo, Direito Penal e Direitos Humanos. [Tema compartilhado com Direitos Humanos]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE02.01",
+   "assunto": "PE02",
+   "texto": "Lei penal no tempo",
+   "descricao": "CF art. 5º, XL; tempo do crime; retroatividade da lei mais benéfica; leis temporárias e excepcionais (confirmar).",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE02.02",
+   "assunto": "PE02",
+   "texto": "Lei penal no espaço",
+   "descricao": "Territorialidade e extraterritorialidade, lugar do crime, imunidades e extradição (confirmar).",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE02.03",
+   "assunto": "PE02",
+   "texto": "Interpretação e integração da lei penal",
+   "descricao": "Espécies de interpretação e analogia in malam partem.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE02.04",
+   "assunto": "PE02",
+   "texto": "Conflito aparente de normas",
+   "descricao": "Especialidade, subsidiariedade e consunção.",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE03.01",
+   "assunto": "PE03",
+   "texto": "Conceito analítico de crime",
+   "descricao": "Conceito formal, material e analítico de crime (confirmar a divisão em tipicidade, ilicitude e culpabilidade).",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE03.02",
+   "assunto": "PE03",
+   "texto": "Evolução da teoria do delito",
+   "descricao": "Causalismo, finalismo e funcionalismo.",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE03.03",
+   "assunto": "PE03",
+   "texto": "Bem jurídico-penal",
+   "descricao": "Conceito e função do bem jurídico.",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE04.01",
+   "assunto": "PE04",
+   "texto": "Tipo penal e tipicidade",
+   "descricao": "Elementos do tipo; tipicidade formal, material e conglobante; norma penal em branco (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE04.02",
+   "assunto": "PE04",
+   "texto": "Conduta e omissão",
+   "descricao": "Teorias da conduta; omissão própria e imprópria (CP art. 13, §2º, confirmar).",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE04.03",
+   "assunto": "PE04",
+   "texto": "Resultado e relação de causalidade",
+   "descricao": "CP art. 13 (causalidade, causa superveniente).",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE04.04",
+   "assunto": "PE04",
+   "texto": "Imputação objetiva",
+   "descricao": "Risco proibido e imputação do resultado.",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE04.05",
+   "assunto": "PE04",
+   "texto": "Dolo e culpa",
+   "descricao": "CP art. 18",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE04.06",
+   "assunto": "PE04",
+   "texto": "Erro de tipo",
+   "descricao": "CP art. 20.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE04.07",
+   "assunto": "PE04",
+   "texto": "Iter criminis e tentativa",
+   "descricao": "CP art. 14",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE04.08",
+   "assunto": "PE04",
+   "texto": "Desistência voluntária e arrependimento eficaz",
+   "descricao": "CP art. 15.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE04.09",
+   "assunto": "PE04",
+   "texto": "Crime impossível",
+   "descricao": "CP art. 17.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE04.10",
+   "assunto": "PE04",
+   "texto": "Arrependimento posterior",
+   "descricao": "CP art. 16. (confirmar se fica aqui ou em Pena; é causa de diminuição de pena)",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE05.01",
+   "assunto": "PE05",
+   "texto": "Ilicitude e injusto penal",
+   "descricao": "Ilicitude formal e material, injusto penal, Direito Penal e moral.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE05.02",
+   "assunto": "PE05",
+   "texto": "Excludentes de ilicitude",
+   "descricao": "CP arts. 23 a 25: estado de necessidade, legítima defesa, estrito cumprimento do dever legal, exercício regular de direito, excesso.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE06.01",
+   "assunto": "PE06",
+   "texto": "Conceito e teorias da culpabilidade",
+   "descricao": "Teorias da culpabilidade, coculpabilidade, culpabilidade por vulnerabilidade, Direito Penal do fato e do autor.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE06.02",
+   "assunto": "PE06",
+   "texto": "Imputabilidade",
+   "descricao": "CP arts. 26 a 28.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE06.03",
+   "assunto": "PE06",
+   "texto": "Potencial consciência da ilicitude e erro de proibição",
+   "descricao": "CP art. 21.",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE06.04",
+   "assunto": "PE06",
+   "texto": "Inexigibilidade de conduta diversa",
+   "descricao": "CP art. 22 (coação moral irresistível e obediência hierárquica), inexigibilidade.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE07.01",
+   "assunto": "PE07",
+   "texto": "Requisitos e punição no concurso de pessoas",
+   "descricao": "CP arts. 29 a 31.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE07.02",
+   "assunto": "PE07",
+   "texto": "Autoria e participação",
+   "descricao": "Teorias da autoria, coautoria, participação e autoria mediata (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE08.01",
+   "assunto": "PE08",
+   "texto": "Teorias e finalidades da pena",
+   "descricao": "Teorias absolutas, relativas e mistas [Tema compartilhado com Execução Penal]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE08.02",
+   "assunto": "PE08",
+   "texto": "Espécies de pena e regimes de cumprimento",
+   "descricao": "CP arts. 32 a 42. [Tema compartilhado com Execução Penal]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE08.03",
+   "assunto": "PE08",
+   "texto": "Penas restritivas de direitos",
+   "descricao": "CP arts. 43 a 52 (requisitos da substituição). [Tema compartilhado com Execução Penal]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE08.04",
+   "assunto": "PE08",
+   "texto": "Pena de multa",
+   "descricao": "Dias-multa e execução da multa (confirmar). [Tema compartilhado com Execução Penal]",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE08.05",
+   "assunto": "PE08",
+   "texto": "Medida de segurança",
+   "descricao": "CP arts. 96 a 99. [Tema compartilhado com Execução Penal e Direitos Humanos (saúde mental)]",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE09.01",
+   "assunto": "PE09",
+   "texto": "Dosimetria: sistema trifásico",
+   "descricao": "CP arts. 59, 61 a 68.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE09.02",
+   "assunto": "PE09",
+   "texto": "Reincidência e antecedentes",
+   "descricao": "CP arts. 63 e 64",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE09.03",
+   "assunto": "PE09",
+   "texto": "Concurso de crimes",
+   "descricao": "CP arts. 69 a 71 (material, formal e continuado).",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE10.01",
+   "assunto": "PE10",
+   "texto": "Suspensão condicional da pena (sursis)",
+   "descricao": "CP arts. 77 a 82 (confirmar). [Tema compartilhado com Execução Penal]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE10.02",
+   "assunto": "PE10",
+   "texto": "Livramento condicional",
+   "descricao": "CP arts. 83 a 90 (confirmar). [Tema compartilhado com Execução Penal]",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE10.02#v1",
+   "assunto": "PE12",
+   "texto": "Lesão corporal e demais crimes contra a pessoa",
+   "descricao": "CP arts. 129 a 154.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 0,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE10.03",
+   "assunto": "PE10",
+   "texto": "Efeitos da condenação",
+   "descricao": "Efeitos genéricos e específicos (confirmar).",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PE10.04",
+   "assunto": "PE10",
+   "texto": "Reabilitação",
+   "descricao": "CP arts. 93 a 95 (confirmar). [Tema compartilhado com Execução Penal]",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE11.01",
+   "assunto": "PE11",
+   "texto": "Causas de extinção da punibilidade",
+   "descricao": "CP art. 107 (morte, anistia, graça, indulto, abolitio, decadência, perempção, renúncia, perdão). [Tema compartilhado com Execução Penal (anistia, graça e indulto)]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE11.02",
+   "assunto": "PE11",
+   "texto": "Prescrição",
+   "descricao": "CP arts. 109 a 119. [Tema compartilhado com Execução Penal]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE11.02#v1",
+   "assunto": "PE12",
+   "texto": "Extorsão, estelionato, receptação e demais crimes patrimoniais",
+   "descricao": "CP arts. 158 a 183.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 0,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE12.01",
+   "assunto": "PE12",
+   "texto": "Crimes contra a pessoa",
+   "descricao": "CP arts. 121 a 154 (vida, lesão corporal, periclitação, honra, liberdade individual).",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE12.02",
+   "assunto": "PE12",
+   "texto": "Crimes contra o patrimônio",
+   "descricao": "CP arts. 155 a 183 (furto, roubo, latrocínio, extorsão, estelionato, receptação).",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE12.02#v1",
+   "assunto": "PE12",
+   "texto": "Importunação, assédio e demais crimes sexuais",
+   "descricao": "CP arts. 215 a 218-C.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 0,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE12.03",
+   "assunto": "PE12",
+   "texto": "Crimes contra a dignidade sexual",
+   "descricao": "CP arts. 213 a 218-C (estupro, estupro de vulnerável, importunação e assédio). [Tema compartilhado com ECA]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE12.04",
+   "assunto": "PE12",
+   "texto": "Crimes contra a administração pública",
+   "descricao": "CP arts. 312 a 359.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE12.05",
+   "assunto": "PE12",
+   "texto": "Crimes contra o Estado Democrático de Direito",
+   "descricao": "CP arts. 359-I a 359-T (Lei 14.197/2021).",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE12.06",
+   "assunto": "PE12",
+   "texto": "Crimes contra a incolumidade e a paz públicas",
+   "descricao": "Incêndio, associação criminosa e demais títulos fora da lista do edital (confirmar).",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.01",
+   "assunto": "PE13",
+   "texto": "Lei de Drogas",
+   "descricao": "Lei 11.343/2006.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.02",
+   "assunto": "PE13",
+   "texto": "Violência doméstica (Lei Maria da Penha)",
+   "descricao": "Lei 11.340/2006. [Tema compartilhado com Direitos Humanos]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.03",
+   "assunto": "PE13",
+   "texto": "Crimes hediondos",
+   "descricao": "Lei 8.072/1990.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.04",
+   "assunto": "PE13",
+   "texto": "Estatuto do Desarmamento",
+   "descricao": "Lei 10.826/2003.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.05",
+   "assunto": "PE13",
+   "texto": "Organização criminosa",
+   "descricao": "Lei 12.850/2013. [Tema compartilhado com Direito Processual Penal]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.06",
+   "assunto": "PE13",
+   "texto": "Crimes de trânsito",
+   "descricao": "Lei 9.503/1997.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.07",
+   "assunto": "PE13",
+   "texto": "Lei de Tortura",
+   "descricao": "Lei 9.455/1997. [Tema compartilhado com Direitos Humanos e Execução Penal]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.08",
+   "assunto": "PE13",
+   "texto": "Crimes ambientais",
+   "descricao": "Lei 9.605/1998.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.09",
+   "assunto": "PE13",
+   "texto": "Crimes de preconceito de raça ou de cor",
+   "descricao": "Lei 7.716/1989. [Tema compartilhado com Direitos Humanos]",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.10",
+   "assunto": "PE13",
+   "texto": "Abuso de autoridade",
+   "descricao": "Lei 13.869/2019.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.11",
+   "assunto": "PE13",
+   "texto": "Contravenções penais",
+   "descricao": "Decreto-Lei 3.688/1941.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "PE13.12",
+   "assunto": "PE13",
+   "texto": "Lavagem de dinheiro",
+   "descricao": "Lei de lavagem de capitais (confirmar). ECA, Estatuto do Idoso e Torcedor: ver outras disciplinas.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PE13.13",
+   "assunto": "PE13",
+   "texto": "Lei antiterrorismo",
+   "descricao": "Crimes de terrorismo (confirmar a lei).",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PE13.14",
+   "assunto": "PE13",
+   "texto": "Crimes do Estatuto da Criança e do Adolescente",
+   "descricao": "Crimes previstos no Estatuto (confirmar a lista). [Tema compartilhado com ECA]",
+   "origem": "rascunho v2 (IA, fase 4; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  }
+ ]
+}

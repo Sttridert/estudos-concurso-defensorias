@@ -1,0 +1,626 @@
+{
+ "perfil": {
+  "id": 4,
+  "nome": "Direito Civil — Analista Jurídico — FCC — DPE-AM 2026 (edital)",
+  "banca": "FCC",
+  "carreira": "Defensoria Pública",
+  "cargo": "Analista Jurídico",
+  "ano_referencia": 2026,
+  "meia_vida": 8,
+  "pesos": {
+   "A": 1,
+   "B": 0.5,
+   "C": 0.25
+  }
+ },
+ "modo": "pontos",
+ "universo": {
+  "id": 7,
+  "nome": "Analista FCC",
+  "filtro": {
+   "bancas": [
+    "FCC"
+   ],
+   "cargos_prefixo": [
+    "Analista"
+   ]
+  }
+ },
+ "n_total": 58,
+ "n_validas": 58,
+ "n_anuladas_ou_fora": 0,
+ "n_provas": 8,
+ "provas_por_grupo": {
+  "A": 5,
+  "B": 1,
+  "C": 2
+ },
+ "soma_pesos": 28.76,
+ "n_efetivo": 50.3,
+ "K_assuntos": 15,
+ "assuntos": {
+  "AD09": {
+   "nome": "Bens públicos",
+   "n": 2.0,
+   "peso": 0.94,
+   "p": 3.3,
+   "lo": 0.8,
+   "hi": 12.4,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CV01": {
+   "nome": "Lei de Introdução e noções gerais",
+   "n": 1.0,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 8.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV02": {
+   "nome": "Pessoas",
+   "n": 6.5,
+   "peso": 3.65,
+   "p": 12.7,
+   "lo": 6.1,
+   "hi": 24.6,
+   "provas": 6,
+   "grupo": "Cai às vezes"
+  },
+  "CV03": {
+   "nome": "Bens",
+   "n": 3.0,
+   "peso": 1.52,
+   "p": 5.3,
+   "lo": 1.7,
+   "hi": 15.2,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "CV04": {
+   "nome": "Fatos, atos e negócios jurídicos",
+   "n": 6.0,
+   "peso": 3.19,
+   "p": 11.1,
+   "lo": 5.0,
+   "hi": 22.7,
+   "provas": 7,
+   "grupo": "Cai às vezes"
+  },
+  "CV05": {
+   "nome": "Obrigações",
+   "n": 3.0,
+   "peso": 0.98,
+   "p": 3.4,
+   "lo": 0.9,
+   "hi": 12.6,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "CV06": {
+   "nome": "Contratos em geral",
+   "n": 1.0,
+   "peso": 0.5,
+   "p": 1.7,
+   "lo": 0.3,
+   "hi": 10.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV07": {
+   "nome": "Contratos em espécie",
+   "n": 1.0,
+   "peso": 0.71,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 11.2,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV08": {
+   "nome": "Responsabilidade civil",
+   "n": 1.5,
+   "peso": 0.73,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 11.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CV09": {
+   "nome": "Direito das coisas",
+   "n": 8.5,
+   "peso": 4.15,
+   "p": 14.4,
+   "lo": 7.3,
+   "hi": 26.6,
+   "provas": 7,
+   "grupo": "Cai muito"
+  },
+  "CV10": {
+   "nome": "Direito de família",
+   "n": 11.0,
+   "peso": 5.64,
+   "p": 19.6,
+   "lo": 11.0,
+   "hi": 32.6,
+   "provas": 7,
+   "grupo": "Cai muito"
+  },
+  "CV11": {
+   "nome": "Direito das sucessões",
+   "n": 1.5,
+   "peso": 0.52,
+   "p": 1.8,
+   "lo": 0.3,
+   "hi": 10.2,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CV12": {
+   "nome": "Legislação civil especial e direito imobiliário",
+   "n": 2.0,
+   "peso": 0.59,
+   "p": 2.1,
+   "lo": 0.4,
+   "hi": 10.6,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH08": {
+   "nome": "Igualdade e grupos vulnerabilizados",
+   "n": 9.0,
+   "peso": 5.19,
+   "p": 18.0,
+   "lo": 9.8,
+   "hi": 30.8,
+   "provas": 6,
+   "grupo": "Cai muito"
+  },
+  "PE14": {
+   "nome": "Legislação penal especial",
+   "n": 1.0,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 8.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "n_assuntos_80pct": 6,
+ "cobranca_pct": {
+  "lei_seca": 84.9,
+  "jurisprudencia": 5.9,
+  "caso_concreto": 5.2,
+  "lei/tratado": 4.1
+ },
+ "retro_assuntos": {
+  "k": 4,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 7.0,
+    "acertos": 0.0,
+    "pct": 0.0
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 6.0,
+    "acertos": 4.5,
+    "pct": 75.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 7.0,
+    "acertos": 4.0,
+    "pct": 57.1
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 6.0,
+    "acertos": 4.0,
+    "pct": 66.7
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 6.0,
+    "acertos": 5.0,
+    "pct": 83.3
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 54.7,
+  "acaso": 26.7
+ },
+ "K_pontos": 28,
+ "pontos": {
+  "DH08.01": {
+   "texto": "Mulheres: igualdade de gênero e violência contra a mulher",
+   "assunto": "DH08",
+   "n": 9.0,
+   "peso": 5.19,
+   "p": 18.0,
+   "lo": 9.8,
+   "hi": 30.8,
+   "provas": 6,
+   "grupo": "Cai muito"
+  },
+  "PE14.02": {
+   "texto": "Violência doméstica (Lei Maria da Penha)",
+   "assunto": "PE14",
+   "n": 1.0,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 8.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "AD09.01": {
+   "texto": "Bens públicos: conceito, classificação, afetação e regime jurídico",
+   "assunto": "AD09",
+   "n": 2.0,
+   "peso": 0.94,
+   "p": 3.3,
+   "lo": 0.8,
+   "hi": 12.4,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CV01.01": {
+   "texto": "Lei de Introdução às normas do Direito Brasileiro: vigência, aplicação e interpretação",
+   "assunto": "CV01",
+   "n": 1.0,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 8.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV02.01": {
+   "texto": "Pessoa natural: personalidade, capacidade, curatela e domicílio",
+   "assunto": "CV02",
+   "n": 3.5,
+   "peso": 2.25,
+   "p": 7.8,
+   "lo": 3.1,
+   "hi": 18.6,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "CV02.03": {
+   "texto": "Pessoa jurídica: associações, fundações e desconsideração da personalidade",
+   "assunto": "CV02",
+   "n": 3.0,
+   "peso": 1.39,
+   "p": 4.9,
+   "lo": 1.5,
+   "hi": 14.6,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "CV03.01": {
+   "texto": "Bens: classificação, bem de família e patrimônio",
+   "assunto": "CV03",
+   "n": 3.0,
+   "peso": 1.52,
+   "p": 5.3,
+   "lo": 1.7,
+   "hi": 15.2,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "CV04.01": {
+   "texto": "Negócio jurídico: existência, validade, eficácia e defeitos",
+   "assunto": "CV04",
+   "n": 5.5,
+   "peso": 3.06,
+   "p": 10.7,
+   "lo": 4.8,
+   "hi": 22.1,
+   "provas": 6,
+   "grupo": "Cai muito"
+  },
+  "CV04.03": {
+   "texto": "Prescrição, decadência e prova",
+   "assunto": "CV04",
+   "n": 0.5,
+   "peso": 0.12,
+   "p": 0.4,
+   "lo": 0.0,
+   "hi": 7.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV05.01": {
+   "texto": "Teoria geral das obrigações: modalidades, solidariedade e transmissão",
+   "assunto": "CV05",
+   "n": 2.0,
+   "peso": 0.73,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 11.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CV05.03": {
+   "texto": "Extinção das obrigações, pagamento indevido e atos unilaterais",
+   "assunto": "CV05",
+   "n": 1.0,
+   "peso": 0.25,
+   "p": 0.9,
+   "lo": 0.1,
+   "hi": 8.6,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV06.01": {
+   "texto": "Contratos em geral: princípios, formação, vícios e extinção",
+   "assunto": "CV06",
+   "n": 1.0,
+   "peso": 0.5,
+   "p": 1.7,
+   "lo": 0.3,
+   "hi": 10.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV07.01": {
+   "texto": "Compra e venda",
+   "assunto": "CV07",
+   "n": 0.5,
+   "peso": 0.35,
+   "p": 1.2,
+   "lo": 0.2,
+   "hi": 9.2,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV07.16": {
+   "texto": "Fiança",
+   "assunto": "CV07",
+   "n": 0.5,
+   "peso": 0.35,
+   "p": 1.2,
+   "lo": 0.2,
+   "hi": 9.2,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV08.01": {
+   "texto": "Responsabilidade civil: pressupostos, espécies, excludentes e reparação",
+   "assunto": "CV08",
+   "n": 1.5,
+   "peso": 0.73,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 11.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CV09.01": {
+   "texto": "Posse",
+   "assunto": "CV09",
+   "n": 2.0,
+   "peso": 1.25,
+   "p": 4.4,
+   "lo": 1.3,
+   "hi": 13.9,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CV09.02": {
+   "texto": "Propriedade: aquisição, perda, função social e usucapião",
+   "assunto": "CV09",
+   "n": 3.5,
+   "peso": 1.17,
+   "p": 4.1,
+   "lo": 1.1,
+   "hi": 13.5,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "CV09.03": {
+   "texto": "Condomínio e direitos de vizinhança",
+   "assunto": "CV09",
+   "n": 2.0,
+   "peso": 1.02,
+   "p": 3.6,
+   "lo": 0.9,
+   "hi": 12.8,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CV09.04": {
+   "texto": "Direitos reais sobre coisa alheia: servidões, usufruto, superfície e promitente comprador",
+   "assunto": "CV09",
+   "n": 1.0,
+   "peso": 0.71,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 11.2,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV10.02": {
+   "texto": "Casamento: impedimentos, invalidade, regime de bens e dissolução",
+   "assunto": "CV10",
+   "n": 2.5,
+   "peso": 1.29,
+   "p": 4.5,
+   "lo": 1.3,
+   "hi": 14.1,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "CV10.03": {
+   "texto": "União estável e concubinato",
+   "assunto": "CV10",
+   "n": 1.0,
+   "peso": 0.71,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 11.2,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV10.04": {
+   "texto": "Parentesco, filiação, adoção e alienação parental",
+   "assunto": "CV10",
+   "n": 1.0,
+   "peso": 0.77,
+   "p": 2.7,
+   "lo": 0.6,
+   "hi": 11.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV10.05": {
+   "texto": "Poder familiar, guarda e convivência",
+   "assunto": "CV10",
+   "n": 0.5,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 8.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV10.06": {
+   "texto": "Alimentos",
+   "assunto": "CV10",
+   "n": 4.5,
+   "peso": 2.18,
+   "p": 7.6,
+   "lo": 2.9,
+   "hi": 18.3,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "CV10.07": {
+   "texto": "Tutela, curatela, tomada de decisão apoiada e planejamento familiar",
+   "assunto": "CV10",
+   "n": 1.5,
+   "peso": 0.46,
+   "p": 1.6,
+   "lo": 0.2,
+   "hi": 9.8,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CV11.02": {
+   "texto": "Sucessão legítima e testamentária",
+   "assunto": "CV11",
+   "n": 1.5,
+   "peso": 0.52,
+   "p": 1.8,
+   "lo": 0.3,
+   "hi": 10.2,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CV12.01": {
+   "texto": "Registros públicos, parcelamento do solo, Estatuto da Cidade e direito imobiliário",
+   "assunto": "CV12",
+   "n": 0.5,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 8.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV12.02": {
+   "texto": "Estatutos e leis especiais de direito privado (ECA, Idoso, LGPD, planos de saúde, liberdade econômica)",
+   "assunto": "CV12",
+   "n": 1.5,
+   "peso": 0.36,
+   "p": 1.3,
+   "lo": 0.2,
+   "hi": 9.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "pontos_com_1_questao": 12,
+ "pontos_sem_questao": [
+  "CV01.02",
+  "CV01.03",
+  "CV02.02",
+  "CV04.02",
+  "CV05.02",
+  "CV07.02",
+  "CV07.03",
+  "CV07.04",
+  "CV07.05",
+  "CV07.06",
+  "CV07.07",
+  "CV07.08",
+  "CV07.09",
+  "CV07.10",
+  "CV07.11",
+  "CV07.12",
+  "CV07.13",
+  "CV07.14",
+  "CV07.15",
+  "CV07.17",
+  "CV07.18",
+  "CV09.05",
+  "CV10.01",
+  "CV11.01",
+  "CV11.03"
+ ],
+ "good_turing_pontos_pct": 20.7,
+ "retro_pontos": {
+  "k": 10,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 7.0,
+    "acertos": 4.0,
+    "pct": 57.1
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 6.0,
+    "acertos": 4.5,
+    "pct": 75.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 7.0,
+    "acertos": 2.0,
+    "pct": 28.6
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 6.0,
+    "acertos": 4.0,
+    "pct": 66.7
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 6.0,
+    "acertos": 3.0,
+    "pct": 50.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 54.7,
+  "acaso": 35.7
+ },
+ "avisos": [
+  "Número efetivo pequeno: faixas de Wilson largas."
+ ],
+ "grupos_desc": {
+  "A": "mesmo órgão (DPE-AM), carreira, banca e cargo",
+  "B": "mesma carreira e banca, de outro órgão ou cargo",
+  "C": "outra banca ou carreira"
+ }
+}

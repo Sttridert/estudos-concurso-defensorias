@@ -1,0 +1,115 @@
+Este site usa cookies e outras tecnologias semelhantes para melhorar sua experiência de acordo com nossa Política de Privacidade
+Ao continuar navegando você concorda com essas condições.
+
+Defensoria Pública do Estado de Santa Catarina
+Defensor(a) Público(a)
+
+Relação dos gabaritos
+
+Bloco I / Bloco II / Bloco III / Bloco IV
+Cargo ou opção A01 - DEFENSOR(A) PÚBLICO(A)
+Tipo gabarito 1
+
+001 - A          011 - C  021 - A          031 - B  041 - C  051 - E  061 - A  071 - E  081 - E                                   091 - E
+                                                    042 - A  052 - A  062 - B  072 - C  082 - B                                   092 - B
+002 - C          012 - E  022 - C          032 - D  043 - E  053 - B  063 - C  073 - B  083 - E                                   093 - C
+                                                    044 - D  054 - D  064 - B  074 - E  084 - C                                   094 - E
+003 - B          013 - C  023 - B          033 - E  045 - B  055 - A  065 - E  075 - A  085 - C                                   095 - B
+                                                    046 - A  056 - E  066 - D  076 - C  086 - A                                   096 - D
+004 - B          014 - E  024 - D          034 - A  047 - D  057 - D  067 - A  077 - C  087 - A                                   097 - C
+                                                    048 - B  058 - A  068 - A  078 - D  088 - C                                   098 - E
+005 - C          015 - E  025 - E          035 - A  049 - D  059 - B  069 - B  079 - C  089 - D                                   099 - A
+                                                    050 - D  060 - D  070 - D  080 - A  090 - B                                   100 - A
+006 - B          016 - E  026 - E          036 - E
+                                                             051 - A  061 - B  071 - A  081 - A                                   091 - A
+007 - D          017 - D  027 - C          037 - B           052 - B  062 - C  072 - D  082 - C                                   092 - C
+                                                             053 - C  063 - D  073 - C  083 - A                                   093 - D
+008 - E          018 - C  028 - B          038 - C           054 - E  064 - C  074 - A  084 - D                                   094 - A
+                                                             055 - B  065 - A  075 - B  085 - D                                   095 - C
+009 - D          019 - A  029 - D          039 - C           056 - A  066 - E  076 - D  086 - B                                   096 - E
+                                                             057 - E  067 - B  077 - D  087 - B                                   097 - D
+010 - A          020 - A  030 - A          040 - D           058 - B  068 - B  078 - E  088 - D                                   098 - A
+                                                             059 - C  069 - C  079 - D  089 - E                                   099 - B
+Bloco I / Bloco II / Bloco III / Bloco IV                    060 - E  070 - E  080 - B  090 - C                                   100 - B
+
+Cargo ou opção A01 - DEFENSOR(A) PÚBLICO(A)                  051 - E  061 - C  071 - E  081 - B                                   091 - A
+                                                             052 - A  062 - C  072 - D  082 - D                                   092 - A
+Tipo gabarito 2                                              053 - D  063 - C  073 - D  083 - C                                   093 - C
+                                                             054 - E  064 - D  074 - C  084 - A                                   094 - D
+001 - B          011 - D  021 - B          031 - C  041 - D  055 - E  065 - B  075 - A  085 - E                                   095 - D
+                                                    042 - B  056 - B  066 - A  076 - B  086 - C                                   096 - B
+002 - D          012 - A  022 - D          032 - E  043 - A  057 - A  067 - E  077 - E  087 - B                                   097 - E
+                                                    044 - E  058 - E  068 - B  078 - A  088 - B                                   098 - D
+003 - C          013 - D  023 - C          033 - A  045 - C  059 - B  069 - B  079 - E  089 - D                                   099 - A
+                                                    046 - B  060 - C  070 - C  080 - D  090 - E                                   100 - B
+004 - C          014 - A  024 - E          034 - B  047 - E
+                                                    048 - C
+005 - D          015 - A  025 - A          035 - B  049 - E
+                                                    050 - E
+006 - C          016 - A  026 - A          036 - A
+
+007 - E          017 - E  027 - D          037 - C
+
+008 - A          018 - D  028 - C          038 - D
+
+009 - E          019 - B  029 - E          039 - D
+
+010 - B          020 - B  030 - B          040 - E
+
+Bloco I / Bloco II / Bloco III / Bloco IV
+
+Cargo ou opção A01 - DEFENSOR(A) PÚBLICO(A)
+
+Tipo gabarito 3
+
+001 - C          011 - B  021 - C          031 - E  041 - E
+002 - B          012 - D  022 - A          032 - C  042 - C
+003 - D          013 - A  023 - D          033 - B  043 - B
+004 - C          014 - D  024 - C          034 - A  044 - A
+005 - C          015 - A  025 - E          035 - C  045 - E
+006 - D          016 - E  026 - A          036 - B  046 - E
+007 - A          017 - A  027 - B          037 - A  047 - B
+008 - E          018 - B  028 - D          038 - E  048 - E
+009 - A          019 - D  029 - C          039 - D  049 - C
+010 - E          020 - B  030 - E          040 - D  050 - B
+Bloco I / Bloco II / Bloco III / Bloco IV
+Cargo ou opção A01 - DEFENSOR(A) PÚBLICO(A)
+Tipo gabarito 4
+
+001 - D          011 - C  021 - D          031 - A  041 - A  051 - A  061 - D  071 - A  081 - C  091 - B
+                                                    042 - D  052 - B  062 - D  072 - E  082 - E  092 - B
+002 - C          012 - E  022 - B          032 - D  043 - C  053 - E  063 - D  073 - E  083 - D  093 - D
+                                                    044 - B  054 - A  064 - E  074 - D  084 - B  094 - E
+003 - E          013 - B  023 - E          033 - C  045 - A  055 - A  065 - C  075 - B  085 - A  095 - E
+                                                    046 - A  056 - C  066 - B  076 - C  086 - D  096 - C
+004 - D          014 - E  024 - D          034 - B  047 - C  057 - B  067 - A  077 - A  087 - C  097 - A
+                                                    048 - A  058 - A  068 - C  078 - B  088 - C  098 - E
+005 - D          015 - B  025 - A          035 - D  049 - D  059 - C  069 - C  079 - A  089 - E  099 - B
+                                                    050 - C  060 - D  070 - D  080 - E  090 - A  100 - C
+006 - E          016 - A  026 - B          036 - C
+                                                             051 - C  061 - E  071 - D  081 - E  091 - E
+007 - B          017 - B  027 - C          037 - B           052 - A  062 - E  072 - C  082 - B  092 - B
+                                                             053 - A  063 - D  073 - E  083 - E  093 - B
+008 - A          018 - C  028 - E          038 - A           054 - B  064 - D  074 - E  084 - D  094 - D
+                                                             055 - A  065 - D  075 - D  085 - B  095 - A
+009 - B          019 - E  029 - D          039 - E           056 - A  066 - A  076 - B  086 - A  096 - C
+                                                             057 - C  067 - B  077 - B  087 - D  097 - C
+010 - A          020 - C  030 - A          040 - E           058 - D  068 - A  078 - C  088 - C  098 - A
+                                                             059 - A  069 - C  079 - B  089 - C  099 - E
+Bloco I / Bloco II / Bloco III / Bloco IV                    060 - C  070 - C  080 - A  090 - E  100 - B
+
+Cargo ou opção A01 - DEFENSOR(A) PÚBLICO(A)
+
+Tipo gabarito 5
+
+001 - E          011 - A  021 - E          031 - D  041 - B
+002 - D          012 - C  022 - B          032 - A  042 - A
+003 - C          013 - B  023 - B          033 - B  043 - D
+004 - E          014 - B  024 - E          034 - C  044 - C
+005 - D          015 - E  025 - D          035 - B  045 - B
+006 - D          016 - B  026 - A          036 - D  046 - D
+007 - E          017 - A  027 - A          037 - C  047 - A
+008 - B          018 - C  028 - C          038 - E  048 - C
+009 - A          019 - C  029 - E          039 - A  049 - A
+010 - B          020 - E  030 - D          040 - E  050 - B
+

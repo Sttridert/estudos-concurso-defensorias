@@ -1,0 +1,1186 @@
+{
+ "perfil": {
+  "id": 1,
+  "nome": "Direitos Humanos · Defensor Público · FCC (estudo geral)",
+  "banca": "FCC",
+  "carreira": "Defensoria Pública",
+  "cargo": "Defensor Público",
+  "ano_referencia": 2026,
+  "meia_vida": 8,
+  "pesos": {
+   "A": 1,
+   "B": 0.5,
+   "C": 0.25
+  }
+ },
+ "modo": "pontos",
+ "universo": {
+  "id": 1,
+  "nome": "Todas as questões",
+  "filtro": {}
+ },
+ "n_total": 197,
+ "n_validas": 195,
+ "n_anuladas_ou_fora": 2,
+ "n_provas": 22,
+ "provas_por_grupo": {
+  "A": 16,
+  "B": 6,
+  "C": 0
+ },
+ "soma_pesos": 127.65,
+ "n_efetivo": 172.1,
+ "K_assuntos": 10,
+ "assuntos": {
+  "DH01": {
+   "nome": "Teoria geral e fundamentos dos direitos humanos",
+   "n": 10.0,
+   "peso": 7.74,
+   "p": 6.1,
+   "lo": 3.4,
+   "hi": 10.7,
+   "provas": 8,
+   "grupo": "Cai às vezes"
+  },
+  "DH02": {
+   "nome": "Direito Internacional dos Direitos Humanos: fontes e regras gerais",
+   "n": 9.5,
+   "peso": 7.11,
+   "p": 5.6,
+   "lo": 3.0,
+   "hi": 10.1,
+   "provas": 8,
+   "grupo": "Cai às vezes"
+  },
+  "DH03": {
+   "nome": "Sistema global (ONU): tratados, comitês e protocolos",
+   "n": 15.0,
+   "peso": 10.15,
+   "p": 8.0,
+   "lo": 4.8,
+   "hi": 13.0,
+   "provas": 12,
+   "grupo": "Cai às vezes"
+  },
+  "DH04": {
+   "nome": "Sistema interamericano e demais sistemas regionais",
+   "n": 30.0,
+   "peso": 20.83,
+   "p": 16.3,
+   "lo": 11.5,
+   "hi": 22.6,
+   "provas": 20,
+   "grupo": "Cai muito"
+  },
+  "DH05": {
+   "nome": "Direito Internacional Humanitário, Direito Internacional Penal e refugiados",
+   "n": 10.5,
+   "peso": 6.88,
+   "p": 5.4,
+   "lo": 2.9,
+   "hi": 9.8,
+   "provas": 11,
+   "grupo": "Cai pouco"
+  },
+  "DH06": {
+   "nome": "Tratados no Brasil: hierarquia, convencionalidade e federalização",
+   "n": 17.5,
+   "peso": 10.79,
+   "p": 8.5,
+   "lo": 5.1,
+   "hi": 13.6,
+   "provas": 11,
+   "grupo": "Cai às vezes"
+  },
+  "DH07": {
+   "nome": "Direitos humanos no Brasil: políticas, memória e acesso à justiça",
+   "n": 11.5,
+   "peso": 7.98,
+   "p": 6.2,
+   "lo": 3.5,
+   "hi": 10.9,
+   "provas": 9,
+   "grupo": "Cai às vezes"
+  },
+  "DH08": {
+   "nome": "Igualdade e grupos vulnerabilizados",
+   "n": 62.5,
+   "peso": 36.59,
+   "p": 28.7,
+   "lo": 22.4,
+   "hi": 35.8,
+   "provas": 22,
+   "grupo": "Cai muito"
+  },
+  "DH09": {
+   "nome": "Tortura e privação de liberdade",
+   "n": 12.0,
+   "peso": 7.5,
+   "p": 5.9,
+   "lo": 3.2,
+   "hi": 10.4,
+   "provas": 11,
+   "grupo": "Cai às vezes"
+  },
+  "DH10": {
+   "nome": "Direitos em espécie e temas contemporâneos",
+   "n": 16.5,
+   "peso": 12.09,
+   "p": 9.5,
+   "lo": 5.9,
+   "hi": 14.8,
+   "provas": 10,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "n_assuntos_80pct": 7,
+ "cobranca_pct": {
+  "lei/tratado": 55.3,
+  "caso pratico": 18.3,
+  "jurisprudencia": 13.6,
+  "doutrina": 7.4,
+  "lei_seca": 5.1,
+  "sumula": 0.4
+ },
+ "retro_assuntos": {
+  "k": 4,
+  "temporal": [
+   {
+    "prova": "2022 - DPE-AP - Defensor Público",
+    "n": 8.0,
+    "acertos": 3.0,
+    "pct": 37.5
+   },
+   {
+    "prova": "2022 - DPE-CE - Defensor Público",
+    "n": 12.0,
+    "acertos": 7.0,
+    "pct": 58.3
+   },
+   {
+    "prova": "2022 - DPE-MT - Defensor Público",
+    "n": 8.0,
+    "acertos": 5.0,
+    "pct": 62.5
+   },
+   {
+    "prova": "2022 - DPE-PB - Defensor Público",
+    "n": 9.0,
+    "acertos": 3.5,
+    "pct": 38.9
+   },
+   {
+    "prova": "2023 - DPE-ES - Defensor Público",
+    "n": 8.0,
+    "acertos": 3.5,
+    "pct": 43.8
+   },
+   {
+    "prova": "2023 - DPE-SP - Defensor Público",
+    "n": 8.0,
+    "acertos": 2.5,
+    "pct": 31.2
+   },
+   {
+    "prova": "2025 - DPE-AM - Defensor Público",
+    "n": 8.0,
+    "acertos": 5.0,
+    "pct": 62.5
+   },
+   {
+    "prova": "2025 - DPE-RS - Defensor Público",
+    "n": 6.0,
+    "acertos": 3.5,
+    "pct": 58.3
+   },
+   {
+    "prova": "2026 - DPE-BA - Defensor Público",
+    "n": 13.0,
+    "acertos": 7.0,
+    "pct": 53.8
+   },
+   {
+    "prova": "2026 - DPE-MA - Defensor Público",
+    "n": 11.0,
+    "acertos": 8.5,
+    "pct": 77.3
+   },
+   {
+    "prova": "2026 - DPE-MT - Defensor Público",
+    "n": 7.0,
+    "acertos": 2.5,
+    "pct": 35.7
+   }
+  ],
+  "loo": [
+   {
+    "prova": "2021 - DPE-AM - Defensor Público",
+    "n": 8.0,
+    "acertos": 4.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2021 - DPE-BA - Defensor Público",
+    "n": 9.0,
+    "acertos": 6.5,
+    "pct": 72.2
+   },
+   {
+    "prova": "2021 - DPE-GO - Defensor Público",
+    "n": 10.0,
+    "acertos": 5.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2021 - DPE-RR - Defensor Público",
+    "n": 10.0,
+    "acertos": 5.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2021 - DPE-SC - Defensor Público",
+    "n": 5.0,
+    "acertos": 5.0,
+    "pct": 100.0
+   },
+   {
+    "prova": "2022 - DPE-AP - Defensor Público",
+    "n": 8.0,
+    "acertos": 3.0,
+    "pct": 37.5
+   },
+   {
+    "prova": "2022 - DPE-CE - Defensor Público",
+    "n": 12.0,
+    "acertos": 5.5,
+    "pct": 45.8
+   },
+   {
+    "prova": "2022 - DPE-MT - Defensor Público",
+    "n": 8.0,
+    "acertos": 6.0,
+    "pct": 75.0
+   },
+   {
+    "prova": "2022 - DPE-PB - Defensor Público",
+    "n": 9.0,
+    "acertos": 3.0,
+    "pct": 33.3
+   },
+   {
+    "prova": "2023 - DPE-ES - Defensor Público",
+    "n": 8.0,
+    "acertos": 4.5,
+    "pct": 56.2
+   },
+   {
+    "prova": "2023 - DPE-SP - Defensor Público",
+    "n": 8.0,
+    "acertos": 4.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2025 - DPE-AM - Defensor Público",
+    "n": 8.0,
+    "acertos": 4.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2025 - DPE-RS - Defensor Público",
+    "n": 6.0,
+    "acertos": 3.5,
+    "pct": 58.3
+   },
+   {
+    "prova": "2026 - DPE-BA - Defensor Público",
+    "n": 13.0,
+    "acertos": 7.0,
+    "pct": 53.8
+   },
+   {
+    "prova": "2026 - DPE-MA - Defensor Público",
+    "n": 11.0,
+    "acertos": 8.5,
+    "pct": 77.3
+   },
+   {
+    "prova": "2026 - DPE-MT - Defensor Público",
+    "n": 7.0,
+    "acertos": 2.5,
+    "pct": 35.7
+   }
+  ],
+  "media_temporal": 52.0,
+  "media_loo": 55.0,
+  "acaso": 40.0
+ },
+ "K_pontos": 62,
+ "pontos": {
+  "DH01.01": {
+   "texto": "Origem, história e dimensões dos direitos humanos",
+   "assunto": "DH01",
+   "n": 1.0,
+   "peso": 0.71,
+   "p": 0.6,
+   "lo": 0.1,
+   "hi": 3.2,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH01.02": {
+   "texto": "Fundamentos filosóficos, dignidade humana e características dos direitos humanos",
+   "assunto": "DH01",
+   "n": 2.0,
+   "peso": 1.36,
+   "p": 1.1,
+   "lo": 0.3,
+   "hi": 4.0,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH01.03": {
+   "texto": "Universalismo, relativismo cultural e interculturalidade",
+   "assunto": "DH01",
+   "n": 1.0,
+   "peso": 1.0,
+   "p": 0.8,
+   "lo": 0.2,
+   "hi": 3.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH01.04": {
+   "texto": "Teoria crítica, decolonialidade e interseccionalidade",
+   "assunto": "DH01",
+   "n": 5.0,
+   "peso": 4.02,
+   "p": 3.2,
+   "lo": 1.4,
+   "hi": 7.0,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH01.05": {
+   "texto": "Teorias contemporâneas e geopolítica dos direitos humanos",
+   "assunto": "DH01",
+   "n": 1.0,
+   "peso": 0.65,
+   "p": 0.5,
+   "lo": 0.1,
+   "hi": 3.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH02.01": {
+   "texto": "Fontes, classificação e soft law no direito internacional dos direitos humanos",
+   "assunto": "DH02",
+   "n": 2.0,
+   "peso": 1.71,
+   "p": 1.3,
+   "lo": 0.4,
+   "hi": 4.4,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH02.02": {
+   "texto": "Interpretação dos tratados e princípio pro persona",
+   "assunto": "DH02",
+   "n": 2.5,
+   "peso": 0.99,
+   "p": 0.8,
+   "lo": 0.2,
+   "hi": 3.5,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH02.03": {
+   "texto": "Restrição, limitação e suspensão de direitos",
+   "assunto": "DH02",
+   "n": 3.0,
+   "peso": 2.59,
+   "p": 2.0,
+   "lo": 0.7,
+   "hi": 5.4,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "DH02.04": {
+   "texto": "Reservas, denúncia, vigência e eficácia dos tratados",
+   "assunto": "DH02",
+   "n": 1.0,
+   "peso": 1.0,
+   "p": 0.8,
+   "lo": 0.2,
+   "hi": 3.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH02.05": {
+   "texto": "Responsabilidade internacional do Estado, reparação e sanções",
+   "assunto": "DH02",
+   "n": 0.5,
+   "peso": 0.32,
+   "p": 0.3,
+   "lo": 0.0,
+   "hi": 2.7,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH03.01": {
+   "texto": "Sistema ONU: órgãos, Conselho de Direitos Humanos e agências",
+   "assunto": "DH03",
+   "n": 3.0,
+   "peso": 2.13,
+   "p": 1.7,
+   "lo": 0.6,
+   "hi": 4.9,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH03.02": {
+   "texto": "Declaração Universal, pactos da ONU e outros tratados",
+   "assunto": "DH03",
+   "n": 5.0,
+   "peso": 2.85,
+   "p": 2.2,
+   "lo": 0.9,
+   "hi": 5.7,
+   "provas": 6,
+   "grupo": "Cai às vezes"
+  },
+  "DH03.03": {
+   "texto": "Comitês de tratados: relatórios, comentários gerais e comunicações individuais",
+   "assunto": "DH03",
+   "n": 5.5,
+   "peso": 4.08,
+   "p": 3.2,
+   "lo": 1.4,
+   "hi": 7.0,
+   "provas": 7,
+   "grupo": "Cai às vezes"
+  },
+  "DH03.04": {
+   "texto": "Revisão Periódica Universal e outros mecanismos de monitoramento",
+   "assunto": "DH03",
+   "n": 1.5,
+   "peso": 1.09,
+   "p": 0.9,
+   "lo": 0.2,
+   "hi": 3.7,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.01": {
+   "texto": "OEA, Comissão e Corte Interamericanas: estrutura e competência",
+   "assunto": "DH04",
+   "n": 4.5,
+   "peso": 2.28,
+   "p": 1.8,
+   "lo": 0.6,
+   "hi": 5.1,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.02": {
+   "texto": "Petição individual, admissibilidade e procedimento na Comissão",
+   "assunto": "DH04",
+   "n": 2.5,
+   "peso": 1.24,
+   "p": 1.0,
+   "lo": 0.2,
+   "hi": 3.8,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.03": {
+   "texto": "Medidas cautelares e medidas provisórias",
+   "assunto": "DH04",
+   "n": 1.5,
+   "peso": 1.39,
+   "p": 1.1,
+   "lo": 0.3,
+   "hi": 4.0,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.04": {
+   "texto": "Convenção Americana e Declaração Americana: direitos e garantias",
+   "assunto": "DH04",
+   "n": 4.5,
+   "peso": 3.71,
+   "p": 2.9,
+   "lo": 1.2,
+   "hi": 6.6,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.05": {
+   "texto": "Protocolo de San Salvador e protocolo da abolição da pena de morte",
+   "assunto": "DH04",
+   "n": 5.0,
+   "peso": 3.65,
+   "p": 2.9,
+   "lo": 1.2,
+   "hi": 6.6,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.06": {
+   "texto": "Casos do Brasil na Corte IDH",
+   "assunto": "DH04",
+   "n": 4.5,
+   "peso": 3.03,
+   "p": 2.4,
+   "lo": 0.9,
+   "hi": 5.9,
+   "provas": 6,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.07": {
+   "texto": "Outros casos e opiniões consultivas da Corte IDH",
+   "assunto": "DH04",
+   "n": 4.0,
+   "peso": 3.08,
+   "p": 2.4,
+   "lo": 1.0,
+   "hi": 5.9,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.08": {
+   "texto": "Convenções interamericanas temáticas e resoluções da OEA",
+   "assunto": "DH04",
+   "n": 2.5,
+   "peso": 1.8,
+   "p": 1.4,
+   "lo": 0.4,
+   "hi": 4.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.09": {
+   "texto": "Sistema africano e outros sistemas regionais",
+   "assunto": "DH04",
+   "n": 1.0,
+   "peso": 0.65,
+   "p": 0.5,
+   "lo": 0.1,
+   "hi": 3.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH05.01": {
+   "texto": "Direito Internacional Humanitário",
+   "assunto": "DH05",
+   "n": 1.0,
+   "peso": 0.92,
+   "p": 0.7,
+   "lo": 0.1,
+   "hi": 3.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH05.02": {
+   "texto": "Tribunal Penal Internacional e crimes internacionais",
+   "assunto": "DH05",
+   "n": 6.5,
+   "peso": 3.66,
+   "p": 2.9,
+   "lo": 1.2,
+   "hi": 6.6,
+   "provas": 7,
+   "grupo": "Cai às vezes"
+  },
+  "DH05.03": {
+   "texto": "Refugiados, apátridas e asilo",
+   "assunto": "DH05",
+   "n": 3.0,
+   "peso": 2.3,
+   "p": 1.8,
+   "lo": 0.6,
+   "hi": 5.1,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "DH06.01": {
+   "texto": "Incorporação e hierarquia dos tratados de direitos humanos",
+   "assunto": "DH06",
+   "n": 6.5,
+   "peso": 3.57,
+   "p": 2.8,
+   "lo": 1.2,
+   "hi": 6.5,
+   "provas": 6,
+   "grupo": "Cai às vezes"
+  },
+  "DH06.02": {
+   "texto": "Controle de convencionalidade e diálogo entre cortes",
+   "assunto": "DH06",
+   "n": 4.5,
+   "peso": 3.37,
+   "p": 2.6,
+   "lo": 1.1,
+   "hi": 6.3,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "DH06.03": {
+   "texto": "Incidente de deslocamento de competência (federalização)",
+   "assunto": "DH06",
+   "n": 5.5,
+   "peso": 2.84,
+   "p": 2.2,
+   "lo": 0.9,
+   "hi": 5.7,
+   "provas": 6,
+   "grupo": "Cai às vezes"
+  },
+  "DH06.04": {
+   "texto": "Execução de decisões internacionais e conflito com a norma constitucional",
+   "assunto": "DH06",
+   "n": 1.0,
+   "peso": 1.0,
+   "p": 0.8,
+   "lo": 0.2,
+   "hi": 3.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH07.01": {
+   "texto": "Políticas e programas nacionais de direitos humanos",
+   "assunto": "DH07",
+   "n": 0.5,
+   "peso": 0.5,
+   "p": 0.4,
+   "lo": 0.1,
+   "hi": 2.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH07.02": {
+   "texto": "Memória, verdade e justiça de transição",
+   "assunto": "DH07",
+   "n": 5.0,
+   "peso": 3.01,
+   "p": 2.4,
+   "lo": 0.9,
+   "hi": 5.9,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "DH07.03": {
+   "texto": "Acesso à justiça e 100 Regras de Brasília",
+   "assunto": "DH07",
+   "n": 2.0,
+   "peso": 1.49,
+   "p": 1.2,
+   "lo": 0.3,
+   "hi": 4.1,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH07.04": {
+   "texto": "Instrumentos de atuação: remédios constitucionais, litígio estrutural e participação",
+   "assunto": "DH07",
+   "n": 3.0,
+   "peso": 1.98,
+   "p": 1.6,
+   "lo": 0.5,
+   "hi": 4.7,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.01": {
+   "texto": "Mulheres: igualdade de gênero e violência contra a mulher",
+   "assunto": "DH08",
+   "n": 14.0,
+   "peso": 6.39,
+   "p": 5.0,
+   "lo": 2.6,
+   "hi": 9.4,
+   "provas": 11,
+   "grupo": "Cai muito"
+  },
+  "DH08.02": {
+   "texto": "Discriminação racial e ações afirmativas",
+   "assunto": "DH08",
+   "n": 4.0,
+   "peso": 2.89,
+   "p": 2.3,
+   "lo": 0.9,
+   "hi": 5.7,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.03": {
+   "texto": "Povos indígenas, quilombolas e comunidades tradicionais",
+   "assunto": "DH08",
+   "n": 7.5,
+   "peso": 6.24,
+   "p": 4.9,
+   "lo": 2.5,
+   "hi": 9.2,
+   "provas": 8,
+   "grupo": "Cai muito"
+  },
+  "DH08.04": {
+   "texto": "Pessoas com deficiência",
+   "assunto": "DH08",
+   "n": 12.0,
+   "peso": 5.47,
+   "p": 4.3,
+   "lo": 2.1,
+   "hi": 8.4,
+   "provas": 11,
+   "grupo": "Cai muito"
+  },
+  "DH08.05": {
+   "texto": "Saúde mental, internação e política antimanicomial",
+   "assunto": "DH08",
+   "n": 4.0,
+   "peso": 2.56,
+   "p": 2.0,
+   "lo": 0.7,
+   "hi": 5.4,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.06": {
+   "texto": "Pessoas idosas",
+   "assunto": "DH08",
+   "n": 8.5,
+   "peso": 3.82,
+   "p": 3.0,
+   "lo": 1.3,
+   "hi": 6.7,
+   "provas": 6,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.07": {
+   "texto": "Crianças e adolescentes: instrumentos internacionais",
+   "assunto": "DH08",
+   "n": 3.0,
+   "peso": 2.06,
+   "p": 1.6,
+   "lo": 0.5,
+   "hi": 4.8,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.08": {
+   "texto": "LGBTQIA+, orientação sexual e identidade de gênero",
+   "assunto": "DH08",
+   "n": 1.5,
+   "peso": 0.96,
+   "p": 0.8,
+   "lo": 0.2,
+   "hi": 3.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.09": {
+   "texto": "Migrantes e trabalhadores migrantes",
+   "assunto": "DH08",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 0.4,
+   "lo": 0.0,
+   "hi": 2.8,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.10": {
+   "texto": "Pessoas em situação de rua e vulnerabilidade social",
+   "assunto": "DH08",
+   "n": 4.0,
+   "peso": 2.81,
+   "p": 2.2,
+   "lo": 0.8,
+   "hi": 5.7,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.11": {
+   "texto": "Teoria antidiscriminatória: discriminação direta, indireta e interseccional",
+   "assunto": "DH08",
+   "n": 2.0,
+   "peso": 1.92,
+   "p": 1.5,
+   "lo": 0.5,
+   "hi": 4.6,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH09.01": {
+   "texto": "Tortura: proibição, Convenção e Comitê contra a Tortura",
+   "assunto": "DH09",
+   "n": 4.0,
+   "peso": 2.28,
+   "p": 1.8,
+   "lo": 0.6,
+   "hi": 5.1,
+   "provas": 6,
+   "grupo": "Cai às vezes"
+  },
+  "DH09.02": {
+   "texto": "OPCAT, Subcomitê e Mecanismo Nacional de Prevenção e Combate à Tortura",
+   "assunto": "DH09",
+   "n": 4.5,
+   "peso": 2.66,
+   "p": 2.1,
+   "lo": 0.8,
+   "hi": 5.5,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "DH09.03": {
+   "texto": "Privação de liberdade: Regras de Mandela, Bangkok e jovens privados de liberdade",
+   "assunto": "DH09",
+   "n": 2.0,
+   "peso": 1.48,
+   "p": 1.2,
+   "lo": 0.3,
+   "hi": 4.1,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.01": {
+   "texto": "Direito à saúde e conceito de saúde da OMS",
+   "assunto": "DH10",
+   "n": 2.0,
+   "peso": 1.42,
+   "p": 1.1,
+   "lo": 0.3,
+   "hi": 4.1,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.02": {
+   "texto": "Moradia, despejos forçados e conflitos fundiários",
+   "assunto": "DH10",
+   "n": 2.0,
+   "peso": 1.65,
+   "p": 1.3,
+   "lo": 0.4,
+   "hi": 4.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.03": {
+   "texto": "Alimentação adequada e padrão de vida adequado",
+   "assunto": "DH10",
+   "n": 2.0,
+   "peso": 1.42,
+   "p": 1.1,
+   "lo": 0.3,
+   "hi": 4.1,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.04": {
+   "texto": "Educação, progressividade e vedação do retrocesso",
+   "assunto": "DH10",
+   "n": 1.0,
+   "peso": 0.65,
+   "p": 0.5,
+   "lo": 0.1,
+   "hi": 3.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.05": {
+   "texto": "Meio ambiente, clima e Agenda 2030",
+   "assunto": "DH10",
+   "n": 3.5,
+   "peso": 2.01,
+   "p": 1.6,
+   "lo": 0.5,
+   "hi": 4.8,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.06": {
+   "texto": "Empresas e direitos humanos",
+   "assunto": "DH10",
+   "n": 1.0,
+   "peso": 1.0,
+   "p": 0.8,
+   "lo": 0.2,
+   "hi": 3.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.07": {
+   "texto": "Liberdade de expressão, mídia e tecnologias",
+   "assunto": "DH10",
+   "n": 1.0,
+   "peso": 1.0,
+   "p": 0.8,
+   "lo": 0.2,
+   "hi": 3.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.08": {
+   "texto": "Direito à vida, segurança pública e uso da força",
+   "assunto": "DH10",
+   "n": 1.5,
+   "peso": 1.39,
+   "p": 1.1,
+   "lo": 0.3,
+   "hi": 4.0,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.09": {
+   "texto": "Bioética, pesquisa genética e recursos genéticos",
+   "assunto": "DH10",
+   "n": 1.5,
+   "peso": 0.78,
+   "p": 0.6,
+   "lo": 0.1,
+   "hi": 3.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.10": {
+   "texto": "Pandemia e direitos humanos",
+   "assunto": "DH10",
+   "n": 1.0,
+   "peso": 0.77,
+   "p": 0.6,
+   "lo": 0.1,
+   "hi": 3.3,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH02.06": {
+   "texto": "Obrigações dos Estados e teorias de controle (margem de apreciação, quarta instância)",
+   "assunto": "DH02",
+   "n": 0.5,
+   "peso": 0.5,
+   "p": 0.4,
+   "lo": 0.1,
+   "hi": 2.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH07.05": {
+   "texto": "Participação política, manifestação, resistência e proteção de defensores de direitos humanos",
+   "assunto": "DH07",
+   "n": 1.0,
+   "peso": 1.0,
+   "p": 0.8,
+   "lo": 0.2,
+   "hi": 3.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.12": {
+   "texto": "Direitos sexuais e reprodutivos, laicidade e liberdade religiosa",
+   "assunto": "DH08",
+   "n": 1.0,
+   "peso": 1.0,
+   "p": 0.8,
+   "lo": 0.2,
+   "hi": 3.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH09.04": {
+   "texto": "Garantias judiciais, direitos pré-processuais e proteção penal dos direitos humanos",
+   "assunto": "DH09",
+   "n": 1.5,
+   "peso": 1.08,
+   "p": 0.8,
+   "lo": 0.2,
+   "hi": 3.7,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "pontos_com_1_questao": 17,
+ "pontos_sem_questao": [
+  "DH10.11",
+  "DH11.01"
+ ],
+ "good_turing_pontos_pct": 8.7,
+ "retro_pontos": {
+  "k": 10,
+  "temporal": [
+   {
+    "prova": "2022 - DPE-AP - Defensor Público",
+    "n": 8.0,
+    "acertos": 1.0,
+    "pct": 12.5
+   },
+   {
+    "prova": "2022 - DPE-CE - Defensor Público",
+    "n": 12.0,
+    "acertos": 2.5,
+    "pct": 20.8
+   },
+   {
+    "prova": "2022 - DPE-MT - Defensor Público",
+    "n": 8.0,
+    "acertos": 1.0,
+    "pct": 12.5
+   },
+   {
+    "prova": "2022 - DPE-PB - Defensor Público",
+    "n": 9.0,
+    "acertos": 3.5,
+    "pct": 38.9
+   },
+   {
+    "prova": "2023 - DPE-ES - Defensor Público",
+    "n": 8.0,
+    "acertos": 1.0,
+    "pct": 12.5
+   },
+   {
+    "prova": "2023 - DPE-SP - Defensor Público",
+    "n": 8.0,
+    "acertos": 1.0,
+    "pct": 12.5
+   },
+   {
+    "prova": "2025 - DPE-AM - Defensor Público",
+    "n": 8.0,
+    "acertos": 1.0,
+    "pct": 12.5
+   },
+   {
+    "prova": "2025 - DPE-RS - Defensor Público",
+    "n": 6.0,
+    "acertos": 1.0,
+    "pct": 16.7
+   },
+   {
+    "prova": "2026 - DPE-BA - Defensor Público",
+    "n": 13.0,
+    "acertos": 2.0,
+    "pct": 15.4
+   },
+   {
+    "prova": "2026 - DPE-MA - Defensor Público",
+    "n": 11.0,
+    "acertos": 2.5,
+    "pct": 22.7
+   },
+   {
+    "prova": "2026 - DPE-MT - Defensor Público",
+    "n": 7.0,
+    "acertos": 0.0,
+    "pct": 0.0
+   }
+  ],
+  "loo": [
+   {
+    "prova": "2021 - DPE-AM - Defensor Público",
+    "n": 8.0,
+    "acertos": 0.5,
+    "pct": 6.2
+   },
+   {
+    "prova": "2021 - DPE-BA - Defensor Público",
+    "n": 9.0,
+    "acertos": 0.5,
+    "pct": 5.6
+   },
+   {
+    "prova": "2021 - DPE-GO - Defensor Público",
+    "n": 10.0,
+    "acertos": 1.0,
+    "pct": 10.0
+   },
+   {
+    "prova": "2021 - DPE-RR - Defensor Público",
+    "n": 10.0,
+    "acertos": 2.0,
+    "pct": 20.0
+   },
+   {
+    "prova": "2021 - DPE-SC - Defensor Público",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   },
+   {
+    "prova": "2022 - DPE-AP - Defensor Público",
+    "n": 8.0,
+    "acertos": 2.0,
+    "pct": 25.0
+   },
+   {
+    "prova": "2022 - DPE-CE - Defensor Público",
+    "n": 12.0,
+    "acertos": 3.0,
+    "pct": 25.0
+   },
+   {
+    "prova": "2022 - DPE-MT - Defensor Público",
+    "n": 8.0,
+    "acertos": 0.0,
+    "pct": 0.0
+   },
+   {
+    "prova": "2022 - DPE-PB - Defensor Público",
+    "n": 9.0,
+    "acertos": 1.5,
+    "pct": 16.7
+   },
+   {
+    "prova": "2023 - DPE-ES - Defensor Público",
+    "n": 8.0,
+    "acertos": 1.0,
+    "pct": 12.5
+   },
+   {
+    "prova": "2023 - DPE-SP - Defensor Público",
+    "n": 8.0,
+    "acertos": 2.0,
+    "pct": 25.0
+   },
+   {
+    "prova": "2025 - DPE-AM - Defensor Público",
+    "n": 8.0,
+    "acertos": 1.5,
+    "pct": 18.8
+   },
+   {
+    "prova": "2025 - DPE-RS - Defensor Público",
+    "n": 6.0,
+    "acertos": 1.5,
+    "pct": 25.0
+   },
+   {
+    "prova": "2026 - DPE-BA - Defensor Público",
+    "n": 13.0,
+    "acertos": 2.0,
+    "pct": 15.4
+   },
+   {
+    "prova": "2026 - DPE-MA - Defensor Público",
+    "n": 11.0,
+    "acertos": 2.5,
+    "pct": 22.7
+   },
+   {
+    "prova": "2026 - DPE-MT - Defensor Público",
+    "n": 7.0,
+    "acertos": 0.0,
+    "pct": 0.0
+   }
+  ],
+  "media_temporal": 16.8,
+  "media_loo": 17.1,
+  "acaso": 16.1
+ },
+ "avisos": [],
+ "grupos_desc": {
+  "A": "mesma carreira, banca e cargo",
+  "B": "mesma carreira e banca, outro cargo",
+  "C": "outra banca ou outra carreira"
+ }
+}

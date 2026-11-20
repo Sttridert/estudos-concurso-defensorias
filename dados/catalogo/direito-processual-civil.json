@@ -1,0 +1,722 @@
+{
+ "disciplina": "Direito Processual Civil",
+ "assuntos": [
+  {
+   "codigo": "PC01",
+   "nome": "Normas processuais e princípios",
+   "descricao": "Aplicação do CPC/2015 e princípios do processo civil."
+  },
+  {
+   "codigo": "PC02",
+   "nome": "Jurisdição, competência e ação",
+   "descricao": "Poder de julgar, direito de ação e requisitos do processo."
+  },
+  {
+   "codigo": "PC03",
+   "nome": "Solução consensual de conflitos",
+   "descricao": "Alternativas à decisão judicial."
+  },
+  {
+   "codigo": "PC04",
+   "nome": "Sujeitos do processo",
+   "descricao": "Partes, terceiros e demais sujeitos."
+  },
+  {
+   "codigo": "PC05",
+   "nome": "Atos processuais, prazos e nulidades",
+   "descricao": "Forma, tempo e comunicação dos atos."
+  },
+  {
+   "codigo": "PC06",
+   "nome": "Tutela provisória",
+   "descricao": "Tutelas de urgência e de evidência."
+  },
+  {
+   "codigo": "PC07",
+   "nome": "Procedimento comum: fase postulatória",
+   "descricao": "Da petição inicial à resposta do réu."
+  },
+  {
+   "codigo": "PC08",
+   "nome": "Procedimento comum: saneamento e provas",
+   "descricao": "Preparação e instrução do processo."
+  },
+  {
+   "codigo": "PC09",
+   "nome": "Sentença e coisa julgada",
+   "descricao": "Decisão final e seus efeitos."
+  },
+  {
+   "codigo": "PC10",
+   "nome": "Cumprimento de sentença e execução",
+   "descricao": "Efetivação das decisões e dos títulos."
+  },
+  {
+   "codigo": "PC11",
+   "nome": "Recursos",
+   "descricao": "Teoria geral e recursos em espécie."
+  },
+  {
+   "codigo": "PC12",
+   "nome": "Processos nos tribunais e precedentes",
+   "descricao": "Competência originária, incidentes e uniformização."
+  },
+  {
+   "codigo": "PC13",
+   "nome": "Ações autônomas de impugnação",
+   "descricao": "Meios de impugnar decisões fora dos recursos."
+  },
+  {
+   "codigo": "PC14",
+   "nome": "Procedimentos especiais",
+   "descricao": "Procedimentos especiais e jurisdição voluntária."
+  },
+  {
+   "codigo": "PC15",
+   "nome": "Processo coletivo",
+   "descricao": "Tutela de direitos coletivos."
+  },
+  {
+   "codigo": "PC16",
+   "nome": "Ações constitucionais",
+   "descricao": "Ações com base direta na Constituição."
+  },
+  {
+   "codigo": "PC17",
+   "nome": "Juizados Especiais",
+   "descricao": "Juizados Especiais Cíveis e da Fazenda Pública."
+  }
+ ],
+ "pontos": [
+  {
+   "codigo": "PC01.01",
+   "assunto": "PC01",
+   "texto": "Normas processuais e CPC/2015",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC01.02",
+   "assunto": "PC01",
+   "texto": "Constitucionalização e efetividade do processo",
+   "descricao": "[Tema compartilhado com Direito Constitucional]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC01.03",
+   "assunto": "PC01",
+   "texto": "Princípios processuais",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC02.01",
+   "assunto": "PC02",
+   "texto": "Jurisdição",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC02.02",
+   "assunto": "PC02",
+   "texto": "Competência",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC02.03",
+   "assunto": "PC02",
+   "texto": "Ação: teorias e condições",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC02.04",
+   "assunto": "PC02",
+   "texto": "Elementos da ação e cumulação de ações",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC02.05",
+   "assunto": "PC02",
+   "texto": "Pressupostos processuais",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC03.01",
+   "assunto": "PC03",
+   "texto": "Conciliação e mediação",
+   "descricao": "[Tema compartilhado com Direito Administrativo]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC03.02",
+   "assunto": "PC03",
+   "texto": "Arbitragem",
+   "descricao": "[Tema compartilhado com Direito Administrativo]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC04.01",
+   "assunto": "PC04",
+   "texto": "Partes e capacidade processual",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC04.02",
+   "assunto": "PC04",
+   "texto": "Litisconsórcio",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC04.03",
+   "assunto": "PC04",
+   "texto": "Intervenção de terceiros",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC04.04",
+   "assunto": "PC04",
+   "texto": "Juiz e auxiliares da justiça",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC04.05",
+   "assunto": "PC04",
+   "texto": "Ministério Público e Advocacia Pública",
+   "descricao": "[Tema compartilhado com Direito Constitucional]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC04.06",
+   "assunto": "PC04",
+   "texto": "Defensoria Pública e assistência judiciária",
+   "descricao": "[Tema compartilhado com Princípios e Atribuições Institucionais da Defensoria]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC04.07",
+   "assunto": "PC04",
+   "texto": "Fazenda Pública em juízo",
+   "descricao": "[Tema compartilhado com Direito Administrativo]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC05.01",
+   "assunto": "PC05",
+   "texto": "Atos processuais e prazos",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC05.02",
+   "assunto": "PC05",
+   "texto": "Comunicação dos atos e processo eletrônico",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC05.03",
+   "assunto": "PC05",
+   "texto": "Formação, suspensão e extinção do processo",
+   "descricao": "Confirmar o encaixe.",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC05.04",
+   "assunto": "PC05",
+   "texto": "Nulidades",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC05.05",
+   "assunto": "PC05",
+   "texto": "Preclusão",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC06.01",
+   "assunto": "PC06",
+   "texto": "Tutela de urgência",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC06.02",
+   "assunto": "PC06",
+   "texto": "Tutela da evidência",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC06.03",
+   "assunto": "PC06",
+   "texto": "Tutela antecipada antecedente e estabilização",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC07.01",
+   "assunto": "PC07",
+   "texto": "Petição inicial",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC07.02",
+   "assunto": "PC07",
+   "texto": "Improcedência liminar",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC07.03",
+   "assunto": "PC07",
+   "texto": "Contestação",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC07.04",
+   "assunto": "PC07",
+   "texto": "Reconvenção",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC07.05",
+   "assunto": "PC07",
+   "texto": "Revelia",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC08.01",
+   "assunto": "PC08",
+   "texto": "Providências preliminares",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC08.02",
+   "assunto": "PC08",
+   "texto": "Saneamento e julgamento conforme o estado do processo",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC08.03",
+   "assunto": "PC08",
+   "texto": "Provas",
+   "descricao": "[Tema compartilhado com Direito Civil]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC08.04",
+   "assunto": "PC08",
+   "texto": "Audiência de instrução e julgamento",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC09.01",
+   "assunto": "PC09",
+   "texto": "Sentença",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC09.02",
+   "assunto": "PC09",
+   "texto": "Coisa julgada",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC09.03",
+   "assunto": "PC09",
+   "texto": "Liquidação de sentença",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC10.01",
+   "assunto": "PC10",
+   "texto": "Cumprimento de sentença",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC10.02",
+   "assunto": "PC10",
+   "texto": "Execução: espécies e títulos executivos",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC10.03",
+   "assunto": "PC10",
+   "texto": "Responsabilidade patrimonial e penhora",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC10.04",
+   "assunto": "PC10",
+   "texto": "Impugnação e embargos do devedor",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC10.05",
+   "assunto": "PC10",
+   "texto": "Defesas de terceiros na execução",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC10.06",
+   "assunto": "PC10",
+   "texto": "Suspensão e extinção da execução",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC10.07",
+   "assunto": "PC10",
+   "texto": "Execução de alimentos",
+   "descricao": "[Tema compartilhado com Direito Civil]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC11.01",
+   "assunto": "PC11",
+   "texto": "Teoria geral dos recursos",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC11.02",
+   "assunto": "PC11",
+   "texto": "Apelação",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC11.03",
+   "assunto": "PC11",
+   "texto": "Agravo",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC11.04",
+   "assunto": "PC11",
+   "texto": "Embargos de declaração",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC11.05",
+   "assunto": "PC11",
+   "texto": "Recursos extraordinário e especial",
+   "descricao": "Inclui a repercussão geral. [Tema compartilhado com Direito Processual Penal]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC12.01",
+   "assunto": "PC12",
+   "texto": "Processos nos tribunais",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC12.02",
+   "assunto": "PC12",
+   "texto": "Incidentes nos tribunais",
+   "descricao": "Incidente de resolução de demandas repetitivas e de assunção de competência (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC12.03",
+   "assunto": "PC12",
+   "texto": "Precedentes e súmulas",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC13.01",
+   "assunto": "PC13",
+   "texto": "Ação rescisória",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC13.02",
+   "assunto": "PC13",
+   "texto": "Reclamação",
+   "descricao": "[Tema compartilhado com Direito Constitucional]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC14.01",
+   "assunto": "PC14",
+   "texto": "Procedimentos especiais: noções gerais",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC14.02",
+   "assunto": "PC14",
+   "texto": "Jurisdição voluntária",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC14.03",
+   "assunto": "PC14",
+   "texto": "Ações de família e de estado",
+   "descricao": "[Tema compartilhado com Direito Civil]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC14.04",
+   "assunto": "PC14",
+   "texto": "Ações possessórias",
+   "descricao": "[Tema compartilhado com Direito Civil]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC14.05",
+   "assunto": "PC14",
+   "texto": "Usucapião",
+   "descricao": "[Tema compartilhado com Direito Civil]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC14.06",
+   "assunto": "PC14",
+   "texto": "Ações da Lei do Inquilinato",
+   "descricao": "[Tema compartilhado com Direito Civil]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC14.07",
+   "assunto": "PC14",
+   "texto": "Inventário e partilha",
+   "descricao": "[Tema compartilhado com Direito Civil]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC15.01",
+   "assunto": "PC15",
+   "texto": "Ação civil pública",
+   "descricao": "[Tema compartilhado com Direito Constitucional]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC15.02",
+   "assunto": "PC15",
+   "texto": "Ação popular",
+   "descricao": "[Tema compartilhado com Direito Constitucional]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC15.03",
+   "assunto": "PC15",
+   "texto": "Microssistema do processo coletivo",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC16.01",
+   "assunto": "PC16",
+   "texto": "Mandado de segurança",
+   "descricao": "[Tema compartilhado com Direito Constitucional]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC16.02",
+   "assunto": "PC16",
+   "texto": "Habeas corpus e habeas data",
+   "descricao": "[Tema compartilhado com Direito Constitucional, Direito Processual Penal e Direitos Humanos]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC16.03",
+   "assunto": "PC16",
+   "texto": "Mandado de injunção",
+   "descricao": "[Tema compartilhado com Direito Constitucional]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC16.04",
+   "assunto": "PC16",
+   "texto": "Ações do controle concentrado: ADI, ADC e ADPF",
+   "descricao": "[Tema compartilhado com Direito Constitucional]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PC17.01",
+   "assunto": "PC17",
+   "texto": "Juizados Especiais Cíveis",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PC17.02",
+   "assunto": "PC17",
+   "texto": "Juizados Especiais da Fazenda Pública",
+   "descricao": "[Tema compartilhado com Direito Administrativo]",
+   "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  }
+ ]
+}

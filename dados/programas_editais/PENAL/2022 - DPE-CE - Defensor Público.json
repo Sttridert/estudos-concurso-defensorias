@@ -1,0 +1,194 @@
+{
+ "pasta": "2022 - DPE-CE - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PENAL",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PENAL",
+   "caracteres": 5184,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito Penal: conceito, evolução histórica, fontes, objetivos.",
+      "As escolas penais.",
+      "O Direito Penal e o Estado Democrático de Direito."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "A ciência conjunta do Direito Penal: dogmática penal, política criminal e criminologia.",
+      "Sistema penal e controle social.",
+      "As escolas criminológicas.",
+      "Política criminal e penitenciária no Brasil.",
+      "O encarceramento no Brasil: dados e perspectivas teóricas.",
+      "O sistema penal brasileiro.",
+      "Processo de criminalização.",
+      "Criminalização primária e secundária.",
+      "Vitimologia e vitimização.",
+      "Polícia e Sistema Penal.",
+      "Policização e militarização.",
+      "Prisionização e relações de poder penitenciárias.",
+      "A prisão na sociedade moderna.",
+      "Prisão e capitalismo.",
+      "Foucault e a questão prisional.",
+      "A economia política da pena.",
+      "Iluminismo, Revoluções burguesas e suas repercussões no pensamento criminológico.",
+      "Escola clássica.",
+      "Positivismo criminológico.",
+      "O positivismo criminológico no Brasil.",
+      "A Escola de Chicago.",
+      "Teoria da Associação Diferencial.",
+      "Teoria da anomia.",
+      "Funcionalismo na criminologia.",
+      "Teoria da subcultura delinquente.",
+      "Teoria da escolha racional.",
+      "Teorias da reação social.",
+      "Labelling Approach.",
+      "Criminologia crítica.",
+      "Minimalismo e Garantismo Penal.",
+      "Marxismo e a questão criminal.",
+      "O realismo criminológico de esquerda.",
+      "A esquerda punitiva.",
+      "Abolicionismo penal.",
+      "Vertentes do abolicionismo penal.",
+      "Criminologia feminista.",
+      "Modernas tendências do pensamento criminológico e de política criminal.",
+      "A privatização do controle penal.",
+      "Direito penal simbólico.",
+      "Movimento de Lei e Ordem.",
+      "Tolerância zero.",
+      "Autoritarismo e sistema penal.",
+      "Mídia e sistema penal.",
+      "Análises criminológicas concretas.",
+      "Racismo e sistema penal.",
+      "Gênero e sistema penal.",
+      "Delito, delinquente, vítima, controle social.",
+      "O encarceramento no Brasil: dados e perspectivas.",
+      "O sistema penal brasileiro."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Princípios constitucionais aplicáveis ao Direito Penal.",
+      "Aplicação e interpretação da lei penal no tempo e no espaço.",
+      "3.Imunidades penais."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Teoria do delito: evolução histórica, elementos do crime.",
+      "Bem jurídico-penal."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Tipicidade: tipo penal, conduta (ação e omissão), nexo de causalidade, resultado.",
+      "Iter criminis.",
+      "Desistência voluntária e arrependimento eficaz.",
+      "Dolo.",
+      "Culpa.",
+      "Imputação objetiva."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Ilicitude: conceito.",
+      "O injusto penal.",
+      "Direito Penal e moral.",
+      "Excludentes da ilicitude."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Culpabilidade: conceito, evolução histórica, estrutura.",
+      "Princípio da culpabilidade.",
+      "Culpabilidade e liberdade.",
+      "Culpabilidade e periculosidade.",
+      "Direito Penal do fato e Direito Penal do autor.",
+      "Imputabilidade.",
+      "Inexigibilidade de conduta diversa.",
+      "Excludentes da culpabilidade."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Arrependimento posterior.",
+      "Crime impossível.",
+      "Concurso de agentes.",
+      "Erro no Direito Penal.",
+      "Punibilidade.",
+      "Concurso de crimes."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Pena: evolução histórica, espécies, função, dosimetria.",
+      "Teorias justificadoras da pena.",
+      "Extinção da punibilidade.",
+      "Suspensão condicional da pena.",
+      "Reabilitação.",
+      "Lei de Execução Penal (Lei nº 7.210/84).",
+      "Objetivos da execução penal.",
+      "Execução penal e economia política da pena.",
+      "Execução penal, encarceramento em massa e dano social.",
+      "Direitos do sistema progressivo.",
+      "Progressão de regime.",
+      "Livramento condicional.",
+      "Remição.",
+      "Autorizações de saída.",
+      "Indulto e comutação Disciplina na execução penal. execução penal e Direitos Humanos.",
+      "Tutela individual e coletiva de direitos na execução penal.",
+      "Direitos sociais e execução penal.",
+      "Execução penal e realidade concreta: as penas ilícitas.",
+      "Superlotação prisional e consequências jurídicas.",
+      "Regras mínimas para o tratamento de pessoas presas: plano nacional e internacional de proteção.",
+      "Indulto e comutação (Decreto 8.380/14)."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Direito Penal e saúde mental.",
+      "Medidas de segurança: evolução histórica, conceito, espécies, execução.",
+      "Lei nº 10.216/01.",
+      "Reforma psiquiátrica.",
+      "Lei 13.146/15."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Crimes contra a pessoa.",
+      "Crimes contra o patrimônio.",
+      "Crimes contra a propriedade imaterial.",
+      "Crimes contra a organização do trabalho.",
+      "Crimes contra o sentimento religioso e contra o respeito aos mortos.",
+      "Crimes contra a dignidade sexual.",
+      "Crimes contra a família.",
+      "Crimes contra a incolumidade pública.",
+      "Crimes contra a paz pública.",
+      "Crimes contra a fé pública.",
+      "Crimes contra a administração pública."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Legislação penal especial: crime organizado (Lei nº 9.034/95), crimes de trânsito (Lei nº 9.503/97), crimes ambientais (Lei nº 9.605/98), Estatuto do desarmamento (Lei nº 10.826/03 e Decreto nº 5.123/04), crimes hediondos (Lei nº 8.072/90 e modificações posteriores), crimes falenciais (Lei nº 11. 101/05), lei de tortura (Lei nº 9.455/97), lei de drogas (Lei nº 11.343/06), crimes contra o consumidor (Lei nº 8.078/90), crimes contra a economia popular (Lei nº 1.521/51), crimes contra a ordem tributária (Leis nos 8.137/90, 9.249/95, 9.430/96, 10.684/03 e 12.382/11), lavagem de dinheiro (Lei nº 9.613/98), crimes resultantes de preconceito de raça ou de cor (Lei nº 7.716/89), abuso de autoridade (Lei nº 13.869/2019), crimes de licitação (Lei nº 8.666/93), estatuto do idoso (Lei nº 10.741/03), crimes contra o parcelamento do solo urbano (Leis nos 6.766/79 e 10.932/04), crime de corrupção de menores (Lei nº 2.252/54), violência doméstica (Lei nº 11.340/06), crimes previstos no Estatuto da Criança e do Adolescente (Lei nº 8.069/90), lei das contravenções penais (Decreto-Lei nº 3.688/41)."
+     ]
+    }
+   ]
+  }
+ ]
+}

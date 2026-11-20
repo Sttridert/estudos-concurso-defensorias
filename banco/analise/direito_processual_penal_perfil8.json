@@ -1,0 +1,518 @@
+{
+ "perfil": {
+  "id": 8,
+  "nome": "Direito Processual Penal - Analista Juridico - FCC - DPE-AM 2026 (edital)",
+  "banca": "FCC",
+  "carreira": "Defensoria Pública",
+  "cargo": "Analista Jurídico",
+  "ano_referencia": 2026,
+  "meia_vida": 8,
+  "pesos": {
+   "A": 1,
+   "B": 0.5,
+   "C": 0.25
+  }
+ },
+ "modo": "pontos",
+ "universo": {
+  "id": 7,
+  "nome": "Analista FCC",
+  "filtro": {
+   "bancas": [
+    "FCC"
+   ],
+   "cargos_prefixo": [
+    "Analista"
+   ]
+  }
+ },
+ "n_total": 43,
+ "n_validas": 43,
+ "n_anuladas_ou_fora": 0,
+ "n_provas": 8,
+ "provas_por_grupo": {
+  "A": 5,
+  "B": 1,
+  "C": 2
+ },
+ "soma_pesos": 22.4,
+ "n_efetivo": 38.4,
+ "K_assuntos": 10,
+ "assuntos": {
+  "EX04": {
+   "nome": "Disciplina",
+   "n": 0.5,
+   "peso": 0.27,
+   "p": 1.2,
+   "lo": 0.1,
+   "hi": 11.2,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "EX05": {
+   "nome": "Execução das penas em espécie",
+   "n": 2.5,
+   "peso": 1.23,
+   "p": 5.5,
+   "lo": 1.6,
+   "hi": 17.5,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PP01": {
+   "nome": "Noções gerais, sistemas e princípios do processo penal",
+   "n": 1.5,
+   "peso": 0.89,
+   "p": 4.0,
+   "lo": 0.9,
+   "hi": 15.4,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PP02": {
+   "nome": "Investigação criminal",
+   "n": 3.0,
+   "peso": 1.04,
+   "p": 4.7,
+   "lo": 1.2,
+   "hi": 16.4,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PP03": {
+   "nome": "Ação penal, jurisdição e sujeitos do processo",
+   "n": 5.0,
+   "peso": 2.66,
+   "p": 11.9,
+   "lo": 5.0,
+   "hi": 25.7,
+   "provas": 7,
+   "grupo": "Cai às vezes"
+  },
+  "PP04": {
+   "nome": "Provas",
+   "n": 4.0,
+   "peso": 2.18,
+   "p": 9.7,
+   "lo": 3.7,
+   "hi": 23.1,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "PP05": {
+   "nome": "Prisões, medidas cautelares e liberdade",
+   "n": 9.5,
+   "peso": 5.74,
+   "p": 25.6,
+   "lo": 14.5,
+   "hi": 41.2,
+   "provas": 6,
+   "grupo": "Cai muito"
+  },
+  "PP07": {
+   "nome": "Procedimentos",
+   "n": 10.0,
+   "peso": 4.34,
+   "p": 19.4,
+   "lo": 9.9,
+   "hi": 34.4,
+   "provas": 6,
+   "grupo": "Cai às vezes"
+  },
+  "PP08": {
+   "nome": "Sentença e coisa julgada",
+   "n": 0.5,
+   "peso": 0.23,
+   "p": 1.0,
+   "lo": 0.1,
+   "hi": 10.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PP09": {
+   "nome": "Recursos e ações autônomas de impugnação",
+   "n": 6.5,
+   "peso": 3.83,
+   "p": 17.1,
+   "lo": 8.3,
+   "hi": 31.8,
+   "provas": 7,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "n_assuntos_80pct": 5,
+ "cobranca_pct": {
+  "lei_seca": 74.9,
+  "jurisprudencia": 12.0,
+  "caso_concreto": 11.0,
+  "doutrina": 2.0
+ },
+ "retro_assuntos": {
+  "k": 4,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 4.0,
+    "acertos": 2.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 2.5,
+    "pct": 50.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.5,
+    "pct": 70.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 5.0,
+    "acertos": 4.0,
+    "pct": 80.0
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 4.5,
+    "pct": 90.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 68.8,
+  "acaso": 40.0
+ },
+ "K_pontos": 22,
+ "pontos": {
+  "PP01.01": {
+   "texto": "Sistemas processuais, fontes e aplicação da lei processual penal",
+   "assunto": "PP01",
+   "n": 0.5,
+   "peso": 0.23,
+   "p": 1.0,
+   "lo": 0.1,
+   "hi": 10.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PP01.02": {
+   "texto": "Princípios e garantias constitucionais e convencionais do processo penal",
+   "assunto": "PP01",
+   "n": 1.0,
+   "peso": 0.66,
+   "p": 2.9,
+   "lo": 0.6,
+   "hi": 13.9,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PP02.01": {
+   "texto": "Inquérito policial, investigação preliminar e juiz das garantias",
+   "assunto": "PP02",
+   "n": 3.0,
+   "peso": 1.04,
+   "p": 4.7,
+   "lo": 1.2,
+   "hi": 16.4,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PP03.01": {
+   "texto": "Ação penal: espécies, condições, denúncia, queixa e ação civil ex delicto",
+   "assunto": "PP03",
+   "n": 1.5,
+   "peso": 0.83,
+   "p": 3.7,
+   "lo": 0.8,
+   "hi": 15.0,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PP03.02": {
+   "texto": "Jurisdição e competência",
+   "assunto": "PP03",
+   "n": 1.5,
+   "peso": 0.73,
+   "p": 3.3,
+   "lo": 0.7,
+   "hi": 14.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PP03.03": {
+   "texto": "Sujeitos processuais, vítima, Ministério Público e Defensoria",
+   "assunto": "PP03",
+   "n": 1.5,
+   "peso": 0.74,
+   "p": 3.3,
+   "lo": 0.7,
+   "hi": 14.4,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PP03.04": {
+   "texto": "Direito de defesa: autodefesa e defesa técnica",
+   "assunto": "PP03",
+   "n": 0.5,
+   "peso": 0.35,
+   "p": 1.6,
+   "lo": 0.2,
+   "hi": 11.8,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PP04.01": {
+   "texto": "Teoria geral da prova: ônus, indícios, provas ilícitas e cadeia de custódia",
+   "assunto": "PP04",
+   "n": 1.5,
+   "peso": 0.77,
+   "p": 3.5,
+   "lo": 0.7,
+   "hi": 14.6,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PP04.02": {
+   "texto": "Meios de prova: interrogatório, confissão, testemunhas, perícia e reconhecimento",
+   "assunto": "PP04",
+   "n": 2.5,
+   "peso": 1.4,
+   "p": 6.3,
+   "lo": 1.9,
+   "hi": 18.6,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PP05.01": {
+   "texto": "Prisões: flagrante, preventiva, temporária, domiciliar e audiência de custódia",
+   "assunto": "PP05",
+   "n": 7.0,
+   "peso": 4.28,
+   "p": 19.1,
+   "lo": 9.7,
+   "hi": 34.1,
+   "provas": 5,
+   "grupo": "Cai muito"
+  },
+  "PP05.02": {
+   "texto": "Medidas cautelares, liberdade provisória, fiança e medidas assecuratórias",
+   "assunto": "PP05",
+   "n": 2.5,
+   "peso": 1.46,
+   "p": 6.5,
+   "lo": 2.0,
+   "hi": 18.9,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "PP07.01": {
+   "texto": "Procedimento comum: ordinário, sumário e sumaríssimo",
+   "assunto": "PP07",
+   "n": 1.5,
+   "peso": 0.38,
+   "p": 1.7,
+   "lo": 0.2,
+   "hi": 11.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PP07.02": {
+   "texto": "Tribunal do Júri",
+   "assunto": "PP07",
+   "n": 4.0,
+   "peso": 1.85,
+   "p": 8.3,
+   "lo": 2.9,
+   "hi": 21.2,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "PP07.03": {
+   "texto": "Procedimentos especiais, Juizados Criminais, ANPP e suspensão condicional do processo",
+   "assunto": "PP07",
+   "n": 3.5,
+   "peso": 1.64,
+   "p": 7.3,
+   "lo": 2.4,
+   "hi": 20.0,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PP07.04": {
+   "texto": "Aspectos processuais da legislação penal especial",
+   "assunto": "PP07",
+   "n": 1.0,
+   "peso": 0.47,
+   "p": 2.1,
+   "lo": 0.3,
+   "hi": 12.6,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PP08.01": {
+   "texto": "Sentença penal, motivação, efeitos e coisa julgada",
+   "assunto": "PP08",
+   "n": 0.5,
+   "peso": 0.23,
+   "p": 1.0,
+   "lo": 0.1,
+   "hi": 10.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PP09.01": {
+   "texto": "Teoria geral dos recursos e recursos em espécie",
+   "assunto": "PP09",
+   "n": 5.5,
+   "peso": 3.05,
+   "p": 13.6,
+   "lo": 6.1,
+   "hi": 27.8,
+   "provas": 7,
+   "grupo": "Cai muito"
+  },
+  "PP09.02": {
+   "texto": "Habeas corpus, revisão criminal e mandado de segurança criminal",
+   "assunto": "PP09",
+   "n": 1.0,
+   "peso": 0.77,
+   "p": 3.4,
+   "lo": 0.7,
+   "hi": 14.6,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "EX04.01": {
+   "texto": "Faltas disciplinares, sanções, recompensas e regime disciplinar diferenciado",
+   "assunto": "EX04",
+   "n": 0.5,
+   "peso": 0.27,
+   "p": 1.2,
+   "lo": 0.1,
+   "hi": 11.2,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "EX05.01": {
+   "texto": "Regimes de cumprimento, progressão e regressão",
+   "assunto": "EX05",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 2.0,
+   "lo": 0.3,
+   "hi": 12.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "EX05.02": {
+   "texto": "Autorizações de saída (permissão de saída e saída temporária)",
+   "assunto": "EX05",
+   "n": 1.0,
+   "peso": 0.5,
+   "p": 2.2,
+   "lo": 0.4,
+   "hi": 12.8,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "EX05.07": {
+   "texto": "Suspensão condicional da pena e livramento condicional",
+   "assunto": "EX05",
+   "n": 0.5,
+   "peso": 0.27,
+   "p": 1.2,
+   "lo": 0.1,
+   "hi": 11.2,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "pontos_com_1_questao": 10,
+ "pontos_sem_questao": [
+  "EX01.01",
+  "EX01.02",
+  "EX01.03",
+  "EX02.01",
+  "EX02.02",
+  "EX03.01",
+  "EX03.02",
+  "EX03.03",
+  "EX03.04",
+  "EX04.02",
+  "EX05.03",
+  "EX05.04",
+  "EX05.05",
+  "EX05.06",
+  "EX05.08",
+  "EX06.01",
+  "EX06.02",
+  "EX07.01",
+  "EX07.02",
+  "EX07.03",
+  "EX08.01",
+  "EX08.02",
+  "EX08.03",
+  "EX08.04",
+  "EX09.01",
+  "EX09.02",
+  "EX09.03",
+  "EX09.04",
+  "EX09.05",
+  "PP04.03",
+  "PP06.01",
+  "PP06.02",
+  "PP06.03"
+ ],
+ "good_turing_pontos_pct": 23.3,
+ "retro_pontos": {
+  "k": 10,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 4.0,
+    "acertos": 2.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 2.0,
+    "pct": 40.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 2.0,
+    "pct": 40.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 5.0,
+    "acertos": 4.0,
+    "pct": 80.0
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.5,
+    "pct": 70.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 56.2,
+  "acaso": 45.5
+ },
+ "avisos": [
+  "Número efetivo pequeno: faixas de Wilson largas."
+ ],
+ "grupos_desc": {
+  "A": "mesmo órgão (DPE-AM), carreira, banca e cargo",
+  "B": "mesma carreira e banca, de outro órgão ou cargo",
+  "C": "outra banca ou carreira"
+ }
+}

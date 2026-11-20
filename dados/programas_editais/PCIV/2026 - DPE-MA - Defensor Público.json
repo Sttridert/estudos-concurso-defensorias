@@ -1,0 +1,522 @@
+{
+ "pasta": "2026 - DPE-MA - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PCIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 9584,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Lei nº 13.105/2015 – Código de Processo Civil."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Normas processuais civis."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Jurisdição."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Ação."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Conceito, natureza, elementos e características."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Condições da ação."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Pressupostos processuais."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Preclusão."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Sujeitos do processo."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Capacidade processual e postulatória."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Deveres das partes e procuradores."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Procuradores."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Sucessão das partes e dos procuradores."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Litisconsórcio."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Intervenção de terceiros."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Poderes, deveres e responsabilidade do juiz."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Ministério Público."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Advocacia Pública."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Defensoria Pública."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Atos processuais."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "Forma dos atos."
+     ]
+    },
+    {
+     "item": "14.2",
+     "frases": [
+      "Tempo e lugar."
+     ]
+    },
+    {
+     "item": "14.3",
+     "frases": [
+      "Prazos."
+     ]
+    },
+    {
+     "item": "14.4",
+     "frases": [
+      "Comunicação dos atos processuais."
+     ]
+    },
+    {
+     "item": "14.5",
+     "frases": [
+      "Nulidades."
+     ]
+    },
+    {
+     "item": "14.6",
+     "frases": [
+      "Distribuição e registro."
+     ]
+    },
+    {
+     "item": "14.7",
+     "frases": [
+      "Valor da causa."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Tutela provisória."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Processo de conhecimento e cumprimento de sentença."
+     ]
+    },
+    {
+     "item": "16.1",
+     "frases": [
+      "Procedimento comum."
+     ]
+    },
+    {
+     "item": "16.2",
+     "frases": [
+      "Disposições Gerais."
+     ]
+    },
+    {
+     "item": "16.3",
+     "frases": [
+      "Petição inicial."
+     ]
+    },
+    {
+     "item": "16.4",
+     "frases": [
+      "Improcedência liminar do pedido."
+     ]
+    },
+    {
+     "item": "16.5",
+     "frases": [
+      "Audiência de conciliação ou de mediação."
+     ]
+    },
+    {
+     "item": "16.6",
+     "frases": [
+      "Contestação, reconvenção e revelia."
+     ]
+    },
+    {
+     "item": "16.7",
+     "frases": [
+      "Audiência de instrução e julgamento."
+     ]
+    },
+    {
+     "item": "16.8",
+     "frases": [
+      "Providências preliminares e de saneamento."
+     ]
+    },
+    {
+     "item": "16.9",
+     "frases": [
+      "Julgamento conforme o estado do processo."
+     ]
+    },
+    {
+     "item": "16.10",
+     "frases": [
+      "Provas."
+     ]
+    },
+    {
+     "item": "16.11",
+     "frases": [
+      "Sentença e coisa julgada.",
+      "Recursos."
+     ]
+    },
+    {
+     "item": "16.12",
+     "frases": [
+      "Cumprimento da sentença."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Proteção judicial dos interesses individuais, difusos e coletivos."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Procedimentos Especiais."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Procedimentos de jurisdição voluntária."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Processos de execução."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Processos nos tribunais e meios de impugnação das decisões judiciais.",
+      "Da Ordem dos Processos no Tribunal.",
+      "Da Uniformização da Jurisprudência.",
+      "Da Reclamação.",
+      "Dos Recursos.",
+      "Disposições Gerais.",
+      "Da Apelação.",
+      "Do Agravo de Instrumento.",
+      "Dos Embargos de Declaração.",
+      "Do Recurso Ordinário.",
+      "Do Recurso Especial e do Recurso Extraordinário.",
+      "Dos Embargos de Divergência."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Livro Complementar: disposições finais e transitórias."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Mandado de segurança."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Reclamação constitucional."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Jurisprudência aplicada dos tribunais superiores."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Meios Alternativos de Resolução de Conflitos."
+     ]
+    },
+    {
+     "item": "26.1",
+     "frases": [
+      "Mediação, conciliação e arbitragem no contexto do Código de Processo Civil (Lei nº 13.105/2015)."
+     ]
+    },
+    {
+     "item": "26.2",
+     "frases": [
+      "Atuação da Defensoria Pública nos métodos consensuais."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Procedimentos especiais em legislação extravagante."
+     ]
+    },
+    {
+     "item": "27.1",
+     "frases": [
+      "Ações locatícias."
+     ]
+    },
+    {
+     "item": "27.2",
+     "frases": [
+      "Ação de alimentos."
+     ]
+    },
+    {
+     "item": "27.3",
+     "frases": [
+      "Ação de alimentos gravídicos."
+     ]
+    },
+    {
+     "item": "27.4",
+     "frases": [
+      "Ações relativas à filiação."
+     ]
+    },
+    {
+     "item": "27.5",
+     "frases": [
+      "Ações no âmbito dos Juizados Especiais Cíveis e Juizados Especiais da Fazenda Pública."
+     ]
+    },
+    {
+     "item": "27.6",
+     "frases": [
+      "Ação civil pública."
+     ]
+    },
+    {
+     "item": "27.7",
+     "frases": [
+      "Ação popular."
+     ]
+    },
+    {
+     "item": "27.8",
+     "frases": [
+      "Ações coletivas."
+     ]
+    },
+    {
+     "item": "27.9",
+     "frases": [
+      "Tutela provisória nas ações coletivas."
+     ]
+    },
+    {
+     "item": "27.10",
+     "frases": [
+      "Ação civil pública."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "A Defensoria Pública no Código de Processo Civil."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Protocolo para Julgamento com Perspectiva de Gênero."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Protocolo de Julgamento com Perspectiva Racial."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Jurisprudência aplicada dos tribunais superiores.DIREITOS DIFUSOS E COLETIVOS 1.",
+      "Processo Coletivo.",
+      "Teoria geral do processo civil coletivo.",
+      "Histórico, evolução e formação da tutela coletiva de direitos no Brasil.",
+      "Fundamentos, conceitos e elementos do processo civil coletivo.",
+      "Processo coletivo e processo de interesse público.",
+      "Princípios gerais do processo civil coletivo.",
+      "O microssistema de tutela coletiva.",
+      "A teoria das tutelas jurisdicionais e as ações coletivas.",
+      "A efetividade das tutelas coletivas.",
+      "Direitos coletivos em sentido amplo, direitos difusos, direitos coletivos em sentido estrito e direitos individuais homogêneos.",
+      "Casos Repetitivos.",
+      "Litígio coletivo.",
+      "Legitimidade ativa e passiva das ações coletivas.",
+      "Litisconsórcio e intervenção de terceiros em ações coletivas.",
+      "A defesa do polo passivo coletivo.",
+      "Competência em ações coletivas.",
+      "Litispendência, conexão e continência em ações coletivas.",
+      "A prova e a distribuição do ônus da prova nas ações coletivas.",
+      "As tutelas de evidência e de urgência nas ações coletivas.",
+      "A tutela de urgência em face do Poder Público.",
+      "A audiência prévia e a suspensão da liminar.",
+      "Reconvenção nas ações coletivas.",
+      "Autocomposição nos direitos coletivos.",
+      "Conciliação e mediação nas causas coletivas.",
+      "Medidas estruturais extrajudiciais.",
+      "Poder de requisição e recomendação do Defensor Público em matéria coletiva.",
+      "Prescrição e decadência nas ações coletivas.",
+      "Despesas processuais e honorários de sucumbência.",
+      "Recursos em ações coletivas.",
+      "Coisa julgada em ações coletivas.",
+      "Sentença estrutural.",
+      "Liquidação e execução em ações coletivas.",
+      "Execução estrutural.",
+      "Inquérito civil, termo de ajustamento de conduta (TAC) e outros procedimentos administrativos de tutela coletiva.",
+      "Processo coletivo passivo.",
+      "Controle difuso de constitucionalidade e ações coletivas.",
+      "Instrumentos processuais de tutela coletiva: Código de Processo Civil, Lei de Ação Civil Pública, Código de Defesa do Consumidor, Lei de Ação Popular, Estatuto da Criança e do Adolescente, Estatuto das Cidades, Lei 9.507/1997 e Lei 12.016/2009.",
+      "Processo coletivo, processo estrutural e Defensoria Pública na Constituição Federal, as alterações por emendas constitucionais, as Leis Orgânicas nacional (Lei Complementar nacional nº 80/1994) e estadual (Lei Complementar estadual nº 19/1994) e suas alterações.",
+      "Processo coletivo e participação popular.",
+      "Audiência pública (extrajudicial e judicial).",
+      "Convocação de audiência pública pelo Defensor Público.",
+      "Intervenção do amicus curiae.",
+      "Custos vulnerabilis.",
+      "Intervenção do cidadão, isoladamente ou em grupo.",
+      "A prestação da assistência jurídica nas ações coletivas.",
+      "Sociedade civil e sua atuação junto a Conselhos de Direitos, Conselhos Gestores de Políticas Públicas, Conferências, Fundos, Orçamento Participativo, Audiências Públicas e Consultas Públicas.",
+      "Controladorias, Ouvidorias e Auditorias.",
+      "Participação junto ao Poder Legislativo: comissões parlamentares de participação social.",
+      "Tribunal de Contas e Ministério Público de Contas.",
+      "Poder Judiciário: Audiências Públicas, Consultas Públicas, Fóruns interinstitucionais e Grupos de articulação e comissões de conciliação em políticas públicas.",
+      "Conselho Nacional de Justiça: comitês, comissões, unidade de monitoramento e fóruns.",
+      "Tutela coletiva dos direitos fundamentais sociais.",
+      "A implementação e controle de políticas públicas por parte do Poder Judiciário.",
+      "Controle judicial e extrajudicial das políticas públicas.",
+      "Políticas públicas e direitos fundamentais.",
+      "Direito- garantia ao mínimo existencial.",
+      "Princípio da separação dos poderes e sua delimitação.",
+      "Mecanismos de resolução extrajudicial dos conflitos em matéria de políticas públicas sociais.",
+      "Direitos e políticas em espécie.",
+      "Tutela coletiva dos direitos socioassistenciais: direito ao desenvolvimento e assistência social, Política Nacional de Assistência Social e Tipificação de Serviços socioassistenciais.",
+      "Tutela coletiva do direito educacional, Lei de Diretrizes e Bases da Educação e Plano Nacional de Educação.",
+      "Tutela coletiva do direito à comunicação, à manifestação e à liberdade de expressão e opinião: meios, propriedade, regulação da mídia e mecanismos de participação.",
+      "Tutela coletiva do direito à segurança pública, enfrentamento da tortura e direito das vítimas de violência de estado.",
+      "Tutela coletiva do direito à cultura, à memória e à verdade.",
+      "Tutela coletiva do direito à alimentação adequada: a alimentação como direito fundamental social e o Sistema Nacional de Segurança Alimentar e Nutricional.",
+      "Tutela coletiva do Patrimônio cultural, histórico, artístico, paisagístico e arqueológico.",
+      "Tutela coletiva de grupos vulneráveis.",
+      "Tutela coletiva de direitos civis, políticos, econômicos, sociais, culturais e ambientais de grupos vulneráveis.",
+      "Justiça social, inclusão social e participação: políticas públicas voltadas à equidade e não discriminação.",
+      "Vulnerabilidades, discriminação, inclusão e exclusão.",
+      "Ações e políticas afirmativas.",
+      "Tutela coletiva, defesa de direitos, políticas públicas e instrumentos normativos em espécie.",
+      "Tutela coletiva, defesa de direitos, políticas públicas e instrumentos normativos em prol das pessoas com deficiência.",
+      "Tutela coletiva, defesa de direitos, políticas públicas e instrumentos normativos em prol das pessoas idosas.",
+      "Tutela coletiva, defesa de direitos, políticas públicas e instrumentos normativos voltados à inclusão e ao enfrentamento ao racismo em suas diferentes vertentes.",
+      "Tutela coletiva, defesa de direitos, políticas públicas e instrumentos normativos voltados à inclusão e ao enfrentamento à discriminação contra a mulher em suas diferentes vertentes: violências de gênero, violência doméstica, gênero, sexo, direitos sexuais e reprodutivos e violência obstétrica.",
+      "Tutela coletiva, defesa de direitos, políticas públicas e instrumentos normativos voltados à inclusão e ao enfrentamento à discriminação contra as pessoas LGBTQIAPN+ em suas diferentes vertentes.",
+      "Tutela coletiva, defesa de direitos, políticas públicas e instrumentos normativos em prol das pessoas em situação de rua.",
+      "Tutela coletiva, defesa de direitos, políticas públicas e instrumentos normativos em prol das comunidades tradicionais: povos indígenas, comunidades quilombolas, povos ciganos, população ribeirinha, comunidade de terreiro, pescadores artesanais, povos da floresta e outros grupos tradicionais e originários.",
+      "Proteção e defesa e políticas públicas voltadas a outros grupos vulneráveis específicos – pessoas vivendo com HIV/AIDS, vítimas de violência sexual e familiar, pessoas sem teto, pessoas sem terra, refugiados e migrantes, e pessoas em qualquer tipo de institucionalização e/ou restrição de liberdade (presos, adolescentes internados, idosos institucionalizados, pessoas com transtorno mental, pessoas com deficiência, crianças e adolescentes acolhidos institucionalmente etc.).",
+      "Jurisprudência dos Tribunais Superiores."
+     ]
+    }
+   ]
+  }
+ ]
+}

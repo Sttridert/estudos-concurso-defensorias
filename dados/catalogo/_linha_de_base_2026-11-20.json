@@ -1,0 +1,232 @@
+{
+ "gerado_em": "2026-11-20",
+ "cortes": {
+  "peq_pontos": 2,
+  "peq_pct": 4.0,
+  "grande_pontos": 8,
+  "grande_pct": 25.0,
+  "min_itens_desencaixe": 5
+ },
+ "por_disciplina": {
+  "DH": {
+   "assuntos": 11,
+   "pequenos": [
+    "DH11"
+   ],
+   "grandes": [
+    "DH04",
+    "DH08",
+    "DH10"
+   ],
+   "desencaixados": 23,
+   "itens_sem_ponto": 27
+  },
+  "CONST": {
+   "assuntos": 15,
+   "pequenos": [
+    "CO02",
+    "CO04",
+    "CO07",
+    "CO09",
+    "CO12",
+    "CO13",
+    "CO14"
+   ],
+   "grandes": [],
+   "desencaixados": 10,
+   "itens_sem_ponto": 197
+  },
+  "ADM": {
+   "assuntos": 15,
+   "pequenos": [
+    "AD05",
+    "AD06",
+    "AD08",
+    "AD09",
+    "AD10",
+    "AD11",
+    "AD12",
+    "AD13",
+    "AD15"
+   ],
+   "grandes": [],
+   "desencaixados": 11,
+   "itens_sem_ponto": 117
+  },
+  "PENAL": {
+   "assuntos": 14,
+   "pequenos": [
+    "PE05",
+    "PE09",
+    "PE10",
+    "PE11",
+    "PE12"
+   ],
+   "grandes": [
+    "PE14"
+   ],
+   "desencaixados": 5,
+   "itens_sem_ponto": 195
+  },
+  "PPEN": {
+   "assuntos": 9,
+   "pequenos": [
+    "PP01",
+    "PP02",
+    "PP05",
+    "PP08",
+    "PP09"
+   ],
+   "grandes": [],
+   "desencaixados": 6,
+   "itens_sem_ponto": 187
+  },
+  "EXEC": {
+   "assuntos": 9,
+   "pequenos": [
+    "EX02",
+    "EX04",
+    "EX06"
+   ],
+   "grandes": [
+    "EX05"
+   ],
+   "desencaixados": 13,
+   "itens_sem_ponto": 13
+  },
+  "CIV": {
+   "assuntos": 12,
+   "pequenos": [
+    "CV03",
+    "CV06",
+    "CV08",
+    "CV12"
+   ],
+   "grandes": [
+    "CV07"
+   ],
+   "desencaixados": 8,
+   "itens_sem_ponto": 238
+  },
+  "PCIV": {
+   "assuntos": 12,
+   "pequenos": [
+    "PC01",
+    "PC04",
+    "PC05",
+    "PC10",
+    "PC11",
+    "PC12"
+   ],
+   "grandes": [],
+   "desencaixados": 9,
+   "itens_sem_ponto": 134
+  },
+  "ECA": {
+   "assuntos": 8,
+   "pequenos": [
+    "CA05",
+    "CA08"
+   ],
+   "grandes": [
+    "CA03",
+    "CA06"
+   ],
+   "desencaixados": 14,
+   "itens_sem_ponto": 41
+  },
+  "PI": {
+   "assuntos": 6,
+   "pequenos": [
+    "PI05"
+   ],
+   "grandes": [
+    "PI03"
+   ]
+  },
+  "LP": {
+   "assuntos": 9,
+   "pequenos": [
+    "LP02",
+    "LP03",
+    "LP06",
+    "LP07",
+    "LP08"
+   ],
+   "grandes": [
+    "LP01"
+   ]
+  }
+ },
+ "assuntos_total": 120,
+ "assuntos_pequenos": 48,
+ "assuntos_grandes": 10,
+ "desencaixe": {
+  "pontos_medidos": 260,
+  "desencaixados": 99,
+  "pct": 38.1
+ },
+ "itens_sem_ponto": {
+  "sem_ponto": 1149,
+  "total": 10098
+ },
+ "ordem": {
+  "DH": 0.273,
+  "CONST": 0.868,
+  "ADM": 0.925,
+  "PENAL": 0.235,
+  "PPEN": 0.9,
+  "EXEC": 0.3,
+  "CIV": 0.07,
+  "PCIV": 0.888,
+  "ECA": 0.286,
+  "PI": null,
+  "LP": null
+ },
+ "cobertura_questoes": {
+  "ADM": {
+   "classificadas": 134,
+   "validas": 134
+  },
+  "CIV": {
+   "classificadas": 129,
+   "validas": 129
+  },
+  "CONST": {
+   "classificadas": 211,
+   "validas": 211
+  },
+  "PENAL": {
+   "classificadas": 169,
+   "validas": 169
+  },
+  "PCIV": {
+   "classificadas": 189,
+   "validas": 189
+  },
+  "PPEN": {
+   "classificadas": 145,
+   "validas": 145
+  },
+  "ECA": {
+   "classificadas": 110,
+   "validas": 110
+  },
+  "DH": {
+   "classificadas": 195,
+   "validas": 205
+  },
+  "EXEC": {
+   "classificadas": 3,
+   "validas": 98
+  },
+  "LP": {
+   "classificadas": 99,
+   "validas": 139
+  },
+  "PI": {
+   "classificadas": 38,
+   "validas": 167
+  }
+ }
+}

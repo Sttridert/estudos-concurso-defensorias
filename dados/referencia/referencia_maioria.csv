@@ -1,0 +1,111 @@
+chave;disciplina;ponto_maioria;tipo;atual;ia1;ia2;origem
+2021 - DPE-RR - Defensor Público|73;DH;DH02.05;maioria;DH02.05;DH02.05;DH04.04;ia_maioria
+2022 - DPE-AM - Analista Jurídico (2)|52;DH;DH04.05;maioria;DH03.02;DH04.05;DH04.05;ia_maioria
+2018 - DPE-AM - Analista Jurídico|49;DH;DH04.01;unanime;DH04.01;DH04.01;DH04.01;ia_maioria
+2023 - DPE-SP - Defensor Público|67;DH;DH05.03;unanime;DH05.03;DH05.03;DH05.03;ia_maioria
+2026 - DPE-MT - Defensor Público|90;DH;DH06.03;unanime;DH06.03;DH06.03;DH06.03;ia_maioria
+2025 - DPE-SP - Analista de Defensoria|27;DH;DH08.08;unanime;DH08.08;DH08.08;DH08.08;ia_maioria
+2022 - DPE-CE - Defensor Público|7;DH;DH03.04;unanime;DH03.04;DH03.04;DH03.04;ia_maioria
+2026 - DPE-BA - Defensor Público|99;DH;DH04.06;maioria;DH08.02;DH04.06;DH04.06;ia_maioria
+2025 - DPE-AM - Defensor Público|3;DH;DH08.03;unanime;DH08.03;DH08.03;DH08.03;ia_maioria
+2019 - DPE-AM - Analista Jurídico|55;DH;DH07.02;unanime;DH07.02;DH07.02;DH07.02;ia_maioria
+2021 - DPE-GO - Defensor Público|14;DH;DH09.02;unanime;DH09.02;DH09.02;DH09.02;ia_maioria
+2025 - DPE-AM - Defensor Público|1;DH;DH05.01;unanime;DH05.01;DH05.01;DH05.01;ia_maioria
+2026 - DPE-BA - Defensor Público|11;CONST;CO03.06;unanime;CO03.06;CO03.06;CO03.06;ia_maioria
+2021 - DPE-BA - Defensor Público|13;CONST;CO11.03;unanime;CO11.03;CO11.03;CO11.03;ia_maioria
+2022 - DPE-AP - Defensor Público|9;CONST;CO07.01;unanime;CO07.01;CO07.01;CO07.01;ia_maioria
+2023 - DPE-AM - Analista Jurídico|24;CONST;CO01.02;unanime;CO01.02;CO01.02;CO01.02;ia_maioria
+2026 - DPE-MT - Defensor Público|74;CONST;CO03.01;unanime;CO03.01;CO03.01;CO03.01;ia_maioria
+2025 - DPE-SP - Analista de Defensoria|15;CONST;CO05.01;unanime;CO05.01;CO05.01;CO05.01;ia_maioria
+2022 - DPE-MT - Defensor Público|73;CONST;CO04.02;unanime;CO04.02;CO04.02;CO04.02;ia_maioria
+2022 - DPE-PB - Defensor Público|75;CONST;CO13.01;unanime;CO13.01;CO13.01;CO13.01;ia_maioria
+2023 - DPE-SP - Defensor Público|1;CONST;CO14.02;unanime;CO14.02;CO14.02;CO14.02;ia_maioria
+2019 - DPE-AM - Analista Jurídico|23;CONST;CO10.03;unanime;CO10.03;CO10.03;CO10.03;ia_maioria
+2018 - DPE-AM - Analista Jurídico|24;CONST;CO03.02;unanime;CO03.02;CO03.02;CO03.02;ia_maioria
+2022 - DPE-AP - Defensor Público|3;CONST;CO11.01;unanime;CO11.01;CO11.01;CO11.01;ia_maioria
+2021 - DPE-BA - Defensor Público|23;ADM;AD14.03;unanime;AD14.03;AD14.03;AD14.03;ia_maioria
+2022 - DPE-AM - Analista Jurídico|26;ADM;AD01.02;unanime;AD01.02;AD01.02;AD01.02;ia_maioria
+2026 - TJCE - Analista Judiciário|33;ADM;AD14.01;unanime;AD14.01;AD14.01;AD14.01;ia_maioria
+2025 - DPE-RS - Defensor Público|88;ADM;AD14.04;unanime;AD14.04;AD14.04;AD14.04;ia_maioria
+2021 - DPE-SC - Defensor Público|24;ADM;AD04.02;unanime;AD04.02;AD04.02;AD04.02;ia_maioria
+2023 - DPE-ES - Defensor Público|24;ADM;AD04.01;unanime;AD04.01;AD04.01;AD04.01;ia_maioria
+2022 - DPE-CE - Defensor Público|76;ADM;AD07.01;unanime;AD07.01;AD07.01;AD07.01;ia_maioria
+2026 - DPE-MA - Defensor Público|23;ADM;AD04.03;unanime;AD04.03;AD04.03;AD04.03;ia_maioria
+2025 - DPE-SP - Analista de Defensoria|20;ADM;AD08.01;unanime;AD08.01;AD08.01;AD08.01;ia_maioria
+2021 - DPE-RR - Defensor Público|12;ADM;AD03.02;unanime;AD03.02;AD03.02;AD03.02;ia_maioria
+2021 - DPE-BA - Defensor Público|21;ADM;AD13.01;unanime;AD13.01;AD13.01;AD13.01;ia_maioria
+2018 - DPE-AM - Analista Jurídico|29;ADM;AD07.02;unanime;AD07.02;AD07.02;AD07.02;ia_maioria
+2018 - DPE-AM - Analista Jurídico|35;CIV;CV05.01;unanime;CV05.01;CV05.01;CV05.01;ia_maioria
+2022 - DPE-AP - Defensor Público|45;CIV;CV07.03;unanime;CV07.03;CV07.03;CV07.03;ia_maioria
+2025 - DPE-RS - Defensor Público|43;CIV;CV05.02;maioria;CV06.01;CV05.02;CV05.02;ia_maioria
+2026 - TJCE - Analista Judiciário|43;CIV;CV09.03;unanime;CV09.03;CV09.03;CV09.03;ia_maioria
+2023 - DPE-AM - Analista Jurídico|33;CIV;CV10.04;unanime;CV10.04;CV10.04;CV10.04;ia_maioria
+2022 - DPE-MT - Defensor Público|3;CIV;CV07.16;unanime;CV07.16;CV07.16;CV07.16;ia_maioria
+2022 - DPE-CE - Defensor Público|22;CIV;CV10.05;unanime;CV10.05;CV10.05;CV10.05;ia_maioria
+2022 - DPE-AP - Defensor Público|42;CIV;CV12.01;maioria;CV07.01;CV12.01;CV12.01;ia_maioria
+2019 - DPE-AM - Analista Jurídico|31;CIV;CV04.01;unanime;CV04.01;CV04.01;CV04.01;ia_maioria
+2021 - DPE-RR - Defensor Público|40;CIV;CV09.01;maioria;CV11.01;CV09.01;CV09.01;ia_maioria
+2025 - MPPI - Analista Ministerial|45;CIV;CV01.01;unanime;CV01.01;CV01.01;CV01.01;ia_maioria
+2025 - DPE-SP - Analista de Defensoria|63;CIV;CV02.03;unanime;CV02.03;CV02.03;CV02.03;ia_maioria
+2021 - DPE-BA - Defensor Público|71;PCIV;PC07.01;unanime;PC07.01;PC07.01;PC07.01;ia_maioria
+2019 - DPE-AM - Analista Jurídico|34;PCIV;PC05.01;unanime;PC05.01;PC05.01;PC05.01;ia_maioria
+2022 - DPE-CE - Defensor Público|53;PCIV;PC06.02;unanime;PC06.02;PC06.02;PC06.02;ia_maioria
+2025 - DPE-RS - Defensor Público|38;PCIV;PC06.05;unanime;PC06.05;PC06.05;PC06.05;ia_maioria
+2023 - DPE-SP - Defensor Público|42;PCIV;PC09.01;unanime;PC09.01;PC09.01;PC09.01;ia_maioria
+2026 - DPE-MA - Defensor Público|56;PCIV;PC08.01;unanime;PC08.01;PC08.01;PC08.01;ia_maioria
+2026 - TJCE - Analista Judiciário|50;PCIV;PC03.04;unanime;PC03.04;PC03.04;PC03.04;ia_maioria
+2018 - DPE-AM - Analista Jurídico|33;PCIV;PC08.02;unanime;PC08.02;PC08.02;PC08.02;ia_maioria
+2023 - DPE-AM - Analista Jurídico|36;PCIV;PC08.03;unanime;PC08.03;PC08.03;PC08.03;ia_maioria
+2021 - DPE-GO - Defensor Público|52;PCIV;PC11.01;unanime;PC11.01;PC11.01;PC11.01;ia_maioria
+2022 - DPE-MT - Defensor Público|13;PCIV;PC06.03;maioria;PC06.03;PC06.03;PC08.01;ia_maioria
+2022 - DPE-PB - Defensor Público|15;PCIV;PC02.01;maioria;PC09.02;PC02.01;PC02.01;ia_maioria
+2021 - DPE-SC - Defensor Público|69;PENAL;PE07.04;unanime;PE07.04;PE07.04;PE07.04;ia_maioria
+2022 - DPE-PB - Defensor Público|42;PENAL;PE08.03;unanime;PE08.03;PE08.03;PE08.03;ia_maioria
+2023 - DPE-ES - Defensor Público|79;PENAL;PE04.01;unanime;PE04.01;PE04.01;PE04.01;ia_maioria
+2022 - DPE-PB - Defensor Público|44;PENAL;PE14.09;unanime;PE14.09;PE14.09;PE14.09;ia_maioria
+2025 - DPE-AM - Defensor Público|28;PENAL;PE05.02;maioria;PE05.02;PE05.02;PE06.04;ia_maioria
+2026 - TJCE - Analista Judiciário|36;PENAL;PE14.10;unanime;PE14.10;PE14.10;PE14.10;ia_maioria
+2023 - DPE-SP - Defensor Público|20;PENAL;PE11.02;unanime;PE11.02;PE11.02;PE11.02;ia_maioria
+2026 - DPE-BA - Defensor Público|28;PENAL;PE13.01;maioria;PE13.01;PE13.01;PE13.03;ia_maioria
+2023 - DPE-AM - Analista Jurídico|42;PENAL;PE09.01;unanime;PE09.01;PE09.01;PE09.01;ia_maioria
+2025 - MPPI - Analista Ministerial|38;PENAL;PE12.01;maioria;PE12.01;PE12.01;PE14.02;ia_maioria
+2021 - DPE-BA - Defensor Público|27;PENAL;;sem_maioria;PE14.02;PE10.02;PE04.02;ia_maioria
+2019 - DPE-AM - Analista Jurídico|39;PENAL;PE07.02;unanime;PE07.02;PE07.02;PE07.02;ia_maioria
+2025 - DPE-SP - Analista de Defensoria|60;PPEN;PP02.01;maioria;PP01.01;PP02.01;PP02.01;ia_maioria
+2021 - DPE-RR - Defensor Público|29;PPEN;PP05.01;maioria;PP05.02;PP05.01;PP05.01;ia_maioria
+2022 - DPE-AM - Analista Jurídico (2)|48;PPEN;PP09.01;unanime;PP09.01;PP09.01;PP09.01;ia_maioria
+2025 - DPE-AM - Defensor Público|34;PPEN;PP06.01;unanime;PP06.01;PP06.01;PP06.01;ia_maioria
+2026 - DPE-MT - Defensor Público|53;PPEN;PP05.01;unanime;PP05.01;PP05.01;PP05.01;ia_maioria
+2019 - DPE-AM - Analista Jurídico|48;PPEN;PP03.03;unanime;PP03.03;PP03.03;PP03.03;ia_maioria
+2023 - DPE-ES - Defensor Público|91;PPEN;PP08.01;maioria;PP07.04;PP08.01;PP08.01;ia_maioria
+2023 - DPE-SP - Defensor Público|29;PPEN;PP04.02;unanime;PP04.02;PP04.02;PP04.02;ia_maioria
+2022 - DPE-PB - Defensor Público|62;PPEN;PP04.01;unanime;PP04.01;PP04.01;PP04.01;ia_maioria
+2026 - TJCE - Analista Judiciário|58;PPEN;PP03.01;unanime;PP03.01;PP03.01;PP03.01;ia_maioria
+2022 - DPE-AP - Defensor Público|37;PPEN;PP08.01;unanime;PP08.01;PP08.01;PP08.01;ia_maioria
+2023 - DPE-AM - Analista Jurídico|46;PPEN;PP09.02;unanime;PP09.02;PP09.02;PP09.02;ia_maioria
+2022 - DPE-PB - Defensor Público|84;ECA;CA06.01;maioria;CA01.03;CA06.01;CA06.01;ia_maioria
+2025 - DPE-AM - Defensor Público|80;ECA;CA03.01;unanime;CA03.01;CA03.01;CA03.01;ia_maioria
+2021 - DPE-SC - Defensor Público|39;ECA;;sem_maioria;CA02.05;CA08.01;CA05.02;ia_maioria
+2021 - DPE-GO - Defensor Público|68;ECA;CA04.01;unanime;CA04.01;CA04.01;CA04.01;ia_maioria
+2026 - DPE-MA - Defensor Público|66;ECA;CA05.02;unanime;CA05.02;CA05.02;CA05.02;ia_maioria
+2021 - DPE-RR - Defensor Público|81;ECA;CA06.04;maioria;CA05.01;CA06.04;CA06.04;ia_maioria
+2023 - DPE-SP - Defensor Público|63;ECA;CA03.04;unanime;CA03.04;CA03.04;CA03.04;ia_maioria
+2021 - DPE-BA - Defensor Público|99;ECA;CA01.02;unanime;CA01.02;CA01.02;CA01.02;ia_maioria
+2022 - DPE-AM - Analista Jurídico (2)|59;ECA;CA04.04;unanime;CA04.04;CA04.04;CA04.04;ia_maioria
+2025 - DPE-SP - Analista de Defensoria|39;ECA;CA02.01;unanime;CA02.01;CA02.01;CA02.01;ia_maioria
+2025 - MPPI - Analista Ministerial|5;LP;LP04.05;unanime;LP04.05;LP04.05;LP04.05;ia_maioria
+2026 - TJCE - Analista Judiciário|5;LP;LP02.01;unanime;LP02.01;LP02.01;LP02.01;ia_maioria
+2018 - DPE-AM - Analista Jurídico|6;LP;LP06.01;unanime;LP06.01;LP06.01;LP06.01;ia_maioria
+2019 - DPE-AM - Analista Jurídico|11;LP;LP05.01;unanime;LP05.01;LP05.01;LP05.01;ia_maioria
+2022 - DPE-AM - Analista Jurídico (2)|1;LP;LP01.03;unanime;LP01.03;LP01.03;LP01.03;ia_maioria
+2023 - DPE-AM - Analista Jurídico|11;LP;LP09.01;unanime;LP09.01;LP09.01;LP09.01;ia_maioria
+2022 - DPE-AM - Analista Jurídico|14;LP;LP08.01;unanime;LP08.01;LP08.01;LP08.01;ia_maioria
+2025 - MPPI - Analista Ministerial|9;LP;LP05.03;unanime;LP05.03;LP05.03;LP05.03;ia_maioria
+2022 - DPE-AM - Analista Jurídico|15;PI;PI01.01;unanime;PI01.01;PI01.01;PI01.01;ia_maioria
+2023 - DPE-AM - Analista Jurídico|20;PI;PI03.01;unanime;PI03.01;PI03.01;PI03.01;ia_maioria
+2025 - DPE-SP - Analista de Defensoria|85;PI;PI04.02;unanime;PI04.02;PI04.02;PI04.02;ia_maioria
+2019 - DPE-AM - Analista Jurídico|13;PI;PI03.02;unanime;PI03.02;PI03.02;PI03.02;ia_maioria
+2022 - DPE-AM - Analista Jurídico|19;PI;PI02.01;unanime;PI02.01;PI02.01;PI02.01;ia_maioria
+2023 - DPE-AM - Analista Jurídico|18;PI;PI06.02;unanime;PI06.02;PI06.02;PI06.02;ia_maioria
+2018 - DPE-AM - Analista Jurídico|20;PI;PI06.03;unanime;PI06.03;PI06.03;PI06.03;ia_maioria
+2022 - DPE-AM - Analista Jurídico (2)|20;PI;PI06.01;unanime;PI06.01;PI06.01;PI06.01;ia_maioria

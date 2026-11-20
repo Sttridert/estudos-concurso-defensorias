@@ -1,0 +1,257 @@
+{
+ "pasta": "2026 - DPE-BA - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PCIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 9320,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Constituição e Processo.",
+      "A Constitucionalização do processo.",
+      "Princípios constitucionais no processo civil.",
+      "Conteúdo jurídico do direito de acesso à tutela jurisdicional do Estado.",
+      "Conteúdo jurídico do direito de defesa.",
+      "Direitos fundamentais e processo.",
+      "A busca pela efetividade do processo e as reformas processuais.",
+      "O provimento jurisdicional como instrumento de transformação social.",
+      "Processo eletrônico."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Normas de Direito Processual Civil: natureza jurídica, fontes, princípios processuais civis, interpretação e Direito Processual intertemporal.",
+      "Princípios infraconstitucionais do processo civil."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Jurisdição: conceito, características, princípios e espécies.",
+      "Meios adequados de solução de conflitos: autotutela, autocomposição (conciliação e mediação), arbitragem e tribunais administrativos.",
+      "Resolução CNJ nº 125/2010.",
+      "Lei de Mediação (Lei nº 13.140/2015).",
+      "Competência."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Ação: teorias, classificação, elementos e cumulação.",
+      "Teoria da asserção.",
+      "Processo: pressupostos processuais, atos processuais, vícios dos atos processuais, lugar, tempo e forma dos atos processuais, comunicação dos atos processuais.",
+      "Preclusão.",
+      "Negócios jurídicos processuais.",
+      "Calendarização processual.",
+      "Cooperação e gestão do procedimento."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Sujeitos do processo: partes, capacidade, deveres e responsabilidade por dano processual, substituição, sucessão.",
+      "Litisconsórcio.",
+      "Assistência.",
+      "Intervenção de terceiros: típicas e atípicas.",
+      "Amicus curiae.",
+      "Juiz e auxiliares da justiça.",
+      "Ministério Público.",
+      "Advocacia Pública.",
+      "Defensoria Pública.",
+      "A intervenção da Defensoria Pública como custos vulnerabilis."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Tutelas declaratórias, condenatórias, mandamentais, cominatórias e específicas.",
+      "Tutela provisória.",
+      "Tutela de urgência e tutela da evidência.",
+      "Tutela antecedente e incidente.",
+      "Estabilização da tutela provisória."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Procedimento.",
+      "Teoria geral do procedimento.",
+      "Procedimentos especiais e procedimentos de jurisdição voluntária.",
+      "Procedimento comum: petição inicial, indeferimento da petição inicial, improcedência liminar do pedido, audiência de conciliação ou mediação, respostas do réu, revelia, providências preliminares e saneamento, julgamento conforme o estado do processo, audiência de instrução e julgamento, provas, sentença e coisa julgada.",
+      "Cumprimento de sentença.",
+      "Provas.",
+      "Objeto, fonte e meios.",
+      "Admissibilidade.",
+      "Provas típicas e atípicas.",
+      "Provas ilícitas.",
+      "Ônus da prova.",
+      "Provas em espécie e sua produção.",
+      "Prova digital.",
+      "Cadeia de custódia digital.",
+      "Ata notarial.",
+      "Produção antecipada de prova.",
+      "Incidente de desconsideração da personalidade jurídica.",
+      "Incidente de falsidade documental.",
+      "Impedimentos e suspeição."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Processo de execução: espécies, procedimentos, execução provisória e definitiva.",
+      "Execução para entrega de coisa, execução de obrigações de fazer ou de não fazer, execução por quantia certa, execução contra a fazenda pública, execução de alimentos.",
+      "Defesas do devedor e de terceiros na execução.",
+      "Ações prejudiciais à execução.",
+      "Embargos à execução.",
+      "Suspensão e extinção do processo de execução."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Processo nos tribunais e meios de impugnação das decisões judiciais: ordem dos processos nos tribunais e processos de competência originária dos tribunais: incidente de assunção de competência, incidente de arguição de inconstitucionalidade, conflito de competência, homologação de decisão estrangeira e concessão do exequatur à carta rogatória, ação rescisória.",
+      "Recursos e meios de impugnação.",
+      "Admissibilidade e efeitos.",
+      "Princípios.",
+      "Apelação, agravos, embargos de declaração, embargos de divergência, remessa necessária, ação rescisória, mandado de segurança contra ato judicial, ação declaratória de inexistência de ato processual e querela nullitatis.",
+      "Recursos nos Tribunais Superiores.",
+      "Lei Federal nº 11.417/06.",
+      "Precedentes: teoria geral, distinguishing e overulling.",
+      "Precedentes e casos repetitivos: IRDR, IAC, recursos repetitivos, repercussão geral, súmulas (inclusive vinculante) e reclamação."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Ações constitucionais.",
+      "Ação direta de inconstitucionalidade e ação declaratória de constitucionalidade.",
+      "Ação de descumprimento de preceito constitucional.",
+      "Ação direta de inconstitucionalidade por omissão.",
+      "Repercussão geral.",
+      "Súmula vinculante."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Ações previstas em legislação especial e/ou com rito próprio.",
+      "Habeas Corpus, Habeas Data e Mandado de Injunção.",
+      "Reclamação.",
+      "Ação popular.",
+      "Mandado de segurança individual e coletivo.",
+      "Ações da Lei de Locação dos Imóveis Urbanos: despejo, consignatória de aluguel e acessórios, renovatória e revisional.",
+      "Postulação e defesa.",
+      "Ações possessórias e petitórias.",
+      "Usucapião judicial e extrajudicial.",
+      "Usucapião como matéria de defesa.",
+      "Ações de alimentos.",
+      "Execução de alimentos.",
+      "Lei de Alimentos e disposições do Código de Processo Civil.",
+      "Ações declaratória e negatória de vínculo parental (em vida e póstuma).",
+      "Separação, divórcio direto e mediante conversão.",
+      "Declaratória de união estável (em vida e póstuma).",
+      "Separação e divórcio extrajudiciais.",
+      "Inventário judicial e extrajudicial.",
+      "Arrolamento.",
+      "Alvará.",
+      "Juizados Especiais Cíveis.",
+      "Enunciados."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Processo Coletivo.",
+      "Teoria geral do processo civil coletivo.",
+      "A evolução dos direitos fundamentais e a formação da tutela coletiva de direitos no Brasil.",
+      "Fundamentos, conceitos e elementos do processo civil coletivo.",
+      "Processo coletivo e processo de interesse público.",
+      "A Constituição Federal de 1988 e a Emenda Constitucional nº 80/14.",
+      "Princípios gerais do processo civil coletivo.",
+      "O microssistema de tutela coletiva.",
+      "Instrumentos processuais de tutela coletiva e Leis nº 4.717/65, 7.347/85, 8.078/90, 9.507/97, 12.016/09, 13.105/15.",
+      "O novo código de processo civil e a tutela coletiva.",
+      "A efetividade das tutelas coletivas.",
+      "Classificação dos direitos coletivos em sentido amplo.",
+      "Direitos difusos, coletivos em sentido estrito e individuais homogêneos.",
+      "Legitimidade ativa e passiva das ações coletivas.",
+      "Casos Repetitivos.",
+      "Litígio coletivo.",
+      "Legitimidade da Defensoria Pública.",
+      "Polo passivo coletivo.",
+      "Competência em ações coletivas.",
+      "Litisconsórcio em ações coletivas.",
+      "Inversão do ônus da prova.",
+      "Litispendência, conexão e continência em ações coletivas.",
+      "A prova e a distribuição do ônus da prova nas ações coletivas.",
+      "As tutelas de evidência e de urgência nas ações coletivas.",
+      "A tutela de urgência em face do Poder Público.",
+      "A audiência prévia e a suspensão da liminar.",
+      "A teoria das tutelas jurisdicionais e as ações coletivas.",
+      "Recursos em ações coletivas.",
+      "Coisa julgada em ações coletivas.",
+      "Liquidação e execução em ações coletivas.",
+      "A execução da sentença coletiva.",
+      "Fundo de Defesa de Direitos Difusos FDD (Lei nº 9.008/95).",
+      "Termo de ajustamento de conduta (TAC) e a Defensoria Pública.",
+      "Controle difuso de constitucionalidade e ações coletivas.",
+      "Processo coletivo e participação popular.",
+      "Audiência pública (extrajudicial e judicial).",
+      "Convocação de audiência pública pelo Defensor Público.",
+      "Intervenção do amicus curiae.",
+      "Intervenção do cidadão, isoladamente ou em grupo.",
+      "Reconvenção nas ações coletivas.",
+      "Autocomposição nos direitos coletivos.",
+      "Conciliação e mediação nas causas coletivas.",
+      "Medidas estruturais extrajudiciais.",
+      "Instrumentos administrativos de resolução extrajudicial de conflitos de natureza coletiva.",
+      "Procedimentos administrativos de tutela coletiva: inquérito civil (MP) e procedimentos administrativos próprios das Defensorias Públicas.",
+      "A prestação da assistência jurídica nas ações coletivas.",
+      "Poder de requisição e recomendação do Defensor Público em matéria coletiva.",
+      "Prescrição e decadência nas ações coletivas.",
+      "Despesas processuais e honorários de sucumbência.",
+      "Sentença estrutural.",
+      "Execução estrutural."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Prerrogativas processuais da Defensoria Pública.",
+      "Assistência Judiciária: aspectos processuais.",
+      "A Fazenda Pública como parte no processo: polos ativo e passivo.",
+      "Prerrogativas.",
+      "Tutela provisória e tutela específica.",
+      "Ação de conhecimento e execução.",
+      "A Fazenda nos procedimentos especiais.",
+      "Juizados Especiais da Fazenda Pública Estadual.",
+      "Gratuidade da justiça: requisitos, extensão, impugnação, revogação e efeitos.",
+      "Honorários sucumbenciais e honorários em favor da Defensoria Pública."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Código de Processo Civil (Lei nº 13.105, de 16 de março de 2015).",
+      "Normas processuais civis e medidas tutelares na legislação especial: Estatuto da Criança e Adolescente; Estatuto do Idoso; Estatuto das Cidades; Lei Brasileira de Inclusão; Código de Defesa aos Consumidores; e Lei de violência doméstica.",
+      "Instrumentos processuais de tutela coletiva: Código de Processo Civil, Lei de Ação Civil Pública, Código de Defesa do Consumidor, Lei de Ação Popular, Estatuto da Criança e do Adolescente, Estatuto das Cidades, Lei 9.507/1997 e Lei 12.016/2009.",
+      "Processo coletivo, processo estrutural e Defensoria Pública na Constituição Federal, as alterações por emendas constitucionais, as Leis Orgânicas nacional (Lei Complementar nacional nº 80/1994) e estadual (Lei Complementar estadual nº 19/1994) e suas alterações.",
+      "Resolução CNJ nº 345/2020, nº 372/2021, nº 385/2021, nº 299/2019, nº 401/2021, nº 492/2023, nº 571/2024, nº 615/2025 e nº 455/2022 (Institui o Portal de Serviços do Poder Judiciário (PSPJ), na Plataforma Digital do Poder Judiciário (PDPJ-Br), para usuários externos.) Protocolo para Julgamento com Perspectiva de Gênero – CNJ (2021)."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Jurisprudência dos Tribunais Superiores e do Tribunal de Justiça do Estado da Bahia em matéria relativa ao conteúdo programático de Direito Processual Civil no presente edital."
+     ]
+    }
+   ]
+  }
+ ]
+}

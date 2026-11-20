@@ -1,0 +1,91 @@
+{
+ "consultado_em": "2026-11-15",
+ "regra": "Decisão 41, item 5: pesquisar anulação na web; se achar, aplicar; se não achar, manter a tag 'gabarito preliminar'. Só vira definitivo o gabarito com documento oficial da FCC que lista as alterações e atribuições (edital de resultado ou arquivo 'Alteração de gabarito e Atribuição de questões').",
+ "anulacoes": [
+  {
+   "prova": "2019 - DPE-AM - Analista Jurídico",
+   "numero": 17,
+   "tipo": 1,
+   "fonte": "Edital nº 04/2020 de Resultado Preliminar das Provas Objetivas e Discursiva (DPEAM119), item 2, ATRIBUIÇÃO DE QUESTÃO: Analista Jurídico de Defensoria, questão 17 tipo 1 (https://www.concursosfcc.com.br/concursos/dpeam119/edital_n0_04_resultado_preliminar_dpeam119.pdf)"
+  },
+  {
+   "prova": "2019 - DPE-AM - Analista Jurídico",
+   "numero": 37,
+   "tipo": 1,
+   "fonte": "Edital nº 04/2020 de Resultado Preliminar das Provas Objetivas e Discursiva (DPEAM119), item 2, ATRIBUIÇÃO DE QUESTÃO: Analista Jurídico de Defensoria, questão 37 tipo 1 (https://www.concursosfcc.com.br/concursos/dpeam119/edital_n0_04_resultado_preliminar_dpeam119.pdf)"
+  }
+ ],
+ "status": [
+  {
+   "prova": "2018 - DPE-AM - Analista Jurídico",
+   "status": "oficial FCC (relação geral do site, DPEAM117); conferido em 15/11/2026: o Edital nº 08/2018 (alteração de gabarito e atribuição de questão após recursos) não traz alteração nem atribuição para o cargo de Analista Jurídico",
+   "fonte": "https://www.concursosfcc.com.br/concursos/dpeam117/resultado_preliminar_sem_tabatinga.pdf"
+  },
+  {
+   "prova": "2019 - DPE-AM - Analista Jurídico",
+   "status": "oficial FCC (relação geral do site); conferido em 15/11/2026: Edital nº 04/2020 atribui as questões 17 e 37 (tipo 1) a todos os candidatos (anuladas), já aplicado no banco",
+   "fonte": "https://www.concursosfcc.com.br/concursos/dpeam119/edital_n0_04_resultado_preliminar_dpeam119.pdf"
+  },
+  {
+   "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+   "status": "oficial FCC (relação geral do site, DPEAM122, aplicação regular); conferido em 15/11/2026: Edital nº 13/2023 e nº 14/2023 (Rio Preto da Eva) não informam alteração nem atribuição de questão",
+   "fonte": "https://www.concursosfcc.com.br/concursos/dpeam122/edital_n013_de_resultado_da_prova_objetiva_e_discursiva.pdf"
+  },
+  {
+   "prova": "2022 - DPE-AM - Analista Jurídico",
+   "status": "a_confirmar: em 15/11/2026, os Editais nº 07/2022 e nº 08/2022 (resultado após recursos) não informam alteração nem atribuição de questão, mas o gabarito definitivo em si não foi localizado (a relação geral do site é carregada por script)",
+   "fonte": "https://www.concursosfcc.com.br/concursos/dpeam122/edital_de_resultado_da_prova_objetiva_e_discursiva.pdf"
+  },
+  {
+   "prova": "2023 - DPE-AM - Analista Jurídico",
+   "status": "preliminar (publicação de 23/10/2023); em 15/11/2026, os Editais nº 06/2023 e nº 09/2023 (resultado definitivo) não informam alteração nem atribuição de questão, mas o gabarito definitivo em si não foi localizado (portal do candidato)",
+   "fonte": "https://www.concursosfcc.com.br/concursos/dpeam123/edital__resultado_analista__1_.pdf"
+  },
+  {
+   "prova": "2025 - DPE-SP - Analista de Defensoria",
+   "status": "definitivo: conferido em 15/11/2026 com o arquivo oficial 'Alteração de gabarito e Atribuição de questões' (atribuição da questão 34, tipo 1, já aplicada no banco) e o Edital nº 06/2025 (resultado definitivo da prova objetiva)",
+   "fonte": "https://www.concursosfcc.com.br/concursos/dpesp124/index.html"
+  },
+  {
+   "prova": "2025 - MPPI - Analista Ministerial",
+   "status": "preliminar (publicado em 28/07/2025); transcrito das imagens do PDF; em 15/11/2026, os Editais nº 03/2025 e nº 04/2025 (resultado definitivo) e a página do concurso não informam alteração nem atribuição de questão, mas o gabarito definitivo em si não foi localizado (portal do candidato)",
+   "fonte": "https://www.concursosfcc.com.br/concursos/mpepi124/index.html"
+  },
+  {
+   "prova": "2026 - TJCE - Analista Judiciário",
+   "status": "preliminar (publicado em 10/08/2026); cargo G07, tipo de gabarito 4; transcrito das imagens do PDF; em 15/11/2026, os Editais nº 06/2026 e nº 08/2026 (resultado definitivo) e a página do concurso não informam alteração nem atribuição de questão, mas o gabarito definitivo em si não foi localizado (portal do candidato)",
+   "fonte": "https://www.concursosfcc.com.br/concursos/tjuce125/index.html"
+  }
+ ],
+ "consulta_2026-11-16": {
+  "regra": "Nova busca na web (pedido do usuário em 16/11/2026) por anulações e gabarito definitivo das provas que seguem com a tag 'gabarito preliminar'.",
+  "resultado": "Nenhuma anulação ou alteração localizada. Mantida a tag 'gabarito preliminar' em DPE-AM 2022 e 2023, MPPI 2025 e TJCE 2026; os resultados da busca só trazem o gabarito preliminar ou cronogramas; o gabarito definitivo fica no portal do candidato da FCC (carregado por script) e não foi lido.",
+  "provas": [
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "achado": "sem gabarito definitivo nem lista de anulações nos resultados (só cronograma)"
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "achado": "só gabarito preliminar (prova de 21/08/2022); sem lista de alterações"
+   },
+   {
+    "prova": "2025 - MPPI - Analista Ministerial",
+    "achado": "PDF da FCC com o gabarito preliminar da Área Processual, todas 'sem alteração'; sem gabarito definitivo"
+   },
+   {
+    "prova": "2026 - TJCE - Analista Judiciário",
+    "achado": "resultado definitivo saiu pelo Edital 08/2026 (28/10/2026), mas não localizei a lista de alterações da Área Judiciária; PDF de outra especialidade traz 'gabarito sem alteração'"
+   },
+   {
+    "prova": "2022 - DPE-PB - Defensor Público",
+    "achado": "nada sobre a Q92 (Protocolo Facultativo ao PIDESC); o alerta do gabarito segue aberto"
+   }
+  ],
+  "fontes": [
+   "https://arquivos.qconcursos.com/prova/arquivo_gabarito/135129/fcc-2025-mpe-pi-analista-ministerial-area-processual-gabarito.pdf",
+   "https://www.tjce.jus.br/?p=883461",
+   "https://folha.qconcursos.com/n/concurso-dpe-am-2022-servidores-gabaritos"
+  ]
+ }
+}

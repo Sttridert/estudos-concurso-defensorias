@@ -1,0 +1,272 @@
+{
+ "direito-administrativo": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": "nao declarado (anterior ao universo de editais)",
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "estado inicial (Fase 0 do plano do grupo B, 20/11/2026): catalogo anterior ao universo de editais e ao contrato"
+   },
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ },
+ "direito-civil": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": "nao declarado (anterior ao universo de editais)",
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "estado inicial (Fase 0 do plano do grupo B, 20/11/2026): catalogo anterior ao universo de editais e ao contrato"
+   },
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ },
+ "direito-constitucional": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": "nao declarado (anterior ao universo de editais)",
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "estado inicial (Fase 0 do plano do grupo B, 20/11/2026): catalogo anterior ao universo de editais e ao contrato"
+   },
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ },
+ "direito-da-crianca-e-do-adolescente": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": "nao declarado (anterior ao universo de editais)",
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "estado inicial (Fase 0 do plano do grupo B, 20/11/2026): catalogo anterior ao universo de editais e ao contrato"
+   },
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ },
+ "direito-penal": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": "nao declarado (anterior ao universo de editais)",
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "estado inicial (Fase 0 do plano do grupo B, 20/11/2026): catalogo anterior ao universo de editais e ao contrato"
+   },
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ },
+ "direito-processual-civil": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": "nao declarado (anterior ao universo de editais)",
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "estado inicial (Fase 0 do plano do grupo B, 20/11/2026): catalogo anterior ao universo de editais e ao contrato"
+   },
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ },
+ "direito-processual-penal": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": "nao declarado (anterior ao universo de editais)",
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "estado inicial (Fase 0 do plano do grupo B, 20/11/2026): catalogo anterior ao universo de editais e ao contrato"
+   },
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ },
+ "direitos-humanos": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": "nao declarado (anterior ao universo de editais)",
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "estado inicial (Fase 0 do plano do grupo B, 20/11/2026): catalogo anterior ao universo de editais e ao contrato"
+   },
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ },
+ "execucao-penal": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": "nao declarado (anterior ao universo de editais)",
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "estado inicial (Fase 0 do plano do grupo B, 20/11/2026): catalogo anterior ao universo de editais e ao contrato"
+   },
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ },
+ "lingua-portuguesa": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": "nao declarado (anterior ao universo de editais)",
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "estado inicial (Fase 0 do plano do grupo B, 20/11/2026): catalogo anterior ao universo de editais e ao contrato"
+   },
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ },
+ "principios-e-atribuicoes-institucionais-da-defensoria": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": "nao declarado (anterior ao universo de editais)",
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "estado inicial (Fase 0 do plano do grupo B, 20/11/2026): catalogo anterior ao universo de editais e ao contrato"
+   },
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ },
+ "criminologia": {
+  "estado": "provisorio",
+  "versao": "v2",
+  "editais_usados": null,
+  "riscos": [
+   "rascunho da IA homologado em amostra pelo usuário; classificação migrada pelo mapa, não revisada"
+  ],
+  "historico": [
+   {
+    "data": "2026-11-20",
+    "de": "provisorio",
+    "para": "provisorio",
+    "motivo": "publicação única dos catálogos v2 (M6, 20/11/2026); nenhuma classificação revisada por humano; reclassificação fina é do grupo C"
+   }
+  ],
+  "data": "2026-11-20"
+ }
+}

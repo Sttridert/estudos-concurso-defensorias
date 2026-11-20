@@ -1,0 +1,140 @@
+{
+ "_leia-me": "Fonte única das disciplinas do projeto (sigla, nome no banco, prefixo dos códigos do catálogo, padrões de título para achar a disciplina no PDF do edital). Lido por scripts/lib_disciplinas.py. Disciplina nova: acrescentar uma entrada aqui e rodar `71 semear`. `ordem_extracao` é a ordem padrão de `coletar_programa_edital.py extrair`.",
+ "ordem_extracao": [
+  "CONST",
+  "ADM",
+  "CIV",
+  "PCIV",
+  "PENAL",
+  "PPEN",
+  "DH",
+  "ECA"
+ ],
+ "disciplinas": [
+  {
+   "sigla": "CONST",
+   "nome": "Direito Constitucional",
+   "prefixo": "CO",
+   "padroes_titulo": [
+    "^DIREITO CONSTITUCIONAL"
+   ],
+   "edital_ficticio": true,
+   "extrair_edital_real": true
+  },
+  {
+   "sigla": "ADM",
+   "nome": "Direito Administrativo",
+   "prefixo": "AD",
+   "padroes_titulo": [
+    "^DIREITO ADMINISTRATIVO\\b"
+   ],
+   "edital_ficticio": true,
+   "extrair_edital_real": true
+  },
+  {
+   "sigla": "CIV",
+   "nome": "Direito Civil",
+   "prefixo": "CV",
+   "padroes_titulo": [
+    "^DIREITO CIVIL\\b"
+   ],
+   "edital_ficticio": true,
+   "extrair_edital_real": true
+  },
+  {
+   "sigla": "PCIV",
+   "nome": "Direito Processual Civil",
+   "prefixo": "PC",
+   "padroes_titulo": [
+    "^DIREITO PROCESSUAL CIVIL\\b"
+   ],
+   "edital_ficticio": true,
+   "extrair_edital_real": true
+  },
+  {
+   "sigla": "PENAL",
+   "nome": "Direito Penal",
+   "prefixo": "PE",
+   "padroes_titulo": [
+    "^DIREITO PENAL\\b(?!.*(MILITAR|PROCESSUAL|EXECU))",
+    "^LEGISLACAO PENAL\\b",
+    "^DIREITO PENAL E CRIMINOLOGIA"
+   ],
+   "edital_ficticio": true,
+   "extrair_edital_real": true
+  },
+  {
+   "sigla": "PPEN",
+   "nome": "Direito Processual Penal",
+   "prefixo": "PP",
+   "padroes_titulo": [
+    "^DIREITO PROCESSUAL PENAL\\b",
+    "^DIREITO PROCESSO PENAL\\b",
+    "^PROCESSO PENAL\\b"
+   ],
+   "edital_ficticio": true,
+   "extrair_edital_real": true
+  },
+  {
+   "sigla": "DH",
+   "nome": "Direitos Humanos",
+   "prefixo": "DH",
+   "padroes_titulo": [
+    "^DIREITOS? HUMANOS\\b"
+   ],
+   "edital_ficticio": true,
+   "extrair_edital_real": true
+  },
+  {
+   "sigla": "ECA",
+   "nome": "Direito da Criança e do Adolescente",
+   "prefixo": "CA",
+   "padroes_titulo": [
+    "^DIREITO DA CRIANCA E DO ADOLESCENTE\\b",
+    "^DIREITO DA INFANCIA E DA JUVENTUDE\\b",
+    "^ESTATUTO DA CRIANCA E DO ADOLESCENTE\\b"
+   ],
+   "edital_ficticio": true,
+   "extrair_edital_real": true
+  },
+  {
+   "sigla": "EXEC",
+   "nome": "Execução Penal",
+   "prefixo": "EX",
+   "padroes_titulo": [
+    "^EXECUCAO PENAL\\b",
+    "^DIREITO (DA |DE )?EXECUCAO PENAL\\b",
+    "^LEI DE EXECUCAO PENAL\\b",
+    "^DIREITO PENITENCIARIO\\b",
+    "^EXECUCAO DAS PENAS\\b",
+    "^SISTEMA PENITENCIARIO\\b"
+   ],
+   "edital_ficticio": true,
+   "extrair_edital_real": false
+  },
+  {
+   "sigla": "CRIM",
+   "nome": "Criminologia",
+   "prefixo": "CR",
+   "padroes_titulo": [],
+   "edital_ficticio": false,
+   "extrair_edital_real": false
+  },
+  {
+   "sigla": "LP",
+   "nome": "Língua Portuguesa",
+   "prefixo": "LP",
+   "padroes_titulo": [],
+   "edital_ficticio": false,
+   "extrair_edital_real": false
+  },
+  {
+   "sigla": "PI",
+   "nome": "Princípios e Atribuições Institucionais da Defensoria",
+   "prefixo": "PI",
+   "padroes_titulo": [],
+   "edital_ficticio": false,
+   "extrair_edital_real": false
+  }
+ ]
+}

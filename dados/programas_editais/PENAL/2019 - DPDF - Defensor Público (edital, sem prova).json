@@ -1,0 +1,529 @@
+{
+ "pasta": "2019 - DPDF - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "PENAL",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PENAL E CRIMINOLOGIA",
+   "caracteres": 3340,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito Penal e Poder Punitivo."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Direito Penal de Autor e Direito Penal do Ato."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Garantismo Penal."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Direito Penal do Inimigo."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Dinâmica Histórica da Legislação Penal."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Funções da pena.",
+      "Teorias."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Características e fontes do Direito Penal."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Princípios aplicáveis ao Direito Penal."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Bem jurídico‐penal."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Teorias."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Aplicação da lei penal."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "A lei penal no tempo e no espaço."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Tempo e lugar do crime."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Lei penal excepcional, especial e temporária."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Territorialidade e extraterritorialidade da lei penal."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Pena cumprida no estrangeiro."
+     ]
+    },
+    {
+     "item": "7.6",
+     "frases": [
+      "Eficácia da sentença estrangeira."
+     ]
+    },
+    {
+     "item": "7.7",
+     "frases": [
+      "Contagem de prazo."
+     ]
+    },
+    {
+     "item": "7.8",
+     "frases": [
+      "Frações não computáveis da pena."
+     ]
+    },
+    {
+     "item": "7.9",
+     "frases": [
+      "Interpretação da lei penal."
+     ]
+    },
+    {
+     "item": "7.10",
+     "frases": [
+      "Analogia."
+     ]
+    },
+    {
+     "item": "7.11",
+     "frases": [
+      "Irretroatividade da lei penal."
+     ]
+    },
+    {
+     "item": "7.12",
+     "frases": [
+      "Conflito aparente de normas penais."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Teoria do delito."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Classificação dos crimes."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Teoria da ação."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Teoria do tipo.",
+      "O fato típico e seus elementos."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Relação de causalidade.",
+      "Teorias.",
+      "Imputação objetiva."
+     ]
+    },
+    {
+     "item": "8.5",
+     "frases": [
+      "Tipos dolosos de ação."
+     ]
+    },
+    {
+     "item": "8.6",
+     "frases": [
+      "Tipos dos crimes de imprudência."
+     ]
+    },
+    {
+     "item": "8.7",
+     "frases": [
+      "Tipos dos crimes de omissão."
+     ]
+    },
+    {
+     "item": "8.8",
+     "frases": [
+      "Consumação e tentativa."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Desistência voluntária e arrependimento eficaz."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Arrependimento posterior."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Crime impossível."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Agravação pelo resultado."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Erro."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Descriminantes putativas."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Erro determinado por terceiro."
+     ]
+    },
+    {
+     "item": "13.3",
+     "frases": [
+      "Erro sobre a pessoa."
+     ]
+    },
+    {
+     "item": "13.4",
+     "frases": [
+      "Erro sobre a ilicitude do fato (erro de proibição)."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Concurso de crimes."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Ilicitude."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Culpabilidade."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Concurso de pessoas."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Penas."
+     ]
+    },
+    {
+     "item": "18.1",
+     "frases": [
+      "Espécies de penas."
+     ]
+    },
+    {
+     "item": "18.2",
+     "frases": [
+      "Cominação das penas."
+     ]
+    },
+    {
+     "item": "18.3",
+     "frases": [
+      "Aplicação da pena."
+     ]
+    },
+    {
+     "item": "18.4",
+     "frases": [
+      "Suspensão condicional da pena."
+     ]
+    },
+    {
+     "item": "18.5",
+     "frases": [
+      "Livramento condicional."
+     ]
+    },
+    {
+     "item": "18.6",
+     "frases": [
+      "Efeitos da condenação."
+     ]
+    },
+    {
+     "item": "18.7",
+     "frases": [
+      "Reabilitação."
+     ]
+    },
+    {
+     "item": "18.8",
+     "frases": [
+      "Execução das penas em espécie e incidentes de execução."
+     ]
+    },
+    {
+     "item": "18.9",
+     "frases": [
+      "Limites das penas."
+     ]
+    },
+    {
+     "item": "18.10",
+     "frases": [
+      "Indulto e comutação."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Direito Penal e saúde mental."
+     ]
+    },
+    {
+     "item": "19.1",
+     "frases": [
+      "Medidas de segurança: evolução histórica, conceito, espécies, execução."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Ação penal."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Punibilidade e causas de extinção."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Prescrição."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Crimes contra a pessoa."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Crimes contra o patrimônio."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Crimes contra a dignidade sexual."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Crimes contra a família."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Crimes contra a incolumidade pública."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Crimes contra a paz pública."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Crimes contra a fé pública."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Crimes contra a Administração Pública."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Lei nº 8.072/1990 e suas alterações (delitos hediondos)."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Lei nº 7.716/1989 e suas alterações (crimes resultantes de preconceitos de raça ou de cor)."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Lei nº 9.455/1997 e suas alterações (crimes de tortura)."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Lei nº 12.694/2012 e Lei nº 12.850/2013 e suas alterações (crime organizado)."
+     ]
+    },
+    {
+     "item": "35",
+     "frases": [
+      "Lei nº 9.503/1997 e suas alterações (crimes de trânsito)."
+     ]
+    },
+    {
+     "item": "36",
+     "frases": [
+      "Lei nº 11.343/2006 e suas alterações (Lei Antidrogas)."
+     ]
+    },
+    {
+     "item": "37",
+     "frases": [
+      "Lei nº 4.898/1965 e suas alterações (abuso de autoridade)."
+     ]
+    },
+    {
+     "item": "38",
+     "frases": [
+      "Lei nº 10.826/2003 e suas alterações (Estatuto do Desarmamento)."
+     ]
+    },
+    {
+     "item": "39",
+     "frases": [
+      "Convenção americana sobre direitos humanos (Pacto de São José e Decreto nº 678/1992)."
+     ]
+    },
+    {
+     "item": "40",
+     "frases": [
+      "Lei nº 11.340/2006 e suas alterações (Lei Maria da Penha)."
+     ]
+    },
+    {
+     "item": "41",
+     "frases": [
+      "Lei nº 8.069/1990 e suas alterações (Estatuto da Criança e do Adolescente)."
+     ]
+    },
+    {
+     "item": "42",
+     "frases": [
+      "Lei nº 10.741/2003 e suas alterações (Estatuto do Idoso)."
+     ]
+    },
+    {
+     "item": "43",
+     "frases": [
+      "Leis nº 6.766/1979 e suas alterações, e nº 10.932/2004 (crimes contra o parcelamento do solo urbano)."
+     ]
+    },
+    {
+     "item": "44",
+     "frases": [
+      "Lei nº 7.210/1984 e suas alterações (Lei de Execução Penal)."
+     ]
+    },
+    {
+     "item": "45",
+     "frases": [
+      "Disposições constitucionais aplicáveis ao direito penal."
+     ]
+    },
+    {
+     "item": "46",
+     "frases": [
+      "Jurisprudência dos Tribunais Superiores."
+     ]
+    }
+   ]
+  }
+ ]
+}

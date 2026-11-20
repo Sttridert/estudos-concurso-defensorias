@@ -1,0 +1,539 @@
+{
+ "perfil": {
+  "id": 10,
+  "nome": "Direito Administrativo - Analista Juridico - FCC - DPE-AM 2026 (edital)",
+  "banca": "FCC",
+  "carreira": "Defensoria Pública",
+  "cargo": "Analista Jurídico",
+  "ano_referencia": 2026,
+  "meia_vida": 8,
+  "pesos": {
+   "A": 1,
+   "B": 0.5,
+   "C": 0.25
+  }
+ },
+ "modo": "pontos",
+ "universo": {
+  "id": 7,
+  "nome": "Analista FCC",
+  "filtro": {
+   "bancas": [
+    "FCC"
+   ],
+   "cargos_prefixo": [
+    "Analista"
+   ]
+  }
+ },
+ "n_total": 43,
+ "n_validas": 43,
+ "n_anuladas_ou_fora": 0,
+ "n_provas": 8,
+ "provas_por_grupo": {
+  "A": 5,
+  "B": 1,
+  "C": 2
+ },
+ "soma_pesos": 21.17,
+ "n_efetivo": 36.8,
+ "K_assuntos": 13,
+ "assuntos": {
+  "AD01": {
+   "nome": "Noções gerais e regime jurídico administrativo",
+   "n": 2.5,
+   "peso": 1.77,
+   "p": 8.4,
+   "lo": 2.9,
+   "hi": 21.7,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD02": {
+   "nome": "Organização administrativa",
+   "n": 4.0,
+   "peso": 2.64,
+   "p": 12.5,
+   "lo": 5.3,
+   "hi": 26.8,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "AD03": {
+   "nome": "Poderes e deveres da Administração",
+   "n": 1.0,
+   "peso": 0.77,
+   "p": 3.6,
+   "lo": 0.8,
+   "hi": 15.3,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "AD04": {
+   "nome": "Atos administrativos",
+   "n": 1.0,
+   "peso": 0.38,
+   "p": 1.8,
+   "lo": 0.2,
+   "hi": 12.4,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD05": {
+   "nome": "Processo administrativo",
+   "n": 1.5,
+   "peso": 0.71,
+   "p": 3.3,
+   "lo": 0.7,
+   "hi": 14.8,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD06": {
+   "nome": "Licitações",
+   "n": 6.0,
+   "peso": 2.92,
+   "p": 13.8,
+   "lo": 6.1,
+   "hi": 28.3,
+   "provas": 6,
+   "grupo": "Cai às vezes"
+  },
+  "AD07": {
+   "nome": "Contratos e ajustes administrativos",
+   "n": 4.0,
+   "peso": 1.51,
+   "p": 7.2,
+   "lo": 2.3,
+   "hi": 20.1,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "AD08": {
+   "nome": "Serviços públicos e delegação",
+   "n": 3.5,
+   "peso": 1.31,
+   "p": 6.2,
+   "lo": 1.8,
+   "hi": 18.8,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "AD09": {
+   "nome": "Bens públicos",
+   "n": 3.0,
+   "peso": 1.71,
+   "p": 8.1,
+   "lo": 2.8,
+   "hi": 21.3,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "AD10": {
+   "nome": "Agentes públicos",
+   "n": 3.0,
+   "peso": 1.23,
+   "p": 5.8,
+   "lo": 1.7,
+   "hi": 18.3,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "AD11": {
+   "nome": "Responsabilidade civil do Estado",
+   "n": 8.0,
+   "peso": 4.17,
+   "p": 19.7,
+   "lo": 10.0,
+   "hi": 35.1,
+   "provas": 8,
+   "grupo": "Cai muito"
+  },
+  "AD12": {
+   "nome": "Intervenção do Estado na propriedade",
+   "n": 1.0,
+   "peso": 0.71,
+   "p": 3.3,
+   "lo": 0.7,
+   "hi": 14.8,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "AD14": {
+   "nome": "Controle da Administração, improbidade e transparência",
+   "n": 4.5,
+   "peso": 1.34,
+   "p": 6.3,
+   "lo": 1.9,
+   "hi": 19.0,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "n_assuntos_80pct": 8,
+ "cobranca_pct": {
+  "lei_seca": 82.6,
+  "jurisprudencia": 7.7,
+  "caso_concreto": 4.9,
+  "doutrina": 4.7
+ },
+ "retro_assuntos": {
+  "k": 4,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 2.0,
+    "pct": 40.0
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 3.0,
+    "acertos": 1.0,
+    "pct": 33.3
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 5.0,
+    "acertos": 2.0,
+    "pct": 40.0
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 47.8,
+  "acaso": 30.8
+ },
+ "K_pontos": 23,
+ "pontos": {
+  "AD01.02": {
+   "texto": "Regime jurídico administrativo e princípios da Administração",
+   "assunto": "AD01",
+   "n": 2.5,
+   "peso": 1.77,
+   "p": 8.4,
+   "lo": 2.9,
+   "hi": 21.7,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD02.01": {
+   "texto": "Organização administrativa: centralização, descentralização e órgãos públicos",
+   "assunto": "AD02",
+   "n": 1.0,
+   "peso": 0.77,
+   "p": 3.6,
+   "lo": 0.8,
+   "hi": 15.3,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "AD02.02": {
+   "texto": "Administração indireta: autarquias, fundações, empresas estatais e agências",
+   "assunto": "AD02",
+   "n": 2.0,
+   "peso": 1.41,
+   "p": 6.7,
+   "lo": 2.1,
+   "hi": 19.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD02.03": {
+   "texto": "Terceiro setor e entidades paraestatais",
+   "assunto": "AD02",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 2.2,
+   "lo": 0.3,
+   "hi": 13.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "AD03.01": {
+   "texto": "Poderes administrativos: hierárquico, disciplinar e regulamentar; uso e abuso do poder",
+   "assunto": "AD03",
+   "n": 1.0,
+   "peso": 0.77,
+   "p": 3.6,
+   "lo": 0.8,
+   "hi": 15.3,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "AD04.03": {
+   "texto": "Extinção dos atos: revogação, anulação, convalidação e nulidades",
+   "assunto": "AD04",
+   "n": 1.0,
+   "peso": 0.38,
+   "p": 1.8,
+   "lo": 0.2,
+   "hi": 12.4,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD05.02": {
+   "texto": "Processo administrativo disciplinar e sindicância",
+   "assunto": "AD05",
+   "n": 1.5,
+   "peso": 0.71,
+   "p": 3.3,
+   "lo": 0.7,
+   "hi": 14.8,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD06.01": {
+   "texto": "Licitação: conceito, princípios, modalidades, procedimento, anulação e sanções",
+   "assunto": "AD06",
+   "n": 3.0,
+   "peso": 1.42,
+   "p": 6.7,
+   "lo": 2.1,
+   "hi": 19.5,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "AD06.02": {
+   "texto": "Contratação direta: dispensa e inexigibilidade",
+   "assunto": "AD06",
+   "n": 3.0,
+   "peso": 1.5,
+   "p": 7.1,
+   "lo": 2.3,
+   "hi": 20.0,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "AD07.01": {
+   "texto": "Contrato administrativo: conceito, características e cláusulas exorbitantes",
+   "assunto": "AD07",
+   "n": 0.5,
+   "peso": 0.25,
+   "p": 1.2,
+   "lo": 0.1,
+   "hi": 11.5,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "AD07.02": {
+   "texto": "Execução, alteração, equilíbrio econômico-financeiro, rescisão e extinção",
+   "assunto": "AD07",
+   "n": 2.5,
+   "peso": 1.02,
+   "p": 4.8,
+   "lo": 1.2,
+   "hi": 17.0,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "AD07.03": {
+   "texto": "Convênios, consórcios, ajustes e meios consensuais (arbitragem, mediação)",
+   "assunto": "AD07",
+   "n": 1.0,
+   "peso": 0.24,
+   "p": 1.1,
+   "lo": 0.1,
+   "hi": 11.4,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD08.01": {
+   "texto": "Serviços públicos: conceito, princípios, classificação e direitos dos usuários",
+   "assunto": "AD08",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 2.2,
+   "lo": 0.3,
+   "hi": 13.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "AD08.02": {
+   "texto": "Concessão, permissão, autorização e parcerias público-privadas",
+   "assunto": "AD08",
+   "n": 2.5,
+   "peso": 0.85,
+   "p": 4.0,
+   "lo": 0.9,
+   "hi": 15.8,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "AD09.01": {
+   "texto": "Bens públicos: conceito, classificação, afetação e regime jurídico",
+   "assunto": "AD09",
+   "n": 1.5,
+   "peso": 0.82,
+   "p": 3.9,
+   "lo": 0.9,
+   "hi": 15.6,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD09.02": {
+   "texto": "Uso, gestão e alienação de bens públicos",
+   "assunto": "AD09",
+   "n": 1.5,
+   "peso": 0.89,
+   "p": 4.2,
+   "lo": 1.0,
+   "hi": 16.0,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD10.01": {
+   "texto": "Agentes públicos: conceito, classificação, regime jurídico e responsabilidade",
+   "assunto": "AD10",
+   "n": 2.5,
+   "peso": 0.96,
+   "p": 4.5,
+   "lo": 1.1,
+   "hi": 16.5,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "AD10.02": {
+   "texto": "Regime previdenciário dos servidores públicos",
+   "assunto": "AD10",
+   "n": 0.5,
+   "peso": 0.27,
+   "p": 1.3,
+   "lo": 0.1,
+   "hi": 11.7,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "AD11.01": {
+   "texto": "Responsabilidade civil do Estado: teorias e responsabilidade objetiva",
+   "assunto": "AD11",
+   "n": 8.0,
+   "peso": 4.17,
+   "p": 19.7,
+   "lo": 10.0,
+   "hi": 35.1,
+   "provas": 8,
+   "grupo": "Cai muito"
+  },
+  "AD12.01": {
+   "texto": "Desapropriação",
+   "assunto": "AD12",
+   "n": 1.0,
+   "peso": 0.71,
+   "p": 3.3,
+   "lo": 0.7,
+   "hi": 14.8,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "AD14.01": {
+   "texto": "Controle da Administração: administrativo, legislativo e Tribunal de Contas",
+   "assunto": "AD14",
+   "n": 1.5,
+   "peso": 0.36,
+   "p": 1.7,
+   "lo": 0.2,
+   "hi": 12.4,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD14.02": {
+   "texto": "Controle judicial e súmulas vinculantes",
+   "assunto": "AD14",
+   "n": 1.0,
+   "peso": 0.48,
+   "p": 2.3,
+   "lo": 0.4,
+   "hi": 13.2,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "AD14.04": {
+   "texto": "Transparência, acesso à informação, anticorrupção e integridade",
+   "assunto": "AD14",
+   "n": 2.0,
+   "peso": 0.5,
+   "p": 2.4,
+   "lo": 0.4,
+   "hi": 13.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "pontos_com_1_questao": 10,
+ "pontos_sem_questao": [
+  "AD01.01",
+  "AD01.03",
+  "AD03.02",
+  "AD03.03",
+  "AD04.01",
+  "AD04.02",
+  "AD05.01",
+  "AD11.02",
+  "AD12.02",
+  "AD13.01",
+  "AD14.03",
+  "AD15.01",
+  "AD15.02"
+ ],
+ "good_turing_pontos_pct": 23.3,
+ "retro_pontos": {
+  "k": 10,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 2.5,
+    "pct": 50.0
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 3.0,
+    "acertos": 1.0,
+    "pct": 33.3
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 2.0,
+    "pct": 40.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 5.0,
+    "acertos": 1.0,
+    "pct": 20.0
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 2.0,
+    "pct": 40.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 37.0,
+  "acaso": 43.5
+ },
+ "avisos": [
+  "Número efetivo pequeno: faixas de Wilson largas."
+ ],
+ "grupos_desc": {
+  "A": "mesmo órgão (DPE-AM), carreira, banca e cargo",
+  "B": "mesma carreira e banca, de outro órgão ou cargo",
+  "C": "outra banca ou carreira"
+ }
+}

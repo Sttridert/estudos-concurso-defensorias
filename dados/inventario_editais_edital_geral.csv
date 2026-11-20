@@ -1,0 +1,57 @@
+grupo;orgao;cargo;banca;ano_do_edital;situacao;arquivo_local;fonte;observacao
+A. JA TINHA;DPE-AM;Analista Jurídico;FCC;2018;tenho;provas/2018 - DPE-AM - Analista Jurídico/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-AM;Analista Jurídico;FCC;2019;tenho;provas/2019 - DPE-AM - Analista Jurídico/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-AM;Defensor Público;FCC;2021;tenho;provas/2021 - DPE-AM - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-BA;Defensor Público;FCC;2021;tenho;provas/2021 - DPE-BA - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-GO;Defensor Público;FCC;2021;tenho;provas/2021 - DPE-GO - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-RR;Defensor Público;FCC;2021;tenho;provas/2021 - DPE-RR - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-SC;Defensor Público;FCC;2021;tenho;provas/2021 - DPE-SC - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-AM;Analista Jurídico;FCC;2022;tenho;provas/2022 - DPE-AM - Analista Jurídico/1. edital.pdf;repositorio;o mesmo arquivo esta em 3 pastas (Analista Juridico, Analista Juridico (2), Assistente Tecnico (2)); conta como 1 edital
+A. JA TINHA;DPE-AP;Defensor Público;FCC;2022;tenho;provas/2022 - DPE-AP - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-CE;Defensor Público;FCC;2022;tenho;provas/2022 - DPE-CE - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-MT;Defensor Público;FCC;2022;tenho;provas/2022 - DPE-MT - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-PB;Defensor Público;FCC;2022;tenho;provas/2022 - DPE-PB - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-AM;Analista Jurídico;FCC;2023;tenho;provas/2023 - DPE-AM - Analista Jurídico/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-ES;Defensor Público;FCC;2023;tenho;provas/2023 - DPE-ES - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-SP;Defensor Público;FCC;2023;tenho;provas/2023 - DPE-SP - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-AM;Defensor Público;FCC;2025;tenho;provas/2025 - DPE-AM - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-RS;Defensor Público;FCC;2025;tenho;provas/2025 - DPE-RS - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-SP;Analista de Defensoria;FCC;2025;tenho;provas/2025 - DPE-SP - Analista de Defensoria/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-AM;Analista Jurídico;FCC;2026;tenho;provas/2026 - DPE-AM - Analista Jurídico (edital, sem prova)/1. edital.pdf;repositorio;edital real do concurso-alvo; prevalece sobre o fictício
+A. JA TINHA;DPE-BA;Defensor Público;FCC;2026;tenho;provas/2026 - DPE-BA - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-MA;Defensor Público;FCC;2026;tenho;provas/2026 - DPE-MA - Defensor Público/1. edital.pdf;repositorio;
+A. JA TINHA;DPE-MT;Defensor Público;FCC;2026;tenho;provas/2026 - DPE-MT - Defensor Público/1. edital.pdf;repositorio;
+B. BAIXADO (prioridade 1 a 3);DPE-SP;Defensor Público;FCC;2026;baixado;provas/2026 - DPE-SP - Defensor Público (edital, sem prova)/1. edital.pdf;site oficial da FCC (concursosfcc.com.br/concursos/dpesp126);o arquivo se chama "minuta ... edital_x_concurso_final" mas a pagina da FCC o apresenta como o Edital de Abertura publicado no Diario Oficial; X Concurso, 99 paginas
+B. BAIXADO (prioridade 1 a 3);DPE-PB;Analista e Técnico (servidores);FCC;2026;baixado;provas/2026 - DPE-PB - Analista e Técnico (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 92209);ver na Etapa 4 quais cargos de Analista tem parte juridica
+B. BAIXADO (prioridade 1 a 3);DPU;Defensor Público Federal;Cebraspe;2017;baixado;provas/2017 - DPU - Defensor Público Federal (edital, sem prova)/1. edital.pdf;Cebraspe (cdn.cebraspe.org.br);excecao ao corte de 2018 (pedido do usuario). Tambem baixado o Edital 3 (retificacao de conteudo) em outros/: na Etapa 4 usar o programa retificado
+B. BAIXADO (prioridade 1 a 3);DPE-RJ;Defensor Público;FGV;2026;baixado;provas/2026 - DPE-RJ - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 99242);so 3 linhas de programa no texto: conferir se o conteudo programatico esta em anexo separado
+B. BAIXADO (prioridade 1 a 3);DPE-SC;Defensor Público;Fundatec;2026;baixado;provas/2026 - DPE-SC - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 97613);
+B. BAIXADO (prioridade 1 a 3);DPE-SC;Analista Jurídico;Fundatec;2025;baixado;provas/2025 - DPE-SC - Analista Jurídico (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 89799);
+B. BAIXADO (prioridade 1 a 3);DPE-BA;Analista Técnico - Direito;Fundação CEFETBAHIA;2026;baixado;provas/2026 - DPE-BA - Analista Técnico Direito (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 97458);
+B. BAIXADO (prioridade 1 a 3);DPE-RO;Analista Jurídico;FGV;2025;baixado;provas/2025 - DPE-RO - Analista Jurídico (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 79187);
+B. BAIXADO (prioridade 1 a 3);DPE-PA;Defensor Público;Cebraspe;2021;baixado;provas/2021 - DPE-PA - Defensor Público (edital, sem prova)/1. edital.pdf;Cebraspe (cdn.cebraspe.org.br);
+B. BAIXADO (prioridade 1 a 3);DP-DF;Defensor Público;Cebraspe;2019;baixado;provas/2019 - DPDF - Defensor Público (edital, sem prova)/1. edital.pdf;Cebraspe (cdn.cebraspe.org.br);
+C. BAIXADO (outras Defensorias);DPE-RS;Defensor Público;FCC;2018;baixado;provas/2018 - DPE-RS - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 15652);FCC: entra no nucleo FCC-Defensoria
+C. BAIXADO (outras Defensorias);DPE-RJ;Defensor Público;FGV (a confirmar);2018;baixado;provas/2018 - DPE-RJ - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 25877);
+C. BAIXADO (outras Defensorias);DPE-MG;Defensor Público;Fundep;2019;baixado;provas/2019 - DPE-MG - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 18762);
+C. BAIXADO (outras Defensorias);DPE-RJ;Defensor Público;FGV;2021;baixado;provas/2021 - DPE-RJ - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 40520);
+C. BAIXADO (outras Defensorias);DPE-MS;Defensor Público Substituto;FGV;2021;baixado;provas/2021 - DPE-MS - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 41145);122 paginas
+C. BAIXADO (outras Defensorias);DPE-PI;Defensor Público;Cebraspe;2021;baixado;provas/2021 - DPE-PI - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 57106);
+C. BAIXADO (outras Defensorias);DPE-TO;Defensor Público Substituto;Cebraspe;2021;baixado;provas/2021 - DPE-TO - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 34768);
+C. BAIXADO (outras Defensorias);DPE-SE;Defensor Público;Cebraspe;2021;baixado;provas/2021 - DPE-SE - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 59021);so 10 paginas: conferir se o programa esta completo
+C. BAIXADO (outras Defensorias);DPE-RS;Defensor Público;Cebraspe;2021;baixado;provas/2021 - DPE-RS - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 35924);
+C. BAIXADO (outras Defensorias);DPE-RO;Defensor Público;Cebraspe;2022;baixado;provas/2022 - DPE-RO - Defensor Público (edital, sem prova)/1. edital.pdf;Cebraspe (cdn.cebraspe.org.br);
+C. BAIXADO (outras Defensorias);DPE-MG;Defensor Público;Fundep;2023;baixado;provas/2023 - DPE-MG - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 70048);a Fundep retificou o conteudo programatico em ago/set de 2023: a retificacao nao foi baixada (pendente)
+C. BAIXADO (outras Defensorias);DPE-RJ;Defensor Público;FGV;2023;baixado;provas/2023 - DPE-RJ - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 77846);
+C. BAIXADO (outras Defensorias);DPE-PR;Analista - Direito;Consulplan;2023;baixado;provas/2023 - DPE-PR - Analista Direito (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 28667);
+C. BAIXADO (outras Defensorias);DPE-AC;Defensor Público;Cebraspe;2024;baixado;provas/2024 - DPE-AC - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 79097);
+C. BAIXADO (outras Defensorias);DPE-PR;Defensor Público Substituto;Fundatec;2024;baixado;provas/2024 - DPE-PR - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 78080);
+C. BAIXADO (outras Defensorias);DPE-SC;Defensor Público Substituto;Fundatec;2024;baixado;provas/2024 - DPE-SC - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 87692);
+C. BAIXADO (outras Defensorias);DPE-PE;Defensor Público;FGV;2025;baixado;provas/2025 - DPE-PE - Defensor Público (edital, sem prova)/1. edital.pdf;QConcursos (arquivo 89064);
+D. PENDENTE;DPU;Defensor Público Federal;(a definir);2026;pendente;-;site da DPU;Resolucao 255/2026 (lista de disciplinas do proximo concurso): nao e edital, texto ainda nao baixado; fontes divergem (19 ou 24 disciplinas)
+D. PENDENTE;DP-DF;Analista de Apoio à Assistência Judiciária;Instituto Access (fontes divergem: Cebraspe?);2026;pendente;-;site da banca ou da DPDF;edital de out/2026 segundo blogs; PDF nao localizado; baixa prioridade (7 vagas, apoio)
+D. PENDENTE;DPE-MG;Defensor Público;Fundep;2023 (retificacao);pendente;-;site da Fundep ou Diario Oficial da DPE-MG;retificacao do conteudo programatico de ago/set de 2023
+E. SEM EDITAL DESDE 2018;DPE-AL, DPE-RN;Defensor Público;-;-;sem edital;-;-;ultimos editais de 2017 ou antes (fora do corte)
+E. SEM EDITAL DESDE 2018;DPE-AC (2017), DPE-PE (2017), DPE-SC (2017), DPE-AL (2017);Defensor Público;Cespe/FCC;2017;fora do corte;-;QConcursos tem os links;fora do corte de 2018; usar so se faltar dado
+F. AINDA NAO PUBLICADO;DPU (VII Concurso), DPE-GO, DPE-RN (Cebraspe), DPE-RO (VI), DP-DF (Defensor);Defensor Público;-;2026/2027;aguardar;-;-;regulamento ou comissao formados; edital nao publicado
+G. FORA DO ESCOPO;DPE-AM;Assistente Técnico Administrativo;FCC;2022 (1) e 2023;fora;provas/2022 - DPE-AM - Assistente Técnico Administrativo (1) e 2023 - DPE-AM - Assistente Técnico Administrativo;repositorio;cargo de apoio

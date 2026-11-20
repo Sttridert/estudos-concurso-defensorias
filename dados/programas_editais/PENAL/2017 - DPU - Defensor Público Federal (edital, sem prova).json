@@ -1,0 +1,411 @@
+{
+ "pasta": "2017 - DPU - Defensor Público Federal (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "PENAL",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PENAL E CRIMINOLOGIA",
+   "caracteres": 2146,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Da aplicação da lei penal."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Princípios da legalidade e da anterioridade."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "A lei penal no tempo e no espaço."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "O fato típico e seus elementos."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Relação de causalidade."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Culpabilidade."
+     ]
+    },
+    {
+     "item": "1.6",
+     "frases": [
+      "Superveniência de causa independente."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Crime consumado, tentado e impossível."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Desistência voluntária e arrependimento eficaz."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Arrependimento posterior."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Crime doloso, culposo e preterdoloso."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "O erro."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Erro de tipo."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Erro de proibição."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Erro sobre a pessoa."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Coação irresistível e obediência hierárquica."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Causas excludentes da ilicitude."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Imputabilidade penal."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Concurso de pessoas."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Concurso de crimes."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Penas."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Espécies, cominação e aplicação."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Suspensão condicional da pena."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Efeitos da condenação e da reabilitação."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Medidas de segurança."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Medidas socioeducativas."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Ação penal pública e privada."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Extinção da punibilidade."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Execução das penas em espécie."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Penas privativas de liberdade."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Regimes."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Autorizações de saída."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Remição e incidentes da execução."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Crimes em espécie."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Crimes contra a vida."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Lesões corporais."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Crimes contra a honra."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Crimes contra a liberdade individual."
+     ]
+    },
+    {
+     "item": "10.5",
+     "frases": [
+      "Crimes contra o patrimônio."
+     ]
+    },
+    {
+     "item": "10.6",
+     "frases": [
+      "Crimes contra a fé pública."
+     ]
+    },
+    {
+     "item": "10.7",
+     "frases": [
+      "Crimes contra a Administração Pública."
+     ]
+    },
+    {
+     "item": "10.8",
+     "frases": [
+      "Crimes de abuso de autoridade."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Sistema Nacional de Políticas Públicas sobre Drogas."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Organização criminosa."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Crimes hediondos."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Crimes de tortura."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Crimes praticados contra a criança e o adolescente."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Crimes contra a ordem tributária."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Crimes contra o sistema financeiro."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Lavagem de dinheiro."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Crimes contra o meio ambiente."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Crimes contra a humanidade."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Criminologia."
+     ]
+    },
+    {
+     "item": "21.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "21.2",
+     "frases": [
+      "Métodos: empirismo e interdisciplinaridade."
+     ]
+    },
+    {
+     "item": "21.3",
+     "frases": [
+      "Objetos da criminologia: delito, delinquente, vítima, controle social."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Funções da criminologia."
+     ]
+    },
+    {
+     "item": "22.1",
+     "frases": [
+      "Criminologia e política criminal."
+     ]
+    },
+    {
+     "item": "22.2",
+     "frases": [
+      "Direito penal."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Modelos teóricos da criminologia."
+     ]
+    },
+    {
+     "item": "23.1",
+     "frases": [
+      "Teorias sociológicas."
+     ]
+    },
+    {
+     "item": "23.2",
+     "frases": [
+      "Prevenção da infração penal no Estado democrático de direito."
+     ]
+    },
+    {
+     "item": "23.3",
+     "frases": [
+      "Prevenção primária."
+     ]
+    },
+    {
+     "item": "23.4",
+     "frases": [
+      "Prevenção secundária."
+     ]
+    },
+    {
+     "item": "23.5",
+     "frases": [
+      "Prevenção terciária."
+     ]
+    },
+    {
+     "item": "23.6",
+     "frases": [
+      "Modelos de reação ao crime."
+     ]
+    }
+   ]
+  }
+ ]
+}

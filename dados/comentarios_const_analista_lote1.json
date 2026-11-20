@@ -1,0 +1,152 @@
+{
+ "2018 - DPE-AM - Analista Jurídico|21": {
+  "c": "A alternativa A reproduz o art. 200, I, da CF: cabe ao SUS controlar e fiscalizar procedimentos, produtos e substâncias de interesse para a saúde e participar da produção de medicamentos, equipamentos, imunobiológicos, hemoderivados e outros insumos. As demais trocam a regra: B inverte o art. 199, § 2º (é vedado destinar recursos públicos a auxílios ou subvenções a instituições privadas COM fins lucrativos; às sem fins lucrativos é permitido); C erra porque o art. 204, parágrafo único, FACULTA aos Estados e ao DF vincular parte da receita tributária líquida a programa de apoio à inclusão e promoção social, não proíbe; D e E misturam gratuidades de outros dispositivos (a celebração do casamento civil é gratuita sem condição, art. 226, § 1º; a gratuidade de certidões do art. 5º, XXXIV, b, serve à defesa de direitos e ao esclarecimento de situações de interesse pessoal).",
+  "p": "Trocar 'com' por 'sem' fins lucrativos no art. 199, § 2º, e transformar uma faculdade (art. 204, parágrafo único) em vedação.",
+  "d": ["CF|art. 200, I", "CF|art. 199, § 2º", "CF|art. 204, parágrafo único", "CF|art. 226, § 1º", "CF|art. 5º, XXXIV, b"],
+  "pend": 0
+ },
+ "2018 - DPE-AM - Analista Jurídico|22": {
+  "c": "O uso de algemas é regulado pela Súmula Vinculante 11 do STF: só é lícito em caso de resistência, fundado receio de fuga ou perigo à integridade física própria ou alheia, com justificativa escrita. Lei estadual que impõe algemas a todo réu preso por crime doloso contra a vida contraria a súmula; a decisão do Tribunal de Justiça que a declara constitucional, ao aplicá-la, afronta o enunciado vinculante. Contra decisão judicial que contraria súmula vinculante cabe reclamação ao STF (CF, art. 103-A, § 3º; Lei 11.417/2006, art. 7º), e ela não se restringe a ato administrativo nem é afastada por a decisão ter sido proferida em habeas corpus. Mandado de segurança no STF contra ato judicial não é a via, e a jurisprudência não permite algemas automáticas.",
+  "p": "A, B e E atacam o cabimento da reclamação (só ato administrativo; não cabe em habeas corpus), mas ela cabe contra decisão judicial que contrarie súmula vinculante.",
+  "d": ["STF|Súmula Vinculante 11", "CF|art. 103-A, § 3º", "Lei 11.417/2006|art. 7º"],
+  "pend": 0
+ },
+ "2018 - DPE-AM - Analista Jurídico|23": {
+  "c": "A iniciativa de lei complementar sobre a organização da Defensoria Pública da União e as normas gerais para a dos Estados é privativa do Presidente da República (CF, art. 61, § 1º, II, d, combinado com o art. 134, § 1º), o que afasta A e C. Emenda parlamentar a projeto de iniciativa privativa é possível, desde que haja pertinência temática e não aumente a despesa (art. 63, I), o que afasta D. O problema está no conteúdo da emenda: a Defensoria tem a função constitucional de orientação jurídica e defesa dos necessitados (arts. 5º, LXXIV, e 134), e atribuir-lhe a defesa de servidores públicos pelo exercício da função, sem exigência de hipossuficiência, extrapola esse perfil. Daí a incompatibilidade apenas nesse ponto (B).",
+  "p": "Achar que emenda parlamentar é sempre vedada em projeto de iniciativa privativa (D); ela é admitida com pertinência temática e sem aumento de despesa.",
+  "d": ["CF|art. 61, § 1º, II, d", "CF|art. 63, I", "CF|art. 134, caput e § 1º", "CF|art. 5º, LXXIV"],
+  "pend": 1
+ },
+ "2018 - DPE-AM - Analista Jurídico|24": {
+  "c": "I está errada: o art. 20 do CPP (sigilo do inquérito) foi recepcionado; a Constituição admite restrição à publicidade quando a defesa da intimidade ou o interesse social o exigirem (art. 5º, LX, e art. 93, IX). II está errada: a Súmula Vinculante 14 garante ao defensor, no interesse do representado, acesso amplo aos elementos de prova já documentados em procedimento investigatório realizado por órgão com competência de polícia judiciária, desde que digam respeito ao exercício do direito de defesa (também Estatuto da Advocacia, art. 7º, XIV). III está certa: as transcrições de interceptações já documentadas nos autos podem ser acessadas pelo advogado. Resposta: apenas III.",
+  "p": "Dar à autoridade policial o poder de negar acesso às provas já documentadas (II); a SV 14 assegura o acesso, salvo diligências em andamento.",
+  "d": ["STF|Súmula Vinculante 14", "CPP|art. 20", "CF|art. 5º, LV e LXIII", "Lei 8.906/1994|art. 7º, XIV"],
+  "pend": 0
+ },
+ "2018 - DPE-AM - Analista Jurídico|25": {
+  "c": "A pequena propriedade rural, assim definida em lei, é impenhorável quando trabalhada pela família, para pagamento de débitos decorrentes de sua atividade produtiva (CF, art. 5º, XXVI; CPC, art. 833, VIII). Como o empréstimo serviu para combater pragas da plantação, a dívida decorre da atividade produtiva e o juiz agiu incorretamente ao determinar a penhora. Sobre o oficial de justiça: a casa é asilo inviolável (art. 5º, XI); só se entra sem consentimento em flagrante delito, desastre ou socorro, ou, durante o dia, por determinação judicial. À noite, nem com ordem judicial. Logo, a B está correta.",
+  "p": "Esquecer que a ordem judicial só autoriza o ingresso durante o dia (D, E e C permitem 'qualquer horário'); e inventar exigência de ordem do juízo penal (A).",
+  "d": ["CF|art. 5º, XI", "CF|art. 5º, XXVI", "CPC|art. 833, VIII"],
+  "pend": 0
+ },
+ "2019 - DPE-AM - Analista Jurídico|21": {
+  "c": "A divisão da privacidade em três esferas concêntricas (privada, íntima e secreta), quanto mais interna maior a proteção, é a teoria das esferas (ou dos círculos concêntricos), de origem alemã. A questão é de doutrina sobre o direito à privacidade (CF, art. 5º, X), e o gabarito é D. A nomenclatura varia entre autores (esferas, círculos concêntricos), mas a origem alemã é o ponto que elimina as alternativas com origem inglesa ou americana.",
+  "p": "Confundir a origem da teoria (alemã) e o nome (esferas); as alternativas A, B, C e E inventam ou combinam nomes e origens.",
+  "d": ["CF|art. 5º, X"],
+  "pend": 1
+ },
+ "2019 - DPE-AM - Analista Jurídico|22": {
+  "c": "A Súmula Vinculante 12 do STF diz que a cobrança de taxa de matrícula nas universidades públicas viola o art. 206, IV, da CF, que prevê a gratuidade do ensino público em estabelecimentos oficiais. Por isso B está certa. As demais alternativas não correspondem a súmula do STF: a cobrança de diploma, de vestibular, de pós-graduação ou de curso de idiomas não foi tratada nesse enunciado, e afirmá-las com base em 'entendimento sumulado' é o erro.",
+  "p": "Atribuir à súmula o que ela não diz: a SV 12 trata só da taxa de matrícula.",
+  "d": ["STF|Súmula Vinculante 12", "CF|art. 206, IV"],
+  "pend": 0
+ },
+ "2019 - DPE-AM - Analista Jurídico|23": {
+  "c": "Na seção da Defensoria (arts. 134 e 135), o § 2º assegura às Defensorias Públicas Estaduais autonomia funcional e administrativa e iniciativa de proposta orçamentária, e o § 3º estende essa regra à DPU e à Defensoria do DF (EC 69/2012 e EC 74/2013). A letra E está correta. As outras erram: A troca 'indivisibilidade' por 'divisibilidade' (§ 4º: unidade, indivisibilidade e independência funcional); B cria exceção à inamovibilidade; C ignora que a atuação é judicial e extrajudicial (caput do art. 134); D permite advocacia fora das atribuições, o que o § 1º veda.",
+  "p": "Trocar 'indivisibilidade' por 'divisibilidade' e aceitar exceção à inamovibilidade ou à vedação da advocacia privada.",
+  "d": ["CF|art. 134, caput", "CF|art. 134, § 1º", "CF|art. 134, §§ 2º e 3º", "CF|art. 134, § 4º"],
+  "pend": 0
+ },
+ "2019 - DPE-AM - Analista Jurídico|24": {
+  "c": "Pelo art. 58, § 3º, as CPIs têm poderes de investigação próprios das autoridades JUDICIAIS, além de outros previstos nos regimentos; são criadas pela Câmara e pelo Senado, em conjunto ou separadamente, mediante requerimento de um terço dos membros, para apurar fato determinado e por prazo certo. As conclusões são encaminhadas ao Ministério Público, 'se for o caso', para a responsabilidade civil ou criminal. Assim, C está certa (Câmara, um terço). A erra em 'sempre'; B em 'sempre em conjunto' e na maioria absoluta; D inverte (autoridades administrativas com alguns poderes judiciais); E fala em maioria simples e prazo indeterminado.",
+  "p": "Inverter os poderes (judiciais, não administrativos) e exigir maioria ou prazo indeterminado; o quórum é de um terço e o prazo é certo.",
+  "d": ["CF|art. 58, § 3º"],
+  "pend": 0
+ },
+ "2019 - DPE-AM - Analista Jurídico|25": {
+  "c": "Art. 86 da CF: admitida a acusação por dois terços da Câmara dos Deputados, o Presidente é julgado pelo STF nas infrações penais comuns e pelo Senado nos crimes de responsabilidade. A está certa. B erra ao falar em maioria absoluta do Congresso e em julgamento só pelo Senado. C e D erram quanto ao momento da suspensão: nas infrações penais comuns, após o recebimento da denúncia ou queixa-crime pelo STF; nos crimes de responsabilidade, após a instauração do processo pelo SENADO (art. 86, § 1º). E erra: os crimes de responsabilidade são definidos em lei especial (art. 85, parágrafo único; Lei 1.079/1950), não no texto constitucional.",
+  "p": "Dizer que o Congresso (e não o Senado) instaura o processo por crime de responsabilidade, ou que o Senado recebe a acusação por infração penal comum.",
+  "d": ["CF|art. 86, caput e § 1º", "CF|art. 85, parágrafo único", "Lei 1.079/1950|art. 4º"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico|21": {
+  "c": "A condenação criminal transitada em julgado suspende os direitos políticos enquanto durarem seus efeitos (CF, art. 15, III). Portanto, o preso provisório, sem condenação definitiva, conserva o direito de voto, que fica assegurado enquanto não houver condenação transitada em julgado. A está certa. B inventa distinção por crime violento; C e D criam vedação ligada ao período de prisão que a Constituição não prevê; E erra ao dizer 'com ou sem trânsito em julgado', pois a condenação ainda recorrível não suspende o direito.",
+  "p": "Esquecer que a suspensão exige trânsito em julgado; a prisão provisória não suspende o voto.",
+  "d": ["CF|art. 15, III", "CF|art. 14"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico|22": {
+  "c": "O art. 134, § 4º, da CF diz que são princípios institucionais da Defensoria Pública a unidade, a indivisibilidade e a independência funcional. A letra C reproduz o texto. As demais trocam termos: 'universalidade' não é princípio institucional nesse dispositivo, 'divisibilidade' contraria a indivisibilidade, e 'autonomia funcional' é garantia da instituição (art. 134, § 2º), diferente da independência funcional dos membros.",
+  "p": "Confundir independência funcional (princípio) com autonomia funcional (garantia da instituição do § 2º).",
+  "d": ["CF|art. 134, § 4º", "CF|art. 134, § 2º"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico|23": {
+  "c": "A assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos está EXPRESSA no art. 5º, LXXIV, da CF. Como o art. 5º integra os direitos e garantias individuais, esse direito está protegido pelo art. 60, § 4º, IV (cláusulas pétreas), embora a doutrina e o STF reconheçam que os direitos individuais não se limitam ao art. 5º. A resposta E reúne as duas ideias: previsão expressa e cláusula pétrea. A, C e D falam em previsão implícita, o que contraria o texto.",
+  "p": "Dizer que o direito é implícito, decorrente da existência da Defensoria; ele consta do art. 5º, LXXIV.",
+  "d": ["CF|art. 5º, LXXIV", "CF|art. 60, § 4º, IV"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico|24": {
+  "c": "O art. 225, § 3º, da CF estabelece que as condutas e atividades lesivas ao meio ambiente sujeitarão os infratores, PESSOAS FÍSICAS OU JURÍDICAS, a sanções penais e administrativas, independentemente da obrigação de reparar os danos causados. As três esferas (administrativa, civil, penal) decorrem dessa tríplice responsabilização, em que a reparação do dano é a esfera civil. A letra D completa corretamente as lacunas. As demais excluem pessoas físicas ou jurídicas, ou deixam de fora uma das esferas.",
+  "p": "Esquecer que a pessoa jurídica também responde, inclusive penalmente, e que a reparação do dano é cumulativa com as sanções.",
+  "d": ["CF|art. 225, § 3º"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico|25": {
+  "c": "O art. 194, caput, da CF define a seguridade social como um conjunto integrado de ações destinadas a assegurar os direitos relativos à SAÚDE, À PREVIDÊNCIA E À ASSISTÊNCIA SOCIAL. A letra B reproduz o texto. Educação, cultura e comunicação social são temas da ordem social, mas não compõem o tripé da seguridade.",
+  "p": "Incluir educação, cultura ou comunicação social, que são da ordem social, mas fora da seguridade.",
+  "d": ["CF|art. 194, caput"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico (2)|21": {
+  "c": "A ação popular (CF, art. 5º, LXXIII) pode ser proposta por qualquer cidadão para anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural. É o remédio que dá ao cidadão participação direta na defesa do meio ambiente. A letra E está correta. Habeas corpus (liberdade de locomoção), habeas data (informações pessoais), ação penal pública (titularidade do MP) e dissídio coletivo (Justiça do Trabalho) não servem a esse fim.",
+  "p": "Marcar a ação penal pública por associá-la a crime ambiental; ela não é remédio constitucional do cidadão.",
+  "d": ["CF|art. 5º, LXXIII", "CF|art. 225, caput"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico (2)|22": {
+  "c": "O art. 5º, XLII, da CF diz que a prática do racismo constitui crime inafiançável e imprescritível, sujeito à pena de reclusão. A outra hipótese constitucional de imprescritibilidade é a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático (art. 5º, XLIV). Latrocínio, homicídio, estupro e corrupção prescrevem, nos termos do Código Penal. Resposta: C.",
+  "p": "Achar que crimes graves, como latrocínio ou homicídio, são imprescritíveis; só racismo e ação de grupos armados têm essa previsão constitucional.",
+  "d": ["CF|art. 5º, XLII", "CF|art. 5º, XLIV"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico (2)|23": {
+  "c": "O art. 134, § 1º, da CF prevê a organização da Defensoria da União e do DF por lei complementar, em cargos de carreira providos na classe inicial por concurso de provas e títulos, assegurada aos integrantes a garantia da INAMOVIBILIDADE e VEDADO o exercício da advocacia fora das atribuições institucionais. A letra D reproduz isso. Vitaliciedade é garantia da magistratura e do Ministério Público, não consta para a Defensoria; a inviolabilidade por opiniões e palavras é imunidade parlamentar (art. 53).",
+  "p": "Trazer para a Defensoria garantias de outras carreiras (vitaliciedade) ou imunidade de parlamentar.",
+  "d": ["CF|art. 134, § 1º", "CF|art. 53, caput"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico (2)|24": {
+  "c": "O art. 12, § 3º, da CF lista os cargos privativos de brasileiro nato: Presidente e Vice-Presidente da República, Presidente da Câmara dos Deputados, Presidente do Senado Federal, Ministro do STF, carreira diplomática, oficial das Forças Armadas e Ministro de Estado da Defesa. Só o Ministro do STF consta entre as alternativas. Os outros cargos citados (Ministro do STJ, Deputado, Presidente de Assembleia, Governador) podem ser exercidos por naturalizados.",
+  "p": "Estender a exclusividade a todo cargo de cúpula; ela vale para a lista do art. 12, § 3º (o STJ, por exemplo, não está nela).",
+  "d": ["CF|art. 12, § 3º"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico (2)|25": {
+  "c": "Pelo art. 101, parágrafo único, da CF, os Ministros do STF são nomeados pelo Presidente da República, depois de aprovada a escolha pela maioria absoluta do Senado Federal (41 dos 81 senadores). A letra B reproduz o texto. A Câmara dos Deputados e 'cada Casa do Congresso' não participam da aprovação.",
+  "p": "Colocar a Câmara dos Deputados ou o Congresso como um todo na aprovação; o Senado a faz sozinho, por maioria absoluta.",
+  "d": ["CF|art. 101, parágrafo único"],
+  "pend": 0
+ },
+ "2023 - DPE-AM - Analista Jurídico|21": {
+  "c": "A educação básica é obrigatória e gratuita dos 4 (quatro) aos 17 (dezessete) anos de idade, inclusive para os que não tiveram acesso na idade própria (CF, art. 208, I, na redação da EC 59/2009). A alternativa A (4 anos) está certa. A questão pode induzir a erro quem lembra de 6 anos (início do ensino fundamental) ou 7 (regra antiga).",
+  "p": "Usar o marco antigo (6 ou 7 anos) em vez dos 4 anos da educação básica obrigatória.",
+  "d": ["CF|art. 208, I"],
+  "pend": 0
+ },
+ "2023 - DPE-AM - Analista Jurídico|22": {
+  "c": "A resposta é A: o art. 226, § 4º, considera entidade familiar a comunidade formada por qualquer dos pais e seus descendentes (família monoparental). B desatualizada: o divórcio não exige mais separação prévia (EC 66/2010; art. 226, § 6º). C inverte o § 5º: direitos e deveres da sociedade conjugal são exercidos igualmente pelo homem e pela mulher. D acrescenta uma condição que o § 1º não faz (a celebração do casamento civil é gratuita). E fala em 'previsão expressa' da união homoafetiva, mas o texto do § 3º só cita homem e mulher; o reconhecimento da união homoafetiva veio do STF (ADI 4277 e ADPF 132), por interpretação.",
+  "p": "Atribuir ao texto constitucional expresso a união homoafetiva (E); ela decorre de decisão do STF, não do texto do § 3º.",
+  "d": ["CF|art. 226, §§ 1º, 3º, 4º, 5º e 6º", "STF|ADI 4277", "STF|ADPF 132"],
+  "pend": 0
+ },
+ "2023 - DPE-AM - Analista Jurídico|23": {
+  "c": "A função social da propriedade está prevista no art. 5º, XXIII, da CF, no Título II, Capítulo I (Dos direitos e deveres individuais e coletivos), o mesmo capítulo do direito de propriedade (art. 5º, XXII). Por isso é direito e dever individual e coletivo, expresso no mesmo capítulo. A letra D é a mais exata. Reaparece também na ordem econômica (art. 170, III), na política urbana (art. 182, § 2º) e na reforma agrária (arts. 184 e 186), mas a alternativa que a liga ao capítulo do art. 5º é a D.",
+  "p": "Colocá-la apenas na ordem social ou na ordem econômica; o art. 5º, XXIII, a prevê junto com o direito de propriedade.",
+  "d": ["CF|art. 5º, XXII e XXIII", "CF|art. 170, III", "CF|art. 182, § 2º", "CF|art. 186"],
+  "pend": 0
+ },
+ "2023 - DPE-AM - Analista Jurídico|24": {
+  "c": "Cláusulas pétreas do art. 60, § 4º, da CF: a forma federativa de Estado; o voto direto, secreto, universal e periódico; a separação dos Poderes; os direitos e garantias individuais. Só a letra E (forma federativa de Estado) consta do rol expresso. A forma republicana e o sistema presidencialista foram decididos em plebiscito (art. 2º do ADCT) e não aparecem no § 4º; a independência do Ministério Público e a autonomia da Defensoria também não são cláusulas pétreas expressas.",
+  "p": "Incluir forma republicana de governo e presidencialismo entre as cláusulas pétreas expressas.",
+  "d": ["CF|art. 60, § 4º", "ADCT|art. 2º"],
+  "pend": 0
+ },
+ "2023 - DPE-AM - Analista Jurídico|25": {
+  "c": "O art. 53, caput, da CF garante a deputados e senadores inviolabilidade civil e penal por quaisquer de suas opiniões, palavras e votos (C certa). A erra: o parlamentar NÃO é obrigado a testemunhar sobre informações recebidas ou prestadas em razão do mandato (art. 53, § 6º). B erra: as imunidades subsistem durante o estado de sítio e só podem ser suspensas por voto de dois terços da Casa, para atos praticados fora do recinto e incompatíveis com a execução da medida (§ 8º). D erra: o julgamento é no STF (§ 1º), desde a expedição do diploma. E erra: a prisão em flagrante só é possível por crime INAFIANÇÁVEL (§ 2º), e não por crime equiparado a hediondo.",
+  "p": "Trocar o foro (STF, não STJ) e dizer que o flagrante vale para crime 'hediondo' em vez de 'inafiançável'.",
+  "d": ["CF|art. 53, caput", "CF|art. 53, § 1º", "CF|art. 53, § 2º", "CF|art. 53, § 6º", "CF|art. 53, § 8º"],
+  "pend": 0
+ }
+}

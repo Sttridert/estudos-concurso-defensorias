@@ -1,0 +1,42 @@
+GABARITO OFICIAL - FCC - DPEAM122 - fonte: https://www.concursosfcc.com.br/concursos/dpeam122/gabaritos/todos.html
+
+Conhec. Gerais / Conhec. Específicos / Disc.-Estudo de Caso | A - ANALISTA JURÍDICO DE DEF - ESP: CIÊNCIAS JURÍDICAS Tipo gabarito 1
+  001-C   002-A   003-D   004-B   005-E   006-B   007-C   008-D   009-B   010-E
+  011-E   012-A   013-D   014-A   015-C   016-D   017-C   018-B   019-A   020-E
+  021-E   022-C   023-D   024-A   025-B   026-D   027-E   028-A   029-C   030-B
+  031-B   032-A   033-E   034-C   035-B   036-E   037-A   038-D   039-B   040-C
+  041-B   042-C   043-A   044-C   045-E   046-D   047-D   048-E   049-B   050-A
+  051-A   052-D   053-C   054-E   055-B   056-D   057-C   058-E   059-A   060-D
+
+Conhec. Gerais / Conhec. Específicos / Disc.-Estudo de Caso | A - ANALISTA JURÍDICO DE DEF - ESP: CIÊNCIAS JURÍDICAS Tipo gabarito 2
+  001-D   002-B   003-E   004-C   005-A   006-C   007-D   008-E   009-C   010-A
+  011-A   012-B   013-E   014-B   015-D   016-E   017-D   018-C   019-B   020-A
+  021-A   022-D   023-E   024-B   025-C   026-E   027-A   028-B   029-D   030-C
+  031-C   032-B   033-A   034-D   035-C   036-A   037-B   038-E   039-C   040-D
+  041-C   042-D   043-B   044-D   045-A   046-E   047-E   048-A   049-C   050-B
+  051-B   052-E   053-D   054-A   055-C   056-E   057-D   058-A   059-B   060-E
+
+Conhec. Gerais / Conhec. Específicos / Disc.-Estudo de Caso | A - ANALISTA JURÍDICO DE DEF - ESP: CIÊNCIAS JURÍDICAS Tipo gabarito 3
+  001-C   002-D   003-B   004-E   005-D   006-A   007-C   008-A   009-B   010-C
+  011-A   012-A   013-B   014-E   015-A   016-D   017-E   018-D   019-C   020-B
+  021-C   022-A   023-D   024-E   025-B   026-A   027-C   028-A   029-B   030-D
+  031-B   032-C   033-C   034-A   035-D   036-B   037-A   038-D   039-E   040-C
+  041-D   042-C   043-A   044-B   045-D   046-A   047-E   048-E   049-B   050-C
+  051-C   052-B   053-E   054-D   055-A   056-E   057-E   058-D   059-A   060-B
+
+Conhec. Gerais / Conhec. Específicos / Disc.-Estudo de Caso | A - ANALISTA JURÍDICO DE DEF - ESP: CIÊNCIAS JURÍDICAS Tipo gabarito 4
+  001-D   002-E   003-C   004-A   005-E   006-B   007-D   008-B   009-C   010-D
+  011-B   012-B   013-C   014-A   015-B   016-E   017-A   018-E   019-D   020-C
+  021-D   022-B   023-E   024-A   025-C   026-B   027-D   028-B   029-C   030-E
+  031-C   032-D   033-D   034-B   035-E   036-C   037-B   038-E   039-A   040-D
+  041-E   042-D   043-B   044-C   045-E   046-B   047-A   048-A   049-C   050-D
+  051-D   052-C   053-A   054-E   055-B   056-A   057-A   058-E   059-B   060-C
+
+Conhec. Gerais / Conhec. Específicos / Disc.-Estudo de Caso | A - ANALISTA JURÍDICO DE DEF - ESP: CIÊNCIAS JURÍDICAS Tipo gabarito 5
+  001-A   002-D   003-E   004-C   005-D   006-E   007-B   008-C   009-A   010-C
+  011-D   012-B   013-B   014-C   015-C   016-B   017-E   018-A   019-E   020-D
+  021-C   022-D   023-B   024-E   025-A   026-C   027-E   028-D   029-B   030-C
+  031-D   032-C   033-E   034-D   035-B   036-B   037-C   038-D   039-E   040-A
+  041-D   042-E   043-E   044-B   045-C   046-A   047-B   048-A   049-D   050-C
+  051-B   052-D   053-C   054-A   055-E   056-C   057-A   058-A   059-E   060-B
+

@@ -1,0 +1,281 @@
+{
+ "pasta": "2023 - DPE-MG - Defensor Público (edital, sem prova)",
+ "banca": "Fundep",
+ "disciplina": "PENAL",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PENAL E CRIMINOLOGIA",
+   "caracteres": 4858,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito Penal: conceito, objeto, evolução histórica, fontes e objetivos.",
+      "As escolas penais.",
+      "O Direito Penal e o Estado Democrático de Direito."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Constituição e Direito Penal.",
+      "Direito Penal e Direitos Humanos.",
+      "Aplicação e interpretação da lei penal a luz dos direitos humanos.",
+      "Tratados Internacionais de Direitos Humanos e Direito Penal."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "A ciência do Direito Penal.",
+      "Dogmática penal, política criminal, criminologia, política penitenciária e penologia."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Princípios do Direito Penal.",
+      "Modernas tendências do pensamento penal.",
+      "Garantismo penal."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Teoria da lei penal.",
+      "Lei penal no espaço.",
+      "Lei penal no tempo.",
+      "Lei penal em relação às pessoas.",
+      "Contagem de prazo."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "O tipo e a tipicidade.",
+      "Evolução da teoria.",
+      "A estrutura do tipo.",
+      "Resultado.",
+      "O processo de imputação.",
+      "Imputação objetiva.",
+      "Causalidade.",
+      "Imputação normativa.",
+      "Imputação subjetiva.",
+      "Dolo.",
+      "Elementos subjetivos especiais.",
+      "Culpa.",
+      "Condições objetivas de punibilidade.",
+      "Omissão.",
+      "Tipo omissivo.",
+      "Elementos do tipo penal.",
+      "Bem jurídico-penal.",
+      "A concepção material do injusto penal."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Ilicitude.",
+      "Evolução da teoria.",
+      "Causas legais e supralegais de exclusão da ilicitude.",
+      "Relação entre tipicidade, antinormatividade e antijuridicidade."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Culpabilidade.",
+      "Evolução da teoria.",
+      "Imputabilidade.",
+      "Potencial consciência de ilicitude.",
+      "Exigibilidade de conduta diversa.",
+      "Causas legais e supralegais de exclusão da culpabilidade.",
+      "Culpabilidade e responsabilidade.",
+      "Princípio da culpabilidade.",
+      "Culpabilidade e liberdade.",
+      "Culpabilidade e periculosidade.",
+      "Culpabilidade e vulnerabilidade.",
+      "Direito Penal do fato e Direito Penal do autor."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Consumação e tentativa.",
+      "Desistência voluntária e arrependimento eficaz.",
+      "Iter criminis.",
+      "Arrependimento posterior.",
+      "Crime impossível."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "O erro no Direito Penal.",
+      "Erro de tipo e erro de proibição.",
+      "Discriminantes putativas."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Concurso de pessoas.",
+      "Autoria e participação."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Penologia.",
+      "Fundamentos do poder de punir.",
+      "Teorias da pena.",
+      "Pena e Constituição.",
+      "Pena e Direitos Humanos.",
+      "Pena em perspectiva histórica.",
+      "A economia política da pena.",
+      "Dogmática da aplicação da pena.",
+      "Espécies de pena.",
+      "Aplicação da pena.",
+      "Circunstâncias Judiciais.",
+      "Agravantes e Atenuantes.",
+      "Causas de Aumento e de Diminuição.",
+      "Cálculo da Pena."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Concurso de crimes.",
+      "Erro de execução e resultado diverso do pretendido."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Suspensão condicional da pena e Livramento condicional."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Ação penal.",
+      "Extinção da punibilidade.",
+      "Prescrição."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Parte Especial do Código Penal.",
+      "Crimes contra a pessoa.",
+      "Crimes contra o patrimônio.",
+      "Crimes contra a propriedade imaterial.",
+      "Crimes contra a organização do trabalho.",
+      "Crimes contra o sentimento religioso e contra o respeito aos mortos.",
+      "Crimes contra a dignidade sexual.",
+      "Crimes contra a família.",
+      "Crimes contra a incolumidade pública.",
+      "Crimes contra a paz pública.",
+      "Crimes contra a fé pública.",
+      "Crimes contra a administração pública.",
+      "Crimes contra o Estado Democrático de Direito."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Legislação penal especial: Decreto-Lei nº 3688/1941.",
+      "Lei 1.521/1951.",
+      "Decreto-Lei n° 201/1967.",
+      "Lei 4.737/1965.",
+      "Lei 5.478/1968.",
+      "Lei 6.001/1973.",
+      "Lei 6.766/1979.",
+      "Lei 7.716/1989.",
+      "Lei 8.069/1990.",
+      "Lei 8.072/1990.",
+      "Lei 8.078/1990.",
+      "Lei 8.137/1990.",
+      "Lei 8.666/1993.",
+      "Lei 9.296/1996.",
+      "Lei 9.503/1997.",
+      "Lei 9.605/1998.",
+      "Lei 9.613/1998.",
+      "Lei 10.741/2003.",
+      "Lei 10.826/2003 e Decretos Federal n° 9.847/2019 e 11.366/2023.",
+      "Lei 11.340/2003.",
+      "Lei 11.343/2006.",
+      "Lei 11.101/2005.",
+      "Lei 12.850/2013.",
+      "Lei 13.869/2019.",
+      "Lei 14.344/2022.",
+      "Lei 14.579/2023."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Tortura.",
+      "Lei Federal nº 9.455/1997.",
+      "Aspectos criminológicos da tortura.",
+      "Protocolo de Istambul.",
+      "Resolução 414/2021 do CNJ.",
+      "Convenção Contra a Tortura e Outros Tratamentos ou Penas Cruéis, Desumanas ou Degradantes.",
+      "Convenção Interamericana para Prevenir e Punir a Tortura.",
+      "Lei Federal nº 12.847/2013."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Criminologia.",
+      "Escolas criminológicas.",
+      "Criminologia Clássica.",
+      "Sistema penal e controle social.",
+      "Processo de criminalização.",
+      "Vitimologia e vitimização.",
+      "Política criminal e penitenciária no Brasil.",
+      "Encarceramento no Brasil.",
+      "Crise do discurso jurídico-penal.",
+      "Modernas tendências do pensamento criminológico e de política criminal.",
+      "Mídia e sistema penal.",
+      "Prisão e capitalismo.",
+      "Economia política da pena.",
+      "Teorias do Consenso e Teorias do Conflito.",
+      "Positivismo criminológico.",
+      "Escola Liberal.",
+      "Escola de Chicago.",
+      "Teoria da Associação Diferencial.",
+      "Teoria da Anomia.",
+      "Funcionalismo na Criminologia.",
+      "Teoria da Subcultura Delinquente.",
+      "Teorias da reação social.",
+      "Criminologia crítica.",
+      "Minimalismo e Garantismo Penal.",
+      "Marxismo e a questão criminal.",
+      "Realismo criminológico.",
+      "Esquerda punitiva.",
+      "Abolicionismo penal.",
+      "Privatização do controle penal.",
+      "Direito penal simbólico.",
+      "Movimento de Lei e Ordem.",
+      "Tolerância zero.",
+      "Autoritarismo e sistema penal.",
+      "Análises criminológicas concretas.",
+      "Racismo e sistema penal.",
+      "Gênero e sistema penal.",
+      "Criminologia feminista.",
+      "Criminologia cultural.",
+      "Criminologia verde.",
+      "Criminologia Queer.",
+      "Justiça restaurativa.",
+      "Justiça transformativa.",
+      "Criminologia e organização criminosa."
+     ]
+    }
+   ]
+  }
+ ]
+}

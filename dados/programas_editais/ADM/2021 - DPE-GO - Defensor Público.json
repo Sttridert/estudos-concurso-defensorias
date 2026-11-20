@@ -1,0 +1,249 @@
+{
+ "pasta": "2021 - DPE-GO - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 4951,
+   "avisos": [
+    "hifen removido: ...Em-|presas",
+    "hifen removido: ...com-|posição",
+    "hifen removido: ...adminis-|trativo.",
+    "hifen removido: ...Hipó-|teses",
+    "hifen removido: ...Revo-|gação,",
+    "hifen removido: ...Con-|trole.",
+    "hifen removido: ...seme-|lhanças",
+    "hifen removido: ...Aliena-|ção.",
+    "hifen removido: ...Responsabili-|dade",
+    "hifen removido: ...requisi-|ção",
+    "hifen removido: ...Judiciá-|rio.",
+    "hifen removido: ...Propos-|ta"
+   ],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito Administrativo.",
+      "Conceito e Objeto: Critérios.",
+      "Dimensão constitucional do Direito Administrativo.",
+      "Regime Jurídico Administrativo e os Princípios Norteadores."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Administração Pública: em sentido objetivo e em sentido subjetivo.",
+      "Administração Pública Direta e Indireta concentração, desconcentração, descentralização administrativa.",
+      "Administração indireta.",
+      "Autarquias.",
+      "Fundações Públicas e Privadas.",
+      "Empresas públicas.",
+      "Sociedades de Economia Mista.",
+      "Consórcio Público."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Poderes da Administração Pública: vinculado, discricionário, regulamentar, hierárquico e disciplinar.",
+      "Poder de Polícia: polícia administrativa e polícia judiciária, possibilidade de delegação a particulares."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Ato administrativo.",
+      "Conceito.",
+      "Requisitos, Elementos e Pressupostos.",
+      "Atributos.",
+      "Classificação: quanto à estrutura do ato, quanto à natureza da atividade, quanto aos destinatários do ato, quanto à função da vontade administrativa, quanto à composição da vontade produtora do ato.",
+      "Perfeição, validade e eficácia.",
+      "Vinculação e Discricionariedade.",
+      "Discricionariedade técnica.",
+      "Retirada do ato: Revogação e Invalidação.",
+      "Convalidação.",
+      "Atos nulos, anuláveis e inexistentes.",
+      "Vícios do ato administrativo."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Processo administrativo.",
+      "A processualidade administrativa.",
+      "Finalidades.",
+      "Princípios do Processo Administrativo.",
+      "Tipologia.",
+      "Fases.",
+      "Coisa julgada administrativa.",
+      "Lei Estadual nº 13.800/2001."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Licitação.",
+      "Finalidades.",
+      "Princípios.",
+      "Contratação Direta.",
+      "Dispensa: licitação dispensada e dispensável.",
+      "Taxatividade das Hipóteses do art. 24 da Lei Federal nº 8.666/1993.",
+      "Inexigibilidade.",
+      "Modalidades.",
+      "Tipos (ou Critérios de Julgamento).",
+      "Fases.",
+      "Revogação, invalidação e desistência.",
+      "Pregão: Presencial e Eletrônico.",
+      "Regras aplicáveis às microempresas e empresas de pequeno porte.",
+      "Nova Lei de Licitações (Lei Federal n. 14.133/21) e suas alterações e inovações em relação à Lei Federal nº 8.666/1993.",
+      "Vigência."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Contrato administrativo.",
+      "Classificação.",
+      "Formalização do Instrumento.",
+      "Modificações.",
+      "Reajuste e Repactuação.",
+      "Equação Econômico-Financeira.",
+      "Execução e Inexecução.",
+      "Duração: prazo de vigência e prazo de execução.",
+      "Prorrogação.",
+      "Extinção.",
+      "Controle.",
+      "Convênios: características e distinções em relação ao contrato.",
+      "Objetivos.",
+      "Participantes.",
+      "Natureza Jurídica.",
+      "Licitação."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Serviços públicos.",
+      "Conceito (ou Noção).",
+      "Princípios do serviço público.",
+      "Classificação.",
+      "Prestação direta ou indireta.",
+      "Concessão Comum e Permissão de Serviço Público na Lei Federal nº 8.987/1995.",
+      "A Autorização de Serviço Público.",
+      "Retomada do Serviço delegado: encampação e caducidade.",
+      "Concessão Administrativa e Concessão Patrocinada (Parceria Público-Privada): semelhanças e distinções com relação à Concessão Comum.",
+      "Participação, proteção e defesa dos direitos do usuário dos serviços públicos da administração pública (Lei Federal nº 13.460/2017)."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Bens Públicos.",
+      "Conceito.",
+      "Destinação dos bens.",
+      "Afetação.",
+      "Regime Jurídico dos Bens Públicos.",
+      "Formas de Aquisição e Alienação.",
+      "Utilização pelos particulares."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Agentes públicos: aspectos constitucionais.",
+      "Conceito.",
+      "Classificação.",
+      "Regime Jurídico Constitucional.",
+      "Provimento.",
+      "Estágio Probatório.",
+      "Prerrogativas.",
+      "Deveres.",
+      "Responsabilidades Administrativa, Civil e Penal.",
+      "Lei Complementar Estadual nº 130/2017 e Lei Estadual nº 10.460/1988."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Processo Disciplinar e Sindicância.",
+      "Conceitos.",
+      "Distinções.",
+      "Finalidades.",
+      "Princípios orientadores.",
+      "Infração Administrativa.",
+      "Sanção Administrativa.",
+      "Prescrição da ação disciplinar.",
+      "Lei Complementar Estadual nº 130/2017 e Lei Estadual nº 10.460/1988."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Responsabilidade Civil Extracontratual do Estado.",
+      "Previsão Constitucional.",
+      "Reparação do dano.",
+      "Teorias da Responsabilidade Civil: Subjetiva ou Objetiva.",
+      "Teoria da Faute du Service.",
+      "Teoria do Risco: Integral ou Administrativo.",
+      "Ação de Regresso.",
+      "Causas excludentes da Responsabilidade Civil."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Intervenção do Estado na propriedade.",
+      "Fundamento.",
+      "Modalidades: limitação, ocupação, tombamento, servidão, requisição e desapropriação."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Atuação do Estado no domínio econômico.",
+      "Fundamento.",
+      "Modalidades: fiscalização, incentivo, planejamento, repressão ao abuso do poder econômico, controle de preços e de abastecimento.",
+      "Monopólio."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Prestação de Serviços Sociais pelo Estado.",
+      "Fomento a atividades privadas pelo Estado: formas de realização."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Controle da Administração Pública.",
+      "Controle Externo (parlamentar direto, pelos Tribunais de Contas e pelo Judiciário) e Interno.",
+      "Controle Judicial da Administração Pública e a Discricionariedade Administrativa: limites impostos ao Poder Judiciário.",
+      "Instrumentos específicos de Controle Judicial: Habeas Corpus, Mandado de Segurança, Ação Civil Pública, Ação Popular, Mandado de Injunção e Habeas Data."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Atividade Financeira da Defensoria Pública.",
+      "Fontes.",
+      "Princípios constitucionais.",
+      "Competência Legislativa: Iniciativa, Proposta Orçamentária.",
+      "Leis Orçamentárias.",
+      "Duodécimos.",
+      "Responsabilidade Fiscal.",
+      "Controle."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Jurisprudência dos Tribunais Superiores na matéria constante do programa de Direito Administrativo."
+     ]
+    }
+   ]
+  }
+ ]
+}

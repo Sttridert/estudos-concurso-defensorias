@@ -1,0 +1,675 @@
+{
+ "pasta": "2023 - DPE-PR - Analista Direito (edital, sem prova)",
+ "banca": "Consulplan",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 10155,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Estado, governo e administração pública."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Conceitos."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Direito administrativo."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Objeto."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Fontes."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Ato administrativo."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Conceito, requisitos, atributos, classificação e espécies."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Extinção do ato administrativo."
+     ]
+    },
+    {
+     "item": "3.2.1",
+     "frases": [
+      "Cassação, anulação, revogação e convalidação."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Decadência administrativa."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Agentes públicos."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Cargo, emprego e função pública."
+     ]
+    },
+    {
+     "item": "4.3.1",
+     "frases": [
+      "Provimento."
+     ]
+    },
+    {
+     "item": "4.3.2",
+     "frases": [
+      "Vacância."
+     ]
+    },
+    {
+     "item": "4.3.3",
+     "frases": [
+      "Efetividade, estabilidade e vitaliciedade."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Remuneração."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Direitos e deveres."
+     ]
+    },
+    {
+     "item": "4.6",
+     "frases": [
+      "Responsabilidade."
+     ]
+    },
+    {
+     "item": "4.7",
+     "frases": [
+      "Processo administrativo disciplinar."
+     ]
+    },
+    {
+     "item": "4.8",
+     "frases": [
+      "Disposições constitucionais aplicáveis."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Poderes da administração pública."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Hierárquico, disciplinar, regulamentar e de polícia."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Uso e abuso de poder."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Regime jurídico-administrativo."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Princípios expressos e implícitos da administração pública."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Responsabilidade civil do Estado."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Evolução histórica."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Responsabilidade por ato comissivo do Estado."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Responsabilidade por omissão do Estado."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Requisitos para a demonstração da responsabilidade do Estado."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Causas excludentes e atenuantes da responsabilidade do Estado."
+     ]
+    },
+    {
+     "item": "7.6",
+     "frases": [
+      "Reparação do dano."
+     ]
+    },
+    {
+     "item": "7.7",
+     "frases": [
+      "Direito de regresso."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Serviços públicos."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Elementos constitutivos."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Formas de prestação e meios de execução."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Delegação."
+     ]
+    },
+    {
+     "item": "8.4.1",
+     "frases": [
+      "Concessão, permissão e autorização."
+     ]
+    },
+    {
+     "item": "8.5",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "8.6",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Organização administrativa."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Autarquias, fundações, empresas públicas e sociedades de economia mista."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Entidades paraestatais e terceiro setor."
+     ]
+    },
+    {
+     "item": "9.2.1",
+     "frases": [
+      "Serviços sociais autônomos, entidades de apoio, organizações sociais, organizações da sociedade civil de interesse público."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Controle da administração pública."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Controle exercido pela administração pública."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Controle judicial."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Controle legislativo."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Lei nº 8.429/1992 (improbidade administrativa)."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Lei nº 9.784/1999 (processo administrativo)."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Licitações e contratos administrativos."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Lei nº 14.133/2021."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Lei nº 10.520/2002 e demais disposições normativas relativas ao pregão."
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "Lei nº 12.846/2013."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Bens públicos.",
+      "Regime jurídico.",
+      "Aquisição e alienação.",
+      "Formas de utilização por particulares.",
+      "Intervenção do Estado na propriedade.",
+      "DIREITO CONSTITUCIONAL: 1 Aplicabilidade das normas constitucionais.",
+      "1.1 Normas de eficácia plena, contida e limitada.",
+      "1.2 Normas programáticas.",
+      "2 Constituição da República Federativa do Brasil de 1988. 2.1 Princípios fundamentais.",
+      "2.2 Direitos e garantias fundamentais.",
+      "2.3 Organização político-administrativa do Estado.",
+      "2.3.1 Estado federal brasileiro, União, estados, Distrito Federal, municípios e territórios.",
+      "2.3.2 Intervenção; administração pública (disposições gerais, dos servidores públicos, dos militares dos Estados e do Distrito Federal).",
+      "2.4 Poder Executivo.",
+      "2.4.1 Atribuições e responsabilidades do presidente da República.",
+      "2.5 Poder Legislativo.",
+      "2.5.1 Estrutura.",
+      "2.5.2 Funcionamento e atribuições.",
+      "2.5.3 Processo legislativo.",
+      "2.5.4 Fiscalização contábil, financeira e orçamentária.",
+      "2.5.5 Comissões parlamentares de inquérito.",
+      "2.6 Poder Judiciário.",
+      "2.6.1 Disposições gerais.",
+      "2.6.2 Órgãos do poder Judiciário.",
+      "2.6.2.1 Organização e competências, Conselho Nacional de Justiça.",
+      "2.7 Funções essenciais à justiça.",
+      "3 Controle de constitucionalidade: sistemas e mecanismos; ações do controle concentrado: espécies e efeitos; súmula vinculante; repercussão geral.",
+      "4 Ordem Social: meio ambiente; família, criança, adolescente, jovem e idoso, educação, índios.",
+      "5 Ordem econômica e financeira: princípios gerais da atividade econômica, da política urbana, da política agrícola e fundiária e da reforma agrária.",
+      "DIREITO CIVIL: 1 Lei de introdução às normas do direito brasileiro.",
+      "1.1 Vigência, aplicação, obrigatoriedade, interpretação e integração das leis.",
+      "1.2 Conflito das leis no tempo.",
+      "1.3 Eficácia das leis no espaço.",
+      "2 Pessoas naturais.",
+      "2.1 Conceito.",
+      "2.2 Início da pessoa natural.",
+      "2.3 Personalidade.",
+      "2.4 Capacidade.",
+      "2.5 Direitos da personalidade.",
+      "2.6 Nome civil.",
+      "2.7 Estado civil.",
+      "2.8 Domicílio.",
+      "2.9 Ausência.",
+      "3 Pessoas jurídicas.",
+      "3.1 Disposições Gerais.",
+      "3.2 Conceito e Elementos Caracterizadores.",
+      "3.3 Constituição.",
+      "3.4 Extinção.",
+      "3.5 Capacidade e direitos da personalidade.",
+      "3.6 Sociedades de fato.",
+      "3.7 Associações.",
+      "3.8 Sociedades.",
+      "3.9 Fundações.",
+      "3.10 Grupos despersonalizados.",
+      "3.11 Desconsideração da personalidade jurídica.",
+      "3.12 Responsabilidade da pessoa jurídica e dos sócios.",
+      "4 Bens.",
+      "4.1 Diferentes classes.",
+      "4.2 Bens Corpóreos e incorpóreos.",
+      "4.3 Bens no comércio e fora do comércio.",
+      "5 Fato jurídico.",
+      "6 Negócio jurídico.",
+      "6.1 Disposições gerais.",
+      "6.2 Classificação e interpretação.",
+      "6.3 Elementos.",
+      "6.4 Representação.",
+      "6.5 Condição, termo e encargo.",
+      "6.6 Defeitos do negócio jurídico.",
+      "6.7 Existência, eficácia, validade, invalidade e nulidade do negócio jurídico.",
+      "6.8 Simulação.",
+      "7 Atos jurídicos lícitos e ilícitos.",
+      "8 Prescrição e decadência.",
+      "9 Prova do fato jurídico.",
+      "10 Do direito das obrigações: modalidades das obrigações.",
+      "Transmissão. adimplemento e extinção.",
+      "Inadimplemento.",
+      "11 Contratos.",
+      "11.1 Princípios.",
+      "11.2 Classificação.",
+      "11.3 Contratos em geral.",
+      "11.4 Disposições gerais.",
+      "11.5 Interpretação.",
+      "11.6 Extinção.",
+      "11.7 Espécies de contratos regulados no Código Civil.",
+      "12 Direitos reais.",
+      "12.1 Espécies.",
+      "13 Do Direito de Família: direito pessoal, casamento, relações de parentesco, da dissolução da sociedade e do vínculo conjugal; da proteção da pessoa dos filhos; do poder familiar; dos Alimentos; da Tutela, Curatela, e da Tomada de Decisão Apoiada."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Do direito das Sucessões: sucessão em geral.",
+      "Sucessão legítima.",
+      "Sucessão testamentária.",
+      "Inventário e partilha."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Lei nº 8.069/1990 (Estatuto da Criança e do Adolescente)."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Lei nº 10.741/2003 (Estatuto do Idoso)."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Lei nº 8.078/1990 (Código de Defesa do Consumidor); DIREITO PROCESSUAL CIVIL: 1 Lei nº 13.105/2015 (Código de Processo Civil).",
+      "2 Normas processuais civis.",
+      "3 A jurisdição.",
+      "4 A Ação.",
+      "4.1 Conceito, natureza, elementos e características.",
+      "4.2 Condições da ação.",
+      "4.3 Classificação.",
+      "5 Pressupostos processuais.",
+      "6 Preclusão.",
+      "7 Sujeitos do processo.",
+      "7.1 Capacidade processual e postulatória.",
+      "7.2 Deveres das partes e procuradores.",
+      "7.3 Procuradores.",
+      "7.4 Sucessão das partes e dos procuradores.",
+      "7.5 Litisconsórcio.",
+      "8 Intervenção de terceiros.",
+      "9 Poderes, deveres e responsabilidade do juiz.",
+      "10 Ministério Público.",
+      "11 Advocacia Pública.",
+      "12 Defensoria Pública.",
+      "13 Atos processuais.",
+      "13.1 Forma dos atos.",
+      "13.2 Tempo e lugar.",
+      "13.3 Prazos.",
+      "13.4 Comunicação dos atos processuais.",
+      "13.5 Nulidades.",
+      "13.6 Distribuição e registro.",
+      "13.7 Valor da causa.",
+      "14 Tutela provisória.",
+      "14.1 Tutela de urgência.",
+      "14.2 Disposições gerais.",
+      "15 Formação, suspensão e extinção do processo.",
+      "16 Processo de conhecimento e do cumprimento de sentença.",
+      "16.1 Procedimento comum.",
+      "16.2 Disposições Gerais.",
+      "16.3 Petição inicial.",
+      "16.4 Improcedência liminar do pedido.",
+      "16.5 Contestação, reconvenção e revelia.",
+      "16.6 Providências preliminares e de saneamento.",
+      "16.7 Julgamento conforme o estado do processo.",
+      "16.8 Provas.",
+      "16.9 Sentença e coisa julgada.",
+      "16.10 Cumprimento da sentença.",
+      "16.11 Disposições Gerais.",
+      "16.12 Cumprimento.",
+      "16.13 Liquidação.",
+      "17 Processos de execução."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Processos nos tribunais e meios de impugnação das decisões judiciais."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Disposições finais e transitórias."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Mandado de segurança."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Ação popular."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Ação civil pública."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Ação de improbidade administrativa."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Teoria Geral dos Recursos."
+     ]
+    },
+    {
+     "item": "24.1",
+     "frases": [
+      "Recursos em espécie."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Das ações de família."
+     ]
+    },
+    {
+     "item": "25.1",
+     "frases": [
+      "Do divórcio e da separação consensuais, da extinção consensual de união estável."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Da interdição."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Das disposições comuns à tutela e à curatela.",
+      "DIREITO PENAL: 1 Princípios aplicáveis ao Direito Penal.",
+      "2 Aplicação da lei penal.",
+      "Do crime.",
+      "Imputabilidade penal.",
+      "2.1 A lei penal no tempo e no espaço.",
+      "2.2 Tempo e lugar do crime.",
+      "2.3 Interpretação da lei penal.",
+      "2.4 Analogia.",
+      "2.5 Irretroatividade da lei penal.",
+      "2.6 Conflito aparente de normas penais.",
+      "3 Ilicitude.",
+      "4 Culpabilidade.",
+      "5 Concurso de Pessoas.",
+      "Das medidas de segurança.",
+      "6 Penas.",
+      "6.1 Espécies de penas.",
+      "6.2 Cominação das penas.",
+      "7 Ação penal.",
+      "8 Punibilidade e causas de extinção.",
+      "9 Prescrição.",
+      "10 Crimes contra o patrimônio.",
+      "11 Crimes contra a fé pública.",
+      "12 Crimes contra a Administração Pública.",
+      "13 Crimes contra a dignidade sexual.",
+      "14 Crimes contra a família.",
+      "15 Lei nº 8.072/1990 (Crimes hediondos).",
+      "Lei nº 9.605/1998 (Crimes contra o meio ambiente).",
+      "16 Lei nº 9.613/1998 (Lavagem de dinheiro).",
+      "17 Disposições constitucionais aplicáveis ao direito penal.",
+      "18 Crimes e sanções penais na licitação (Lei nº 14.133/2021).",
+      "19 Crimes de responsabilidade fiscal (Lei nº 10.028/2000).",
+      "20 Lei nº 9.455/1997 (Crimes de tortura).",
+      "21 Crimes previstos na Lei nº 11.343/2006 .",
+      "22 Lei nº 11.340/2006 .",
+      "23 Lei nº 12.850/2013 .",
+      "DIREITO PROCESSUAL PENAL: 1 Processo penal brasileiro; processo penal constitucional.",
+      "2 Sistemas e princípios fundamentais.",
+      "3 Aplicação da lei processual no tempo, no espaço e em relação às pessoas.",
+      "3.1 Disposições preliminares do Código de Processo Penal.",
+      "4 Fase pré-processual.",
+      "4.1 Inquérito policial.",
+      "5 Processo, procedimento e relação jurídica processual.",
+      "5.1 Elementos identificadores da relação processual.",
+      "5.2 Formas do procedimento.",
+      "5.3 Princípios gerais e informadores do processo.",
+      "5.4 Pretensão punitiva.",
+      "5.5 Tipos de processo penal.",
+      "6 Ação penal.",
+      "7 Ação civil Ex Delicto.",
+      "8 Jurisdição e competência.",
+      "9 Questões e processos incidentes.",
+      "10 Prova.",
+      "11 Sujeitos do Processo.",
+      "12 Prisão, medidas cautelares, e liberdade provisória e prisão temporária (Lei nº 7.960/1989).",
+      "13 Citações e intimações.",
+      "14 Atos processuais e atos judiciais.",
+      "15 Procedimentos.",
+      "15.1 Processo comum; processos especiais; Lei nº 8.038/1990 – normas procedimentais para os processos perante o Superior Tribunal de Justiça (STJ) e o Supremo Tribunal Federal (STF).",
+      "16 Lei nº 9.099/1995 e Lei nº 10.259/2001 (juizados especiais cíveis e criminais).",
+      "17 Prazos.",
+      "17.1 Características, princípios e contagem.",
+      "18 Nulidades.",
+      "19 Recursos em geral.",
+      "20 Habeas corpus e seu processo.",
+      "21 Normas processuais da Lei nº 7.210/1984 (execução penal).",
+      "22 Disposições gerais do Código de Processo Penal.",
+      "Procedimentos previstos na Lei nº 11.343/2006 .",
+      "Lei nº 11.340/2006 .",
+      "Lei nº 12.850/2013."
+     ]
+    }
+   ]
+  }
+ ]
+}

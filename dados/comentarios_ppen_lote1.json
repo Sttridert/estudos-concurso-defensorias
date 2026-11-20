@@ -1,0 +1,97 @@
+{
+"2018 - DPE-AM - Analista Jurídico|41": {
+ "c": "Gabarito D. A apelação cabe contra decisão do Tribunal do Júri quando a decisão dos jurados for manifestamente contrária à prova dos autos (CPP, art. 593, III, d). A: o juízo de retratação em 2 dias é do recurso em sentido estrito (art. 589), não da apelação. B: a decisão de pronúncia desafia recurso em sentido estrito (art. 581, IV). C: na execução penal o recurso é o agravo em execução (LEP, art. 197; Súmula 700 do STF), e não a apelação. E: o prazo da apelação é de 5 dias (art. 593), não de 15; para a Defensoria o prazo é contado em dobro (LC 80/1994, art. 128, I), ou seja, 10 dias.",
+ "p": "Confundir apelação com recurso em sentido estrito (pronúncia) e com agravo em execução; e esquecer que o prazo da apelação é de 5 dias.",
+ "d": ["CPP|art. 593, III, d", "CPP|art. 581, IV", "CPP|art. 589", "LEP|art. 197", "LC 80/1994|art. 128, I"],
+ "pend": 0},
+"2018 - DPE-AM - Analista Jurídico|42": {
+ "c": "Gabarito B. O art. 282, § 6º, do CPP diz que a prisão preventiva só será determinada quando não for cabível a sua substituição por outra medida cautelar. A: a monitoração eletrônica (art. 319, IX) não se limita a crimes com violência ou grave ameaça. C: no descumprimento o juiz pode substituir a medida, impor outra em cumulação ou, em último caso, decretar a preventiva (art. 282, § 4º); não há decretação automática. D: a internação provisória (art. 319, VII) exige crime praticado com violência ou grave ameaça; furto simples não serve. E: as medidas podem ser aplicadas isolada ou cumulativamente (art. 282, § 1º).",
+ "p": "Achar que o descumprimento leva sempre à preventiva, ou que as medidas não podem ser cumuladas.",
+ "d": ["CPP|art. 282, §§ 1º, 4º e 6º", "CPP|art. 319, VII e IX"],
+ "pend": 0},
+"2018 - DPE-AM - Analista Jurídico|43": {
+ "c": "Gabarito C. Há continência quando duas ou mais pessoas forem acusadas pela mesma infração (CPP, art. 77, I). A: a regra de competência territorial é o lugar da consumação da infração (art. 70), e o domicílio do réu só vale quando o lugar é desconhecido ou nas ações privadas exclusivas (art. 72 e art. 73). B: a gravidade do crime não define a competência federal, que é fixada pela CF (art. 109). D: a conexão com crime doloso contra a vida não é vedada; ao contrário, o júri atrai os crimes conexos (art. 78, I). E: latrocínio é crime contra o patrimônio e é julgado pelo juiz singular, não pelo júri (Súmula 603 do STF), e o réu não escolhe o juízo.",
+ "p": "Pensar que o latrocínio vai a júri por ter morte, e que o domicílio do réu é a regra de competência.",
+ "d": ["CPP|art. 77, I", "CPP|art. 70", "CPP|art. 78, I", "STF|Súmula 603"],
+ "pend": 0},
+"2018 - DPE-AM - Analista Jurídico|44": {
+ "c": "Gabarito B (pela lei da época da prova). A redação antiga do art. 124 da LEP permitia a saída temporária por até 7 dias, renovável por mais 4 vezes ao ano. A: a permissão de saída (art. 120) vale para presos dos regimes fechado e semiaberto e para presos provisórios, e não só para o semiaberto. C: a permissão não depende de fração da pena; é para falecimento ou doença grave de parente ou necessidade de tratamento médico. D e E: a permissão é concedida pelo diretor do estabelecimento (art. 120, parágrafo único), e a saída temporária pelo juiz, depois de ouvir o Ministério Público e a administração penitenciária (art. 123), e não o Conselho Penitenciário. ATENÇÃO: a Lei 14.843/2024 mudou a saída temporária (retirou a visita à família e ampliou as vedações, inclusive para crime hediondo). Hoje o gabarito B está defasado e a D pode passar a ser a correta. Confirmar o texto atual no Planalto.",
+ "p": "Estudar a saída temporária pela lei antiga: a Lei 14.843/2024 alterou o instituto.",
+ "d": ["LEP|art. 120", "LEP|art. 122", "LEP|art. 123", "LEP|art. 124", "Lei 14.843/2024|confirmar no Planalto"],
+ "pend": 1},
+"2019 - DPE-AM - Analista Jurídico|44": {
+ "c": "Gabarito D, que aplica o entendimento do STF no habeas corpus coletivo das mães presas (HC 143.641): havendo dúvida sobre a condição de guardiã dos filhos, o juiz pode pedir laudo social, sem deixar de conceder a medida. Confirmar a redação no julgado. A: a prisão domiciliar (CPP, arts. 317 e 318) é substituição da preventiva, e a detração é admitida (CP, art. 42). B: não é só para mulheres; o art. 318, VI, alcança o homem único responsável pelos cuidados do filho de até 12 anos. C: reincidência dolosa não é vedação; a vedação do art. 318-A é para crime com violência ou grave ameaça ou contra o próprio filho ou dependente. E: roubo tem grave ameaça ou violência, o que veda a substituição pelo art. 318-A, I.",
+ "p": "Achar que a prisão domiciliar é só para mulheres ou que a reincidência a impede.",
+ "d": ["CPP|art. 318", "CPP|art. 318-A", "CP|art. 42", "STF|HC 143.641 (confirmar)"],
+ "pend": 1},
+"2019 - DPE-AM - Analista Jurídico|45": {
+ "c": "Gabarito D, que reproduz a Súmula 617 do STJ: a ausência de suspensão ou revogação do livramento condicional antes do fim do período de prova leva à extinção da punibilidade pelo cumprimento integral da pena. A: a Súmula 534 diz que a falta grave interrompe o prazo da progressão e a contagem recomeça da data da infração, e não do trânsito em julgado. B: a Súmula 535 diz que a falta grave não interrompe o prazo para comutação ou indulto. C: a Súmula 562 admite a remição pelo trabalho extramuros, o contrário do que a alternativa diz. E: a Súmula 439 admite o exame criminológico com decisão motivada, mas não o torna obrigatório nos crimes hediondos.",
+ "p": "Trocar o que cada súmula diz: a falta grave interrompe a progressão, mas não a comutação nem o livramento.",
+ "d": ["STJ|Súmula 617", "STJ|Súmula 534", "STJ|Súmula 535", "STJ|Súmula 562", "STJ|Súmula 439"],
+ "pend": 0},
+"2019 - DPE-AM - Analista Jurídico|46": {
+ "c": "Gabarito C. Pela doutrina defensiva, que a FCC adota, o ônus da prova é da acusação por inteiro, por causa da presunção de inocência (CF, art. 5º, LVII); a defesa não precisa provar a inocência e apenas tem interesse em demonstrar o que alega. A alternativa A reproduz a letra do art. 156 do CPP (a prova da alegação incumbe a quem a fizer) e poderia confundir; mas o gabarito oficial é C. B: a posse dos objetos furtados não inverte o ônus. D: crime hediondo não inverte o ônus. E: o livre convencimento não torna o ônus irrelevante; na dúvida, absolve-se (art. 386, VII).",
+ "p": "Marcar a letra do art. 156 do CPP (A) e esquecer que, na linha da defesa, o ônus pesa sobre a acusação.",
+ "d": ["CF|art. 5º, LVII", "CPP|art. 156", "CPP|art. 386, VII"],
+ "pend": 0},
+"2019 - DPE-AM - Analista Jurídico|47": {
+ "c": "Gabarito B, pelo entendimento dos tribunais superiores: o prazo do Defensor Público, intimado pessoalmente, conta da entrega dos autos na repartição administrativa, e não da ciência em audiência. Confirmar o julgado. A: a fungibilidade recursal é aplicada no processo penal (CPP, art. 579), se não houver má-fé. C: o Ministério Público não é obrigado a recorrer (o art. 576 só proíbe que desista do recurso que interpôs). D: os embargos infringentes e de nulidade são só da defesa, contra decisão não unânime desfavorável ao réu (art. 609, parágrafo único). E: a decisão sobre livramento condicional na execução desafia agravo em execução (LEP, art. 197), não recurso em sentido estrito.",
+ "p": "Achar que o Ministério Público tem dever de recorrer e que os embargos infringentes servem à acusação.",
+ "d": ["CPP|art. 579", "CPP|art. 576", "CPP|art. 609, parágrafo único", "LEP|art. 197", "LC 80/1994|art. 128, I"],
+ "pend": 1},
+"2019 - DPE-AM - Analista Jurídico|48": {
+ "c": "Gabarito E. O art. 254 do CPP traz as hipóteses de suspeição, entre elas aconselhar qualquer das partes e ser amigo íntimo ou inimigo capital de qualquer delas (art. 254, I e III). As demais alternativas descrevem casos de IMPEDIMENTO (art. 252): A (cônjuge ou parente como defensor, órgão do Ministério Público, autoridade policial, auxiliar ou perito), B (ter atuado em outra instância) e D (ser parte ou diretamente interessado). C troca o grau: o art. 254 fala em parentesco até o terceiro grau, e não o segundo. Impedimento e suspeição diferem pela natureza das situações, e é isso que se cobra.",
+ "p": "Misturar impedimento (art. 252, ligado ao processo ou à função) com suspeição (art. 254, ligada a amizade, inimizade e interesse).",
+ "d": ["CPP|art. 252", "CPP|art. 254"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|46": {
+ "c": "Gabarito A. Quando a sentença do juiz presidente do Tribunal do Júri é contrária à lei expressa ou à decisão dos jurados, o recurso é a apelação (CPP, art. 593, III, b). B e D: agravo de instrumento e agravo regimental não são recursos do processo penal para esse caso. C: o recurso em sentido estrito cabe contra a pronúncia e outras decisões listadas no art. 581, e não contra a sentença do presidente. E: a carta testemunhável serve quando o recurso é denegado ou não seguido (art. 639).",
+ "p": "Optar pelo recurso em sentido estrito por ser decisão do júri: a sentença do presidente é apelável.",
+ "d": ["CPP|art. 593, III, a e b", "CPP|art. 581", "CPP|art. 639"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|47": {
+ "c": "Gabarito B. A Lei Maria da Penha garante que a ofendida seja notificada dos atos processuais relativos ao agressor, em especial do ingresso e da saída da prisão (art. 21). A: o afastamento do lar, em regra, é decretado pelo juiz, mas pode ser feito pelo delegado, quando o município não for sede de comarca, ou pelo policial, se não houver delegado disponível (art. 12-C); logo, a autoridade judicial não é a única. C: o rol do art. 22 é exemplificativo (traz medidas 'entre outras'). D: a ofendida não pode entregar intimação ou notificação ao agressor (art. 21, parágrafo único). E: a polícia pode ser acionada para acompanhar a retirada dos pertences (art. 22, § 3º, e art. 11, IV).",
+ "p": "Achar que a ofendida pode ajudar entregando a notificação, ou que só o juiz decreta o afastamento.",
+ "d": ["Lei 11.340/2006|art. 21", "Lei 11.340/2006|art. 22", "Lei 11.340/2006|art. 12-C"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|48": {
+ "c": "Gabarito E. A primeira fase do interrogatório trata da pessoa do acusado: residência, meios de vida ou profissão, oportunidades sociais, lugar onde exerce a atividade e vida pregressa (CPP, art. 187, § 1º). A: no procedimento comum, o interrogatório é o ÚLTIMO ato da audiência (art. 400). B: o silêncio não importa confissão e não pode ser interpretado em prejuízo da defesa (art. 186, parágrafo único). C: a confissão tem valor relativo e é apreciada com as demais provas (art. 197). D: a confissão é retratável (art. 200).",
+ "p": "Dizer que o interrogatório é o primeiro ato da audiência, como era antes da Lei 11.719/2008.",
+ "d": ["CPP|art. 400", "CPP|art. 186, parágrafo único", "CPP|art. 187, § 1º", "CPP|art. 197", "CPP|art. 200"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|49": {
+ "c": "Gabarito D. Quando a infração deixa vestígios, o exame de corpo de delito, direto ou indireto, é indispensável, e a confissão do acusado não pode suprir a falta (CPP, art. 158). Por isso, A, C e E (que deixam ao juiz ou às partes decidir se haverá exame) estão erradas, e B erra ao dizer que a confissão permite dispensar o exame. Se os vestígios tiverem desaparecido, a prova testemunhal pode suprir o exame (art. 167), mas a confissão não.",
+ "p": "Achar que a confissão dispensa o exame de corpo de delito.",
+ "d": ["CPP|art. 158", "CPP|art. 167"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|50": {
+ "c": "Gabarito C. As condições do período de prova da suspensão condicional do processo incluem a reparação do dano, a proibição de frequentar certos lugares, a proibição de se ausentar da comarca sem autorização e o comparecimento mensal em juízo (Lei 9.099/1995, art. 89, § 1º). A: reparação do dano e comparecimento fazem parte das condições. B: o limite é a pena mínima igual ou inferior a 1 ano (e não 3). D: a confissão não é exigida na suspensão (ela é requisito do acordo de não persecução penal). E: não há exigência de prova de que o agente não integre organização criminosa; os requisitos são não estar sendo processado nem ter sido condenado por outro crime e estarem presentes os requisitos da suspensão da pena (CP, art. 77).",
+ "p": "Misturar a suspensão condicional do processo (pena mínima de até 1 ano, sem confissão) com o ANPP (pena mínima inferior a 4 anos, com confissão).",
+ "d": ["Lei 9.099/1995|art. 89, caput e § 1º"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|46": {
+ "c": "Gabarito D. Desde a Lei 13.964/2019, o juiz não pode decretar a prisão preventiva de ofício em nenhuma fase: ela depende de requerimento do Ministério Público, do querelante ou do assistente, ou de representação da autoridade policial (CPP, art. 311; ver também art. 282, §§ 2º e 4º). Por isso A e E (requerimento do MP e do delegado) não geram ilegalidade. B: o crime tentado admite prisão preventiva. C: ser primária não torna a prisão ilegal por si só.",
+ "p": "Esquecer que a Lei 13.964/2019 proibiu a decretação da preventiva de ofício também no curso do processo.",
+ "d": ["CPP|art. 311", "CPP|art. 282, §§ 2º e 4º"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|47": {
+ "c": "Gabarito D. Não será concedida fiança em caso de prisão civil ou militar (CPP, art. 324, III). A, B, C e E tratam de crimes afiançáveis (homicídio culposo, furto simples, receptação e dano qualificado). Os crimes inafiançáveis estão na CF (art. 5º, XLII, XLIII e XLIV) e no art. 323 do CPP: racismo, tortura, tráfico, terrorismo, hediondos e ação de grupos armados contra a ordem constitucional. O delegado pode arbitrar fiança para infrações com pena máxima de até 4 anos (art. 322).",
+ "p": "Procurar o crime inafiançável entre as alternativas e não notar que a vedação do art. 324 é de outra natureza (prisão civil ou militar).",
+ "d": ["CPP|art. 324, III", "CPP|art. 323", "CPP|art. 322"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|48": {
+ "c": "Gabarito E. O art. 595 do CPP, que mandava julgar deserta a apelação do réu que fugisse depois de recorrer, foi revogado pela Lei 12.403/2011. Hoje o recurso da defesa é conhecido mesmo que o condenado não se recolha à prisão nem tenha sido intimado pessoalmente; o recurso é também interposto pela Defensoria. As alternativas A, B, C e D criam condições que a lei não prevê.",
+ "p": "Aplicar a antiga regra da deserção da apelação do réu foragido (art. 595, revogado).",
+ "d": ["CPP|art. 593", "Lei 12.403/2011|revogação do art. 595 do CPP"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|49": {
+ "c": "Gabarito B. A pessoa presa em flagrante deve ser apresentada ao juiz em até 24 horas, na audiência de custódia (CPP, art. 310, caput; Resolução CNJ 213/2015). A: o prazo não é de 48 horas. C, D e E: a apresentação é obrigatória, e não depende de relato de violência, de pedido da Defensoria ou de plantão; a não realização sem motivo idôneo torna a prisão ilegal (art. 310, § 3º).",
+ "p": "Confundir o prazo de 24 horas da custódia com o de 48 horas ou com o prazo de remessa do auto de prisão.",
+ "d": ["CPP|art. 310, caput e § 3º", "CNJ|Resolução 213/2015"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|50": {
+ "c": "Gabarito A. Nos crimes de ação penal pública condicionada à representação, a representação é condição de procedibilidade, ou seja, condição para o exercício da ação (CPP, art. 24). Sem ela, a denúncia deve ser rejeitada por falta de condição da ação (art. 395, II). As demais opções (legitimidade, interesse, indícios, prova) são nomes de outros pontos: o Ministério Público é parte legítima e há interesse em agir; o problema é a falta da condição de procedibilidade.",
+ "p": "Pensar em ilegitimidade do Ministério Público: ele é o titular, mas a ação depende da representação.",
+ "d": ["CPP|art. 24", "CPP|art. 395, II"],
+ "pend": 0}
+}

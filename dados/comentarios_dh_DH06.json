@@ -1,0 +1,100 @@
+{
+ "2021 - DPE-AM - Defensor Público|8": {
+  "c": "O incidente de deslocamento de competência (federalização) é suscitado pelo Procurador-Geral da República, perante o STJ, em qualquer fase do inquérito ou do processo (CF, art. 109, V-A e §5º). Governador, Assembleia, PGJ e Defensor Público-Geral não têm legitimidade.",
+  "p": "Trocar o legitimado ou o tribunal.",
+  "d": [
+   "CF|art. 109, V-A e §5º"
+  ]
+ },
+ "2022 - DPE-AM - Analista Jurídico|51": {
+  "c": "Tratado de direitos humanos aprovado em cada Casa do Congresso, em dois turnos, por três quintos, tem status de emenda constitucional (CF, art. 5º, §3º). Os demais tratados de direitos humanos têm status supralegal (STF, RE 466.343).",
+  "p": "Oferecer \"supralegal\" e \"supraconstitucional\" para quem confunde o §3º com o entendimento do STF.",
+  "d": [
+   "CF|art. 5º, §3º",
+   "STF|RE 466.343 e Súmula Vinculante 25"
+  ]
+ },
+ "2022 - DPE-AM - Analista Jurídico|55": {
+  "c": "O PGR suscita o incidente de deslocamento de competência perante o Superior Tribunal de Justiça (CF, art. 109, §5º), nas hipóteses de grave violação de direitos humanos e para cumprir obrigações de tratados.",
+  "p": "Outro tribunal (STF, TRF, TSE).",
+  "d": [
+   "CF|art. 109, §5º"
+  ]
+ },
+ "2022 - DPE-AP - Defensor Público|74": {
+  "c": "O controle de convencionalidade é reconhecido pela Corte IDH. No caso Almonacid Arellano vs. Chile, a Corte assentou que o Poder Judiciário deve exercer controle de convencionalidade de ofício, entre as normas internas e a Convenção. É controle difuso (não só concentrado) e o STF não reconheceu a inconstitucionalidade do crime de desacato por esse fundamento (ADPF 496).",
+  "p": "Dizer que é concentrado, ou citar decisão do STF que não existe nesses termos.",
+  "d": [
+   "Corte IDH|Almonacid Arellano vs. Chile (2006)",
+   "STF|ADPF 496"
+  ]
+ },
+ "2022 - DPE-AP - Defensor Público|75": {
+  "c": "O STF, ao afirmar o caráter supralegal dos tratados e a interpretação da Lei Maria da Penha conforme o sistema de proteção, decidiu que a ação penal por lesão corporal contra a mulher em ambiente doméstico é incondicionada (ADI 4424). Os outros pontos (aplicação só a mulheres, constitucionalidade das medidas protetivas, insignificância, transação penal) têm decisões próprias ou posições diferentes.",
+  "p": "Misturar entendimentos do STF e do STJ sobre a Lei Maria da Penha.",
+  "d": [
+   "STF|ADI 4424",
+   "Lei 11.340/2006|Maria da Penha"
+  ]
+ },
+ "2022 - DPE-AP - Defensor Público|77": {
+  "c": "Só o Procurador-Geral da República pode suscitar o incidente de deslocamento de competência (CF, art. 109, §5º). Procurador-Geral de Justiça, Defensor Público-Geral, membro do MP no caso e Ministro da Justiça não têm essa legitimidade.",
+  "p": "Legitimados parecidos.",
+  "d": [
+   "CF|art. 109, §5º"
+  ]
+ },
+ "2022 - DPE-AP - Defensor Público|79": {
+  "c": "A Constituição incumbiu a Defensoria Pública, como expressão e instrumento do regime democrático, fundamentalmente da promoção dos direitos humanos (art. 134, redação da EC 80/2014). A prevalência dos direitos humanos é princípio das relações internacionais (art. 4º, II), e não objetivo fundamental; os tratados de direitos humanos têm status de emenda (§3º) ou supralegal, e não existe a ordem constitucional de conselhos de direitos humanos nem de atividade jurisdicional ininterrupta \"orientada\" a direitos humanos.",
+  "p": "Atribuir à CF previsões que não estão no texto (conselhos, objetivo fundamental).",
+  "d": [
+   "CF|art. 134",
+   "CF|art. 4º, II",
+   "CF|art. 5º, §3º"
+  ]
+ },
+ "2022 - DPE-CE - Defensor Público|11": {
+  "c": "A Convenção Interamericana contra o Racismo, a Discriminação Racial e Formas Conexas de Intolerância foi aprovada com status do art. 5º, §3º e ratificada pelo Brasil em 2021. As demais Convenções ou não foram ratificadas (migrantes, desaparecimento forçado, discriminação e intolerância) ou não têm o status do §3º. Confirmar as datas de ratificação nas fontes oficiais.",
+  "p": "Datas de ratificação plausíveis para tratados que o Brasil não ratificou.",
+  "d": [
+   "CF|art. 5º, §3º"
+  ]
+ },
+ "2022 - DPE-MT - Defensor Público|90": {
+  "c": "Compete privativamente ao Presidente da República celebrar tratados, convenções e atos internacionais, sujeitos a referendo do Congresso Nacional (CF, art. 84, VIII). A aprovação pelo Congresso é por decreto legislativo (art. 49, I). Propor ratificação, sancionar ou aprovar não são atos privativos do Presidente nesses termos.",
+  "p": "Trocar os atos do Executivo e do Congresso na incorporação.",
+  "d": [
+   "CF|art. 84, VIII",
+   "CF|art. 49, I"
+  ]
+ },
+ "2025 - DPE-RS - Defensor Público|23": {
+  "c": "O controle de convencionalidade é a análise da compatibilidade de atos internos, comissivos ou omissivos, com as normas internacionais de direitos humanos. É exercido por órgãos criados por tratados (controle internacional), pelos tribunais constitucionais e, de modo difuso, pelos demais juízes e tribunais. As erradas limitam a atos omissivos ou comissivos ou a só um tipo de órgão.",
+  "p": "Restrições (\"apenas comissivos\", \"exclusivamente órgãos de tratado\").",
+  "d": []
+ },
+ "2026 - DPE-BA - Defensor Público|4": {
+  "c": "A decisão internacional proferida em outro caso pode influenciar a interpretação do tratado, como parâmetro interpretativo, ainda que em contexto diverso (diálogo entre cortes). Não depende de identidade entre os Estados nem de incorporação legislativa, e não compromete a autonomia interpretativa.",
+  "p": "Exigir identidade entre Estados ou internalização do precedente.",
+  "d": []
+ },
+ "2026 - DPE-BA - Defensor Público|8": {
+  "c": "A tensão entre norma constitucional e obrigação de tratado de direitos humanos pode ser resolvida por harmonização, com interpretação que evite excluir normas, sem renunciar à norma constitucional nem exigir emenda ou declaração de invalidade.",
+  "p": "Soluções de tudo ou nada (renúncia, emenda prévia, invalidade).",
+  "d": []
+ },
+ "2026 - DPE-MT - Defensor Público|85": {
+  "c": "O juiz deve examinar a compatibilidade da norma com a Convenção Americana e afastar sua aplicação em caso de incompatibilidade, independentemente de declaração de inconstitucionalidade (controle de convencionalidade difuso). Não é exclusivo da Corte IDH e não depende de condenação prévia do Brasil ou de status constitucional do tratado.",
+  "p": "Restringir o controle de convencionalidade a status do tratado, a condenação prévia ou à Corte.",
+  "d": [
+   "CADH|art. 2º"
+  ]
+ },
+ "2026 - DPE-MT - Defensor Público|90": {
+  "c": "A federalização é hipótese constitucional excepcional de deslocamento da competência para a Justiça Federal, suscitada pelo PGR perante o STJ, em grave violação de direitos humanos (CF, art. 109, V-A e §5º). Não é automática, não pode ser decidida por juiz de primeira instância e não exige esgotamento absoluto dos meios internos nem repercussão social como requisito suficiente.",
+  "p": "Fazer parecer que a gravidade do crime basta ou que o juiz de primeiro grau decide.",
+  "d": [
+   "CF|art. 109, V-A e §5º"
+  ]
+ }
+}

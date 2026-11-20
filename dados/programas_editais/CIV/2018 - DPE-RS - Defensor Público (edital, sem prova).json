@@ -1,0 +1,492 @@
+{
+ "pasta": "2018 - DPE-RS - Defensor Público (edital, sem prova)",
+ "banca": "FCC",
+ "disciplina": "CIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 11622,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito Civil.",
+      "Código Civil e Lei de Introdução às Normas do Direito Brasileiro.",
+      "Norma jurídica: vigência, início e cessação de sua obrigatoriedade.",
+      "Interpretação e integração da norma jurídica.",
+      "Fontes do direito.",
+      "Espécies normativas do sistema jurídico: valores, princípios, regras e postulados normativos aplicativos.",
+      "Conceitos, características e aspectos práticos das normas jurídicas.",
+      "Resolução de colisões e conflitos entre princípios e regras.",
+      "Visões acerca do fenômeno jurídico.",
+      "Direito Natural e Direito Positivo.",
+      "Positivismo Jurídico.",
+      "Pensamento Sistemático.",
+      "Culturalismo Jurídico.",
+      "Conexão do Direito com outros sistemas normativos e ramos científicos: moral, religião, regras de trato social, filosofia, sociologia e economia.",
+      "Direito e Justiça.",
+      "Direito Público e Direito Privado.",
+      "Constitucionalização do Direito Privado.",
+      "Eficácia vertical e horizontal dos direitos fundamentais.",
+      "Codificação.",
+      "Formação histórica do Direito Privado e do Sistema Jurídico."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Peculiaridades históricas e funcionais do processo de codificação do Código Civil de 2002 e diferenças com o paradigma do Código Civil de 1916.",
+      "Vetores estruturantes do Código Civil de 2002: socialidade, eticidade, sistematicidade e operabilidade.",
+      "Estruturação em Parte Geral e Parte Especial.",
+      "Técnica legislativa: normas fechadas, cláusulas gerais e conceitos jurídicos indeterminados.",
+      "Institutos fundamentais.",
+      "Princípios institucionais e normativos."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Parte Geral.",
+      "Relação Jurídica de Direito Privado: conceito, estrutura, nascimento, modificação e extinção.",
+      "Situação Jurídica: conceito, estrutura, direito objetivo, direito subjetivo, direito potestativo, deveres e sujeições."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Elemento subjetivo da relação jurídica – pessoas naturais: conceitos gerais (ser humano, pessoa e sujeito de direitos), enquadramento jurídico e proteção do nascituro e embrião, personalidade jurídica (aquisição e extinção), registro civil, capacidade (capacidade negocial e capacidade para consentir, capacidade de direito e de exercício, emancipação e formas de suprimento da incapacidade), internação psiquiátrica voluntária, involuntária e compulsória, ausência, formas de individualização da pessoa natural (nome, estado, domicílio e residência) e direitos da personalidade."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Elemento subjetivo da relação jurídica – pessoas jurídicas: conceito, teorias de criação, personificação, início da existência legal, presentação, classificação, espécies de pessoas jurídicas de direito privado, responsabilidade civil, encerramento e desconsideração da personalidade jurídica."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Elemento objetivo da relação jurídica – Bens: conceitos, classificação e patrimônio."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Fatos jurídicos: juridicização, suporte fático abstrato e concreto, planos dos fatos jurídicos, classificação dos fatos jurídicos (fatos jurídicos lato sensu: fato jurídico stricto sensu e ato-fato jurídico; atos jurídicos lato sensu: ato jurídico stricto sensu e negócio jurídico)."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Negócios jurídicos: elementos, classificação, requisitos de existência e validade e interpretação.",
+      "Condição, termo e encargo."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Defeitos do negócio jurídico.",
+      "Teoria das invalidades: diferenças conceituais, causas de nulidade e anulabilidade e disposições especiais.",
+      "Atos ilícitos.",
+      "Abuso do direito.",
+      "Enriquecimento ilícito.",
+      "Causas de exclusão da ilicitude.",
+      "Prescrição, Decadência, Caducidade e institutos afins.",
+      "Provas."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Direito das Obrigações.",
+      "Conceito de relação obrigacional.",
+      "Definição.",
+      "Fontes.",
+      "Classificação.",
+      "Obrigação como processo.",
+      "Estrutura da relação obrigacional.",
+      "Princípios gerais da relação obrigacional.",
+      "Deveres.",
+      "Fontes das obrigações.",
+      "Efeitos das obrigações."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Modalidades das obrigações.",
+      "Obrigação e solidariedade.",
+      "Responsabilidade pré-contratual.",
+      "Pós-eficácia das obrigações.",
+      "Transmissão das obrigações."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Adimplemento e extinção das obrigações.",
+      "Pagamento: natureza jurídica, condições, objeto, prova, modalidades, extinção da obrigação sem pagamento.",
+      "Pagamento em consignação.",
+      "Pagamento com sub-rogação.",
+      "Imputação do pagamento.",
+      "Dação em pagamento.",
+      "Novação.",
+      "Compensação.",
+      "Confusão.",
+      "Remissão das dívidas.",
+      "Impossibilidade de cumprimento sem culpa do devedor.",
+      "Inadimplemento das obrigações: disposições gerais, espécies, efeitos, mora, violação positiva do contrato, perdas e danos, juros, correção monetária, cláusula penal, arras ou sinal.",
+      "Morte.",
+      "Incapacidade superveniente.",
+      "Prisão civil."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Contratos.",
+      "Teoria geral dos contratos.",
+      "Função social dos contratos.",
+      "Princípios gerais dos contratos.",
+      "Classificação dos contratos.",
+      "Formação dos contratos.",
+      "Fases.",
+      "Extinção dos contratos.",
+      "Distrato.",
+      "Cláusula resolutiva.",
+      "Exceção do contrato não cumprido.",
+      "Resolução por onerosidade excessiva.",
+      "Revisão dos contratos: vícios congênitos e supervenientes, aplicação sistemática do Código Civil com o Código de Defesa do Consumidor e teorias (excessiva onerosidade, lesão, quebra da base objetiva e imprevisibilidade).",
+      "Vícios redibitórios.",
+      "Evicção.",
+      "Contratos aleatórios.",
+      "Contrato preliminar.",
+      "Contratos em espécie.",
+      "Espécies de atos unilaterais.",
+      "Promessa de recompensa.",
+      "Gestão de negócios.",
+      "Pagamento indevido.",
+      "Enriquecimento sem causa."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Responsabilidade Civil.",
+      "Conceito.",
+      "Pressupostos.",
+      "Fundamentos.",
+      "Efeitos.",
+      "Obrigação de indenizar.",
+      "Fontes geradoras do dever de indenizar.",
+      "Sistemas de responsabilidade civil.",
+      "Teorias que fundamentam o dever de indenizar.",
+      "Teorias do risco.",
+      "Espécies de responsabilidade civil.",
+      "Causas excludentes da responsabilidade civil.",
+      "Indenização.",
+      "Dano material, moral e estético.",
+      "Dano à pessoa.",
+      "Danos sociais.",
+      "Aspectos materiais e processuais.",
+      "Dano moral coletivo."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Direito das Coisas.",
+      "Teoria geral dos direitos reais.",
+      "Conceituação e taxinomia dos direitos reais.",
+      "A constitucionalização dos direitos reais.",
+      "Sequela.",
+      "Preferência.",
+      "Distinção entre direitos reais, direitos obrigacionais e demais direitos patrimoniais.",
+      "Classificação e enumeração dos direitos reais."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Posse.",
+      "Conceito.",
+      "Natureza.",
+      "Classificação.",
+      "Efeitos.",
+      "Distinção entre detenção, posse e propriedade.",
+      "Servidores da posse.",
+      "Aquisição, perda e classificação da posse.",
+      "Efeitos da posse.",
+      "Composse.",
+      "Direito aos interditos possessórios.",
+      "Direito aos frutos e benfeitorias, indenização e retenção."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Propriedade.",
+      "Conceito.",
+      "Elementos constitutivos.",
+      "Classificação.",
+      "Restrições.",
+      "Histórico da propriedade.",
+      "Função social e ambiental da propriedade.",
+      "Sujeitos e objeto do direito de propriedade.",
+      "Modalidades de propriedades.",
+      "Propriedade perpétua e resolúvel.",
+      "Propriedade fiduciária.",
+      "Alienação fiduciária em garantia.",
+      "Propriedade mobiliária e imobiliária.",
+      "Limitações ao direito de propriedade.",
+      "Aquisição da propriedade imóvel e móvel.",
+      "Registro imobiliário.",
+      "Usucapião.",
+      "Espécies.",
+      "Perda da propriedade.",
+      "Direito de vizinhança.",
+      "Condomínio em geral.",
+      "Condomínio de lotes.",
+      "Condomínio edilício.",
+      "Lei nº 4.591/64."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Direito de superfície.",
+      "Servidões.",
+      "Usufruto.",
+      "Uso.",
+      "Habitação.",
+      "Direito do promitente comprador.",
+      "A concessão de uso especial para fins de moradia.",
+      "A concessão de direito real de uso."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Penhor.",
+      "Hipoteca.",
+      "Anticrese.",
+      "Da laje."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Registros públicos: Lei nº 6.015/73.",
+      "Parcelamento do Solo Urbano: Decreto-lei nº 58/37 e Lei nº 6.766/77.",
+      "Lei nº 10.257/01.",
+      "Lei 11.977/09.",
+      "Lei nº 13.465/17."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Direito de Família.",
+      "Entidades familiares: origem, conceitos e a família na sociedade brasileira em perspectiva histórica.",
+      "Relações familiares plurais: fundamentos da diversidade.",
+      "Princípios.",
+      "Normas constitucionais aplicáveis às relações familiares."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Casamento: conceito, natureza, características, disposições gerais, capacidade, impedimentos, causas suspensivas, processo de habilitação, celebração, provas, invalidade, causas de anulação e nulidade, eficácia, efeitos do casamento, direitos e obrigações dos cônjuges.",
+      "Dissolução da sociedade e do vínculo conjugal.",
+      "Separação e divórcio.",
+      "Lei nº 6.515/77."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Proteção da pessoa dos filhos.",
+      "Alienação parental: Lei nº 12.318/10.",
+      "Relações de parentesco.",
+      "Filiação: biológica, socioafetiva, demais espécies e princípio da afetividade.",
+      "Reconhecimento dos filhos.",
+      "Estado de filiação e origem genética.",
+      "Investigação de paternidade.",
+      "Adoção.",
+      "Poder familiar.",
+      "Aplicação sistemática com o Estatuto da Criança e do Adolescente.",
+      "Princípio da paternidade responsável."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Direito Patrimonial.",
+      "Regimes de bens entre os cônjuges.",
+      "Usufruto e administração dos bens de filhos menores."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Alimentos.",
+      "Características do direito e da obrigação alimentar.",
+      "Alimentos gravídicos.",
+      "Bem de família: conceito, formalidades necessárias e impenhorabilidade."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Direitos sexuais e reprodutivos.",
+      "Reprodução medicamente assistida.",
+      "Planejamento familiar.",
+      "União de pessoas do mesmo sexo ou direito homoafetivo.",
+      "Provimento 13/2013 CGJ e Resolução 175 do CNJ."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "União estável: aspectos constitucionais e normas infraconstitucionais, características, estado, impedimentos, direitos e deveres, meação, sucessão, teoria da desconsideração na partilha e Concubinato.",
+      "Lei nº 9.278/96."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Tutela e curatela e tomada de decisão apoiada.",
+      "Lei nº 13.146/15."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Direito das Sucessões.",
+      "Conceito e conteúdo.",
+      "Sucessão a título universal e sucessão a título singular.",
+      "Formas de suceder e abertura da sucessão.",
+      "Administração da herança.",
+      "Vocação hereditária.",
+      "Transmissão da herança.",
+      "Aceitação e renúncia.",
+      "Cessão da herança.",
+      "Exclusão da sucessão.",
+      "Indignidade.",
+      "Herança jacente.",
+      "Conceito e natureza jurídica.",
+      "Vacância.",
+      "Arrecadação dos bens vagos.",
+      "Petição de herança."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Sucessão legítima.",
+      "Ordem da vocação hereditária.",
+      "Herdeiros necessários.",
+      "Direito de representação."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Sucessão testamentária.",
+      "Liberdade de testar.",
+      "Limitações.",
+      "Capacidade testamentária.",
+      "Testamento e codicilo.",
+      "Formas ordinárias e especiais de testamento.",
+      "Legados.",
+      "Direito de acrescer entre herdeiros e legatários.",
+      "Capacidade para adquirir por testamento.",
+      "Herança necessária.",
+      "Redução das disposições testamentárias.",
+      "Deserdação.",
+      "Substituições.",
+      "Execução do testamento.",
+      "Revogação do testamento.",
+      "Rompimento do testamento.",
+      "Testamenteiro."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Inventário e partilha.",
+      "Inventário judicial e extrajudicial.",
+      "Inventariante.",
+      "Colação.",
+      "Pagamento das dívidas.",
+      "Partilha.",
+      "Arrolamento.",
+      "Quinhões hereditários.",
+      "Sonegados."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Direito Empresarial.",
+      "Conceito e conteúdo.",
+      "Da empresa e do empresário.",
+      "Ato empresarial.",
+      "Da sociedade empresarial.",
+      "Empresa Individual de responsabilidade limitada.",
+      "Sociedade não personificada.",
+      "Sociedade personificada.",
+      "Sociedade simples.",
+      "Sociedade em nome coletivo.",
+      "Sociedade em comandita simples.",
+      "Sociedade limitada.",
+      "Sociedade cooperativa.",
+      "Sociedades coligadas.",
+      "Registro das sociedades.",
+      "Transformação, incorporação, fusão e liquidação.",
+      "Do estabelecimento.",
+      "Nome empresarial.",
+      "Dos prepostos."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Dos títulos de crédito: Disposições gerais, títulos ao portador, títulos à ordem e títulos nominativos.",
+      "Títulos em espécie: letra de câmbio, nota promissória, duplicata de compra e venda mercantil e de prestação de serviços, cheque.",
+      "Arrendamento mercantil: evolução histórica, conceito, elementos do contrato, obrigações dos sujeitos, modalidades, revisão e cláusulas abusivas.",
+      "Da alienação fiduciária em garantia."
+     ]
+    },
+    {
+     "item": "35",
+     "frases": [
+      "Da falência e da concordata: Lei Federal nº 11.101/05.",
+      "Recuperação judicial e falência.",
+      "Disposições comuns.",
+      "As obrigações contratuais na recuperação judicial e na falência.",
+      "Administrador judicial.",
+      "Comitê de credores.",
+      "Assembleia-geral de credores.",
+      "Plano e procedimento de recuperação judicial.",
+      "Convolação da recuperação judicial em falência.",
+      "Disposições gerais.",
+      "Procedimento de decretação.",
+      "Direitos e deveres do falido.",
+      "Habilitação e classificação dos créditos.",
+      "Atos anteriores à falência, ineficácia e revogação.",
+      "Arrecadação e realização do ativo.",
+      "Pagamento dos credores.",
+      "Encerramento da falência e extinção das obrigações do falido.",
+      "Recuperação extrajudicial.",
+      "O plano de recuperação.",
+      "Credores sujeitos ao plano.",
+      "A homologação judicial, requisitos e procedimento."
+     ]
+    }
+   ]
+  }
+ ]
+}

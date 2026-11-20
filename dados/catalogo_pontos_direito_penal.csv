@@ -1,0 +1,54 @@
+assunto;codigo;texto;descricao
+PE01;PE01.01;Conceito, fontes, objetivos, escolas penais e evolução histórica;Conceito e fontes do Direito Penal, poder punitivo, escolas penais, história da criminalização no Brasil.
+PE01;PE01.02;Princípios penais;Legalidade, intervenção mínima, fragmentariedade, insignificância, ofensividade, adequação social, humanidade, culpabilidade, individualização.
+PE01;PE01.03;Constituição, Estado Democrático de Direito e Direitos Humanos;CF art. 5º (incisos penais), garantismo, Direito Penal e Direitos Humanos.
+PE02;PE02.01;Escolas criminológicas e modernas tendências;Escola clássica, positivismo, Chicago, labelling approach, criminologia crítica, abolicionismo, minimalismo.
+PE02;PE02.02;Sistema penal, controle social e processo de criminalização;Controle social formal e informal, criminalização primária e secundária, seletividade, polícia e mídia.
+PE02;PE02.03;Vitimologia e vitimização;Vitimização primária, secundária e terciária.
+PE02;PE02.04;Política criminal e penitenciária, encarceramento e prisonização;Dados do encarceramento, prisonização, relações de poder na prisão.
+PE03;PE03.01;Lei penal no tempo;CF art. 5º, XL; CP arts. 2º e 3º; abolitio criminis, novatio legis, crime permanente e continuado (Súmula 711 do STF).
+PE03;PE03.02;Tempo e lugar do crime; lei penal no espaço;CP art. 4º (atividade), art. 6º (ubiquidade), arts. 5º e 7º (territorialidade e extraterritorialidade).
+PE03;PE03.03;Interpretação da lei penal, analogia e conflito aparente de normas;Espécies de interpretação, analogia in malam partem, especialidade, subsidiariedade, consunção.
+PE04;PE04.01;Teoria do delito: evolução, elementos do crime e bem jurídico;Conceito analítico, causalismo, finalismo, funcionalismo, tipicidade conglobante, bem jurídico-penal.
+PE04;PE04.02;Conduta, resultado, nexo causal e imputação objetiva;CP art. 13 (causalidade, causa superveniente, omissão imprópria); imputação objetiva.
+PE04;PE04.03;Dolo e culpa;CP art. 18; dolo direto e eventual, culpa consciente e inconsciente, preterdolo.
+PE04;PE04.04;Iter criminis, consumação e tentativa;CP art. 14; atos preparatórios e executórios.
+PE04;PE04.05;Desistência voluntária e arrependimento eficaz;CP art. 15.
+PE05;PE05.01;Ilicitude: conceito e injusto penal;Ilicitude formal e material, injusto penal, Direito Penal e moral.
+PE05;PE05.02;Excludentes da ilicitude;CP arts. 23 a 25: estado de necessidade, legítima defesa, estrito cumprimento do dever legal, exercício regular de direito, excesso.
+PE06;PE06.01;Culpabilidade: conceito, estrutura e vulnerabilidade;Teorias da culpabilidade, coculpabilidade, culpabilidade por vulnerabilidade, Direito Penal do fato e do autor.
+PE06;PE06.02;Imputabilidade e medida de segurança;CP arts. 26 a 28 e 96 a 99; menoridade; embriaguez; Lei 10.216/2001.
+PE06;PE06.03;Excludentes de culpabilidade e inexigibilidade de conduta diversa;CP art. 22 (coação moral irresistível e obediência hierárquica), inexigibilidade.
+PE06;PE06.04;Erro de tipo e erro de proibição;CP arts. 20 e 21; descriminantes putativas, erro sobre a pessoa.
+PE07;PE07.01;Arrependimento posterior;CP art. 16.
+PE07;PE07.02;Crime impossível;CP art. 17.
+PE07;PE07.03;Concurso de pessoas;CP arts. 29 a 31.
+PE07;PE07.04;Concurso de crimes;CP arts. 69 a 71 (material, formal e continuado).
+PE08;PE08.01;Teorias e finalidades da pena;Teorias absolutas, relativas e mistas; agnosticismo; evolução histórica da pena.
+PE08;PE08.02;Espécies de pena, regimes de cumprimento e progressão;CP arts. 32 a 42; LEP art. 112.
+PE08;PE08.03;Dosimetria: sistema trifásico e circunstâncias;CP arts. 59, 61 a 68.
+PE08;PE08.04;Reincidência e antecedentes;CP arts. 63 e 64; Súmula 444 do STJ.
+PE08;PE08.05;Penas restritivas de direitos e multa;CP arts. 43 a 52 (requisitos da substituição).
+PE08;PE08.06;Sursis, livramento condicional e reabilitação;CP arts. 77 a 95.
+PE09;PE09.01;Causas de extinção da punibilidade;CP art. 107 (morte, anistia, graça, indulto, abolitio, decadência, perempção, renúncia, perdão).
+PE09;PE09.02;Prescrição;CP arts. 109 a 119.
+PE10;PE10.01;Homicídio, feminicídio e crimes contra a vida;CP arts. 121 a 128.
+PE10;PE10.02;Lesão corporal e demais crimes contra a pessoa;CP arts. 129 a 154.
+PE11;PE11.01;Furto e roubo;CP arts. 155 a 157 (inclui abigeato e latrocínio).
+PE11;PE11.02;Extorsão, estelionato, receptação e demais crimes patrimoniais;CP arts. 158 a 183.
+PE12;PE12.01;Estupro e estupro de vulnerável;CP arts. 213 e 217-A.
+PE12;PE12.02;Importunação, assédio e demais crimes sexuais;CP arts. 215 a 218-C.
+PE13;PE13.01;Crimes contra a administração pública;CP arts. 312 a 359.
+PE13;PE13.02;Crimes contra o Estado Democrático de Direito;CP arts. 359-I a 359-T (Lei 14.197/2021).
+PE13;PE13.03;Outros crimes do Código Penal;Incolumidade pública e paz pública (incêndio, associação criminosa) e demais títulos fora da lista do edital.
+PE14;PE14.01;Lei de Drogas;Lei 11.343/2006.
+PE14;PE14.02;Violência doméstica (Lei Maria da Penha);Lei 11.340/2006.
+PE14;PE14.03;Crimes hediondos;Lei 8.072/1990.
+PE14;PE14.04;Estatuto do Desarmamento;Lei 10.826/2003.
+PE14;PE14.05;Organização criminosa;Lei 12.850/2013.
+PE14;PE14.06;Crimes de trânsito;Lei 9.503/1997.
+PE14;PE14.07;Lei de Tortura;Lei 9.455/1997.
+PE14;PE14.08;Crimes ambientais;Lei 9.605/1998.
+PE14;PE14.09;Crimes de preconceito de raça ou de cor;Lei 7.716/1989.
+PE14;PE14.10;Abuso de autoridade;Lei 13.869/2019.
+PE14;PE14.11;Contravenções penais;Decreto-Lei 3.688/1941.

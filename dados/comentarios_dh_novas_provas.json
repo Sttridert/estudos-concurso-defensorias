@@ -1,0 +1,93 @@
+{
+  "2018 - DPE-AM - Analista Jurídico|45": {
+    "c": "A regra geral de interpretação dos tratados (Convenção de Viena sobre o Direito dos Tratados, art. 31) manda interpretar de boa-fé, segundo o sentido comum dos termos no seu contexto e à luz do objeto e da finalidade do tratado. Vale também para tratados de direitos humanos. As outras alternativas inventam critérios: sentido técnico dado por comissões, harmonização diacrônica com a Declaração Universal, grau de efetividade concreta ou o padrão de incorporação nos direitos internos.",
+    "p": "Trocar o critério da boa-fé e do objeto e finalidade por critérios que parecem sofisticados mas não estão na Convenção (literalidade técnica, efetividade social).",
+    "d": ["Convenção de Viena sobre o Direito dos Tratados|art. 31"]
+  },
+  "2018 - DPE-AM - Analista Jurídico|46": {
+    "c": "Controle de convencionalidade é a compatibilização das normas internas com os tratados de direitos humanos ratificados e em vigor, usados como parâmetro de validade. As erradas descrevem outra coisa: adequar tratados antigos a novos (A), uma avaliação periódica da ONU (C), uma filtragem de doutrina e jurisprudência (D) ou o cumprimento de preceito fundamental só de tratados com status constitucional (E).",
+    "p": "Limitar o controle aos tratados com status constitucional, ou confundir com o monitoramento periódico feito por comitês da ONU.",
+    "d": []
+  },
+  "2018 - DPE-AM - Analista Jurídico|47": {
+    "c": "O incidente de deslocamento de competência (federalização) está na CF, art. 109, V-A e §5º: o Procurador-Geral da República, em qualquer fase do inquérito ou do processo, pode suscitá-lo perante o Superior Tribunal de Justiça, para assegurar o cumprimento de obrigações decorrentes de tratados de direitos humanos de que o Brasil seja parte. Pede-se grave violação de direitos humanos; o caso passa para a Justiça Federal de primeiro grau. As erradas trocam o legitimado (juiz de ofício, Procurador-Geral de Justiça, Defensor Público-Geral, CNJ), o órgão que decide, ou exigem concordância do juiz estadual.",
+    "p": "Legitimado e tribunal: quem suscita é só o PGR e quem decide é o STJ. Outra armadilha é dizer que a competência sobe para os tribunais (TRF ou STJ), quando na verdade o caso desce para a Justiça Federal de primeiro grau.",
+    "d": ["CF|art. 109, V-A e §5º"]
+  },
+  "2018 - DPE-AM - Analista Jurídico|48": {
+    "c": "A Convenção contra a Tortura (art. 15) veda usar como prova em qualquer processo a declaração obtida sob tortura, salvo contra o torturador, para provar que a declaração foi dada. As erradas alteram o texto: o não retorno (art. 3º) vale quando há risco de a pessoa ser torturada no outro Estado, e não por ela ter cometido tortura (A); nenhuma circunstância excepcional justifica a tortura, sem exceção para segurança nacional (art. 2º, 2) (B); a definição (art. 1º) exige dor ou sofrimento intencional, infligido por agente público ou com sua anuência, e não menciona culpa nem grupo étnico (D); o registro audiovisual de interrogatórios não consta da Convenção (E).",
+    "p": "Acrescentar exceções que a Convenção não admite (segurança nacional), ou trocar a definição (culposa, grupo étnico) e inventar obrigações (registro audiovisual).",
+    "d": ["Convenção contra a Tortura (ONU)|arts. 1º, 2º, 3º e 15"]
+  },
+  "2018 - DPE-AM - Analista Jurídico|49": {
+    "c": "No sistema interamericano (OEA), a Comissão promove a observância e a defesa dos direitos humanos e serve de órgão consultivo da OEA nessa matéria (CADH, art. 41); a Corte tem funções contenciosa e consultiva e pode adotar medidas provisórias (CADH, art. 63). As erradas: o sistema é interamericano, e não global nem 'latino-americano'; a Corte não é revisora de decisões da Comissão por pedido das partes; a Corte tem juízes, e não comissários, e não recomenda expulsão de Estado membro; a Comissão tem sete membros, eleitos pela Assembleia Geral da OEA, e não aplica sanções econômicas; a sede da Corte é a Costa Rica e a da Comissão é Washington (confirmar).",
+    "p": "Misturar sistema global com interamericano e atribuir poderes que nenhum dos dois órgãos tem (sanções econômicas, expulsão, instância revisora). A alternativa certa fala em 'medidas cautelares' da Corte: tecnicamente são medidas provisórias; as cautelares são da Comissão.",
+    "d": ["CADH|arts. 34, 41, 52 e 63"],
+    "pend": 1
+  },
+  "2019 - DPE-AM - Analista Jurídico|49": {
+    "c": "Na definição de tortura (Convenção contra a Tortura, art. 1º, 1), ficam de fora as dores ou sofrimentos que sejam consequência unicamente de sanções legítimas, ou inerentes ou decorrentes delas. As outras são tortura ou, quando não se encaixam, não estão na exceção: obter informações por razões de segurança (B) e conflito armado ou emergência (C) não afastam a proibição; condições de encarceramento graves podem configurar tratamento cruel ou desumano (D); violência estrutural, por si só, não é a definição do art. 1º (E).",
+    "p": "Acreditar que fins nobres (segurança, urgência) ou contextos de conflito afastam o conceito de tortura. A única exceção do texto é a sanção legítima.",
+    "d": ["Convenção contra a Tortura (ONU)|art. 1º, 1 e art. 2º, 2"]
+  },
+  "2019 - DPE-AM - Analista Jurídico|50": {
+    "c": "A sentença que mandou o Brasil tipificar o desaparecimento forçado conforme os parâmetros interamericanos é a do caso Gomes Lund e outros ('Guerrilha do Araguaia') vs. Brasil. Os demais casos tratam de outros temas: Fazenda Brasil Verde (trabalho escravo), Garibaldi (assassinato de trabalhador sem-terra e falha na investigação) e Favela Nova Brasília (violência policial e violência sexual). Amarildo é caso interno, sem sentença da Corte IDH. Atenção ao ano: o enunciado fala em 2014, mas a sentença de Gomes Lund é de 2010 (confirmar), o que não muda o gabarito.",
+    "p": "Confundir o caso com os outros condenados do Brasil. Guardar o tema de cada um: Gomes Lund = desaparecimento forçado e Lei de Anistia.",
+    "d": ["Corte IDH|Gomes Lund e outros vs. Brasil (2010)"],
+    "pend": 1
+  },
+  "2019 - DPE-AM - Analista Jurídico|51": {
+    "c": "O Estatuto de Roma (art. 5º) dá ao Tribunal Penal Internacional competência para quatro categorias: genocídio, crimes contra a humanidade, crimes de guerra e crime de agressão. A única alternativa que reúne categorias do rol é a B (crimes de guerra e genocídio). Tráfico de drogas e crimes financeiros, bioterrorismo, armas de destruição em massa e 'holocausto' como crime autônomo não estão no rol; o apartheid é espécie de crime contra a humanidade.",
+    "p": "Incluir crimes graves que o Estatuto não prevê (tráfico, crimes financeiros, terrorismo). Lembrar do rol fechado: genocídio, contra a humanidade, de guerra e agressão.",
+    "d": ["Estatuto de Roma|art. 5º"]
+  },
+  "2019 - DPE-AM - Analista Jurídico|52": {
+    "c": "A Convenção sobre Diversidade Biológica (art. 2º) define 'utilização sustentável' como o uso de componentes da diversidade biológica de modo e em ritmo que não levem ao seu declínio no longo prazo, mantendo seu potencial de atender às necessidades das gerações presentes e futuras. 'Conservação in situ' é outro conceito: manutenção de ecossistemas e habitats naturais e de populações viáveis de espécies no seu meio natural. Os demais termos não são definições da Convenção.",
+    "p": "Confundir utilização sustentável com conservação in situ, ambas muito citadas na Convenção.",
+    "d": ["Convenção sobre Diversidade Biológica|art. 2º"]
+  },
+  "2019 - DPE-AM - Analista Jurídico|53": {
+    "c": "As 100 Regras de Brasília tratam das comunidades indígenas na seção sobre acesso à justiça de pessoas em condição de vulnerabilidade. A alternativa certa reproduz a ideia de que, quando o conflito é resolvido fora da comunidade pela justiça estatal, convém abordar a peritagem cultural e o direito de expressar-se no próprio idioma. As erradas contrariam a lógica das Regras: avaliar a vulnerabilidade pelo 'grau de integração' (A), dar imunidade total à decisão da justiça indígena (B), regras de prevenção de competência entre Estados (C) e tutela pelo órgão indigenista (E). Confirmar a numeração exata das regras no texto oficial.",
+    "p": "Alternativas com linguagem de tutela e integração, ultrapassada, ou com regras processuais que as Regras não trazem. A certa fala em peritagem cultural e idioma.",
+    "d": ["100 Regras de Brasília|seção sobre comunidades indígenas (confirmar numeração)"],
+    "pend": 1
+  },
+  "2019 - DPE-AM - Analista Jurídico|54": {
+    "c": "Os remédios constitucionais da CF, art. 5º, são habeas corpus, habeas data, mandado de segurança (individual e coletivo), mandado de injunção e ação popular. A alternativa A reúne três deles. Salvo-conduto é medida do habeas corpus preventivo, reclamação e ação direta de inconstitucionalidade são ações de controle, e agravo mandamental e recurso de revista não são remédios constitucionais.",
+    "p": "Incluir ações que protegem direitos mas não são remédios constitucionais (reclamação, ação de inconstitucionalidade).",
+    "d": ["CF|art. 5º, LXVIII a LXXIII"]
+  },
+  "2019 - DPE-AM - Analista Jurídico|55": {
+    "c": "A Comissão Nacional da Verdade (Lei 12.528/2011) teve como objetivo examinar e esclarecer as graves violações de direitos humanos praticadas entre 18/9/1946 e 5/10/1988, ou seja, de setembro de 1946 a outubro de 1988 (art. 1º). As demais afirmações extrapolam: investigar também grupos armados (B), comandar as comissões estaduais, municipais e setoriais (C), listar indenizados em seu relatório (D) e ter sido sucedida por uma comissão especial (E). Confirmar cada uma na lei e no relatório final.",
+    "p": "O período (1946 a 1988) é o detalhe que mais cai. As outras alternativas atribuem à Comissão funções que ela não teve.",
+    "d": ["Lei 12.528/2011|arts. 1º e 3º"],
+    "pend": 1
+  },
+  "2022 - DPE-AM - Analista Jurídico (2)|51": {
+    "c": "Quando duas normas internacionais de direitos humanos colidem, não se usam os critérios clássicos de antinomia (posterior, especial, hierarquia). Aplica-se o princípio pro persona (pro homine): vale a norma mais favorável à vítima, isto é, ao indivíduo. Esse princípio está ligado às regras de interpretação da CADH (art. 29) e do PIDCP (art. 5º).",
+    "p": "Escolher os critérios de antinomia do direito comum (posterior, específica, de maior hierarquia) ou inverter o princípio ('mais protetiva da sociedade').",
+    "d": ["CADH|art. 29"]
+  },
+  "2022 - DPE-AM - Analista Jurídico (2)|52": {
+    "c": "O Segundo Protocolo Facultativo ao PIDCP, que visa à abolição da pena de morte, foi adotado pela Assembleia Geral da ONU em 1989. A pergunta atribui a adoção à OEA, o que é um erro do enunciado: a OEA adotou outro instrumento, o Protocolo à Convenção Americana sobre a abolição da pena de morte (1990). O gabarito é D porque é a única alternativa sobre o tema do Protocolo ao PIDCP. As demais tratam de criação do Comitê de Direitos Humanos, que está no PIDCP e não em um protocolo de abolição (A), de crianças em conflitos armados (protocolo à Convenção sobre os Direitos da Criança), do TPI e da Comissão Interamericana.",
+    "p": "O enunciado mistura as organizações (ONU e OEA). Guarde: protocolo ao PIDCP (ONU, 1989) e protocolo à CADH (OEA, 1990) tratam do mesmo tema. Conferir se a banca anulou ou alterou a questão.",
+    "d": ["PIDCP|Segundo Protocolo Facultativo (1989)", "CADH|Protocolo sobre a abolição da pena de morte (1990)"],
+    "pend": 1
+  },
+  "2022 - DPE-AM - Analista Jurídico (2)|53": {
+    "c": "A Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher ('Convenção de Belém do Pará') foi adotada em 9 de junho de 1994, em Belém, durante a Assembleia Geral da OEA realizada no Brasil. As outras datam de outros anos e foram adotadas em outros lugares: Declaração Americana (Bogotá, 1948), Convenção da ONU sobre pessoas com deficiência (2006), Convenção contra a Tortura (ONU, 1984) e Convenção sobre desaparecimento forçado (ONU, 2006).",
+    "p": "O nome do local ('Belém do Pará') é a pista. Evite trocar com a Convenção da ONU sobre Mulheres (CEDAW, 1979).",
+    "d": ["Convenção de Belém do Pará|adotada em 1994"]
+  },
+  "2022 - DPE-AM - Analista Jurídico (2)|54": {
+    "c": "A Comissão Interamericana mantém relatorias temáticas, entre elas a Relatoria Especial para a Liberdade de Expressão (criada em 1997). Quilombolas, refugiados, sem-terra e tortura não são nomes de relatorias; há relatorias sobre povos indígenas, mulheres, crianças, migrantes, defensores de direitos humanos, afrodescendentes e pessoas privadas de liberdade, entre outras (confirmar a lista atual no site da CIDH). O edital de 2026 cita expressamente a relatoria para a liberdade de expressão.",
+    "p": "Escolher temas próximos de relatorias que existem (privados de liberdade, migrantes), mas com o nome errado.",
+    "d": ["CIDH|Relatoria Especial para a Liberdade de Expressão"],
+    "pend": 1
+  },
+  "2022 - DPE-AM - Analista Jurídico (2)|55": {
+    "c": "O STF decidiu que os tratados de direitos humanos aprovados sem o rito do art. 5º, §3º da CF (dois turnos, três quintos de cada Casa) têm status supralegal: acima da lei e abaixo da Constituição. Isso vale para a Convenção Americana, e foi a base para afastar a prisão civil do depositário infiel (Súmula Vinculante 25). Só os tratados aprovados com o rito do §3º têm status de emenda constitucional.",
+    "p": "Marcar 'constitucional': só vale para os aprovados pelo rito do art. 5º, §3º (por exemplo, a Convenção da ONU sobre pessoas com deficiência).",
+    "d": ["CF|art. 5º, §§2º e 3º", "STF|RE 466.343", "STF|Súmula Vinculante 25"]
+  }
+}

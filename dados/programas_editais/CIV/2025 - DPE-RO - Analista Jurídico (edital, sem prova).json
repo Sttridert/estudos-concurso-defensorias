@@ -1,0 +1,529 @@
+{
+ "pasta": "2025 - DPE-RO - Analista Jurídico (edital, sem prova)",
+ "banca": "FGV",
+ "disciplina": "CIV",
+ "modo_leitura": "sem layout (duas colunas?)",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 48447,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Modelagem de Processos de Negócio:"
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Conceitos básicos."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Identificação e delimitação de processos de negócio."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Técnicas de mapeamento de processos (modelos AS-IS)."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Técnicas de análise e simulação de processos."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Construção e mensuração de indicadores de processos."
+     ]
+    },
+    {
+     "item": "1.6",
+     "frases": [
+      "Técnicas de modelagem de processos (modelos TO-BE)."
+     ]
+    },
+    {
+     "item": "1.7",
+     "frases": [
+      "Modelagem de processos BPMN: notação, artefatos e atividades."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Orientação a objetos."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Conceitos fundamentais, análise, modelagem e padrões de projeto."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Análise e projeto orientados a objetos"
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Polimorfismo, Herança, Abstração e Encapsulamento."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Gerenciamento do ciclo de vida do software."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Metodologias de desenvolvimento de software."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Metodologias ágeis: Scrum, XP, Kanban e TDD."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Qualidade de software."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Utilização de Folhas de Estilo (CSS)."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Páginas Web responsivas."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Arquitetura."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Arquitetura de aplicações em infraestrutura de containers (Docker e Kubernetes)."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Arquitetura: Arquitetura de aplicações web, modelo MVC, Domain Driven Design (DDD), Arquitetura Hexagonal."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Arquitetura e desenvolvimento em nuvem"
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Soluções de integração entre sistemas."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "API Rest."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Testes de software: Testes unitátios, Testes de Integração, TDD, BDD.",
+      "Frameworks: JUnit 5, Mockito, Selenium, Jest."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Desenvolvimento.",
+      "Desenvolvimento em Linguagens de programação Python (versão 3.9 ou superior), PHP (versão 7 ou superior), Javascript (Versão ECMAScript 2021 ou superior).",
+      "Frameworks Django (versão 4 ou superior), Laravel (versão 9 ou superior), React (versão 18 ou superior)."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Ferramentas de versionamento GIT."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Segurança no desenvolvimento."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Práticas de programação segura e revisão de código."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Controles e testes de segurança para aplicações web."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "Controles e testes de segurança para Web Services."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Melhores Práticas de Codificação Segura OWASP.",
+      "ANALISTA PROGRAMADOR 1 Desenvolvimento de sistemas.",
+      "Desenvolvimento em Linguagens de programação Python (versão 3.9 ou superior), PHP (versão 7 ou superior), Javascript (Versão ECMAScript 2021 ou superior).",
+      "Frameworks Django (versão 4 ou superior), Laravel (versão 9 ou superior), React (versão 18 ou superior).",
+      "Desenvolvimento para dispositivos móveis (Android e iOs).",
+      "2 Arquitetura de software.",
+      "Interoperabilidade de sistemas.",
+      "Arquitetura e linguagem orientada a serviços.",
+      "Web services.",
+      "API.",
+      "Swagger.",
+      "Arquitetura e linguagem orientada a objetos.",
+      "Arquitetura de aplicações para ambiente web.",
+      "Servidor de aplicações.",
+      "Servidor web.",
+      "3 Ambientes Internet, extranet, intranet e portal: finalidades, características físicas e lógicas, aplicações e serviços.",
+      "4 Padrões XML, XSLT, UDDI, REST e JSON.",
+      "5 DevOps.",
+      "6 Ferramenta de Gestão da configuração GIT.",
+      "TESTES: conceitos básicos de testes de aplicações.",
+      "Testes unitários.",
+      "Testes de integração.",
+      "Testes ágeis.",
+      "Teste de usabilidade de software.",
+      "Testes automatizados.",
+      "Tipos de testes.",
+      "Testdriven development (TDD).",
+      "Gestão do ciclo de vida de testes.",
+      "RPA (robotic process automation).",
+      "7 Metodologias Ágeis de Desenvolvimento.",
+      "7.1 Scrum, 7.2 Kanban, 7.3 XP.",
+      "8 Padrões de desenvolvimento e reuso.",
+      "9 Codificação de software (transacionais, analíticos, mobile e API).",
+      "10 Metodologia de Ponto de Função e Story Points.",
+      "11 Engenharia de Requisitos.",
+      "11.1 Classificação de Requisitos.",
+      "11.2 Processo de Engenharia de Requisitos.",
+      "11.3 Técnicas de Elicitação de Requisitos."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Tecnologias e práticas frontend web: HTML, CSS, UX, Ajax, frameworks (VueJS, Angular e React)."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Padrões de frontend."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "SPA e PWA."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Protocolos HTTPS, SSL/TLS."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Blockchain."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Design de software."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Arquitetura hexagonal, microsserviços (orquestração de serviços e API gateway) e containers."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Transações distribuídas."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "User Experience (UX)."
+     ]
+    },
+    {
+     "item": "18.1",
+     "frases": [
+      "Sistemas de gestão de conteúdo."
+     ]
+    },
+    {
+     "item": "18.1.1",
+     "frases": [
+      "Conceitos básicos e aplicações."
+     ]
+    },
+    {
+     "item": "18.1.2",
+     "frases": [
+      "Arquitetura de informação."
+     ]
+    },
+    {
+     "item": "18.1.3",
+     "frases": [
+      "Portais corporativos."
+     ]
+    },
+    {
+     "item": "18.1.4",
+     "frases": [
+      "Conceitos básicos e aplicações."
+     ]
+    },
+    {
+     "item": "18.1.5",
+     "frases": [
+      "Workflow."
+     ]
+    },
+    {
+     "item": "18.1.6",
+     "frases": [
+      "Conceitos de acessibilidade e usabilidade."
+     ]
+    },
+    {
+     "item": "18.1.7",
+     "frases": [
+      "Desenho e planejamento de interação em aplicações web."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Conceitos de Inteligência Artificial, Análise de Dados e Big Data.",
+      "ANALISTA DE REDES E COMUNICAÇÃO DE DADOS Conceituação de Redes: Modelos de referência OSI e TCP/IP, Endereços IP, sub-rede, roteamento, principais protocolos de rede, VLANs, Virtual IPs, NAT, conceitos e criação de redes IPv4 e IPv6; Noções de configurações de redes de acesso (Camada 2): switches, interfaces físicas, transceivers, ARP/RARP, Spanning tree, IEEE 802.1x, RADIUS; Redes wireless (WiFi): padrões IEEE 802.11a/n/ac/ax; Redes WAN: tecnologias MPLS, LAN-to-LAN, roteamento RIP e BGP, SD-WAN, Redes definidas por software (SDN); Ataques de rede e mecanismos de proteção (IDS, IPS, DDoS, WAF, DNSSEC, dentre outros); Noções sobre protocolos para aplicações de áudio e vídeo (videoconferência, telefonia VoIP): SIP, H.323, conceitos e padrões de codecs de áudio e vídeo.",
+      "Meios de transmissão guiados, protocolo ethernet, protocolos de transporte da internet: UDP e TCP, DNS.",
+      "5, Banco de Dados, Conhecimentos de Sistemas Gerenciadores de Banco de Dados (SGBD) relacionais Microsoft SQL Server, Oracle, MySQL e PostgreSQL.",
+      "Instalação e configuração.",
+      "Administração (infraestrutura e aplicação).",
+      "Backup e recuperação.",
+      "Ajuste de desempenho de banco de dados.",
+      "Bancos de dados NoSQL.",
+      "Linguagem SQL e linguagem de programação para banco de dados.",
+      "Ajuste de desempenho de aplicação.",
+      "Ajuste de desempenho de comandos de SQL.",
+      "Tolerância a falhas e continuidade de operação.",
+      "Auditoria de banco de dados.",
+      "Configuração de auditoria de dados.",
+      "Produção de relatórios de auditoria.",
+      "Transações.",
+      "ANALISTA EM ENGENHARIA CIVIL Projeto, planejamento e controle de obras: estudo de viabilidade: técnica, físico-financeira e econômica.",
+      "Código de obras.",
+      "Projetos de obras civis: arquitetônico, fundações, estruturais (concreto, aço e madeira), instalações elétricas e hidrossanitárias, projetos complementares (elevadores, ventilação, exaustão, climatização, prevenção contra incêndio).",
+      "Orçamentação de projetos e obras: Levantamento de quantidades.",
+      "Formação do preço de venda.",
+      "Composição de custos unitários.",
+      "Produção de equipes mecânicas.",
+      "Custos horários e equipamentos.",
+      "Custos diretos e indiretos.",
+      "Despesas indiretas, tributos, lucro e BDI (administração central, custos financeiros, riscos, tributos sobre o preço de vendas, lucro real/presumido).",
+      "Encargos sociais (horista, mensalista).",
+      "Mobilização, desmobilização e administração local.",
+      "Reajustamento de preços.",
+      "Plano de trabalho.",
+      "Sistema de Custos Rodoviários do DNIT (SICRO): metodologia e conceitos, produtividade, equipamentos, insumos e composições.",
+      "Sistema de Custos SINAPI: metodologia, conceitos, insumos, composições, fichas de especificação e cadernos técnicos.",
+      "Análises de propostas e preços de obras de engenharia.",
+      "Lei de Licitações e Contratos Administrativos (Lei Federal nº 14.133/2021 e Decreto nº 10.024/2019): Conceitos e aplicações; tipos de licitação; modalidades de licitação e limites; publicidade; habilitação na licitação; inexigibilidade; dispensa; inexequibilidade e superfaturamento; desclassificação; alienações; Sistema de Registro de Preços; disposições básicas, formalização, alteração e execução dos contratos.",
+      "Controle de obras: histograma de mão de obra, histograma de materiais, diagramas de GANTT, PERT/CPM, NEOPERT, curva S e curva ABC de serviços e de insumos.",
+      "Fiscalização: acompanhamento da aplicação de recursos (medições, cálculos de reajustamento, emissão de fatura etc.), análise e interpretação de documentação técnica (licitações, editais, contratos, aditivos contratuais, cadernos de encargos, projetos, diário de obras etc.).",
+      "Acompanhamento de obras: apropriação de serviços.",
+      "Estruturas: análise de estabilidade, estruturas metálicas, estruturas de madeira, concreto armado e protendido.",
+      "Teoria das estruturas de concreto, de madeira e metálicas (edificações, galpões e coberturas).",
+      "Resistência dos materiais.",
+      "Deformações e análise de tensões; flexão simples; flexão composta; torção; cisalhamento e flambagem; esforços em uma seção (esforço normal, esforço cortante, torção e momento fletor); diagrama de esforços solicitantes; estruturas isostáticas e hiperestáticas.",
+      "Fundações e obras de terra: propriedades e classificação dos solos, movimentos de água no solo, distribuição de pressões no solo, empuxos de terra, aterros sobre solos mole e adensamento, estabilidade de taludes, exploração do subsolo, sondagem, fundações superficiais e profundas (viabilidade e dimensionamento).",
+      "Recursos hídricos, hidráulica, hidrologia e saneamento básico: hidrostática; forças da água sobre superfícies; hidrodinâmica; escoamento em superfície livre (canais) e em condutos forçados; ciclo hidrológico e balanço hídrico; precipitação; escoamento superficial; hidrograma unitário; hidrogramas; infiltração e águas subterrâneas; regularização de vazões; medição de vazões e curva chave; transportes de sedimentos; abastecimento de água; população, consumo e alcance do projeto; captação de água de chuva, de águas superficiais e subterrâneas; adução; reservatório de distribuição; estações elevatórias; padrões de potabilidade e tratamento de água; sistemas de esgotamento sanitário; redes de esgotos, emissários e sifão invertido; padrões de lançamento em corpos d’água; tratamentos de esgotos e águas residuais (ETEs e seus principais reatores de tratamento, níveis de tratamento, lagoas de estabilização, filtros biológicos, UASB, lodos ativados, fossas sépticas, reatores de pós-tratamento de efluentes de fossas sépticas); instalações prediais de esgoto e água; Lei Federal nº 12.305/2010 (Política Nacional de Resíduos Sólidos).",
+      "Materiais de construção e tecnologia das construções (especificações e controle): madeira, materiais cerâmicos e vidros, metais e produtos siderúrgicos, materiais betuminosos, asfaltos e alcatrões, aglomerantes e cimento, agregados, aditivos, tecnologia do concreto e controle tecnológico, ensaios.",
+      "Processos construtivos: preparo do terreno, instalação do canteiro de obras, locação da obra, execução de escavações e fundações, formas, concretagem, estruturas de concreto armado e protendido, estruturas metálicas (edificações, torres, galpões e coberturas), alvenaria, esquadrias, revestimentos, pavimentações, coberturas, impermeabilizações, instalações (elétrica, água fria, quente, drenagem, esgoto e gás), pintura e limpeza da obra.",
+      "ANALISTA EM ENGENHARIA ELÉTRICA Circuitos elétricos.",
+      "Leis de Kirchhoff.",
+      "Teoremas de circuitos.",
+      "Métodos de análise nodal e de malhas.",
+      "Solução de circuitos de primeira e segunda ordem em CC e CA. Sistemas trifásicos equilibrados.",
+      "Potência em sistemas trifásicos equilibrados.",
+      "Sistemas trifásicos desequilibrados.",
+      "Transformadores monofásicos e trifásicos.",
+      "Motores síncronos, motores de indução e motores de corrente contínua.",
+      "Acionamentos de motores.",
+      "Instalações elétricas de baixa tensão (ABNT NBR 5410).",
+      "Aterramento e equipotencialização.",
+      "Planejamento da instalação.",
+      "Projeto de linhas elétricas.",
+      "Dimensionamento de circuitos.",
+      "Proteção contrachoque elétrico, sobrecorrente e sobretensão.",
+      "Harmônicas.",
+      "Manutenção de instalações em BT.",
+      "Luminotécnica.",
+      "Subestações em média tensão.",
+      "Proteção de subestações aéreas e abrigadas.",
+      "Coordenação e seletividade.",
+      "Projeto de transformadores de corrente e de proteção.",
+      "Manutenção de equipamentos.",
+      "Análise de sistemas elétricos de potência.",
+      "Representação de sistemas em pu.",
+      "Componentes simétricas.",
+      "Faltas simétricas e assimétricas.",
+      "Sistemas de Controle e Instrumentação.",
+      "Estrutura básica dos sistemas de controle industrial (PLC, SCADA, DCS).",
+      "Interação entre os sistemas de controle e a instrumentação.",
+      "Comunicação e protocolos industriais (Modbus, Profibus, Ethernet/IP).",
+      "Manutenção e Diagnóstico de Sistemas de Controle e Instrumentação.",
+      "Estratégias de manutenção preventiva e corretiva.",
+      "Ferramentas de diagnóstico e monitoramento em tempo real.",
+      "Técnicas para análise de falhas e mitigação de problemas.",
+      "Aplicações de automação em sistemas de energia elétrica (ex: automação de subestações, controle de máquinas elétricas).",
+      "Tecnologias de monitoramento e diagnóstico remoto.",
+      "Sistema de supervisão e controle (SCADA).",
+      "Proteção de estruturas contra descargas atmosféricas (ABNT NBR 5419).",
+      "Princípios gerais.",
+      "Gerenciamentos de riscos.",
+      "Danos físicos a estruturas e perigos à vida.",
+      "Sistemas elétricos e eletrônicos internos na estrutura.",
+      "Engenharia de manutenção.",
+      "Conceitos básicos de manutenção.",
+      "Manutenção corretiva, preventiva, preditiva e detectiva.",
+      "Indicadores de manutenção.",
+      "Paradas para manutenção.",
+      "Gestão de ativos.",
+      "Fontes de alimentação ininterrupta (UPS).",
+      "Topologias de UPS.",
+      "Tipos de baterias.",
+      "Projeto de banco de baterias.",
+      "Minigeração solar fotovoltaica.",
+      "NBR 16690 – Instalações elétricas de arranjos fotovoltaicos Requisitos de projeto.",
+      "Resolução ANEEL/2012.",
+      "Eficiência Energética.",
+      "Noções da NBR 16819:2020 – Instalações elétricas de baixa tensão – Eficiência energética.",
+      "Correção de fator de potência.",
+      "Sistemas de iluminação.",
+      "Segurança em instalações e serviços em eletricidade (NR 10).",
+      "Prevenção e combate a incêndios.",
+      "Incêndios.",
+      "Proteção e prevenção.",
+      "Física e química do fogo.",
+      "O comportamento do fogo e a integridade estrutural.",
+      "Sistemas de detecção e alarme de incêndios.",
+      "Licitações e Contratos administrativos.",
+      "Lei Federal nº 14.133/2021 e suas alterações e Decreto nº 10.024/2019.",
+      "Conceitos e aplicações.",
+      "Modalidade de licitação, limites, publicidade, convite, tomada de preços, concorrência.",
+      "Habilitação na licitação.",
+      "Tipos de licitação.",
+      "Contratos administrativos.",
+      "Fiscalização e gerenciamento: acompanhamento, coordenação e supervisão de obras.",
+      "Aceitação dos serviços.",
+      "Administração de contratos de execução de projetos e obras.",
+      "Caderno de encargos.",
+      "ANEXO II – REQUISITOS DE ESCOLARIDADE, REMUNERAÇÃO, ATRIBUIÇÕES E CARGA HORÁRIAConforme Lei Nº 703/2013 e suas alterações II.",
+      "I – Requisitos de Escolaridade e remuneração Cargo/Especialidade Localidades Total vagas Requisitos de Escolaridade Técnico Administrativo da 1 Defensoria Pública – Região I Região II Região III Região IV Região V CR CR 2 + CR CR CR Certificado, devidamente registrado, de conclusão de curso de ensino médio ou curso técnico equivalente, correlacionado com a área administrativa, expedido por Região VI CR instituição de ensino reconhecida Região VII CR pelo órgão competente Remuneração R$ 3.567,95* Técnico em Informática – Classe A Região I Região II Região III Região IV Região V Região VI Técnico em Contabilidade – Classe A Técnico em Audiovisual – Classe A Técnico em Artes Gráficas – Classe A CR CR CR CR 2 + CR CR CR 1 + CR Certificado, devidamente registrado, de conclusão de curso de ensino médio técnico em informática ou de curso de ensino médio acrescido de certificado de curso técnico na área R$ 3.567,95* de informática, expedido por instituição de ensino reconhecida pelo órgão competente.",
+      "Certificado, devidamente registrado, de conclusão de curso de ensino médio técnico equivalente em contabilidade ou de curso de nível médio acrescido de certificado de curso técnico na área de R$ 3.567,95* contabilidade, expedido por instituição de ensino reconhecida pelo órgão competente, e registro no Certificado, devidamente registrado, de conclusão de curso de ensino médio técnico na área de produção de áudio e vídeo ou na área de rádio e TV ou de curso de ensino médio acrescido de certificado de curso R$ 3.567,95* técnico na área de produção de áudio e vídeo ou na área de rádio e TV, expedido por instituição de ensino reconhecida pelo órgão competente.",
+      "Certificado, devidamente registrado, de conclusão de curso de ensino médio técnico na área de editoração eletrônica ou de curso de ensino R$ 3.567,95* médio acrescido de certificado de curso técnico na área de editoração eletrônica, expedido por instituição de ensino reconhecida pelo órgão competente.",
+      "Técnico em Segurança do Trabalho – Classe A Certificado, devidamente registrado, de conclusão de curso de ensino médio técnico equivalente em Segurança do Trabalho ou de curso de nível médio acrescido de certificado de curso técnico na área R$ 3.567,95* de Segurança do Trabalho, expedido por instituição de ensino reconhecida pelo órgão competente, e registro no Cargo/Especialidade Localidades Total vagas Requisitos de Escolaridade Remuneração Diploma, devidamente registrado, de conclusão de bacharelado em Analista em Administração – Classe A Administração, fornecido por CR instituição de ensino superior reconhecida pelo Ministério da Educação (MEC), e registro no órgão de classe.",
+      "Analista Jurídico – Classe A Diploma, devidamente registrado, de conclusão de bacharelado em CR Direito, fornecido por instituição de R$ 6.769,98* ensino superior reconhecida pelo MEC.",
+      "Região I Região II Região III Região IV Região V Região VI Região VII 01+ CR CR CR CR CR CR CR Diploma, devidamente registrado, de conclusão de bacharelado em Serviço Social, fornecido por instituição de ensino superior reconhecida pelo MEC, e registro no órgão de classe.",
+      "Analista Contábil – Classe A Ciências Contábeis, fornecido por instituição de ensino superior Região I Região II Região III 01+ CR Diploma, devidamente registrado, CR de conclusão de bacharelado em CR Psicologia, fornecido por instituição Região IV Região V Região VI Região VII Analista em Comunicação 6 Social (Jornalismo) – Analista em Comunicação 7 Social (Publicidade e Propaganda) – Classe A Analista em Redação – Classe A Analista de Sistemas – Classe B Analista Programador – Classe B Região I Região V CR CR CR CR CR CR 1 + CR de ensino superior reconhecida pelo MEC, e registro no órgão de classe.",
+      "Diploma, devidamente registrado, de conclusão de bacharelado em Comunicação Social com habilitação em Jornalismo, fornecido por instituição de ensino superior reconhecida pelo MEC.",
+      "Diploma, devidamente registrado, de conclusão de bacharelado em Comunicação Social com habilitação em Publicidade e Propaganda, fornecido por instituição de ensino superior reconhecida pelo MEC.",
+      "Diploma, devidamente registrado, de conclusão de bacharelado/licenciatura em Letras, fornecido por instituição de ensino superior reconhecida pelo MEC.",
+      "Diploma, devidamente registrado, de conclusão de bacharelado/licenciatura em Pedagogia, fornecido por instituição de ensino superior reconhecida pelo MEC.",
+      "Diploma, devidamente registrado, de conclusão de curso de nível superior (bacharelado, licenciatura ou tecnólogo) em Análise e Desenvolvimento de Sistemas, Banco de Dados, Big Data, Ciência da Computação, Ciência de Dados, Engenharia da Computação, Engenharia de Software, Gestão da Tecnologia da Informação, Inteligência Artificial, Redes de Computadores, Segurança da Informação, Sistemas de Informação ou na área de Tecnologia da Informação, expedido por instituição de ensino superior reconhecida pelo Ministério da Educação.",
+      "Diploma, devidamente registrado, de conclusão de curso de nível superior (bacharelado, licenciatura ou tecnólogo) em Análise e Desenvolvimento de Sistemas, Banco de Dados, Big Data, Ciência da R$ 6.769,98* R$ 6.769,98* R$ 6.769,98* R$ 6.769,98* Analista de Redes e 12 Comunicação de Dados – Classe B Computação, Ciência de Dados, Engenharia da Computação, Engenharia de Software, Gestão da Tecnologia da Informação, Inteligência Artificial, Redes de Computadores, Segurança da Informação, Sistemas de Informação ou na área de Tecnologia da Informação, expedido por instituição de ensino superior reconhecida pelo Ministério da Educação. de conclusão de curso de nível superior (bacharelado, licenciatura ou tecnólogo) em Análise e Desenvolvimento de Sistemas, Banco de Dados, Big Data, Ciência da Computação, Ciência de Dados, Engenharia da Computação, CR Engenharia de Software, Gestão da R$ 9.104,86* Tecnologia da Informação, Inteligência Artificial, Redes de Computadores, Segurança da Informação, Sistemas de Informação ou na área de Tecnologia da Informação, expedido por instituição de ensino superior reconhecida pelo Ministério da Educação.",
+      "Engenharia Civil, fornecido por instituição de ensino superior Engenharia Elétrica, fornecido por instituição de ensino superior * Serão devidas, ainda, as verbas indenizatórias: Auxílios Alimentação, Saúde, Odontológico e Transporte.",
+      "II – Atribuições e carga horária Analista em Administração - Desenvolver atividades de planejamento, organização, supervisão, programação, coordenação de estudos, pesquisas, planos, análise e projetos inerentes ao campo da administração de pessoal, material, orçamento, finanças, organização e métodos, e executar outras atividades afins à sua área de atuação de acordo com a sua formação profissional, respeitados os regulamentos do serviço.",
+      "Analista Jurídico - Executar tarefas auxiliares em trabalhos institucionais ou de natureza geral; pesquisar e selecionar textos jurídicos e informações de interesse da Instituição; minutar petições, prestar consultoria, assessoramento e atividades de apoio aos Defensores Público e/ou à Administração Superior, emitir pareceres, analisar e/ou elaborar contratos, convênios, acordos e outros ajustes de interesse da Defensoria, manifestando-se sobre a legalidade dos procedimentos administrativos e executar outras atividades afins a sua área de atuação de acordo com a formação profissional, realizar atendimento ao público e outras atividades ou tarefas de sua atribuição legal, a serem definidas por ato do Defensor Público-Geral.",
+      "Analista em Assistência Social - Prestar serviços de âmbito social a indivíduos e grupos, identificando e analisando problemas e necessidades materiais, psíquicas e de outra ordem e aplicando métodos e processos básicos do serviço social, para prevenir ou eliminar desajustes de natureza biopsicossocial e promover a integração ou reintegração dessas pessoas à sociedade.",
+      "Realizar atendimento ao público, perícias, exames, avaliações e estudos técnicos; coletar e analisar dados documentais e de campo; prestar informações técnicas sob a forma de pareceres, laudos e relatórios, indicando a fundamentação técnica, métodos e parâmetros aplicados; atuar em processos administrativos e judiciais como assistente técnico, por determinação do Juízo ou do Defensor Público; participar de eventos externos e reuniões técnicas quando determinado pela autoridade competente; e assessorar tecnicamente comissões, grupos e equipes de trabalho constituídos pela autoridade competente.",
+      "Analista Contábil - Desenvolver atividades de planejamento, supervisão, coordenação e execução, relativas à administração orçamentária, financeira, patrimonial, contabilidade e auditoria, compreendendo análise, registro e perícia contábil de balancetes, balanços e demonstrações contábeis, e executar outras atividades afins à sua área de atuação de acordo com a sua formação profissional, respeitados os regulamentos do serviço.",
+      "Analista em Psicologia - Exercer atividades no campo da psicologia aplicada ao trabalho, como orientação, aconselhamento e treinamento profissional, realizando a identificação e análise de funções, tarefas e operações típicas das ocupações, organizando e aplicando testes e provas, realizando entrevistas, sondagem de aptidões e de capacidade profissional e no acompanhamento e avaliação de desempenho de pessoal quando determinado pela autoridade competente, para assegurar ao indivíduo maior satisfação no trabalho.",
+      "Realizar atendimento ao público, perícias, exames, avaliações e estudos técnicos; coletar e analisar dados documentais e de campo; prestar informações técnicas sob a forma de pareceres, laudos e relatórios, indicando a fundamentação técnica, métodos e parâmetros aplicados; atuar em processos administrativos e judiciais como assistente técnico, por determinação do Juízo ou do Defensor Público; participar de eventos externos e reuniões técnicas quando determinado pela autoridade competente; e assessorar tecnicamente comissões, grupos e equipes de trabalho constituídos pela autoridade competente.",
+      "Analista em Comunicação Social - Jornalismo - Planejar e executar atividades de assessoria de imprensa (planejamento de estratégias para conquista de mídia espontânea, elaboração de releases e sugestão de pautas, contatos com a mídia, compilação e mensuração de resultados do trabalho de assessoria de imprensa, atendimento a jornalistas) e reportagem (produção de notícias, apuração e elaboração de matérias jornalísticas para veículos de internet e veículos impressos).",
+      "Redigir, atualizar e publicar conteúdo web para sites e internet em geral; utilizar programas de computação necessários à execução das funções; redigir textos para folders, catálogos e cartazes.",
+      "Criar, planejar e executar estratégias de comunicação interna, realizar reportagens de rádio e televisão ao vivo e matérias gravadas, acompanhar eventos culturais e, redigir matérias especiais.",
+      "Comentar os fatos, suas causas, resultados e possíveis consequências de interesse público.",
+      "Selecionar, revisar, preparar e distribuir matérias para publicação, atender e manter contato com a imprensa, orientar os fotógrafos sobre fatos e/ou assuntos de interesse, bem como, coletar assuntos a serem abordados.",
+      "Atuar em equipe multiprofissional e, orientar e supervisionar estagiários e outros profissionais na execução de seus serviços.",
+      "Analista em Comunicação Social - Publicidade e Propaganda - Planejar, desenvolver, supervisionar e executar campanhas e ações publicitárias institucionais, mercadológicas e atividades auxiliares no desenvolvimento e gestão da imagem da Defensoria Pública em peças publicitárias, conteúdos textuais e visuais.",
+      "Analista em Redação - Executar a revisão e preparação de material que será publicado em um jornal, revista, periódico de informação técnica ou outras publicações, atentando para as normas linguísticas, clareza, estilo e conteúdo das matérias, para garantir a autenticidade e correção dos textos elaborados.",
+      "Analista em Pedagogia - Auxiliar na orientação educacional, de disciplina e área de estudo, relativa às atividades profissionais específicas de interesse da Defensoria Pública; elaborar estudos e levantamentos qualitativos e quantitativos indispensáveis ao desenvolvimento dos trabalhos profissionais que envolvam sua área de atuação; elaborar, acompanhar e avaliar os planos, programas e projetos voltados para o desenvolvimento dos aspectos pedagógicos, administrativos, financeiros, de pessoal e de recursos materiais, indicando as necessidades de apoio e suporte financeiro aos projetos de interesse institucional na área de atuação; acompanhar e supervisionar o funcionamento das atividades e projetos pedagógicos no âmbito de interesse da Instituição, zelando pelo cumprimento da legislação e normas educacionais e pelo padrão de qualidade de ensino; e realizar outras atividades ou tarefas de sua atribuição legal, a serem definidas por ato do Defensor Público-Geral.",
+      "Analista de Sistemas - Analisar e estabelecer a utilização de sistemas de processamento automático de dados, estudando as necessidades, possibilidades e métodos referentes aos mesmos, para assegurar a exatidão e rapidez dos diversos tratamentos de informações.",
+      "Analista Programador - Desenvolver e implantar sistemas informatizados, especificando programas e codificando aplicativos, dimensionando requisitos e funcionalidade dentro das necessidades da Defensoria Pública.",
+      "Analista de Rede e Comunicação de Dados - Exercer atividades de instalação e configuração de redes entre computadores, viabilizar meios de proteção, detecção e extinção de vírus, utilizar ferramentas de backup, configurar intranet, promover a segurança da rede, analisar protocolos, configurar roteadores e switchs, gerenciar servidor de correio eletrônico, além de instalar e configurar hardware-software.",
+      "Analista em Engenharia Civil - Realizar perícias, exames, vistorias, avaliações e estudos técnicos; coletar e analisar dados documentais e de campo; prestar informações técnicas sob a forma de pareceres, laudos e relatórios, indicando a fundamentação técnica, métodos e parâmetros aplicados; atuar em processos administrativos e judiciais como assistente técnico; participar de eventos externos e reuniões técnicas quando determinado pela autoridade competente; planejar, orientar, coordenar, fiscalizar e acompanhar a execução de projetos, obras e serviços técnicos; prestar assessoria na contratação dos serviços relativos à área da Engenharia Civil; e assessorar tecnicamente comissões, grupos e equipes de trabalho constituídos pela autoridade competente.",
+      "Analista em Engenharia Elétrica - Realizar perícias, exames, vistorias, avaliações e estudos técnicos; coletar e analisar dados documentais e de campo; prestar informações técnicas sob a forma de pareceres, laudos e relatórios, indicando a fundamentação técnica, métodos e parâmetros aplicados; atuar em processos administrativos e judiciais como assistente técnico; participar de eventos externos e reuniões técnicas quando determinado pela autoridade competente; planejar, orientar, coordenar, fiscalizar e acompanhar a execução de projetos, obras e serviços técnicos; prestar assessoria na contratação dos serviços relativos à área de Engenharia Elétrica; e assessorar tecnicamente comissões, grupos e equipes de trabalho constituídos pela autoridade competente.",
+      "Técnico Administrativo - Executar os serviços administrativos, tais como classificação ou catalogação de documentos, correspondências e processos, numeração de folhas, juntada ou coleta de documentos, preenchimento de formulários, transcrição de dados, lançamentos, prestação de informações, organização de arquivos e fichários, elaboração de minutas de cartas e outros textos, atendimento ao público, condução da rotina de processos, executar atividades de apoio administrativo, medição, ou conciliação, atendendo as necessidades administrativas.",
+      "Técnico em Informática - Realizar a manutenção preventiva e corretiva em terminais de computadores e impressoras nas unidades, além de instalar física e logicamente rede de dados.",
+      "Auxiliar nas atividades relativas à área de informática, como instalação e configuração de programas e aplicativos.",
+      "Técnico em Contabilidade - Auxiliar na execução de trabalhos inerentes à contabilidade, organizando os referidos trabalhos e realizando tarefas pertinentes, para apurar os elementos necessários ao controle e apresentação da situação patrimonial, orçamentária e financeira da Instituição.",
+      "Técnico em Audiovisual - Montar e projetar filmes cinematográficos, manejar equipamentos audiovisuais utilizando nas diversas atividades da Defensoria Pública, bem como operar equipamentos eletrônicos para gravação em fita ou fios magnéticos, filmes ou discos virgens e outras mídias.",
+      "Técnico em Artes Gráficas - Elaborar leiaute; analisar o trabalho a ser executado com a finalidade de aplicar técnicas apropriadas para sua execução; compor e distribuir tipograficamente; executar diagramas do original a ser impresso; operar máquinas impressoras, tipográficas, de fotocomposição, fotoreprodução e de gravações manuais e automáticas; revisar trabalhos executados e efetuar controle de qualidade; participar na elaboração de projetos para aquisição de equipamentos e matérias-primas no âmbito da instituição; auxiliar na elaboração de orçamentos e relatórios do setor gráfico; executar o controle de qualidade sobre matérias-primas recebidas; executar serviços de manutenção rotineira e ocasional nas oficinas; organizar e acompanhar a manutenção e instalação de equipamentos e orientar sua reparação; efetuar ensaios e testes de ensaios tecnológicos e pesquisas; elaborar manuais de procedimentos; avaliar tendências de mercado; alimentar banco de dados e sistemas; utilizar recursos de informática; executar qualquer trabalho institucional relacionado à arte gráfica; executar outras tarefas de mesma natureza e nível de dificuldade associadas ao ambiente institucional.",
+      "Técnico em Segurança do Trabalho - Pesquisar, desenvolver, implantar e monitorar as atividades para a melhoria das condições ambientais e a promoção da saúde física, mental e social dos colaboradores da Defensoria Pública.",
+      "Analisar e avaliar os resultados dos serviços prestados em engenharia de segurança do trabalho à Defensoria Pública.",
+      "Analisar relatórios e planilhas que possam subsidiar tomadas de decisões sobre as condições ambientais e os processos de segurança do trabalho.",
+      "Manter articulação com todas as áreas e unidades da Defensoria Pública.",
+      "Prestar assessoria em situações relacionadas à segurança do trabalho, atuando de forma decisiva quando as demandas colocarem em risco a qualidade de vida dos membros e servidores.",
+      "Promover o envolvimento dos colaboradores com a construção e a manutenção da saúde individual, grupal e coletiva.",
+      "Realizar outras atividades de natureza correlata.",
+      "Carga horária - Será de no máximo 40h/semanais, nos termos da Lei Complementar nº 68/1992, respeitadas as legislações específicas em contrário."
+     ]
+    }
+   ]
+  }
+ ]
+}

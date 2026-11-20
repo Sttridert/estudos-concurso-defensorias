@@ -1,0 +1,240 @@
+{
+ "pasta": "2023 - DPE-MG - Defensor Público (edital, sem prova)",
+ "banca": "Fundep",
+ "disciplina": "CIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 4096,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Lei de introdução às normas do direito brasileiro.",
+      "Lei do regime jurídico emergencial e transitório das relações jurídicas de direito privado no período da pandemia do coronavírus."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Das pessoas.",
+      "Das pessoas naturais.",
+      "Das pessoas jurídicas.",
+      "Do domicílio."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Dos bens.",
+      "Das diferentes classes de bens."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Dos fatos jurídicos.",
+      "Do negócio jurídico.",
+      "Dos atos jurídicos lícitos.",
+      "Dos atos ilícitos.",
+      "Da prescrição e da decadência.",
+      "Da prova."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Do direito das obrigações.",
+      "Das modalidades das obrigações.",
+      "Da transmissão das obrigações.",
+      "Do adimplemento e extinção das obrigações.",
+      "Do inadimplemento das obrigações.",
+      "Perdas e danos.",
+      "Juros.",
+      "Correção monetária.",
+      "Cláusula penal."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Dos contratos.",
+      "Dos contratos em geral.",
+      "Das Várias espécies de contratos.",
+      "Da função social dos contratos.",
+      "Contratos Comerciais.",
+      "Compra e venda mercantil.",
+      "Mandato mercantil."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Dos atos unilaterais."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Da responsabilidade civil.",
+      "Funções da responsabilidade civil.",
+      "Responsabilidade civil pré-contratual, contratual, pós-contratual e extracontratual.",
+      "Responsabilidade civil subjetiva e objetiva.",
+      "Requisitos ensejadores da responsabilidade civil.",
+      "Indenização e compensação de danos.",
+      "Quantum debeatur.",
+      "Securitização."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Dos títulos de crédito.",
+      "Disposições gerais dos títulos de crédito.",
+      "Princípios dos títulos de crédito.",
+      "Classificação dos títulos de crédito.",
+      "Atos cambiários e os títulos de crédito.",
+      "Títulos de crédito em espécie."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Das preferências e privilégios creditórios."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Do direito da empresa.",
+      "Do empresário.",
+      "Da empresa individual de responsabilidade limitada.",
+      "Da sociedade.",
+      "Do estabelecimento.",
+      "Dos institutos complementares.",
+      "Formas empresariais unipessoais."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Do direito das coisas.",
+      "Da posse.",
+      "Dos direitos reais.",
+      "Da propriedade.",
+      "Da superfície.",
+      "Das servidões.",
+      "Do usufruto.",
+      "Do uso.",
+      "Da habitação.",
+      "Do direito do promitente comprador.",
+      "Do penhor, da hipoteca e da anticrese.",
+      "Da laje.",
+      "Da função social e da boa-fé no direito das coisas."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Do direito de família.",
+      "Do casamento.",
+      "Relação de parentesco.",
+      "Do regime de bens.",
+      "Usufruto e administração dos bens de filhos menores.",
+      "Dos alimentos.",
+      "Da administração dos bens dos filhos menores.",
+      "Alimentos.",
+      "Bem de família.",
+      "Da união estável.",
+      "Tutela, curatela e tomada de decisão apoiada.",
+      "Das entidades familiares.",
+      "Da diversidade familiar e afetiva.",
+      "Multiparentalidade.",
+      "Princípios constitucionais aplicáveis às relações familiares."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Dos direitos das sucessões.",
+      "Da sucessão em geral.",
+      "Sucessão legítima.",
+      "Sucessão testamentária.",
+      "Inventário e Partilha.",
+      "Princípios constitucionais aplicáveis ao direito das sucessões."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Constitucionalização do direito civil.",
+      "Das disposições finais e transitórias do Código Civil."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Aspectos cíveis e empresariais na legislação especial.",
+      "Lei de falências e recuperação judicial e extrajudicial.",
+      "Lei da liberdade econômica.",
+      "Legislação de alienação fiduciária.",
+      "Lei geral de proteção de dados.",
+      "Marco civil da internet.",
+      "Cédula de crédito bancário.",
+      "Duplicata.",
+      "Cheque.",
+      "Letra de câmbio.",
+      "Nota promissória.",
+      "DPVAT.",
+      "Leis afetas aos registros públicos.",
+      "Estatuto da cidade.",
+      "Regularização fundiária.",
+      "Parcelamento do solo.",
+      "Lei de locações.",
+      "Estatuto da pessoa idosa.",
+      "Estatuto da pessoa com deficiência.",
+      "Lei do combate à intimidação sistemática (bullying).",
+      "Bem de família.",
+      "Alimentos.",
+      "Investigação de paternidade.",
+      "Alimentos gravídicos."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Aspectos cíveis na tutela das minorias, dos vulneráveis e dos hipervulneráveis.",
+      "Racismo estrutural, institucional, interpessoal e recreativo.",
+      "Repercussões civis da violência doméstica.",
+      "Discriminação e desigualdade de gênero.",
+      "Assédio moral.",
+      "Proteção das minorias, dos vulneráveis e dos hipervulneráveis no âmbito do direito privado.",
+      "Ações afirmativas."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Aspectos cíveis no direito de atenção à saúde mental.",
+      "Tratamento ambulatorial, internação psiquiátrica voluntária, involuntária e compulsória."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Jurisprudência dos Tribunais Superiores e do Tribunal de Justiça do Estado de Minas Gerais em matéria cível e/ou empresarial."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Enunciados do Conselho da Justiça Federal (Jornadas de direito civil e Jornadas de direito comercial).",
+      "Resoluções e Provimentos do Conselho Nacional de Justiça com abrangência cível e/ou empresarial."
+     ]
+    }
+   ]
+  }
+ ]
+}

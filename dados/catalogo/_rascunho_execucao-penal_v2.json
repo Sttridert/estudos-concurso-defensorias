@@ -1,0 +1,650 @@
+{
+ "slug": "execucao-penal",
+ "disciplina": "Execução Penal",
+ "prefixo": "EX",
+ "versao_base": "v1",
+ "versao_alvo": "v2",
+ "criado_em": "2026-11-20T15:50:33",
+ "estado": "rascunho",
+ "assuntos": [
+  {
+   "uid": "v1:EX01",
+   "antigo": "EX01",
+   "nome": "Fundamentos da execução penal",
+   "descricao": "Natureza, história, princípios e alcance da Lei de Execução Penal.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX01.01",
+     "antigo": "EX01.01",
+     "texto": "Natureza jurídica e objetivos da execução penal",
+     "descricao": "Natureza jurídica (jurisdicional e administrativa) e finalidades. [Tema compartilhado com Direito Penal (teorias da pena)]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:6cdd6be0",
+     "antigo": null,
+     "texto": "Evolução histórica da execução penal",
+     "descricao": "Evolução do sistema penitenciário e da execução no Brasil (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto da LEP e doutrina; confirmar)"
+    },
+    {
+     "uid": "v1:EX01.02",
+     "antigo": "EX01.02",
+     "texto": "Princípios e direitos fundamentais da execução penal",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX01.03",
+     "antigo": "EX01.03",
+     "texto": "Aplicação da Lei de Execução Penal e direito intertemporal",
+     "descricao": "Objeto, destinatários e aplicação no tempo.",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:EX02",
+   "antigo": "EX02",
+   "nome": "Órgãos e sujeitos da execução penal",
+   "descricao": "Quem atua na execução.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX02.01",
+     "antigo": "EX02.01",
+     "texto": "Órgãos da execução penal",
+     "descricao": "Juízo, Ministério Público, Conselhos, Departamentos e Patronato.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX02.02",
+     "antigo": "EX02.02",
+     "texto": "Defensoria Pública na execução penal",
+     "descricao": "Atuação individual e coletiva. [Tema compartilhado com Princípios e Atribuições Institucionais da Defensoria, Direito Processual Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:EX03",
+   "antigo": "EX03",
+   "nome": "Condenado e internado",
+   "descricao": "Situação do preso na execução: classificação, assistência, trabalho e direitos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX03.01",
+     "antigo": "EX03.01",
+     "texto": "Classificação e exame criminológico",
+     "descricao": "Individualização da execução.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:a86f0a3e",
+     "antigo": null,
+     "texto": "Identificação do perfil genético",
+     "descricao": "Coleta de material genético do condenado (confirmar a norma).",
+     "origem": "rascunho v2 (IA, esqueleto da LEP e doutrina; confirmar)"
+    },
+    {
+     "uid": "v1:EX03.02",
+     "antigo": "EX03.02",
+     "texto": "Assistência ao preso e ao egresso",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX03.03",
+     "antigo": "EX03.03",
+     "texto": "Trabalho do preso",
+     "descricao": "Trabalho interno e externo.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX03.04",
+     "antigo": "EX03.04",
+     "texto": "Direitos e deveres do preso",
+     "descricao": "Visita, revista, direitos não atingidos pela condenação, familiares.",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:EX04",
+   "antigo": "EX04",
+   "nome": "Disciplina",
+   "descricao": "Faltas, sanções e procedimento disciplinar.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX04.01",
+     "antigo": "EX04.01",
+     "texto": "Faltas disciplinares e sanções",
+     "descricao": "Faltas, sanções e recompensas (confirmar se recompensas merecem tópico próprio).",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:1df76043",
+     "antigo": null,
+     "texto": "Regime disciplinar diferenciado",
+     "descricao": "Hipóteses e requisitos (confirmar a lei).",
+     "origem": "rascunho v2 (IA, esqueleto da LEP e doutrina; confirmar)"
+    },
+    {
+     "uid": "v1:EX04.02",
+     "antigo": "EX04.02",
+     "texto": "Procedimento disciplinar e controle judicial",
+     "descricao": "Procedimento administrativo e controle pelo juízo.",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:EX05",
+   "antigo": "EX05",
+   "nome": "Execução da pena privativa de liberdade",
+   "descricao": "Como a pena de prisão é cumprida e o que a modifica. Fronteira com Direito Penal (aprovada em 20/11/2026): lá, o conceito e os requisitos de cada pena; aqui, o cumprimento, a progressão e a remição.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX05.01",
+     "antigo": "EX05.01",
+     "texto": "Regimes de cumprimento",
+     "descricao": "Cumprimento nos regimes fechado, semiaberto e aberto. [Tema compartilhado com Direito Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:7297d99d",
+     "antigo": null,
+     "texto": "Progressão e regressão de regime",
+     "descricao": "Requisitos, lapsos e regressão (confirmar a norma e a jurisprudência).",
+     "origem": "rascunho v2 (IA, esqueleto da LEP e doutrina; confirmar)"
+    },
+    {
+     "uid": "v1:EX05.02",
+     "antigo": "EX05.02",
+     "texto": "Saídas do estabelecimento",
+     "descricao": "Permissão de saída e saída temporária.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX05.03",
+     "antigo": "EX05.03",
+     "texto": "Detração e remição",
+     "descricao": "Detração e remição pelo trabalho e pelo estudo. [Tema compartilhado com Direito Penal (detração)]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX05.04",
+     "antigo": "EX05.04",
+     "texto": "Soma e unificação de penas",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:314d2fb0",
+     "antigo": null,
+     "texto": "Transferência e remoção de presos",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da LEP e doutrina; confirmar)"
+    },
+    {
+     "uid": "v1:EX05.08",
+     "antigo": "EX05.08",
+     "texto": "Monitoração eletrônica",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "n:a12f5539",
+   "antigo": null,
+   "nome": "Execução das penas restritivas de direitos e da multa",
+   "descricao": "Execução das penas alternativas e da multa (requisitos de cada uma: ver Direito Penal).",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX05.05",
+     "antigo": "EX05.05",
+     "texto": "Execução das penas restritivas de direitos",
+     "descricao": "Prestação de serviços, limitação de fim de semana e interdição. [Tema compartilhado com Direito Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX05.06",
+     "antigo": "EX05.06",
+     "texto": "Execução da pena de multa",
+     "descricao": "[Tema compartilhado com Direito Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "n:5a6627c4",
+   "antigo": null,
+   "nome": "Suspensão condicional e livramento condicional na execução",
+   "descricao": "Condições, fiscalização e revogação (requisitos: ver Direito Penal).",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX05.07",
+     "antigo": "EX05.07",
+     "texto": "Suspensão condicional da pena (sursis) na execução",
+     "descricao": "[Tema compartilhado com Direito Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:f510b0c3",
+     "antigo": null,
+     "texto": "Livramento condicional na execução",
+     "descricao": "[Tema compartilhado com Direito Penal]",
+     "origem": "rascunho v2 (IA, esqueleto da LEP e doutrina; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:EX06",
+   "antigo": "EX06",
+   "nome": "Medida de segurança e saúde mental",
+   "descricao": "Execução da medida de segurança e política de saúde mental.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX06.01",
+     "antigo": "EX06.01",
+     "texto": "Execução das medidas de segurança",
+     "descricao": "[Tema compartilhado com Direito Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:c5438e11",
+     "antigo": null,
+     "texto": "Cessação de periculosidade",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da LEP e doutrina; confirmar)"
+    },
+    {
+     "uid": "v1:EX06.02",
+     "antigo": "EX06.02",
+     "texto": "Saúde mental e reforma psiquiátrica",
+     "descricao": "Política antimanicomial. [Tema compartilhado com Direitos Humanos]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:EX07",
+   "antigo": "EX07",
+   "nome": "Estabelecimentos penais",
+   "descricao": "Onde a pena é cumprida.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX07.01",
+     "antigo": "EX07.01",
+     "texto": "Espécies de estabelecimentos penais",
+     "descricao": "Penitenciária, colônia, casa do albergado, cadeia pública e hospital de custódia.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX07.02",
+     "antigo": "EX07.02",
+     "texto": "Superlotação carcerária",
+     "descricao": "Numerus clausus e falta de vaga.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX07.03",
+     "antigo": "EX07.03",
+     "texto": "Inspeção e monitoramento dos estabelecimentos prisionais",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:EX08",
+   "antigo": "EX08",
+   "nome": "Incidentes da execução",
+   "descricao": "Alterações que a execução pode sofrer.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX08.01",
+     "antigo": "EX08.01",
+     "texto": "Conversões",
+     "descricao": "Conversões de pena (confirmar a norma).",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:572457eb",
+     "antigo": null,
+     "texto": "Excesso ou desvio de execução",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da LEP e doutrina; confirmar)"
+    },
+    {
+     "uid": "v1:EX08.02",
+     "antigo": "EX08.02",
+     "texto": "Anistia, graça e indulto",
+     "descricao": "Comutação (confirmar). [Tema compartilhado com Direito Penal (extinção da punibilidade)]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX08.03",
+     "antigo": "EX08.03",
+     "texto": "Extinção da pena e reabilitação",
+     "descricao": "Extinção da pena, prescrição da pretensão executória e reabilitação. [Tema compartilhado com Direito Penal]",
+     "origem": "catálogo v1"
+    }
+   ]
+  },
+  {
+   "uid": "n:111920cb",
+   "antigo": null,
+   "nome": "Processo da execução penal",
+   "descricao": "Procedimento, competência e meios de impugnação.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX08.04",
+     "antigo": "EX08.04",
+     "texto": "Procedimento judicial e competência na execução",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:e6c8357d",
+     "antigo": null,
+     "texto": "Recursos na execução penal",
+     "descricao": "Agravo em execução (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto da LEP e doutrina; confirmar)"
+    },
+    {
+     "uid": "n:22eb4b54",
+     "antigo": null,
+     "texto": "Ações autônomas na execução",
+     "descricao": "Habeas corpus e outras ações (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto da LEP e doutrina; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:EX09",
+   "antigo": "EX09",
+   "nome": "Normas internacionais sobre pessoas presas",
+   "descricao": "Regras e tratados internacionais (fronteira com Direitos Humanos: confirmar).",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX09.01",
+     "antigo": "EX09.01",
+     "texto": "Regras de Mandela e de Bangkok",
+     "descricao": "Regras e princípios internacionais para pessoas presas. [Tema compartilhado com Direitos Humanos]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX09.02",
+     "antigo": "EX09.02",
+     "texto": "Prevenção e combate à tortura",
+     "descricao": "Convenções, protocolo facultativo e Protocolo de Istambul. [Tema compartilhado com Direitos Humanos e Direito Penal (Lei de Tortura)]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX09.03",
+     "antigo": "EX09.03",
+     "texto": "Sistema interamericano e execução penal",
+     "descricao": "Convenção Americana de Direitos Humanos e jurisprudência interamericana. [Tema compartilhado com Direitos Humanos]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "n:507ceac6",
+   "antigo": null,
+   "nome": "Normas nacionais e jurisprudência da execução",
+   "descricao": "Atos do CNJ e do CNPCP e jurisprudência (confirmar se esta jurisprudência deve ser distribuída pelos temas).",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:EX09.04",
+     "antigo": "EX09.04",
+     "texto": "Resoluções do CNJ e do CNPCP",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:EX09.05",
+     "antigo": "EX09.05",
+     "texto": "Súmulas e jurisprudência da execução penal",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:d955a1a5",
+     "antigo": null,
+     "texto": "Normas estaduais do sistema prisional",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da LEP e doutrina; confirmar)"
+    }
+   ]
+  }
+ ],
+ "lixeira": [],
+ "lixeira_assuntos": [],
+ "base_v1": {
+  "assuntos": {
+   "v1:EX01": {
+    "codigo": "EX01",
+    "nome": "Noções gerais, natureza e princípios da execução penal"
+   },
+   "v1:EX02": {
+    "codigo": "EX02",
+    "nome": "Órgãos e sujeitos da execução penal"
+   },
+   "v1:EX03": {
+    "codigo": "EX03",
+    "nome": "Condenado e internado: classificação, assistência, trabalho e direitos"
+   },
+   "v1:EX04": {
+    "codigo": "EX04",
+    "nome": "Disciplina"
+   },
+   "v1:EX05": {
+    "codigo": "EX05",
+    "nome": "Execução das penas em espécie"
+   },
+   "v1:EX06": {
+    "codigo": "EX06",
+    "nome": "Medidas de segurança e saúde mental"
+   },
+   "v1:EX07": {
+    "codigo": "EX07",
+    "nome": "Estabelecimentos penais e sistema penitenciário"
+   },
+   "v1:EX08": {
+    "codigo": "EX08",
+    "nome": "Incidentes, extinção da pena e processo da execução"
+   },
+   "v1:EX09": {
+    "codigo": "EX09",
+    "nome": "Normas internacionais, resoluções e jurisprudência"
+   }
+  },
+  "pontos": {
+   "v1:EX01.01": {
+    "codigo": "EX01.01",
+    "texto": "Natureza jurídica, objetivos, evolução histórica e teorias da pena na execução",
+    "assunto_uid": "v1:EX01"
+   },
+   "v1:EX01.02": {
+    "codigo": "EX01.02",
+    "texto": "Princípios e direitos fundamentais aplicáveis à execução penal",
+    "assunto_uid": "v1:EX01"
+   },
+   "v1:EX01.03": {
+    "codigo": "EX01.03",
+    "texto": "Lei de Execução Penal: objeto, aplicação, destinatários e direito intertemporal",
+    "assunto_uid": "v1:EX01"
+   },
+   "v1:EX02.01": {
+    "codigo": "EX02.01",
+    "texto": "Órgãos da execução penal (Juízo, Ministério Público, Conselhos, Departamentos, Patronato)",
+    "assunto_uid": "v1:EX02"
+   },
+   "v1:EX02.02": {
+    "codigo": "EX02.02",
+    "texto": "Defensoria Pública na execução penal e tutela individual e coletiva",
+    "assunto_uid": "v1:EX02"
+   },
+   "v1:EX03.01": {
+    "codigo": "EX03.01",
+    "texto": "Classificação, exame criminológico e identificação do perfil genético",
+    "assunto_uid": "v1:EX03"
+   },
+   "v1:EX03.02": {
+    "codigo": "EX03.02",
+    "texto": "Assistência ao preso e ao egresso",
+    "assunto_uid": "v1:EX03"
+   },
+   "v1:EX03.03": {
+    "codigo": "EX03.03",
+    "texto": "Trabalho do preso (interno e externo)",
+    "assunto_uid": "v1:EX03"
+   },
+   "v1:EX03.04": {
+    "codigo": "EX03.04",
+    "texto": "Deveres e direitos do preso (visita, revista, direitos não atingidos, familiares)",
+    "assunto_uid": "v1:EX03"
+   },
+   "v1:EX04.01": {
+    "codigo": "EX04.01",
+    "texto": "Faltas disciplinares, sanções, recompensas e regime disciplinar diferenciado",
+    "assunto_uid": "v1:EX04"
+   },
+   "v1:EX04.02": {
+    "codigo": "EX04.02",
+    "texto": "Procedimento disciplinar (administrativo) e controle judicial",
+    "assunto_uid": "v1:EX04"
+   },
+   "v1:EX05.01": {
+    "codigo": "EX05.01",
+    "texto": "Regimes de cumprimento, progressão e regressão",
+    "assunto_uid": "v1:EX05"
+   },
+   "v1:EX05.02": {
+    "codigo": "EX05.02",
+    "texto": "Autorizações de saída (permissão de saída e saída temporária)",
+    "assunto_uid": "v1:EX05"
+   },
+   "v1:EX05.03": {
+    "codigo": "EX05.03",
+    "texto": "Detração e remição",
+    "assunto_uid": "v1:EX05"
+   },
+   "v1:EX05.04": {
+    "codigo": "EX05.04",
+    "texto": "Soma e unificação de penas e transferência ou remoção de presos",
+    "assunto_uid": "v1:EX05"
+   },
+   "v1:EX05.05": {
+    "codigo": "EX05.05",
+    "texto": "Penas restritivas de direitos (prestação de serviços, limitação de fim de semana, interdição)",
+    "assunto_uid": "v1:EX05"
+   },
+   "v1:EX05.06": {
+    "codigo": "EX05.06",
+    "texto": "Pena de multa",
+    "assunto_uid": "v1:EX05"
+   },
+   "v1:EX05.07": {
+    "codigo": "EX05.07",
+    "texto": "Suspensão condicional da pena e livramento condicional",
+    "assunto_uid": "v1:EX05"
+   },
+   "v1:EX05.08": {
+    "codigo": "EX05.08",
+    "texto": "Monitoração eletrônica",
+    "assunto_uid": "v1:EX05"
+   },
+   "v1:EX06.01": {
+    "codigo": "EX06.01",
+    "texto": "Execução das medidas de segurança e cessação de periculosidade",
+    "assunto_uid": "v1:EX06"
+   },
+   "v1:EX06.02": {
+    "codigo": "EX06.02",
+    "texto": "Saúde mental, reforma psiquiátrica e política antimanicomial",
+    "assunto_uid": "v1:EX06"
+   },
+   "v1:EX07.01": {
+    "codigo": "EX07.01",
+    "texto": "Estabelecimentos penais (penitenciária, colônia, casa do albergado, cadeia pública, hospital de custódia)",
+    "assunto_uid": "v1:EX07"
+   },
+   "v1:EX07.02": {
+    "codigo": "EX07.02",
+    "texto": "Superlotação, numerus clausus e falta de vaga",
+    "assunto_uid": "v1:EX07"
+   },
+   "v1:EX07.03": {
+    "codigo": "EX07.03",
+    "texto": "Inspeção e monitoramento dos estabelecimentos prisionais",
+    "assunto_uid": "v1:EX07"
+   },
+   "v1:EX08.01": {
+    "codigo": "EX08.01",
+    "texto": "Incidentes da execução: conversões, excesso ou desvio",
+    "assunto_uid": "v1:EX08"
+   },
+   "v1:EX08.02": {
+    "codigo": "EX08.02",
+    "texto": "Anistia, graça, indulto e comutação",
+    "assunto_uid": "v1:EX08"
+   },
+   "v1:EX08.03": {
+    "codigo": "EX08.03",
+    "texto": "Extinção da pena, prescrição e reabilitação",
+    "assunto_uid": "v1:EX08"
+   },
+   "v1:EX08.04": {
+    "codigo": "EX08.04",
+    "texto": "Processo da execução: procedimento judicial, competência, recursos e ações autônomas",
+    "assunto_uid": "v1:EX08"
+   },
+   "v1:EX09.01": {
+    "codigo": "EX09.01",
+    "texto": "Regras de Mandela, de Bangkok e outras regras e princípios internacionais para pessoas presas",
+    "assunto_uid": "v1:EX09"
+   },
+   "v1:EX09.02": {
+    "codigo": "EX09.02",
+    "texto": "Prevenção e combate à tortura (convenções, protocolo facultativo, Protocolo de Istambul)",
+    "assunto_uid": "v1:EX09"
+   },
+   "v1:EX09.03": {
+    "codigo": "EX09.03",
+    "texto": "Convenção Americana de Direitos Humanos e jurisprudência interamericana",
+    "assunto_uid": "v1:EX09"
+   },
+   "v1:EX09.04": {
+    "codigo": "EX09.04",
+    "texto": "Resoluções do CNJ e do CNPCP",
+    "assunto_uid": "v1:EX09"
+   },
+   "v1:EX09.05": {
+    "codigo": "EX09.05",
+    "texto": "Jurisprudência e normas estaduais do sistema prisional",
+    "assunto_uid": "v1:EX09"
+   }
+  }
+ },
+ "historico": {
+  "passado": [],
+  "futuro": []
+ },
+ "atualizado_em": "2026-11-20T17:16:36"
+}

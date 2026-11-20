@@ -1,0 +1,607 @@
+{
+ "pasta": "2022 - DPE-CE - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PCIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 7102,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Jurisdição e ação."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Conceito, natureza e características."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Condições da ação."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Partes e procuradores."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Capacidade processual e postulatória."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Deveres e substituição das partes e procuradores."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Litisconsórcio e assistência."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Intervenção de terceiros."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Oposição, nomeação à autoria, denunciação à lide e chamamento ao processo."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Prerrogativas processuais da Defensoria Pública."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Competência."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Em razão do valor e da matéria."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Competência funcional e territorial."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Modificações de competência e declaração de incompetência."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "O juiz."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Atos processuais."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Forma dos atos."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Prazos."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Comunicação dos atos."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Nulidades."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Formação, suspensão e extinção do processo."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Processo e procedimento."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Procedimentos ordinário e sumário."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Procedimento ordinário."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Petição inicial."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Requisitos, pedido e indeferimento."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Resposta do réu."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Contestação, exceções e reconvenção."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Revelia."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Julgamento conforme o estado do processo."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Provas."
+     ]
+    },
+    {
+     "item": "15.1",
+     "frases": [
+      "Ônus da prova."
+     ]
+    },
+    {
+     "item": "15.2",
+     "frases": [
+      "Depoimento pessoal."
+     ]
+    },
+    {
+     "item": "15.3",
+     "frases": [
+      "Confissão."
+     ]
+    },
+    {
+     "item": "15.4",
+     "frases": [
+      "Provas documental e testemunhal."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Audiência."
+     ]
+    },
+    {
+     "item": "16.1",
+     "frases": [
+      "Conciliação, instrução e julgamento."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Sentença e coisa julgada."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Liquidação e cumprimento da sentença."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Recursos."
+     ]
+    },
+    {
+     "item": "19.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Processo de execução."
+     ]
+    },
+    {
+     "item": "20.1",
+     "frases": [
+      "Execução em geral."
+     ]
+    },
+    {
+     "item": "20.2",
+     "frases": [
+      "Diversas especies de execução."
+     ]
+    },
+    {
+     "item": "20.2.1",
+     "frases": [
+      "Execução para entrega de coisa."
+     ]
+    },
+    {
+     "item": "20.2.2",
+     "frases": [
+      "Execução das obrigações de fazer e de não fazer."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Execução de acoes coletivas."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Processo cautelar e medidas cautelares."
+     ]
+    },
+    {
+     "item": "22.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "22.2",
+     "frases": [
+      "Procedimentos cautelares específicos (arresto, sequestro, busca e apreensão)."
+     ]
+    },
+    {
+     "item": "22.3",
+     "frases": [
+      "Exibição e produção antecipada de provas."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Procedimentos especiais."
+     ]
+    },
+    {
+     "item": "23.1",
+     "frases": [
+      "Mandado de segurança e ação de improbidade administrativa."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "PROCESSO CIVIL COLETIVO."
+     ]
+    },
+    {
+     "item": "24.1",
+     "frases": [
+      "Teoria geral do processo civil coletivo.",
+      "A tutela coletiva e o acesso à justiça dos necessitados."
+     ]
+    },
+    {
+     "item": "24.2",
+     "frases": [
+      "Princípios gerais do processo civil coletivo.",
+      "A nova ordem constitucional dos direitos materiais.",
+      "Sistema Processual Civil coletivo Brasileiro."
+     ]
+    },
+    {
+     "item": "24.3",
+     "frases": [
+      "Instrumentos processuais coletivos: Ação Civil Pública (Lei nº 7.347/85), Mandado de Segurança Coletivo (Lei nº 12.016/09), Mandado de Injunção, Habeas Data Coletivo (Lei nº 9.507/97) e Ação Popular (Lei nº 4.717/65).",
+      "A arguição do descumprimento de preceito fundamental como instrumento para tutela dos direitos difusos e coletivos."
+     ]
+    },
+    {
+     "item": "24.4",
+     "frases": [
+      "Classificação dos direitos coletivos em sentido amplo.",
+      "Direitos difusos, coletivos em sentido estrito e individuais homogêneos."
+     ]
+    },
+    {
+     "item": "24.5",
+     "frases": [
+      "Legitimidade ativa e passiva das ações coletivas.",
+      "Legitimidade da Defensoria Pública.",
+      "Ação coletiva passiva."
+     ]
+    },
+    {
+     "item": "24.6",
+     "frases": [
+      "Competência em ações coletivas."
+     ]
+    },
+    {
+     "item": "24.7",
+     "frases": [
+      "Litisconsórcio em ações coletivas."
+     ]
+    },
+    {
+     "item": "24.8",
+     "frases": [
+      "Ônus da prova em ações coletivas.",
+      "Inversão do ônus da prova em ações coletivas."
+     ]
+    },
+    {
+     "item": "24.9",
+     "frases": [
+      "Litispendência, conexão e continência em ações coletivas."
+     ]
+    },
+    {
+     "item": "24.10",
+     "frases": [
+      "Antecipação de tutela e medidas de urgência em ações coletivas."
+     ]
+    },
+    {
+     "item": "24.11",
+     "frases": [
+      "Recursos em ações coletivas."
+     ]
+    },
+    {
+     "item": "24.12",
+     "frases": [
+      "Coisa Julgada em ações coletivas.",
+      "Limites objetivos e subjetivos."
+     ]
+    },
+    {
+     "item": "24.13",
+     "frases": [
+      "Liquidação e Execução em ações coletivas.",
+      "Multa liminar e multa condenatória.",
+      "Execução específica (fazer e não fazer)."
+     ]
+    },
+    {
+     "item": "24.14",
+     "frases": [
+      "As ações individuais em face das ações coletivas."
+     ]
+    },
+    {
+     "item": "24.15",
+     "frases": [
+      "Acordo em ações coletivas e termo de ajustamento de conduta.",
+      "Natureza jurídica e limites de sua realização.",
+      "Legitimidade da Defensoria Pública."
+     ]
+    },
+    {
+     "item": "24.16",
+     "frases": [
+      "Controle difuso de constitucionalidade e Ação Civil Pública.",
+      "A súmula vinculante do STF.",
+      "O reflexo do efeito erga omnes e vinculante nas lides individuais.",
+      "Repercussão geral."
+     ]
+    },
+    {
+     "item": "24.17",
+     "frases": [
+      "Processo coletivo e participação popular.",
+      "Audiência pública (extrajudicial e judicial).",
+      "Intervenção do amicus curiae.",
+      "Intervenção do cidadão, isoladamente ou em grupo.",
+      "A legitimidade do cidadão eleitor para a propositura de Ação Popular.",
+      "A legitimidade do indivíduo para a propositura de ações de direito de vizinhança com reflexos na esfera coletiva."
+     ]
+    },
+    {
+     "item": "24.18",
+     "frases": [
+      "Instrumentos administrativos de resolução extrajudicial de conflitos de natureza coletiva.",
+      "Inquérito civil.",
+      "Poder de requisição do(a) Defensor(a) Público(a) em matéria coletiva."
+     ]
+    },
+    {
+     "item": "24.19",
+     "frases": [
+      "Tutela coletiva dos direitos fundamentais sociais.",
+      "Controle das políticas públicas pelo Poder Judiciário.",
+      "Direito-garantia ao mínimo existencial.",
+      "Reserva do possível.",
+      "Princípio da Separação dos Poderes.",
+      "Priorização da resolução extrajudicial dos conflitos em matéria de políticas públicas sociais."
+     ]
+    },
+    {
+     "item": "24.20",
+     "frases": [
+      "Tutela coletiva do direito à saúde.",
+      "Lei do Sistema Único de Saúde (Lei nº 8.080/90).",
+      "Direito à saúde de grupos sociais vulneráveis: portadores de deficiência, crianças e adolescentes, idosos, portadores de SIDA, vítimas de violência sexual e familiar, pessoas privadas de liberdade, índios, etc. Resolução nº 107/2010 do Conselho Nacional de Justiça."
+     ]
+    },
+    {
+     "item": "24.21",
+     "frases": [
+      "Tutela coletiva do direito à educação.",
+      "Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/96)."
+     ]
+    },
+    {
+     "item": "24.22",
+     "frases": [
+      "Tutela coletiva do direito à cidade e do direito à moradia.",
+      "Competência legislativa e administrativa em matéria urbanística.",
+      "A política urbana na Constituição Federal.",
+      "Funções sociais da cidade e da propriedade urbana.",
+      "O direito à moradia digna como direito fundamental.",
+      "A segurança na posse como garantia da efetividade do direito à moradia.",
+      "Estatuto da Cidade (Lei nº 10.257/2001).",
+      "Diretrizes gerais e princípios da Política Urbana no Estatuto da Cidade.",
+      "Instrumentos da política urbana no Estatuto da Cidade.",
+      "Concessão de uso especial para fins de moradia (Medida Provisória nº 2.220/01).",
+      "Regularização Fundiária de interesse social e de interesse específico (Lei nº 11.977/09).",
+      "Proibição de despejos forçados sem prévia alternativa de moradia.",
+      "Proteção jurídica da moradia nos cortiços.",
+      "Política Nacional para a População em Situação de Rua (Decreto nº 7.053/09)."
+     ]
+    },
+    {
+     "item": "24.23",
+     "frases": [
+      "Tutela coletiva do direito ao saneamento básico.",
+      "Conceito de saneamento básico.",
+      "O Saneamento básico como direito fundamental.",
+      "Política Nacional de Saneamento Básico (Lei nº 11.445/2007 e Decreto nº 7.217/2010)."
+     ]
+    },
+    {
+     "item": "24.24",
+     "frases": [
+      "Tutela coletiva do direito à alimentação.",
+      "O direito à alimentação como direito fundamental social.",
+      "Emenda Constitucional nº 64/2010.",
+      "Sistema Nacional de Segurança Alimentar e Nutricional (Lei nº 11.346/06)."
+     ]
+    },
+    {
+     "item": "24.25",
+     "frases": [
+      "Tutela coletiva do direito ao transporte público.",
+      "O direito ao transporte público como expressão do direito à cidade.",
+      "Tutela coletiva dos direitos das pessoas com deficiência (Lei nº 7.853/89).",
+      "Tutela coletiva dos direitos das pessoas privadas de liberdade.",
+      "(Lei nº 7.210/84, com as alterações trazidas pela Lei nº 12.313/2010).",
+      "Tutela coletiva dos direitos dos idosos.",
+      "Estatuto do Idoso (Lei nº 10.741/2003)."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "MEDIAÇÃO:"
+     ]
+    },
+    {
+     "item": "25.1",
+     "frases": [
+      "Teoria do conflito e os mecanismos autocompositivos."
+     ]
+    },
+    {
+     "item": "25.2",
+     "frases": [
+      "Técnicas de negociação e mediação.",
+      "Procedimentos, posturas, condutas e mecanismos aptos a obter a solução conciliada dos conflitos."
+     ]
+    },
+    {
+     "item": "25.3",
+     "frases": [
+      "Teoria dos Jogos."
+     ]
+    },
+    {
+     "item": "25.4",
+     "frases": [
+      "Fundamentos de negociação."
+     ]
+    },
+    {
+     "item": "25.5",
+     "frases": [
+      "Competências autocompositivas.",
+      "Qualidade em processos autocompositivos."
+     ]
+    },
+    {
+     "item": "25.6",
+     "frases": [
+      "Panorama do processo de mediação."
+     ]
+    },
+    {
+     "item": "25.7",
+     "frases": [
+      "A sessão de mediação."
+     ]
+    },
+    {
+     "item": "25.8",
+     "frases": [
+      "A mediação e o processo judicial."
+     ]
+    },
+    {
+     "item": "25.9",
+     "frases": [
+      "Lei nº 13.140 de 26 de junho de 2015."
+     ]
+    }
+   ]
+  }
+ ]
+}

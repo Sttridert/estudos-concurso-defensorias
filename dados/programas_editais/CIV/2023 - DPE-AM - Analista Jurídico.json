@@ -1,0 +1,244 @@
+{
+ "pasta": "2023 - DPE-AM - Analista Jurídico",
+ "banca": "FCC",
+ "disciplina": "CIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 3267,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Da Pessoa Natural."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Personalidade e Capacidade."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Direitos da Personalidade."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Da Pessoa Jurídica."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Domicílio Civil."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Dos Bens públicos: classificação, afetação e desafetação."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Do Negócio Jurídico: Conceito.",
+      "Classificação.",
+      "Elementos essenciais gerais.",
+      "Elementos acidentais (condição, termo, encargo)."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Defeitos do negócio jurídico (erro ou ignorância, dolo, coação, estado de perigo, lesão, fraude contra credores), invalidade do negócio jurídico."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Do Direito das Obrigações."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Dos vícios redibitórios e da Evicção."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Da responsabilidade civil."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Direito das coisas.",
+      "Posse.",
+      "Teorias da posse.",
+      "Conceito, classificação, aquisição, efeitos, proteção e perda da posse.",
+      "Função social da posse.",
+      "Teorias da função social da posse.",
+      "Conceito, conteúdo e concretização da função social da posse.",
+      "Função socioambiental da posse."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Direitos reais.",
+      "Propriedade.",
+      "Conceito, classificação, aquisição, proteção e perda da propriedade.",
+      "Função social da propriedade: conceito, conteúdo e concretização da função social da propriedade."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Direitos de vizinhança.",
+      "Condomínio geral.",
+      "Condomínio edilício.",
+      "Propriedade resolúvel.",
+      "Propriedade fiduciária."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Direitos reais sobre coisa alheia.",
+      "Superfície.",
+      "Servidões.",
+      "Uso.",
+      "Usufruto.",
+      "Habitação."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Direito real à aquisição.",
+      "Direito do promitente comprador.",
+      "Compromisso de venda e compra.",
+      "Adjudicação compulsória."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Direitos reais em garantia.",
+      "Penhor.",
+      "Hipoteca."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Entidades familiares.",
+      "Origem e conceitos.",
+      "Relações familiares plurais.",
+      "Fundamentos da diversidade familiar e afetiva.",
+      "Diversidade sexual.",
+      "Família homoafetiva.",
+      "Princípios constitucionais da família.",
+      "Princípios constitucionais aplicáveis às relações familiares.",
+      "Planejamento familiar.",
+      "Violência doméstica."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Esponsais.",
+      "Casamento heteroafetivo e homoafetivo: capacidade, impedimentos, causas suspensivas, habilitação, celebração, eficácia, direitos e deveres.",
+      "Invalidade do casamento, separação e divórcio.",
+      "Direito patrimonial.",
+      "Regime de bens: espécies.",
+      "Pacto antenupcial.",
+      "Meação e sucessão do cônjuge.",
+      "Usufruto e administração de bens de filhos incapazes.",
+      "Bem de família."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Relações de parentesco.",
+      "Vínculos de parentesco.",
+      "Multiparentalidade.",
+      "Homoparentalidade.",
+      "Paternidade e maternidade.",
+      "Filiação.",
+      "Princípios relativos à filiação.",
+      "Espécies de filiação.",
+      "Reconhecimento de filhos.",
+      "Socioafetividade.",
+      "Adoção."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Proteção da pessoa dos filhos.",
+      "Convivência familiar.",
+      "Poder familiar.",
+      "Guarda.",
+      "Direito de visitas.",
+      "Alienação Parental."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "União estável heteorafetiva e homoafetiva.",
+      "Aspectos constitucionais.",
+      "Características, estado, impedimentos, direitos, deveres e efeitos patrimoniais.",
+      "Regime de bens, meação e sucessão do companheiro.",
+      "Uniões estáveis concomitantes.",
+      "Concubinato."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Alimentos.",
+      "Princípios informativos do direito alimentar.",
+      "Conceito.",
+      "Natureza.",
+      "Classificação dos alimentos.",
+      "Características do direito alimentar.",
+      "Características da obrigação alimentar.",
+      "Origens e sujeitos das obrigações alimentares.",
+      "Alimentos Gravídicos.",
+      "Tutela, curatela e tomada de decisão apoiada."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Sucessão.",
+      "Disposições gerais.",
+      "Herança.",
+      "Vocação hereditária.",
+      "Aceitação e renúncia.",
+      "Exclusão da sucessão.",
+      "Herança jacente.",
+      "Herança vacante.",
+      "Sucessão legítima e sucessão testamentária.",
+      "Inventário e partilha.",
+      "Arrolamentos.",
+      "Alvarás judiciais.",
+      "Partilha de bens e direitos."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,246 @@
+{
+ "disciplina": "Direito Processual Civil",
+ "sem_acento": true,
+ "herdar_do_pai": true,
+ "temas": [
+  {
+   "codigo": "PC01",
+   "nome": "Normas processuais e princípios"
+  },
+  {
+   "codigo": "PC02",
+   "nome": "Jurisdição, ação e solução de conflitos"
+  },
+  {
+   "codigo": "PC03",
+   "nome": "Sujeitos do processo"
+  },
+  {
+   "codigo": "PC04",
+   "nome": "Atos processuais, prazos e nulidades"
+  },
+  {
+   "codigo": "PC05",
+   "nome": "Tutela provisória"
+  },
+  {
+   "codigo": "PC06",
+   "nome": "Processo de conhecimento e procedimento comum"
+  },
+  {
+   "codigo": "PC07",
+   "nome": "Cumprimento de sentença e execução"
+  },
+  {
+   "codigo": "PC08",
+   "nome": "Recursos, tribunais e precedentes"
+  },
+  {
+   "codigo": "PC09",
+   "nome": "Procedimentos especiais"
+  },
+  {
+   "codigo": "PC10",
+   "nome": "Processo coletivo"
+  },
+  {
+   "codigo": "PC11",
+   "nome": "Ações constitucionais"
+  },
+  {
+   "codigo": "PC12",
+   "nome": "Juizados Especiais"
+  }
+ ],
+ "topicos": [
+  {
+   "codigo": "PC01.01",
+   "tema": "PC01",
+   "nome": "Normas processuais, CPC/2015, constitucionalização e efetividade do processo",
+   "regex": "normas de direito processual|normas processuais|natureza juridica, fontes|codigo de processo civil|13\\.105|constituicao e processo|constitucionalizacao|efetividade do processo|reformas processuais|acesso a tutela|provimento jurisdicional como instrumento|teoria geral do processo|^processo\\b|neoprocessualismo|interpretacao e aplicacao das normas|eficacia das normas processuais|livro complementar|disposicoes finais e transitorias|direito processual intertemporal"
+  },
+  {
+   "codigo": "PC01.02",
+   "tema": "PC01",
+   "nome": "Princípios processuais e direitos fundamentais no processo",
+   "regex": "principios|direitos fundamentais e processo|conteudo juridico do direito de defesa|contraditorio|ampla defesa|devido processo|duracao razoavel|boa-fe|cooperacao|isonomia|publicidade|motivacao"
+  },
+  {
+   "codigo": "PC02.01",
+   "tema": "PC02",
+   "nome": "Jurisdição e competência",
+   "regex": "jurisdicao(?! voluntaria)|competencia(?! (do|da|dos|das) (tribunal|tribunais|stf|stj))|incompetencia|prevencao|conexao|continencia|foro|criterios de determinacao|modificacao da competencia"
+  },
+  {
+   "codigo": "PC02.02",
+   "tema": "PC02",
+   "nome": "Ação: teorias, condições, elementos, cumulação; pressupostos processuais",
+   "regex": "^acao\\.?$|acao: teorias|condicoes da acao|teoria da assercao|elementos da acao|cumulacao|pressupostos processuais|interesse de agir|legitimidade|causa de pedir|classificacao das acoes|acao e processo|acao de conhecimento|acao declaratoria de inexistencia"
+  },
+  {
+   "codigo": "PC02.03",
+   "tema": "PC02",
+   "nome": "Meios alternativos de solução de conflitos: conciliação, mediação e arbitragem",
+   "regex": "meios alternativos|autotutela|autocomposicao|conciliacao|mediacao|arbitragem|resolucao cnj n.{0,3}125|13\\.140|345/2021|372/2021|385/2021|justica multiportas|solucao consensual"
+  },
+  {
+   "codigo": "PC03.01",
+   "tema": "PC03",
+   "nome": "Partes, capacidade, litisconsórcio e intervenção de terceiros",
+   "regex": "sujeitos do processo|partes|capacidade processual|litisconsorcio|sucessao das partes|deveres das partes|responsabilidade por dano processual|assistencia(?! judiciaria)|intervencao de terceiros|denunciacao da lide|chamamento ao processo|desconsideracao da personalidade|amicus curiae|litigancia de ma-fe|honorarios|despesas processuais|capacidade postulatoria"
+  },
+  {
+   "codigo": "PC03.02",
+   "tema": "PC03",
+   "nome": "Juiz e auxiliares da justiça",
+   "regex": "^juiz|juiz e (dos )?auxiliares|auxiliares da justica|poderes, deveres e responsabilidade do juiz|escrivao|oficial de justica|perito|conciliadores|do juiz"
+  },
+  {
+   "codigo": "PC03.03",
+   "tema": "PC03",
+   "nome": "Ministério Público, Advocacia Pública, Defensoria Pública e assistência judiciária",
+   "regex": "ministerio publico|defensoria publica|advocacia publica|prerrogativas|custos vulnerabilis|procuradores|assistencia judiciaria|advocacia|gratuidade da justica|funcoes essenciais"
+  },
+  {
+   "codigo": "PC03.04",
+   "tema": "PC03",
+   "nome": "Fazenda Pública em juízo",
+   "regex": "fazenda publica|fazenda nos procedimentos|polos ativo e passivo|remessa necessaria|precatorios?|requisicao de pequeno valor|execucao contra a fazenda|duplo grau obrigatorio|a fazenda"
+  },
+  {
+   "codigo": "PC04.01",
+   "tema": "PC04",
+   "nome": "Atos processuais, prazos, comunicação e processo eletrônico",
+   "regex": "atos processuais|forma dos atos|tempo e lugar|comunicacao dos atos|prazos|processo eletronico|distribuicao e registro|valor da causa|citacao|intimacao|cartas precatorias|calendario processual|negocios processuais|formacao, suspensao e extincao do processo"
+  },
+  {
+   "codigo": "PC04.02",
+   "tema": "PC04",
+   "nome": "Nulidades e preclusão",
+   "regex": "nulidades|preclusao|invalidades|vicios dos atos processuais|querela nullitatis|inexistencia de ato processual|ato processual defeituoso"
+  },
+  {
+   "codigo": "PC05.01",
+   "tema": "PC05",
+   "nome": "Tutela provisória: urgência, evidência, antecedente e estabilização",
+   "regex": "tutela provisoria|tutela de urgencia|tutela da evidencia|tutela antecedente|estabilizacao|tutela cautelar|tutela especifica|tutelas declaratorias|medidas tutelares|tutela inibitoria|liminar(?! do pedido)|tutela incidente"
+  },
+  {
+   "codigo": "PC06.01",
+   "tema": "PC06",
+   "nome": "Petição inicial, improcedência liminar e procedimento comum",
+   "regex": "peticao inicial|improcedencia liminar|indeferimento da peticao|procedimento comum|audiencia de conciliacao ou de mediacao|teoria geral do procedimento|^do procedimento|procedimento sumario|processo de conhecimento"
+  },
+  {
+   "codigo": "PC06.02",
+   "tema": "PC06",
+   "nome": "Resposta do réu: contestação, reconvenção e revelia",
+   "regex": "contestacao|reconvencao|revelia|postulacao e defesa|defesas do reu|resposta do reu|excecoes"
+  },
+  {
+   "codigo": "PC06.03",
+   "tema": "PC06",
+   "nome": "Providências preliminares, saneamento e julgamento conforme o estado do processo",
+   "regex": "providencias preliminares|saneamento|julgamento conforme o estado|julgamento antecipado|decisao de saneamento"
+  },
+  {
+   "codigo": "PC06.04",
+   "tema": "PC06",
+   "nome": "Provas e audiência de instrução e julgamento",
+   "regex": "^provas|(?<!parte )provas|onus da prova|provas ilicitas|provas tipicas|audiencia de instrucao|prova pericial|prova testemunhal|prova documental|ata notarial|inspecao judicial|depoimento pessoal|provas em especie|objeto, fonte e meios|fatos que independem de prova|fatos notorios|presuncoes"
+  },
+  {
+   "codigo": "PC06.05",
+   "tema": "PC06",
+   "nome": "Sentença, coisa julgada e liquidação",
+   "regex": "sentenca(?!s? (estrangeira))|coisa julgada|liquidacao|elementos da sentenca|efeitos da sentenca"
+  },
+  {
+   "codigo": "PC07.01",
+   "tema": "PC07",
+   "nome": "Cumprimento de sentença",
+   "regex": "cumprimento de sentenca|do cumprimento|cumprimento da sentenca|conhecimento e cumprimento"
+  },
+  {
+   "codigo": "PC07.02",
+   "tema": "PC07",
+   "nome": "Execução: espécies, títulos, responsabilidade patrimonial e penhora",
+   "regex": "processo de execucao|processos de execucao|execucao em geral|execucao para entrega|execucao de obrigacoes|especies de execucao|responsabilidade patrimonial|titulo executivo|execucao (provisoria|definitiva)|penhora|expropriacao|execucao por quantia|diversas especies de execucao|^execucao\\.?$"
+  },
+  {
+   "codigo": "PC07.03",
+   "tema": "PC07",
+   "nome": "Defesas do devedor e de terceiros: embargos, impugnação, suspensão e extinção",
+   "regex": "defesas do devedor|embargos a execucao|impugnacao|acoes prejudiciais a execucao|suspensao e extincao do processo de execucao|excecao de pre-executividade|embargos de terceiro"
+  },
+  {
+   "codigo": "PC07.04",
+   "tema": "PC07",
+   "nome": "Execução de alimentos",
+   "regex": "execucao de alimentos|lei de alimentos|prisao civil"
+  },
+  {
+   "codigo": "PC08.01",
+   "tema": "PC08",
+   "nome": "Teoria geral dos recursos e recursos em espécie",
+   "regex": "teoria geral dos recursos|recursos e meios de impugnacao|apelacao|agravo|embargos de declaracao|embargos de divergencia|duplo grau|admissibilidade|^recursos\\.?$|principios recursais|recursos nos tribunais|recursos em especie|recurso ordinario|agravo|embargos"
+  },
+  {
+   "codigo": "PC08.02",
+   "tema": "PC08",
+   "nome": "Processos nos tribunais, incidentes, ação rescisória e reclamação",
+   "regex": "processos? nos tribunais|ordem dos processos|incidente de resolucao|irdr|assuncao de competencia|recursos repetitivos|acao rescisoria|^reclamacao|reclamacao constitucional|uniformizacao de jurisprudencia|arguicao de inconstitucionalidade|regimento interno"
+  },
+  {
+   "codigo": "PC08.03",
+   "tema": "PC08",
+   "nome": "Tribunais superiores, repercussão geral, súmulas e precedentes",
+   "regex": "tribunais superiores|repercussao geral|sumula|precedentes|distinguishing|overrul|enunciados|11\\.417|recurso especial|recurso extraordinario|jurisprudencia"
+  },
+  {
+   "codigo": "PC09.01",
+   "tema": "PC09",
+   "nome": "Procedimentos especiais e jurisdição voluntária",
+   "regex": "procedimentos especiais|jurisdicao voluntaria|inventario|arrolamento|alvara|extrajudiciais|partilha|testamento|curatela|interdicao|nomeacao de tutor|notificacao|homologacao"
+  },
+  {
+   "codigo": "PC09.02",
+   "tema": "PC09",
+   "nome": "Ações de família e de estado",
+   "regex": "acoes de familia|alimentos|vinculo parental|uniao estavel|investigacao de paternidade|guarda|separacao|divorcio|adocao"
+  },
+  {
+   "codigo": "PC09.03",
+   "tema": "PC09",
+   "nome": "Ações possessórias, usucapião e ações da Lei do Inquilinato",
+   "regex": "acoes possessorias|petitorias|usucapiao|locacao|despejo|consignatoria|renovatoria|reintegracao de posse|nunciacao|possessorias"
+  },
+  {
+   "codigo": "PC10.01",
+   "tema": "PC10",
+   "nome": "Processo coletivo: ação civil pública, ação popular e microssistema",
+   "regex": "acao civil publica|acao popular|processo coletivo|tutela coletiva|microssistema|transindividual|direitos difusos|improbidade|^no codigo de defesa|^no estatuto|^na lei de|coisa julgada coletiva|interesses coletivos|^no estatuto das cidades|conversao da acao individual|interesses? (difusos|coletivos|individuais homogeneos)|direitos e interesses difusos|transindividuais|audiencia publica|instrumentos administrativos de resolucao extrajudicial|processos? estruturais?|intervencao do cidadao"
+  },
+  {
+   "codigo": "PC11.01",
+   "tema": "PC11",
+   "nome": "Ações constitucionais: mandado de segurança, habeas corpus, habeas data, mandado de injunção, ADI, ADC e ADPF",
+   "regex": "mandado de seguranca|habeas corpus|habeas data|mandado de injuncao|remedios constitucionais|acao direta de inconstitucionalidade|adpf|descumprimento de preceito|acao declaratoria de constitucionalidade|controle concentrado"
+  },
+  {
+   "codigo": "PC12.01",
+   "tema": "PC12",
+   "nome": "Juizados Especiais Cíveis e da Fazenda Pública",
+   "regex": "juizados? especiais?|9\\.099|12\\.153|10\\.259|juizados da fazenda"
+  }
+ ],
+ "outra_disciplina": {
+  "Direito Civil (conteúdo material)": "regime de bens|pacto antenupcial|poder familiar|obrigacoes|contratos? de|responsabilidade civil|direito das sucessoes",
+  "Constituição estadual e leis locais (conteúdo local)": "constituicao do estado|lei estadual|lei municipal|lei complementar estadual",
+  "Direito do Consumidor": "consumidor|relacoes? de consumo|8\\.078|publicidade enganosa|praticas abusivas",
+  "Direito Penal": "crimes? contra|responsabilidade penal|penas?\\b",
+  "Texto do edital (não é conteúdo)": "diario oficial eletronico|diario oficial|pagina \\d+|publicado no diario|edital n.{0,4}\\d|0800|defensoria publica do estado de|concurso publico \\d+"
+ },
+ "congelada": "v1 em 14/11/2026",
+ "fragmentos_genericos": "^(disposicoes (gerais|comuns|finais)|classificacoes?|conceito|conceitos|principios|caracteristicas|natureza|requisitos|efeitos|especies|elementos|fontes|objeto|fases|forma|audiencias|aspectos processuais|estrutura|competencia|procedimento|generalidades|noções|nocoes|jurisprudencia.*|enunciados.*|legislacao (pertinente|especial|federal.*)|demais aspectos.*)\\.?$"
+}

@@ -1,0 +1,26 @@
+# perfil.toml: perfil do concurso (fonte do perfil; a tabela `perfis` do banco é só cópia). Plano 06, Etapa 2b.
+# ATENÇÃO: mudar banca, cargo, órgão, edital, universo, pesos, meia-vida, disciplina ou bloco invalida a confirmação
+# (o motor e o gerador recusam). Depois de mostrar ao usuário e ter o "sim" dele: scripts/72_perfil.py confirmar.
+
+nome = "Defensor Público Defensoria - estudo geral (FCC)"
+banca = "FCC"
+carreira = "Defensoria Pública"
+cargo = "Defensor Público"
+ano_referencia = 2026
+edital_id = 1
+meia_vida = 8
+estudo_geral = true
+pesos = { A = 1, B = 0.5, C = 0.25 }
+
+[universo]
+nome = "Todas as questões"
+descricao = "Todas as provas do banco, de qualquer banca, carreira e cargo."
+filtro = {  }
+
+[[apostila]]
+id = 1
+disciplina = "Direitos Humanos"
+nome = "Direitos Humanos · Defensor Público · FCC (estudo geral)"
+confirmado_em = "2026-11-12"
+confirmado_hash = "9b9697033ec59ffc"
+observacoes = "Piloto do fluxo novo; informado pelo usuário no chat em 12/11/2026."

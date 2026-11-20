@@ -1,0 +1,900 @@
+{
+ "disciplina": "Direito Constitucional",
+ "assuntos": [
+  {
+   "codigo": "CO01",
+   "nome": "Teoria da Constituição",
+   "descricao": "Constitucionalismo, poder constituinte, eficácia das normas e interpretação."
+  },
+  {
+   "codigo": "CO02",
+   "nome": "Estado, democracia e separação dos poderes",
+   "descricao": "Fundamentos teóricos da organização do poder."
+  },
+  {
+   "codigo": "CO03",
+   "nome": "Princípios fundamentais e disposições gerais",
+   "descricao": "Arts. 1º a 4º, preâmbulo, disposições gerais e ADCT."
+  },
+  {
+   "codigo": "CO04",
+   "nome": "Direitos fundamentais",
+   "descricao": "Teoria geral e direitos em espécie."
+  },
+  {
+   "codigo": "CO05",
+   "nome": "Garantias dos direitos fundamentais",
+   "descricao": "Instrumentos de proteção judicial e não judicial."
+  },
+  {
+   "codigo": "CO06",
+   "nome": "Constituição e direitos humanos",
+   "descricao": "Relação entre a ordem constitucional e o direito internacional dos direitos humanos."
+  },
+  {
+   "codigo": "CO07",
+   "nome": "Direitos sociais",
+   "descricao": "Teoria geral e direitos em espécie."
+  },
+  {
+   "codigo": "CO08",
+   "nome": "Nacionalidade e direitos políticos",
+   "descricao": "Vínculo com o Estado e participação política."
+  },
+  {
+   "codigo": "CO09",
+   "nome": "Organização do Estado",
+   "descricao": "Federação, entes federativos e intervenção."
+  },
+  {
+   "codigo": "CO10",
+   "nome": "Administração pública e responsabilidade do Estado",
+   "descricao": "Regras constitucionais da Administração."
+  },
+  {
+   "codigo": "CO11",
+   "nome": "Poder Legislativo",
+   "descricao": "Congresso Nacional, processo legislativo e fiscalização."
+  },
+  {
+   "codigo": "CO12",
+   "nome": "Poder Executivo",
+   "descricao": "Chefia do Executivo."
+  },
+  {
+   "codigo": "CO13",
+   "nome": "Poder Judiciário",
+   "descricao": "Organização e competências."
+  },
+  {
+   "codigo": "CO14",
+   "nome": "Funções essenciais à Justiça",
+   "descricao": "Ministério Público, advocacia e Defensoria."
+  },
+  {
+   "codigo": "CO15",
+   "nome": "Controle de constitucionalidade",
+   "descricao": "Teoria, vias e efeitos."
+  },
+  {
+   "codigo": "CO16",
+   "nome": "Defesa do Estado e segurança pública",
+   "descricao": "Situações de crise, Forças Armadas e segurança pública."
+  },
+  {
+   "codigo": "CO17",
+   "nome": "Tributação, finanças públicas e orçamento",
+   "descricao": "Regras constitucionais tributárias e orçamentárias."
+  },
+  {
+   "codigo": "CO18",
+   "nome": "Ordem econômica e financeira",
+   "descricao": "Princípios da ordem econômica e política urbana e agrícola."
+  },
+  {
+   "codigo": "CO19",
+   "nome": "Ordem social: seguridade social",
+   "descricao": "Saúde, previdência e assistência social."
+  },
+  {
+   "codigo": "CO20",
+   "nome": "Ordem social: educação, cultura e desporto",
+   "descricao": null
+  },
+  {
+   "codigo": "CO21",
+   "nome": "Ordem social: ciência, comunicação e meio ambiente",
+   "descricao": null
+  },
+  {
+   "codigo": "CO22",
+   "nome": "Ordem social: família e grupos protegidos",
+   "descricao": null
+  }
+ ],
+ "pontos": [
+  {
+   "codigo": "CO01.01",
+   "assunto": "CO01",
+   "texto": "Constitucionalismo e história das Constituições",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO01.02",
+   "assunto": "CO01",
+   "texto": "Conceito e classificação das Constituições",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO01.03",
+   "assunto": "CO01",
+   "texto": "Poder constituinte",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO01.04",
+   "assunto": "CO01",
+   "texto": "Reforma e mutação constitucional",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO01.05",
+   "assunto": "CO01",
+   "texto": "Eficácia e aplicabilidade das normas constitucionais",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO01.06",
+   "assunto": "CO01",
+   "texto": "Recepção e direito intertemporal constitucional",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO01.07",
+   "assunto": "CO01",
+   "texto": "Hermenêutica e interpretação constitucional",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO02.01",
+   "assunto": "CO02",
+   "texto": "Teoria do Estado e democracia",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO02.02",
+   "assunto": "CO02",
+   "texto": "Separação dos poderes",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO03.01",
+   "assunto": "CO03",
+   "texto": "Princípios fundamentais da República",
+   "descricao": "Arts. 1º a 4º.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO03.02",
+   "assunto": "CO03",
+   "texto": "Preâmbulo da Constituição",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO03.03",
+   "assunto": "CO03",
+   "texto": "Disposições constitucionais gerais",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO03.04",
+   "assunto": "CO03",
+   "texto": "Ato das Disposições Constitucionais Transitórias",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO04.01",
+   "assunto": "CO04",
+   "texto": "Teoria geral dos direitos fundamentais",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO04.02",
+   "assunto": "CO04",
+   "texto": "Direitos e deveres individuais e coletivos",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO04.03",
+   "assunto": "CO04",
+   "texto": "Igualdade e não discriminação",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO05.01",
+   "assunto": "CO05",
+   "texto": "Remédios constitucionais",
+   "descricao": "Habeas corpus, habeas data, mandado de segurança, mandado de injunção e ação popular. [Tema compartilhado com Direito Processual Penal e Direitos Humanos]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO05.02",
+   "assunto": "CO05",
+   "texto": "Proteção não judicial e participação social",
+   "descricao": "Controle social.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO05.03",
+   "assunto": "CO05",
+   "texto": "Políticas públicas e controle judicial",
+   "descricao": "Controle judicial e extrajudicial de políticas públicas.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO05.04",
+   "assunto": "CO05",
+   "texto": "Tutela coletiva",
+   "descricao": "[Tema compartilhado com Direito Processual Civil]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO06.01",
+   "assunto": "CO06",
+   "texto": "Constituição e tratados de direitos humanos",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO06.02",
+   "assunto": "CO06",
+   "texto": "Justiça de transição, memória e verdade",
+   "descricao": "[Tema compartilhado com Direitos Humanos] (confirmar: sem item de edital que cite o nome)",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO07.01",
+   "assunto": "CO07",
+   "texto": "Teoria geral dos direitos sociais",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO07.02",
+   "assunto": "CO07",
+   "texto": "Direitos sociais em espécie",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO07.03",
+   "assunto": "CO07",
+   "texto": "Direitos dos trabalhadores",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO08.01",
+   "assunto": "CO08",
+   "texto": "Nacionalidade",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO08.02",
+   "assunto": "CO08",
+   "texto": "Estrangeiros e migrantes",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO08.03",
+   "assunto": "CO08",
+   "texto": "Direitos políticos",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO08.04",
+   "assunto": "CO08",
+   "texto": "Partidos políticos e sistemas eleitorais",
+   "descricao": "(confirmar: sem item de edital que cite o nome)",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO08.05",
+   "assunto": "CO08",
+   "texto": "Participação popular direta",
+   "descricao": "Plebiscito, referendo e iniciativa popular.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO09.01",
+   "assunto": "CO09",
+   "texto": "Federação brasileira",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO09.02",
+   "assunto": "CO09",
+   "texto": "Repartição de competências",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO09.03",
+   "assunto": "CO09",
+   "texto": "União",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO09.04",
+   "assunto": "CO09",
+   "texto": "Estados",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO09.05",
+   "assunto": "CO09",
+   "texto": "Municípios",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO09.06",
+   "assunto": "CO09",
+   "texto": "Distrito Federal e Territórios",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO09.07",
+   "assunto": "CO09",
+   "texto": "Intervenção federal e estadual",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO10.01",
+   "assunto": "CO10",
+   "texto": "Administração pública: princípios e regras constitucionais",
+   "descricao": "[Tema compartilhado com Direito Administrativo]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO10.02",
+   "assunto": "CO10",
+   "texto": "Servidores públicos",
+   "descricao": "[Tema compartilhado com Direito Administrativo]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO10.03",
+   "assunto": "CO10",
+   "texto": "Responsabilidade civil do Estado",
+   "descricao": "[Tema compartilhado com Direito Administrativo]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO10.04",
+   "assunto": "CO10",
+   "texto": "Controles administrativos",
+   "descricao": "[Tema compartilhado com Direito Administrativo] (confirmar: sem item de edital que cite o nome)",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO11.01",
+   "assunto": "CO11",
+   "texto": "Poder Legislativo e Congresso Nacional",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO11.02",
+   "assunto": "CO11",
+   "texto": "Estatuto dos parlamentares",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO11.03",
+   "assunto": "CO11",
+   "texto": "Comissões parlamentares de inquérito",
+   "descricao": "Confirmar se é cobrado.",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO11.04",
+   "assunto": "CO11",
+   "texto": "Processo legislativo",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO11.05",
+   "assunto": "CO11",
+   "texto": "Espécies normativas",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO11.06",
+   "assunto": "CO11",
+   "texto": "Fiscalização contábil, financeira e orçamentária",
+   "descricao": "[Tema compartilhado com Direito Administrativo]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO11.07",
+   "assunto": "CO11",
+   "texto": "Tribunais de Contas",
+   "descricao": "[Tema compartilhado com Direito Administrativo]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO12.01",
+   "assunto": "CO12",
+   "texto": "Presidente da República: atribuições",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO12.02",
+   "assunto": "CO12",
+   "texto": "Responsabilidade do Presidente da República",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO12.03",
+   "assunto": "CO12",
+   "texto": "Poder regulamentar",
+   "descricao": "[Tema compartilhado com Direito Administrativo]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO13.01",
+   "assunto": "CO13",
+   "texto": "Organização e competências do Poder Judiciário",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO13.02",
+   "assunto": "CO13",
+   "texto": "Conselho Nacional de Justiça",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO13.03",
+   "assunto": "CO13",
+   "texto": "Súmula vinculante",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO14.01",
+   "assunto": "CO14",
+   "texto": "Ministério Público",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO14.02",
+   "assunto": "CO14",
+   "texto": "Advocacia e Advocacia Pública",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO14.03",
+   "assunto": "CO14",
+   "texto": "Acesso à justiça e Defensoria Pública",
+   "descricao": "[Tema compartilhado com Princípios e Atribuições Institucionais da Defensoria]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO15.01",
+   "assunto": "CO15",
+   "texto": "Teoria do controle de constitucionalidade",
+   "descricao": "Inconstitucionalidade, supremacia e bloco de constitucionalidade.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO15.02",
+   "assunto": "CO15",
+   "texto": "Controle difuso",
+   "descricao": "Repercussão geral e reclamação.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO15.03",
+   "assunto": "CO15",
+   "texto": "Controle concentrado",
+   "descricao": "ADI, ADC, ADO e ADPF.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO15.04",
+   "assunto": "CO15",
+   "texto": "Técnicas e efeitos das decisões",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO15.05",
+   "assunto": "CO15",
+   "texto": "Controle estadual de constitucionalidade",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO15.06",
+   "assunto": "CO15",
+   "texto": "Controle de convencionalidade",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO16.01",
+   "assunto": "CO16",
+   "texto": "Estado de defesa e estado de sítio",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO16.02",
+   "assunto": "CO16",
+   "texto": "Forças Armadas",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO16.03",
+   "assunto": "CO16",
+   "texto": "Segurança pública",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO17.01",
+   "assunto": "CO17",
+   "texto": "Sistema tributário nacional",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO17.02",
+   "assunto": "CO17",
+   "texto": "Finanças públicas e orçamentos",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO17.03",
+   "assunto": "CO17",
+   "texto": "Precatórios",
+   "descricao": "[Tema compartilhado com Direito Processual Civil]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO18.01",
+   "assunto": "CO18",
+   "texto": "Princípios da ordem econômica e atuação do Estado na economia",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO18.02",
+   "assunto": "CO18",
+   "texto": "Sistema financeiro nacional",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO18.03",
+   "assunto": "CO18",
+   "texto": "Política urbana",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO18.04",
+   "assunto": "CO18",
+   "texto": "Política agrícola e reforma agrária",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO19.01",
+   "assunto": "CO19",
+   "texto": "Saúde",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO19.02",
+   "assunto": "CO19",
+   "texto": "Previdência social",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO19.03",
+   "assunto": "CO19",
+   "texto": "Assistência social",
+   "descricao": "[Tema compartilhado com Direitos Humanos e ECA]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO20.01",
+   "assunto": "CO20",
+   "texto": "Educação",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO20.02",
+   "assunto": "CO20",
+   "texto": "Cultura",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO20.03",
+   "assunto": "CO20",
+   "texto": "Desporto",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO21.01",
+   "assunto": "CO21",
+   "texto": "Ciência e tecnologia",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO21.02",
+   "assunto": "CO21",
+   "texto": "Comunicação social",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO21.03",
+   "assunto": "CO21",
+   "texto": "Meio ambiente",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO22.01",
+   "assunto": "CO22",
+   "texto": "Família",
+   "descricao": "[Tema compartilhado com Direito Civil]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CO22.02",
+   "assunto": "CO22",
+   "texto": "Criança e adolescente",
+   "descricao": "[Tema compartilhado com ECA]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO22.03",
+   "assunto": "CO22",
+   "texto": "Idosos",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO22.04",
+   "assunto": "CO22",
+   "texto": "Pessoas com deficiência",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CO22.05",
+   "assunto": "CO22",
+   "texto": "Povos indígenas e comunidades tradicionais",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  }
+ ]
+}

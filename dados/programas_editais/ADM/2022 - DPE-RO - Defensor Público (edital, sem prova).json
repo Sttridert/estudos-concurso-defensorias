@@ -1,0 +1,831 @@
+{
+ "pasta": "2022 - DPE-RO - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 5534,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Introdução ao direito administrativo."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Origem e objeto do direito administrativo."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Fontes do direito administrativo."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Sistemas administrativos: sistema inglês, sistema francês e sistema adotado no Brasil."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Administração pública."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Administração pública em sentido amplo e em sentido estrito."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Administração pública em sentido objetivo e em sentido subjetivo."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Princípios expressos e implícitos da administração pública."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Administração pública na Constituição Federal de 1988."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Regime jurídico-administrativo."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Supremacia do interesse público sobre o privado e indisponibilidade do interesse público."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Organização administrativa."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Centralização, descentralização, concentração e desconcentração."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Administração direta."
+     ]
+    },
+    {
+     "item": "4.2.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "4.2.2",
+     "frases": [
+      "Órgão público: conceito; teorias sobre as relações do Estado com os agentes públicos; características; e classificação."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Administração indireta."
+     ]
+    },
+    {
+     "item": "4.3.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "4.3.2",
+     "frases": [
+      "Autarquias."
+     ]
+    },
+    {
+     "item": "4.3.3",
+     "frases": [
+      "Agências reguladoras."
+     ]
+    },
+    {
+     "item": "4.3.4",
+     "frases": [
+      "Agências executivas."
+     ]
+    },
+    {
+     "item": "4.3.5",
+     "frases": [
+      "Fundações públicas."
+     ]
+    },
+    {
+     "item": "4.3.6",
+     "frases": [
+      "Empresas públicas."
+     ]
+    },
+    {
+     "item": "4.3.7",
+     "frases": [
+      "Sociedades de economia mista."
+     ]
+    },
+    {
+     "item": "4.3.8",
+     "frases": [
+      "Consórcios públicos."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Serviços sociais autônomos; entidades de apoio; organizações sociais; organizações da sociedade civil de interesse público."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Atos administrativos."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Fatos da administração, atos da administração e atos administrativos."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "Requisitos ou elementos."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Atributos."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "Atos administrativos em espécie."
+     ]
+    },
+    {
+     "item": "5.7",
+     "frases": [
+      "O silêncio no direito administrativo."
+     ]
+    },
+    {
+     "item": "5.8",
+     "frases": [
+      "Extinção dos atos administrativos: revogação, anulação e cassação."
+     ]
+    },
+    {
+     "item": "5.9",
+     "frases": [
+      "Convalidação."
+     ]
+    },
+    {
+     "item": "5.10",
+     "frases": [
+      "Vinculação e discricionariedade."
+     ]
+    },
+    {
+     "item": "5.11",
+     "frases": [
+      "Atos administrativos nulos, anuláveis e inexistentes."
+     ]
+    },
+    {
+     "item": "5.12",
+     "frases": [
+      "Decadência administrativa."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Processo administrativo."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Lei nº 9.784/1999 e suas alterações."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Disposições doutrinárias aplicáveis."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Poderes e deveres da administração pública."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Poder regulamentar."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Poder hierárquico."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Poder disciplinar."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Poder de polícia."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Dever de agir."
+     ]
+    },
+    {
+     "item": "7.6",
+     "frases": [
+      "Dever de eficiência."
+     ]
+    },
+    {
+     "item": "7.7",
+     "frases": [
+      "Dever de probidade."
+     ]
+    },
+    {
+     "item": "7.8",
+     "frases": [
+      "Dever de prestação de contas."
+     ]
+    },
+    {
+     "item": "7.9",
+     "frases": [
+      "Abuso do poder."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Serviços públicos."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Legislação pertinente."
+     ]
+    },
+    {
+     "item": "8.1.1",
+     "frases": [
+      "Lei nº 8.987/1995 e suas alterações."
+     ]
+    },
+    {
+     "item": "8.1.2",
+     "frases": [
+      "Lei nº 11.079/2004 e suas alterações (parceria público-privada)."
+     ]
+    },
+    {
+     "item": "8.1.3",
+     "frases": [
+      "Lei nº 13.019/2014 e suas alterações (parcerias entre a administração pública e organizações da sociedade civil)."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Disposições doutrinárias."
+     ]
+    },
+    {
+     "item": "8.2.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "8.2.2",
+     "frases": [
+      "Elementos constitutivos."
+     ]
+    },
+    {
+     "item": "8.2.3",
+     "frases": [
+      "Formas de prestação e meios de execução."
+     ]
+    },
+    {
+     "item": "8.2.4",
+     "frases": [
+      "Delegação: concessão, permissão e autorização."
+     ]
+    },
+    {
+     "item": "8.2.5",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "8.2.6",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "8.2.7",
+     "frases": [
+      "Remuneração."
+     ]
+    },
+    {
+     "item": "8.2.8",
+     "frases": [
+      "Usuários."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Participação, proteção e defesa dos direitos dos usuários de serviços públicos.",
+      "Lei federal nº 13.460/2017.",
+      "O papel das ouvidorias."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Intervenção do Estado na propriedade."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Fundamento."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Modalidades."
+     ]
+    },
+    {
+     "item": "9.3.1",
+     "frases": [
+      "Limitação administrativa."
+     ]
+    },
+    {
+     "item": "9.3.2",
+     "frases": [
+      "Servidão administrativa."
+     ]
+    },
+    {
+     "item": "9.3.3",
+     "frases": [
+      "Ocupação temporária."
+     ]
+    },
+    {
+     "item": "9.3.4",
+     "frases": [
+      "Requisição administrativa."
+     ]
+    },
+    {
+     "item": "9.3.5",
+     "frases": [
+      "Tombamento."
+     ]
+    },
+    {
+     "item": "9.3.6",
+     "frases": [
+      "Desapropriação."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Licitações."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Legislação pertinente."
+     ]
+    },
+    {
+     "item": "10.1.1",
+     "frases": [
+      "Lei nº 14.133/2021."
+     ]
+    },
+    {
+     "item": "10.1.2",
+     "frases": [
+      "Lei nº 8.666/1993 e suas alterações."
+     ]
+    },
+    {
+     "item": "10.1.3",
+     "frases": [
+      "Lei nº 10.520/2002 e demais disposições normativas relativas ao pregão."
+     ]
+    },
+    {
+     "item": "10.1.4",
+     "frases": [
+      "Decreto nº 7.892/2013 e suas alterações (Sistema de Registro de Preços)."
+     ]
+    },
+    {
+     "item": "10.1.5",
+     "frases": [
+      "Lei nº 12.462/2011 e suas alterações (Regime Diferenciado de Contratações Públicas)."
+     ]
+    },
+    {
+     "item": "10.1.6",
+     "frases": [
+      "Fundamentos constitucionais."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Disposições doutrinárias."
+     ]
+    },
+    {
+     "item": "10.2.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "10.2.2",
+     "frases": [
+      "Objeto e finalidade."
+     ]
+    },
+    {
+     "item": "10.2.3",
+     "frases": [
+      "Destinatários."
+     ]
+    },
+    {
+     "item": "10.2.4",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "10.2.5",
+     "frases": [
+      "Contratação direta: dispensa e inexigibilidade."
+     ]
+    },
+    {
+     "item": "10.2.6",
+     "frases": [
+      "Modalidades."
+     ]
+    },
+    {
+     "item": "10.2.7",
+     "frases": [
+      "Tipos."
+     ]
+    },
+    {
+     "item": "10.2.8",
+     "frases": [
+      "Procedimento."
+     ]
+    },
+    {
+     "item": "10.2.9",
+     "frases": [
+      "Anulação e revogação."
+     ]
+    },
+    {
+     "item": "10.2.10",
+     "frases": [
+      "Sanções administrativas."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Contratos administrativos."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Responsabilidade contratual."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Legislação pertinente."
+     ]
+    },
+    {
+     "item": "11.2.1",
+     "frases": [
+      "Lei nº 14.133/2021."
+     ]
+    },
+    {
+     "item": "11.2.2",
+     "frases": [
+      "Lei nº 8.666/1993 e suas alterações."
+     ]
+    },
+    {
+     "item": "11.2.3",
+     "frases": [
+      "Lei nº 11.107/2005 e suas alterações e Decreto nº 6.017/2007 (consórcios públicos)."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "Disposições doutrinárias."
+     ]
+    },
+    {
+     "item": "11.3.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "11.3.2",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "11.3.3",
+     "frases": [
+      "Vigência."
+     ]
+    },
+    {
+     "item": "11.3.4",
+     "frases": [
+      "Alterações contratuais."
+     ]
+    },
+    {
+     "item": "11.3.5",
+     "frases": [
+      "Execução, inexecução e rescisão."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Convênios e instrumentos congêneres."
+     ]
+    },
+    {
+     "item": "11.5",
+     "frases": [
+      "Consórcios públicos.",
+      "11.6.1 Lei nº 13.019/2014 - Regime jurídico das parcerias entre a administração pública e as organizações da sociedade civil, em regime de mútua cooperação."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Controle da administração pública."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Controle exercido pela administração pública."
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "Controle legislativo."
+     ]
+    },
+    {
+     "item": "12.4",
+     "frases": [
+      "Controle judicial."
+     ]
+    },
+    {
+     "item": "12.5",
+     "frases": [
+      "Controle da administração pública pelo Tribunal de Contas.",
+      "Controle Social.",
+      "Limites e perspectivas do controle."
+     ]
+    },
+    {
+     "item": "12.6",
+     "frases": [
+      "Lei nº 13.655/2018."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Improbidade administrativa."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Lei nº 8.429/1992 e suas alterações."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Disposições doutrinárias aplicáveis."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Bens públicos."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "14.2",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "14.3",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "14.4",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "14.5",
+     "frases": [
+      "Afetação e desafetação."
+     ]
+    },
+    {
+     "item": "14.6",
+     "frases": [
+      "Aquisição e alienação."
+     ]
+    },
+    {
+     "item": "14.7",
+     "frases": [
+      "Uso dos bens públicos por particular."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Responsabilidade civil do Estado."
+     ]
+    },
+    {
+     "item": "15.1",
+     "frases": [
+      "Evolução histórica."
+     ]
+    },
+    {
+     "item": "15.2",
+     "frases": [
+      "Teorias subjetivas e objetivas da responsabilidade patrimonial do Estado."
+     ]
+    },
+    {
+     "item": "15.3",
+     "frases": [
+      "Responsabilidade por ato comissivo do Estado."
+     ]
+    },
+    {
+     "item": "15.4",
+     "frases": [
+      "Responsabilidade por omissão do Estado.",
+      "16.5 Requisitos para a demonstração da responsabilidade do Estado.",
+      "15.6 Causas excludentes e atenuantes da responsabilidade do Estado.",
+      "15.7 Reparação do dano.",
+      "15.8 Direito de regresso.",
+      "15.9 Responsabilidade primária e subsidiária.",
+      "15.10 Responsabilidade do Estado por atos legislativos.",
+      "15.11 Responsabilidade do Estado por atos judiciais."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "pasta": "2018 - DPE-RS - Defensor Público (edital, sem prova)",
+ "banca": "FCC",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 4585,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito Administrativo e Administração Pública.",
+      "Conceito.",
+      "Objeto.",
+      "Princípios.",
+      "Fontes.",
+      "Poderes da administração.",
+      "Sistemas administrativos e sistema administrativo brasileiro.",
+      "Atividade administrativa.",
+      "Constitucionalização do Direito Administrativo.",
+      "Hierarquia administrativa.",
+      "Desconcentração e descentralização.",
+      "Órgãos públicos"
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Administração Indireta.",
+      "Características.",
+      "Autarquias.",
+      "Empresas públicas.",
+      "Sociedades de economia mista.",
+      "Fundações públicas.",
+      "Concessão.",
+      "Permissão.",
+      "Autorização.",
+      "Delegação."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Poderes administrativos.",
+      "Poder vinculado.",
+      "Poder discricionário.",
+      "Poder hierárquico.",
+      "Poder disciplinar.",
+      "Poder regulamentar.",
+      "Poder de polícia.",
+      "Conceitos.",
+      "Fundamentos.",
+      "Características.",
+      "Elementos.",
+      "Formas de exercício.",
+      "Limites.",
+      "Delegação.",
+      "Uso, abuso e desvio de poder."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Atos Administrativos.",
+      "Conceito e requisitos.",
+      "Atributos.",
+      "Elementos.",
+      "Vinculação e discricionariedade.",
+      "Classificação.",
+      "Vigência e eficácia.",
+      "Efeitos.",
+      "Extinção.",
+      "Revogação.",
+      "Invalidação.",
+      "Convalidação.",
+      "Atos da administração pública.",
+      "Teoria dos motivos determinantes.",
+      "A administração pública e concursos públicos."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Processo Administrativo.",
+      "Conceito.",
+      "Princípios constitucionais.",
+      "Princípios específicos.",
+      "Objeto.",
+      "Espécies.",
+      "Fases.",
+      "Verdade sabida.",
+      "Coisa Julgada Administrativa."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Licitações.",
+      "Regras gerais de licitações.",
+      "Lei de licitações.",
+      "Conceito.",
+      "Princípios.",
+      "Natureza Jurídica.",
+      "Finalidade.",
+      "Obrigatoriedade.",
+      "Modalidades, limites, dispensa e inexigibilidade.",
+      "Procedimento e julgamento.",
+      "Tipos de licitação.",
+      "Revogação e anulação.",
+      "Lei Federal n. 10.520/02.",
+      "Compras e alienações na administração pública."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Negócios Jurídicos da Administração.",
+      "Contrato Administrativo.",
+      "Conceito.",
+      "Princípios.",
+      "Natureza Jurídica.",
+      "Finalidade.",
+      "Classificação.",
+      "Formalização.",
+      "Duração.",
+      "Prorrogação.",
+      "Alteração.",
+      "Cláusula de privilégio.",
+      "Equação Econômico-Financeira.",
+      "Cláusulas exorbitantes.",
+      "Execução.",
+      "Inexecução e rescisão.",
+      "Extinção.",
+      "Recursos administrativos.",
+      "Contratos de Direito Privado celebrados pela Administração.",
+      "Convênios."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Serviços Públicos.",
+      "Conceito.",
+      "Características.",
+      "Classificação.",
+      "Princípios.",
+      "Titularidade.",
+      "Prestação direta.",
+      "Concessão.",
+      "Permissão.",
+      "Prestação indireta.",
+      "Lei Federal nº. 8.987/95.",
+      "Aplicação da Lei Federal nº 8.078/90.",
+      "Direitos dos Usuários.",
+      "Deveres dos Usuários.",
+      "Suspensão da Prestação de Serviço Público.",
+      "Desestatização e Privatização.",
+      "Gestão Associada.",
+      "Regimes de Parceria."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Bens Públicos.",
+      "Conceito.",
+      "Classificação.",
+      "Regimes jurídicos.",
+      "Espécies de bens públicos.",
+      "Afetação e desafetação.",
+      "Aquisição.",
+      "Administração, uso e alienação de bens públicos."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Agentes Públicos.",
+      "Conceito.",
+      "Classificação.",
+      "Regime jurídico.",
+      "Vínculos.",
+      "Deveres.",
+      "Direitos.",
+      "Responsabilidades e Disciplina.",
+      "Poderes.",
+      "Uso e Abuso de Poder.",
+      "Prerrogativas.",
+      "Processo administrativo disciplinar.",
+      "Responsabilidade do agente público e de particulares por improbidade administrativa."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Responsabilidade civil do Estado.",
+      "Conceito.",
+      "Fundamentos.",
+      "Evolução histórica no Estado Brasileiro.",
+      "Exclusão da responsabilidade.",
+      "Teoria da Reserva do Possível.",
+      "Responsabilidade civil por atos legislativos e judiciários.",
+      "Responsabilidade civil de atos de notários e registradores públicos.",
+      "Reparação do dano e direito de regresso.",
+      "Responsabilidade civil das pessoas privadas prestadoras de serviço público.",
+      "Responsabilidade do Estado em decorrência de obras públicas.",
+      "Prescrição."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Intervenção do Estado na propriedade.",
+      "Conceito.",
+      "Fundamento.",
+      "Função Social da Propriedade.",
+      "Meios de Intervenção.",
+      "Limitações Administrativas.",
+      "Ocupação temporária.",
+      "Servidão.",
+      "Tombamento.",
+      "Parcelamento e edificação compulsórios.",
+      "Requisição.",
+      "Alienação de bens sujeitos à limitação ou restrição administrativa."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Desapropriação.",
+      "Tratamento constitucional.",
+      "Competência legislativa e material.",
+      "Desvio de finalidade.",
+      "Consumação da desapropriação.",
+      "Retrocessão.",
+      "Objeto.",
+      "Espécies.",
+      "Desapropriação por zona, para urbanização e reurbanização.",
+      "Desapropriação urbana e rural.",
+      "Procedimento da desapropriação.",
+      "Fases.",
+      "Imissão provisória da posse.",
+      "Indenização.",
+      "Desistência.",
+      "Controle judicial.",
+      "Expropriação."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Atuação do Estado no domínio econômico.",
+      "Princípios gerais da atividade econômica.",
+      "Atividades privadas sob regime especial.",
+      "Competência e modos de intervenção."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Controle da administração.",
+      "Conceito.",
+      "Fundamento.",
+      "Controle interno.",
+      "Controle Administrativo.",
+      "Silêncio.",
+      "Prescrição.",
+      "Coisa Julgada Administrativa.",
+      "Acesso à Informação.",
+      "Controle externo.",
+      "Controle Legislativo e Controle Jurisdicional.",
+      "Espécies.",
+      "Conceitos.",
+      "Instrumentos de controle.",
+      "Extensão do controle.",
+      "Controle Popular.",
+      "Administração pública em juízo.",
+      "As Pessoas de Direito Público e a Fazenda Pública no Novo Código de Processo Civil (Lei 13.105/2015)."
+     ]
+    }
+   ]
+  }
+ ]
+}

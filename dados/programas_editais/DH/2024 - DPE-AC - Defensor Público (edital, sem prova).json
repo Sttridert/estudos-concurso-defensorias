@@ -1,0 +1,373 @@
+{
+ "pasta": "2024 - DPE-AC - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "DH",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITOS HUMANOS",
+   "caracteres": 4173,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Teoria geral dos direitos humanos."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Conceito, terminologia, estrutura normativa, fundamentação."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Teoria crítica dos direitos humanos."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Afirmação histórica dos direitos humanos."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Origem, sentido e evolução histórica dos direitos humanos."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Fundamentos filosóficos dos direitos humanos."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Globalização e direitos humanos."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Proteção internacional dos direitos humanos."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Características dos direitos humanos no direito internacional."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Interpretação e aplicação dos tratados internacionais de proteção aos direitos humanos."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Vertentes da proteção internacional da pessoa humana."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Direitos humanos, direito humanitário e direito dos refugiados."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Interligação entre o direito internacional e o direito interno na proteção dos direitos humanos."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Direitos humanos e a responsabilidade do Estado."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Direitos humanos na Constituição Federal de 1988."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Mecanismos de proteção aos direitos humanos."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Federalização de crimes contra os direitos humanos."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Remédios constitucionais."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Documentos históricos brasileiros."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Constituição brasileira e os tratados internacionais de direitos humanos."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Institucionalização dos direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Incorporação dos tratados internacionais de proteção de direitos humanos ao direito brasileiro."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "Posição hierárquica dos tratados internacionais de direitos humanos em face da Constituição Federal de 1988."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Reflexos do direito internacional nos direitos humanos no direito brasileiro."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Política Nacional de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Programas nacionais de direitos humanos."
+     ]
+    },
+    {
+     "item": "17.1",
+     "frases": [
+      "Programa Nacional de Direitos Humanos I, II e III."
+     ]
+    },
+    {
+     "item": "17.2",
+     "frases": [
+      "Comissão Nacional da Verdade: histórico, atribuições, legislação, audiências públicas e relatórios."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Sistema internacional de proteção dos direitos humanos."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Universalismo, relativismo cultural e hermenêutica diatópica."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Sistema da liga das nações."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Instrumentos internacionais de direitos humanos."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Limites dos direitos humanos na ordem internacional."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Mecanismos de proteção contra as violações de direitos humanos."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Responsabilidade internacional em matéria de direitos humanos."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Regra do esgotamento dos recursos internos na proteção dos direitos humanos."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Mecanismo unilateral e mecanismo institucional ou coletivo."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Sistema internacional de proteção e promoção dos direitos humanos: Organização das Nações Unidas (ONU).",
+      "Assembleia Geral.",
+      "Conselho de Segurança.",
+      "Conselho Econômico Social.",
+      "Conselho de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "27.1",
+     "frases": [
+      "Sistemas convencional e extraconvencional da ONU."
+     ]
+    },
+    {
+     "item": "27.2",
+     "frases": [
+      "Órgãos convencionais e extraconvencionais."
+     ]
+    },
+    {
+     "item": "27.3",
+     "frases": [
+      "Revisão Periódica Universal."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Núcleo de direito internacional dos direitos humanos."
+     ]
+    },
+    {
+     "item": "28.1",
+     "frases": [
+      "Carta das Nações Unidas."
+     ]
+    },
+    {
+     "item": "28.2",
+     "frases": [
+      "Declaração Universal dos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "28.3",
+     "frases": [
+      "Pacto Internacional de Direitos Civis e Políticos (PIDCP)."
+     ]
+    },
+    {
+     "item": "28.4",
+     "frases": [
+      "Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos."
+     ]
+    },
+    {
+     "item": "28.5",
+     "frases": [
+      "Segundo Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos visando à abolição da pena de morte."
+     ]
+    },
+    {
+     "item": "28.6",
+     "frases": [
+      "Pacto Internacional dos Direitos Econômicos, Sociais e Culturais."
+     ]
+    },
+    {
+     "item": "28.7",
+     "frases": [
+      "Protocolo Facultativo ao Pacto Internacional de Direitos Econômicos, Sociais e Culturais."
+     ]
+    },
+    {
+     "item": "28.8",
+     "frases": [
+      "Convenção para a Prevenção e Punição ao Crime de Genocídio."
+     ]
+    },
+    {
+     "item": "28.9",
+     "frases": [
+      "Convenção Relativa ao Estatuto dos Refugiados."
+     ]
+    },
+    {
+     "item": "28.10",
+     "frases": [
+      "Protocolo sobre o Estatuto dos Refugiados."
+     ]
+    },
+    {
+     "item": "28.11",
+     "frases": [
+      "Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial."
+     ]
+    },
+    {
+     "item": "28.12",
+     "frases": [
+      "Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher."
+     ]
+    },
+    {
+     "item": "28.13",
+     "frases": [
+      "Convenção contra a Tortura e Outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes."
+     ]
+    },
+    {
+     "item": "28.14",
+     "frases": [
+      "Convenção sobre os Direitos da Criança."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Responsabilidade internacional dos estados por violação dos direitos humanos: tratados internacionais de direitos humanos e as obrigações assumidas pelo Brasil, formas de reparação e sanções coletivas e unilaterais."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Direitos humanos em espécie e grupos vulneráveis."
+     ]
+    },
+    {
+     "item": "30.1",
+     "frases": [
+      "Direitos humanos das minorias e de vítimas de injustiças históricas: criança e adolescente, idoso, pessoa com deficiência, mulher vítima de violência doméstica e familiar e outros grupos sociais vulneráveis que mereçam proteção especial do Estado."
+     ]
+    }
+   ]
+  }
+ ]
+}

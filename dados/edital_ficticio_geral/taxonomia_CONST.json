@@ -1,0 +1,328 @@
+{
+ "disciplina": "Direito Constitucional",
+ "sem_acento": true,
+ "temas": [
+  {
+   "codigo": "CO01",
+   "nome": "Teoria da Constituição e constitucionalismo"
+  },
+  {
+   "codigo": "CO02",
+   "nome": "Princípios fundamentais e disposições gerais"
+  },
+  {
+   "codigo": "CO03",
+   "nome": "Direitos e garantias fundamentais"
+  },
+  {
+   "codigo": "CO04",
+   "nome": "Direitos sociais"
+  },
+  {
+   "codigo": "CO05",
+   "nome": "Nacionalidade e direitos políticos"
+  },
+  {
+   "codigo": "CO06",
+   "nome": "Organização do Estado"
+  },
+  {
+   "codigo": "CO07",
+   "nome": "Administração pública e responsabilidade do Estado"
+  },
+  {
+   "codigo": "CO08",
+   "nome": "Poder Legislativo e processo legislativo"
+  },
+  {
+   "codigo": "CO09",
+   "nome": "Poder Executivo"
+  },
+  {
+   "codigo": "CO10",
+   "nome": "Poder Judiciário e funções essenciais à Justiça"
+  },
+  {
+   "codigo": "CO11",
+   "nome": "Controle de constitucionalidade"
+  },
+  {
+   "codigo": "CO12",
+   "nome": "Defesa do Estado e segurança pública"
+  },
+  {
+   "codigo": "CO13",
+   "nome": "Tributação, finanças públicas e orçamento"
+  },
+  {
+   "codigo": "CO14",
+   "nome": "Ordem econômica e financeira"
+  },
+  {
+   "codigo": "CO15",
+   "nome": "Ordem social"
+  }
+ ],
+ "topicos": [
+  {
+   "codigo": "CO01.01",
+   "tema": "CO01",
+   "nome": "Constitucionalismo, história das Constituições e teoria da Constituição",
+   "regex": "constitucionalismo|neoconstitucional|historia das constituicoes|constituicoes brasileiras|documentos historicos|teoria da constituicao|^constituicao\\.?$|conceito de constituicao|classificacao das constituicoes|supraconstitucionalidade|transnacional|multinivel|plurinacionalidade|pluralismo juridico|latino-americano|decoloniza|constitucionalizacao simbolica|aportes teoricos|supremacia da constituicao|normatividade|forca normativa|constitucionalizacao|evolucao historica das constituicoes|conceito, origem, objeto|conceito, sentidos|conceito, objeto, elementos|elementos das constituicoes|tipologia das constituicoes|constituicao: tipologia|constituicao: |sistema de normas|sistema constitucional|direito constitucional e os demais|neoliberalismo|conceito, acepcoes|aplicacao da constituicao no tempo|supremacia constitucional|elementos e classificacoes|legitimidade, pauta|liberal|estado social|revolucoes|conceito e surgimento|supremacia e rigidez|constituicao formal|sentidos sociologico"
+  },
+  {
+   "codigo": "CO01.02",
+   "tema": "CO01",
+   "nome": "Poder constituinte e mudança da Constituição",
+   "regex": "poder constituinte|poder reformador|modificacao (formal|informal)|mutac|emendas? (a|da) constituicao|reforma constitucional|formacao da constituicao|clausulas petreas|limitacoes (do|ao) poder|revisao, reforma|processos formais e informais"
+  },
+  {
+   "codigo": "CO01.03",
+   "tema": "CO01",
+   "nome": "Normas constitucionais: eficácia, aplicabilidade e recepção",
+   "regex": "normas constitucionais|eficacia|aplicabilidade|efetividade|teoria da recepcao|recepcao|valores constitucionais|sistema e principios constitucionais|^principios gerais|justiciabilidade|estrutura logica|valores na constituicao|regras e principios|principios constitucionais"
+  },
+  {
+   "codigo": "CO01.04",
+   "tema": "CO01",
+   "nome": "Hermenêutica e interpretação constitucional",
+   "regex": "hermeneutica|interpretacao|razoabilidade|proporcionalidade|ativismo|concretizacao|metodos|principios de interpretacao|sociedade aberta dos interpretes|criacao judicial do direito"
+  },
+  {
+   "codigo": "CO01.05",
+   "tema": "CO01",
+   "nome": "Teoria do Estado, democracia e separação dos poderes",
+   "regex": "teoria geral do estado|direito publico|formas? de governo|sistemas? de governo|formas? de estado|republica e democracia|democracia|teorias democraticas|teorias da justica|direito e politicas publicas|politicas publicas e direito|soberania|separacao dos poderes|freios e contrapesos|organizacao dos poderes|teoria dos atos juridicos de direito publico|organizacao politica do estado|controles interorganicos|funcoes tipicas e atipicas|fins e funcoes do estado|teoria do estado|elementos do estado|formacao, evolucao e desenvolvimento do estado|estado de direito|sistemas gerais e sistema brasileiro"
+  },
+  {
+   "codigo": "CO02.01",
+   "tema": "CO02",
+   "nome": "Princípios fundamentais da República (arts. 1º a 4º) e preâmbulo",
+   "regex": "principios fundamentais|principios constitucionais fundamentais|preambulo|objetivos e fundamentos|objetivos (do|de) estado|relacoes internacionais|republica federativa|fundamentos do estado|preceitos constitucionais fundamentais"
+  },
+  {
+   "codigo": "CO02.02",
+   "tema": "CO02",
+   "nome": "Disposições constitucionais gerais e ADCT",
+   "regex": "disposicoes (constitucionais )?gerais|disposicoes constitucionais transitorias|adct|ato das disposicoes"
+  },
+  {
+   "codigo": "CO03.01",
+   "tema": "CO03",
+   "nome": "Teoria geral dos direitos fundamentais",
+   "regex": "direitos e garantias fundamentais|teoria geral dos direitos fundamentais|geracoes|dimensoes|caracteristicas dos direitos|titularidade|eficacia horizontal|restricoes de direitos|limites dos direitos|direitos fundamentais|concepcoes, geracoes|direitos fundamentais: conceito|proibicao do excesso|protecao insuficiente|teorias (interna|objetiva|absoluta)|teoria geral das garantias|prestacoes negativas|nao-eliminacao|nao impedimentos|direitos a n"
+  },
+  {
+   "codigo": "CO03.02",
+   "tema": "CO03",
+   "nome": "Direitos e deveres individuais e coletivos em espécie; igualdade",
+   "regex": "direitos e deveres individuais|direitos, deveres e garantias|em especie|liberdades|igualdade|antidiscrimin|direito a vida|intimidade|privacidade|propriedade|devido processo|reuniao|direito a diferenca|direitos civis|discriminacao|direito de peticao|direitos individuais e coletivos|direitos e garantias constitucionais|protecao de dados|sociedade digital"
+  },
+  {
+   "codigo": "CO03.03",
+   "tema": "CO03",
+   "nome": "Proteção judicial: remédios e ações constitucionais",
+   "regex": "habeas|mandado de seguranca|mandado de injuncao|acao popular|protecao judicial|acoes constitucionais|processos constitucionais|remedios constitucionais|legislacao regulamentadora"
+  },
+  {
+   "codigo": "CO03.04",
+   "tema": "CO03",
+   "nome": "Proteção não judicial, participação social e controle social",
+   "regex": "protecao nao judicial|direito de resistencia|desobediencia civil|direito a voz|amicus|audiencias publicas|consultas publicas|foruns interinstitucionais|lobby|grupo de pressao|accountability|controle social|movimentos sociais|participacao social|participacao e|representacao, representatividade|lugar de fala|conselhos de direitos|experiencias brasileiras de participacao|comissoes parlamentares de participacao|participacao democratica"
+  },
+  {
+   "codigo": "CO03.05",
+   "tema": "CO03",
+   "nome": "Constituição e direitos humanos: tratados, justiça de transição, memória e verdade",
+   "regex": "justica de transicao|anistia|memoria|direito a verdade|reparacao e ao reconhecimento|direito constitucional e direito internacional dos direitos humanos|direitos humanos|convencoes e tratados internacionais|tratados internacionais|artigo 5|sentencas internacionais|direito internacional e direito constitucional|decisoes e sentencas internacionais|mortos e desaparecidos|comissao nacional da verdade"
+  },
+  {
+   "codigo": "CO03.06",
+   "tema": "CO03",
+   "nome": "Políticas públicas, controle judicial e extrajudicial e tutela coletiva",
+   "regex": "politicas publicas|tutela coletiva|acao civil publica|acao coletiva|justica social|inclusao social|transversalidade|equidade|extrajudicial|resolucao extrajudicial|100 regras|atuacao judicial"
+  },
+  {
+   "codigo": "CO04.01",
+   "tema": "CO04",
+   "nome": "Teoria geral dos direitos sociais",
+   "regex": "teoria geral dos direitos sociais|natureza dos direitos sociais|fundamentos dos direitos sociais|eficacia dos direitos sociais|justiciabilidade dos direitos sociais|direitos sociais\\.?$|minimo existencial|reserva do possivel|retrocesso|custo dos direitos|prestacoes positivas|efetividade dos direitos sociais|direitos sociais (como|enquanto)|dimensao prestacional|direitos a prestacoes"
+  },
+  {
+   "codigo": "CO04.02",
+   "tema": "CO04",
+   "nome": "Direitos sociais em espécie e direitos dos trabalhadores",
+   "regex": "direitos sociais|direitos dos trabalhadores|direitos economicos|alimentacao adequada|seguranca alimentar|piso|salario minimo|dever do estado|fome e pobreza|padrao adequado de vida|necessitados"
+  },
+  {
+   "codigo": "CO05.01",
+   "tema": "CO05",
+   "nome": "Nacionalidade, estrangeiros e migrantes",
+   "regex": "nacionalidade|estrangeiro|migrante|extradicao|expulsao|deportacao|naturalizacao|asilo|refugi|brasileiros natos|naturalizados"
+  },
+  {
+   "codigo": "CO05.02",
+   "tema": "CO05",
+   "nome": "Direitos políticos, partidos políticos e sistemas eleitorais",
+   "regex": "direitos politicos|partidos politicos|sistemas eleitorais|elegibilidade|direitos de cidadania|inelegibilidade|mandato coletivo|eleicao|sufragio|escrutinio|participacao politica das mulheres|direito ao voto"
+  },
+  {
+   "codigo": "CO05.03",
+   "tema": "CO05",
+   "nome": "Participação popular direta: plebiscito, referendo e iniciativa popular",
+   "regex": "plebiscito|referendo|iniciativa popular|participacao popular|democracia direta|mecanismos constitucionais de participacao"
+  },
+  {
+   "codigo": "CO06.01",
+   "tema": "CO06",
+   "nome": "Federação brasileira e repartição de competências",
+   "regex": "estado federal|federalismo|federacao|federalismos|forma de estado|reparticao de competencias|competencias (legislativas|administrativas)|competencia concorrente|normas gerais|organizacao do estado|organizacao politico|organizacao regional|organizacao funcional|estado federal|competencias (exclusivas|privativas|comuns|concorrentes)|competencias e sua reparticao|autonomia dos entes|natureza juridica, competencias"
+  },
+  {
+   "codigo": "CO06.02",
+   "tema": "CO06",
+   "nome": "União, Estados, Municípios, Distrito Federal e Territórios",
+   "regex": "^a uniao|uniao:|uniao\\.|estados federados|estados-membros|municipios|distrito federal|territorios|regioes|bens da uniao|capacidade de auto-organizacao|entes federados"
+  },
+  {
+   "codigo": "CO06.03",
+   "tema": "CO06",
+   "nome": "Intervenção federal e estadual",
+   "regex": "intervencao|representacao interventiva"
+  },
+  {
+   "codigo": "CO07.01",
+   "tema": "CO07",
+   "nome": "Administração pública e servidores públicos",
+   "regex": "administracao publica|servidores? publicos?|regime juridico constitucional|militares|acumulacao|estabilidade|concurso publico|organizacao administrativa|poder de policia|regimes juridicos|servidores publicos civis"
+  },
+  {
+   "codigo": "CO07.02",
+   "tema": "CO07",
+   "nome": "Responsabilidade do Estado e controles administrativos",
+   "regex": "responsabilidade civil|responsabilidade do estado|responsabilizacao criminal|reparacao e prescricao|controladorias|ouvidorias|auditorias|controle interno"
+  },
+  {
+   "codigo": "CO08.01",
+   "tema": "CO08",
+   "nome": "Poder Legislativo, Congresso Nacional e estatuto dos parlamentares",
+   "regex": "poder legislativo|congresso nacional|camara dos deputados|senado|estatuto dos congressistas|imunidades|comissoes parlamentares de inquerito|cpi|atos parlamentares|regimentos parlamentares|reunioes e comissoes|participacao no poder legislativo|mesa|reunioes, comissoes e sessoes|escolha dos membros do legislativo|garantias constitucionais dos parlamentares|atribuicoes, prerrogativas|ato legislativo"
+  },
+  {
+   "codigo": "CO08.02",
+   "tema": "CO08",
+   "nome": "Processo legislativo e espécies normativas",
+   "regex": "processo legislativo|especies normativas|medidas provisorias|leis? (complementar|ordinaria|delegada)|decreto legislativo|iniciativa|sancao|veto"
+  },
+  {
+   "codigo": "CO08.03",
+   "tema": "CO08",
+   "nome": "Fiscalização contábil, financeira e orçamentária; Tribunais de Contas",
+   "regex": "fiscalizacao contabil|tribunais? de contas|controle externo|fiscalizacao financeira|tribunal de contas|\\btcu\\b"
+  },
+  {
+   "codigo": "CO09.01",
+   "tema": "CO09",
+   "nome": "Poder Executivo: Presidente, ministros e poder regulamentar",
+   "regex": "poder executivo|presidente da republica|governadores|prefeitos|ministros de estado|conselho da republica|conselho de defesa|poder regulamentar|edicao de medidas provisorias|crimes de responsabilidade|vice-presidente"
+  },
+  {
+   "codigo": "CO10.01",
+   "tema": "CO10",
+   "nome": "Poder Judiciário: organização, competências, CNJ e súmula vinculante",
+   "regex": "poder judiciario|conselho nacional de justica|cnj|supremo tribunal federal|justica (federal|eleitoral|do trabalho|militar)|garantias institucionais da funcao judicial|competencias do|incidente de deslocamento|\\bidc\\b|federalizacao dos crimes|magistratura|tribunais|sumula vinculante|superior tribunal de justica|justica estadual|escolha dos integrantes do judiciario"
+  },
+  {
+   "codigo": "CO10.02",
+   "tema": "CO10",
+   "nome": "Funções essenciais à Justiça: Ministério Público, Advocacia e Advocacia Pública",
+   "regex": "funcoes essenciais a justica|ministerio publico|cnmp|conselho nacional do ministerio publico|advocacia|procuradoria"
+  },
+  {
+   "codigo": "CO10.03",
+   "tema": "CO10",
+   "nome": "Acesso à justiça e Defensoria Pública",
+   "regex": "acesso a justica|defensoria publica|defensor natural"
+  },
+  {
+   "codigo": "CO11.01",
+   "tema": "CO11",
+   "nome": "Teoria do controle: inconstitucionalidade, supremacia e bloco de constitucionalidade",
+   "regex": "controle de constitucionalidade$|teoria da inconstitucionalidade|inconstitucionalidade\\.|bloco de constitucionalidade|supremacia da constituicao|parametros|modelos de controle|jurisdicao constitucional|teoria geral do controle|historico do controle|especies de controle|controle de constitucionalidade no brasil|inconstitucionalidade (por acao|formal|originaria)|controle preventivo|momento e ao modo|preceitos fundamentais|estado de coisas inconstitucional|exame in abstractu|controle de constitucionalidade\\.?$|controle da constitucionalidade"
+  },
+  {
+   "codigo": "CO11.02",
+   "tema": "CO11",
+   "nome": "Controle difuso, repercussão geral e reclamação",
+   "regex": "difuso|incidental|concreto|repercussao geral|reclamacao|reserva de plenario|resolucao do senado|recurso extraordinario"
+  },
+  {
+   "codigo": "CO11.03",
+   "tema": "CO11",
+   "nome": "Controle concentrado: ADI, ADC, ADO e ADPF",
+   "regex": "concentrado|abstrato|acao direta|\\badi\\b|\\badc\\b|\\bado\\b|adpf|arguicao de descumprimento|acao declaratoria|inconstitucionalidade por omissao"
+  },
+  {
+   "codigo": "CO11.04",
+   "tema": "CO11",
+   "nome": "Técnicas e efeitos das decisões; controle estadual; convencionalidade",
+   "regex": "tecnicas de decis|efeitos (e estabilidade )?das decisoes|modulacao|direito estadual|direito municipal|supralegalidade|controle de convencionalidade|jurisprudencia estrangeira|normas estaduais e municipais|constitucionalidade de normas estaduais|precedentes|distinguishing|overruling|autocontencao|deferencia ao legislador|tribunal constitucional|processo constitucional objetivo|vicios formais|modelo europeu|controle politico"
+  },
+  {
+   "codigo": "CO12.01",
+   "tema": "CO12",
+   "nome": "Estado de defesa, estado de sítio, Forças Armadas e segurança pública",
+   "regex": "defesa do estado|instituicoes democraticas|estado de defesa|estado de sitio|forcas armadas|defesa da soberania|seguranca publica|policia|politica penitenciaria|direito a seguranca"
+  },
+  {
+   "codigo": "CO13.01",
+   "tema": "CO13",
+   "nome": "Sistema tributário nacional",
+   "regex": "sistema tributario|tributari|limitacoes (constitucionais )?ao poder de tributar|imunidades tributarias|reparticao das receitas|especies tributarias|competencia tributaria|impostos|contribuicoes"
+  },
+  {
+   "codigo": "CO13.02",
+   "tema": "CO13",
+   "nome": "Finanças públicas, orçamentos e precatórios",
+   "regex": "financas publicas|orcamento|precatorios|fundos|transferencias de recursos|responsabilidade fiscal|divida publica"
+  },
+  {
+   "codigo": "CO14.01",
+   "tema": "CO14",
+   "nome": "Ordem econômica: princípios e atuação do Estado na economia",
+   "regex": "ordem economica|atividade economica|dominio economico|monopolio|livre iniciativa|concorrencia|defesa do consumidor|direito consumerista"
+  },
+  {
+   "codigo": "CO14.02",
+   "tema": "CO14",
+   "nome": "Sistema financeiro nacional; política urbana, agrícola e reforma agrária",
+   "regex": "sistema financeiro nacional|politica urbana|politica agricola|fundiaria|reforma agraria|funcao social da propriedade|usucapiao|urbanistico|agrario|conflitos socioambientais|saneamento"
+  },
+  {
+   "codigo": "CO15.01",
+   "tema": "CO15",
+   "nome": "Seguridade social: saúde, previdência e assistência social",
+   "regex": "seguridade social|saude|previdencia|assistencia social|assistencia, desenvolvimento"
+  },
+  {
+   "codigo": "CO15.02",
+   "tema": "CO15",
+   "nome": "Educação, cultura, desporto, ciência, comunicação social e meio ambiente",
+   "regex": "educacao|cultura|desporto|ciencia, tecnologia|comunicacao social|midia|meio ambiente|ordem social|ciencia e tecnologia|lei 9\\.985|principios de direito ambiental|residuos solidos|direito humano a agua|ambiental|nutricao|socioambient"
+  },
+  {
+   "codigo": "CO15.03",
+   "tema": "CO15",
+   "nome": "Família, criança, adolescente, idoso, povos indígenas e tradicionais, pessoa com deficiência",
+   "regex": "familia|crianca|adolescente|juventude|idoso|indigena|povos tradicionais|povos e comunidades tradicionais|pessoa com deficiencia|diversidade sexual|transtorno mental|povos e das comunidades|comunidades tradicionais|povos tradicionais|idos[oa]|situacao de rua|vulnerabilidade|vulnerabilizados|mulheres"
+  }
+ ],
+ "outra_disciplina": {
+  "Direito Administrativo": "moralidade administrativa|parceria publico-privada|11\\.079|administracao federal|orgaos superiores da administracao|procedimento investigatorio|direito administrativo|licitacao|improbidade|servicos publicos|atos administrativos",
+  "Direito Eleitoral": "direito eleitoral|justica eleitoral|propaganda eleitoral|crimes eleitorais",
+  "Constituição estadual (conteúdo local)": "constituicao do estado|constituicao estadual",
+  "Direitos Humanos": "quilombola|feminismo|racismo (institucional|estrutural)|7\\.716|resolucao.{0,12}cndh|8\\.750|brasil quilombola|9\\.605",
+  "Texto do edital (não é conteúdo)": "diario oficial eletronico|diario oficial|pagina \\d+|publicado no diario|edital n.{0,4}\\d|0800|defensoria publica do estado de|concurso publico \\d+"
+ },
+ "fragmentos_genericos": "^(disposicoes (gerais|comuns|finais)|classificacoes?|conceito|conceitos|principios|caracteristicas|natureza|requisitos|efeitos|especies|elementos|fontes|objeto|fases|forma|audiencias|aspectos processuais|estrutura|competencia|procedimento|generalidades|noções|nocoes|jurisprudencia.*|enunciados.*|legislacao (pertinente|especial|federal.*)|demais aspectos.*)\\.?$"
+}

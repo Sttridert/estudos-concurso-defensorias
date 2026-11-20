@@ -1,0 +1,458 @@
+{
+ "pasta": "2022 - DPE-CE - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 7157,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Constituição."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Conceito, objeto, elementos e classificações."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Supremacia da Constituição Federal."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Aplicabilidade das normas constitucionais."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Hermenêutica e interpretação constitucional.",
+      "Métodos e conceitos aplicados à interpretação.",
+      "Princípios de interpretação especificamente constitucionais.",
+      "A sociedade aberta dos intérpretes da Constituição.",
+      "Criação judicial do Direito."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Constitucionalismo e neoconstitucionalismo.",
+      "Jurisdição constitucional e consequências da interpretação."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Poder constituinte."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Poder constituinte originário."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Poder constituinte derivado."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Princípios fundamentais."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Direitos e deveres individuais e coletivos."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Habeas corpus, mandado de segurança, mandado de injunção e habeas data."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Direitos sociais."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Nacionalidade."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Direitos políticos."
+     ]
+    },
+    {
+     "item": "4.6",
+     "frases": [
+      "Partidos políticos."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Direito Internacional dos Direitos Humanos e Direito Constitucional brasileiro."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Os fundamentos filosóficos dos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "A evolução histórica dos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "O sistema internacional de proteção e promoção dos Direitos Humanos: Declarações e Tratados da Organização das Nações Unidas e da Organização dos Estados Americanos."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Órgãos e mecanismos de monitoramento e proteção internacional dos Direitos Humanos: sistemas da Organização das Nações Unidas e da Organização dos Estados Americanos: estrutura, competência, funcionamento e documentos produzidos."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Jurisprudência da corte interamericana de direitos humanos: casos contenciosos e opiniões consultivas."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "Convenção Interamericana contra o Racismo e Discriminação Racial e outras formas Correlatas de intolerância."
+     ]
+    },
+    {
+     "item": "5.7",
+     "frases": [
+      "Comissão interamericana de Direitos Humanos: relatórios de casos, medidas cautelares, relatórios anuais e relatoria para a liberdade de expressão.",
+      "Diversidade Sexual, diretos das Pessoas LGBTQIA+ na Corte Interamericana de Direitos Humanos 5.9.",
+      "Fontes, classificação, princípios e características do direito internacional dos Direitos Humanos.",
+      "Normas de interpretação dos tratados de Direitos Humanos.",
+      "Resolução de conflitos ante a colisão de direitos fundamentais.",
+      "O dever estatal de dar pleno cumprimento às obrigações assumidas em tratados internacionais: o caso dos Direitos Humanos.",
+      "A vigência e eficácia das normas do direito internacional dos Direitos Humanos.",
+      "As possibilidades de aposição de reservas e de oferecer denúncia relativas aos tratados internacionais de Direitos Humanos.",
+      "A incorporação dos tratados internacionais de proteção dos Direitos Humanos ao direito brasileiro.",
+      "A posição hierárquica dos tratados internacionais de Direitos Humanos em face do artigo 5o, e seus parágrafos, da Constituição Federal.",
+      "A execução de decisões oriundas de tribunais internacionais de Direitos Humanos no Brasil.",
+      "Direitos Humanos e acesso à justiça.",
+      "5.17.1 O dever dos estados de promover o acesso à justiça.",
+      "5.17.2 Desenvolvimentos no âmbito da organização dos estados americanos relacionados à Defensoria Pública.",
+      "5.17.3 Previsões legais de direito interno relativas à Defensoria Pública."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Organização do Estado."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Organização político-administrativa."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Estado federal brasileiro."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "A União."
+     ]
+    },
+    {
+     "item": "6.4",
+     "frases": [
+      "Estados federados."
+     ]
+    },
+    {
+     "item": "6.5",
+     "frases": [
+      "Municípios."
+     ]
+    },
+    {
+     "item": "6.6",
+     "frases": [
+      "O Distrito Federal."
+     ]
+    },
+    {
+     "item": "6.7",
+     "frases": [
+      "Territórios"
+     ]
+    },
+    {
+     "item": "6.8",
+     "frases": [
+      "Intervenção federal."
+     ]
+    },
+    {
+     "item": "6.9",
+     "frases": [
+      "Intervenção dos estados nos municípios."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Administração pública."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Servidores públicos."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Militares dos estados, do Distrito Federal e dos territórios."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Organização dos poderes no Estado."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Mecanismos de freios e contrapesos."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Poder Legislativo."
+     ]
+    },
+    {
+     "item": "8.2.1",
+     "frases": [
+      "Estrutura, funcionamento e atribuições."
+     ]
+    },
+    {
+     "item": "8.2.2",
+     "frases": [
+      "Comissões parlamentares de inquérito."
+     ]
+    },
+    {
+     "item": "8.2.3",
+     "frases": [
+      "Fiscalização contábil, financeira e orçamentária."
+     ]
+    },
+    {
+     "item": "8.2.4",
+     "frases": [
+      "Tribunal de Contas da União (TCU)."
+     ]
+    },
+    {
+     "item": "8.2.5",
+     "frases": [
+      "Processo legislativo."
+     ]
+    },
+    {
+     "item": "8.2.6",
+     "frases": [
+      "Prerrogativas parlamentares."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Poder Executivo."
+     ]
+    },
+    {
+     "item": "8.3.1",
+     "frases": [
+      "Presidente da República."
+     ]
+    },
+    {
+     "item": "8.3.1.1",
+     "frases": [
+      "Atribuições, prerrogativas e responsabilidades."
+     ]
+    },
+    {
+     "item": "8.3.2",
+     "frases": [
+      "Ministros de Estado."
+     ]
+    },
+    {
+     "item": "8.3.3",
+     "frases": [
+      "Conselho da República e de Defesa Nacional."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Poder Judiciário: a) funções, organização, competências e funcionamento; b) estatuto da magistratura e seus princípios informativos; c) garantias institucionais da função judicial; d) precatórios; e) jurisdição constitucional do Supremo Tribunal Federal e do Tribunal de Justiça do Estado do Ceará; f) súmula vinculante; g) Conselho Nacional de Justiça; h) responsabilidade do Estado por atos jurisdicionais; i) o papel do tribunal constitucional na efetivação da Justiça; j) políticas públicas e controle jurisdicional."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Funções essenciais à Justiça: a) Ministério Público: regime jurídico-constitucional; b) Defensoria Pública: enquadramento constitucional, princípios, garantias institucionais e funcionais, Defensoria Pública na Constituição do Estado do Ceará; c) Advocacia Pública: Advocacia da União e Procuradorias; d) Advocacia."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Controle da constitucionalidade."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Sistemas gerais e sistema brasileiro.11.2 Controle incidental ou concreto.",
+      "11.3 Controle abstrato de constitucionalidade.",
+      "11.4 Exame in abstractu da constitucionalidade de proposições legislativas.",
+      "11.5 Ação declaratória de constitucionalidade.",
+      "11.6 Ação direta de inconstitucionalidade.",
+      "11.7 Arguição de descumprimento de preceito fundamental.",
+      "11.8 Ação direta de inconstitucionalidade por omissão.",
+      "11.9 Ação direta de inconstitucionalidade interventiva.",
+      "11.10 Controle concreto e abstrato de constitucionalidade do direito municipal."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Defesa do Estado e das instituições democráticas."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Sistema tributário nacional."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Princípios gerais."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Limitações do poder de tributar."
+     ]
+    },
+    {
+     "item": "13.3",
+     "frases": [
+      "Impostos da União, dos estados e dos municípios."
+     ]
+    },
+    {
+     "item": "13.4",
+     "frases": [
+      "Repartição das receitas tributárias."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Finanças públicas.",
+      "15.1 Normas gerais.",
+      "15.2 Orçamentos.",
+      "16 Ordem econômica e financeira.",
+      "16.1 Princípios gerais da atividade econômica.",
+      "17 Política urbana, agrícola e fundiária e reforma agrária.",
+      "18 Sistema Financeiro Nacional.",
+      "19 Ordem social.",
+      "Defesa prioritária da criança e do adolescente.",
+      "A criança e o adolescente na normativa internacional.",
+      "Declaração Universal dos Direitos da Criança.",
+      "Convenção Internacional sobre os direitos da Criança.",
+      "Convenção sobre os aspectos civis do sequestro internacional de crianças.",
+      "Convenção Relativa à Proteção das Crianças e à Cooperação em Matéria de Adoção Internacional.",
+      "Regras Mínimas da ONU: para Proteção dos Jovens Privados de Liberdade e para Administração da Justiça da Infância e Juventude (Regras de Beijing).",
+      "Diretrizes das Nações Unidas para a Prevenção da Delinquência Juvenil.",
+      "Os direitos da criança e do adolescente na Constituição Federal.",
+      "A Defensoria Pública e proteção dos direitos individuais e coletivos da criança e do adolescente.21.",
+      "Defesa do Meio Ambiente.",
+      "21.1 Direito ambiental constitucional.",
+      "21.2 Conceito de meio ambiente e seus aspectos.",
+      "21.3 Princípios de direito ambiental.",
+      "21.4 Política Nacional de Meio Ambiente.",
+      "Política urbana: diretrizes, instrumentos e competência.",
+      "22. princípio do Defensor natural.",
+      "23.Racismo estrutural e Institucional.",
+      "Diversidade Sexual, diretos das Pessoas LGBTQIA+"
+     ]
+    }
+   ]
+  }
+ ]
+}

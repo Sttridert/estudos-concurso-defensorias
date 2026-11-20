@@ -1,0 +1,56 @@
+{
+ "2025 - DPE-SP - Analista de Defensoria|8": {
+  "c": "A letra C reproduz a tese fixada pelo STF no julgamento do marco temporal (RE 1.017.365, tema 1.031): a posse tradicional indígena é distinta da posse civil e consiste na ocupação das terras habitadas em caráter permanente, das usadas para atividades produtivas, das imprescindíveis à preservação dos recursos ambientais necessários ao bem-estar e das necessárias à reprodução física e cultural, segundo usos, costumes e tradições, nos termos do art. 231, § 1º. A alternativa A erra no usufruto: as terras são bens da União (art. 20, XI), mas o usufruto exclusivo das riquezas do solo, rios e lagos é dos indígenas (art. 231, § 2º). B, D e E misturam trechos de outros julgados e ordens do STF com a tese de repercussão geral, que não os contém.",
+  "p": "Atribuir à União o usufruto exclusivo das riquezas das terras indígenas (A); o usufruto é dos indígenas.",
+  "d": ["CF|art. 231, §§ 1º e 2º", "CF|art. 20, XI", "STF|RE 1.017.365 (tema 1.031)"],
+  "pend": 1
+ },
+ "2025 - DPE-SP - Analista de Defensoria|9": {
+  "c": "A questão cobra o controle de constitucionalidade estadual e a Constituição do Estado de São Paulo. Pelo gabarito oficial, a letra A está certa: o Conselho da Seção Estadual da OAB, o Prefeito e a Mesa da Câmara Municipal, no âmbito de seu interesse, estão entre os legitimados para a ação de inconstitucionalidade por omissão. As demais atribuem à Constituição paulista regras que ela não traz, conforme o que se sabe do texto: quem é citado para defender o ato impugnado é o Procurador-Geral do Estado, e não o de Justiça (B); na omissão, o órgão administrativo recebe prazo para agir (C); a declaração de inconstitucionalidade exige a maioria absoluta dos membros do Tribunal ou do órgão especial, conforme a cláusula de reserva de plenário (CF, art. 97) (D); e o Procurador-Geral do Estado não consta entre os legitimados (E). Confirmar os dispositivos da Constituição do Estado de São Paulo (arts. 74 e 90).",
+  "p": "Aplicar à Constituição estadual a lógica federal sem checar o texto local: quem defende o ato, o prazo na omissão e o quórum.",
+  "d": ["CF|art. 125, § 2º", "CF|art. 97", "Constituição do Estado de São Paulo|arts. 74 e 90"],
+  "pend": 1
+ },
+ "2025 - DPE-SP - Analista de Defensoria|10": {
+  "c": "A letra E reproduz a tese do tema 1.055 do STF (RE 1.209.429): é objetiva a responsabilidade civil do Estado em relação a profissional da imprensa ferido por agentes policiais durante cobertura jornalística em manifestações com tumulto ou conflito, cabendo a excludente da culpa exclusiva da vítima quando o profissional descumpre advertência clara sobre áreas de risco. As demais inverteram decisões do STF: A diz 'constitucional' o ingresso de agentes em universidades para recolher documentos e depoimentos, mas o STF o declarou inconstitucional (ADPF 548); B cria exceção à vacinação obrigatória (tema 1.103) por convicção filosófica, que a tese não traz; C estende a recusa de transfusão a incapazes, e a tese (tema 1.069) trata de adultos capazes; D afirma que a informação pública da manifestação não basta para o aviso prévio, contra o entendimento do STF sobre o art. 5º, XVI.",
+  "p": "Trocar o sentido das teses do STF: universidades (inconstitucional), vacinação (sem exceção filosófica) e transfusão (só adultos capazes).",
+  "d": ["CF|art. 5º, XVI", "CF|art. 37, § 6º", "STF|RE 1.209.429 (tema 1.055)", "STF|ADPF 548"],
+  "pend": 1
+ },
+ "2025 - DPE-SP - Analista de Defensoria|11": {
+  "c": "A característica comum ao estado de defesa e ao estado de sítio é a decretação exclusiva pelo Presidente da República, com o Congresso Nacional em funcionamento durante a medida (CF, arts. 136, 137, 138 e 84, IX). A letra B está certa. A erra: só o estado de defesa tem prazo máximo de 30 dias, prorrogável uma vez; o de sítio é de até 30 dias com prorrogações sucessivas. C erra: o Conselho da República e o Conselho de Defesa Nacional são ouvidos, mas os pareceres NÃO vinculam. D erra: o estado de defesa tem abrangência restrita a locais determinados. E erra: a autorização prévia do Congresso é do estado de sítio; o decreto do estado de defesa é submetido ao Congresso depois, em 24 horas.",
+  "p": "Aplicar ao estado de defesa a autorização prévia do Congresso (só do estado de sítio) e achar vinculante o parecer dos Conselhos.",
+  "d": ["CF|art. 136", "CF|art. 137", "CF|art. 138", "CF|art. 84, IX"],
+  "pend": 0
+ },
+ "2025 - DPE-SP - Analista de Defensoria|12": {
+  "c": "Segundo o gabarito oficial, a letra D está certa: em ação com efeito vinculante, o STF validou a atuação normativa e de polícia do TSE contra a desinformação nas eleições, reconhecendo que a desinformação veiculada pela internet, se não fiscalizada pela autoridade eleitoral, pode restringir a formação livre e consciente da vontade do eleitor (a ementa parece ser a da ADI 7261, confirmar). Isso afasta B e E (usurpação da competência legislativa da União) e C (censura prévia), pois o poder de polícia da Justiça Eleitoral não é censura. A está formulada de modo vago ('sempre que não regulamentado pelo legislador') e a D traz a ideia central, da fiscalização.",
+  "p": "Ver nas resoluções do TSE uma usurpação da competência da União ou censura prévia; o STF as considerou exercício legítimo do poder normativo e de polícia.",
+  "d": ["CF|art. 22, I", "CF|art. 5º, IX", "STF|ADI 7261 (confirmar)"],
+  "pend": 1
+ },
+ "2025 - DPE-SP - Analista de Defensoria|13": {
+  "c": "A região metropolitana é instituída por lei complementar estadual (CF, art. 25, § 3º) e, segundo o STF (ADI 1.842), a participação dos Municípios é compulsória: não depende de aprovação das Câmaras Municipais nem de adesão, pois a integração se dá por imposição do interesse comum. A letra C está certa. A erra porque o STF vedou o poder decisório concentrado no Estado, mas isso não exige composição rigidamente paritária; B contraria a compulsoriedade; D erra porque a região metropolitana não é ente federativo nem tem personalidade de autarquia; E erra porque nada impede consórcios e convênios entre os entes para serviços de interesse comum.",
+  "p": "Achar que a região metropolitana é um quarto ente da Federação ou que os Municípios podem recusar a participação.",
+  "d": ["CF|art. 25, § 3º", "Lei 13.089/2015|Estatuto da Metrópole", "STF|ADI 1.842"],
+  "pend": 0
+ },
+ "2025 - DPE-SP - Analista de Defensoria|14": {
+  "c": "A letra A reflete o julgamento do STF sobre a concessão automática de alvará e licença ambiental para atividades de risco médio e a proibição de exigir dados adicionais (a decisão parece ser a da ADI 6.808, confirmar): ofende os princípios da prevenção e da proteção do meio ambiente ecologicamente equilibrado (CF, art. 225). As demais invertem entendimentos do STF: B afirma que revogar normas protetivas sem substituí-las é mera discricionariedade, mas há vedação ao retrocesso ambiental; C diz que a repartição de competências administrativas comuns é prévia e estática, quando a LC 140/2011 e o STF a veem cooperativa e baseada na subsidiariedade; D contraria a imprescritibilidade da reparação do dano ambiental (tema 999); E contraria a ADI 3.937, que reconheceu a competência dos Estados para legislar sobre o amianto.",
+  "p": "Dizer que a reparação do dano ambiental prescreve (é imprescritível) e que os Estados não podem proibir o amianto.",
+  "d": ["CF|art. 225", "CF|art. 23, VI e VII", "LC 140/2011|art. 3º", "STF|ADI 6.808 (confirmar)", "STF|ADI 3.937"],
+  "pend": 1
+ },
+ "2025 - DPE-SP - Analista de Defensoria|15": {
+  "c": "Pelo art. 12, I, a, da CF, são brasileiros natos os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país. Jaime nasceu em São Paulo e seus pais biológicos (e os adotivos) não estavam a serviço de Angola; logo, é brasileiro nato. A adoção por estrangeiros e a lei angolana não retiram a nacionalidade originária, e a perda de nacionalidade só ocorre nos casos do art. 12, § 4º (cancelamento da naturalização e aquisição voluntária de outra nacionalidade). Aqui ele não optou por nenhuma. A letra D está certa; as demais criam categorias que a Constituição não prevê (naturalização provisória, quase-nacional) ou supõem apatridia.",
+  "p": "Deixar que a nacionalidade dos pais adotivos ou a de Angola afete a nacionalidade originária pelo local do nascimento (ius soli).",
+  "d": ["CF|art. 12, I, a", "CF|art. 12, § 4º"],
+  "pend": 0
+ },
+ "2025 - DPE-SP - Analista de Defensoria|16": {
+  "c": "A questão cobra a participação democrática na Constituição do Estado de São Paulo. Pelo gabarito oficial, a letra A está certa: os conselhos estaduais são espaços de participação da sociedade civil e, conforme a Constituição estadual ou lei específica, podem ter competência normativa, consultiva e/ou deliberativa. As demais atribuem regras específicas que o texto não prevê: conferências obrigatórias a cada quatro anos com composição paritária (B), vinculação das decisões do orçamento participativo (C), ouvidorias dirigidas por indicados pelos conselhos com uma única recondução (D) e controladorias como órgãos auxiliares dos Tribunais de Contas previstos na Lei de Acesso à Informação (E). Confirmar o dispositivo da Constituição Estadual sobre conselhos.",
+  "p": "Aceitar alternativas com detalhes numéricos (quatro anos, uma recondução) que parecem precisos, mas não têm base no texto.",
+  "d": ["CF|art. 14"],
+  "pend": 1
+ }
+}

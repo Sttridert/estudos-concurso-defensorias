@@ -1,0 +1,303 @@
+{
+ "pasta": "2021 - DPE-TO - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "DH",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITOS HUMANOS",
+   "caracteres": 2986,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Teoria geral dos direitos humanos."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Conceito, terminologia, estrutura normativa, fundamentação."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Afirmação histórica dos direitos humanos."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Direitos humanos e a responsabilidade do Estado."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Direitos humanos na Constituição Federal de 1988."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Documentos históricos brasileiros."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Institucionalização dos direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Política Nacional de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Programas nacionais de direitos humanos."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Globalização e direitos humanos."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "A proteção internacional dos direitos humanos."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Fundamentos dos direitos humanos."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Características dos direitos humanos no direito internacional."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Interpretação e aplicação dos tratados internacionais de proteção aos direitos humanos."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "As três vertentes da proteção internacional da pessoa humana."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "Direitos humanos, direito humanitário e direito dos refugiados."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "A interligação entre o direito internacional e o direito interno na proteção dos direitos humanos."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "A Constituição brasileira e os tratados internacionais de direitos humanos."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Sistema internacional de proteção dos direitos humanos."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Universalismo e relativismo cultural."
+     ]
+    },
+    {
+     "item": "18.1",
+     "frases": [
+      "Precedentes históricos."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "O sistema da liga das nações."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "A Organização Internacional do Trabalho (OIT)."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Instrumentos internacionais de direitos humanos."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "O núcleo de direito internacional dos direitos humanos."
+     ]
+    },
+    {
+     "item": "22.1",
+     "frases": [
+      "Carta das Nações Unidas."
+     ]
+    },
+    {
+     "item": "22.2",
+     "frases": [
+      "Declaração Universal dos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "22.3",
+     "frases": [
+      "Pacto Internacional de Direitos Civis e Políticos."
+     ]
+    },
+    {
+     "item": "22.4",
+     "frases": [
+      "Pacto Internacional de Direitos Econômicos, Sociais e Culturais."
+     ]
+    },
+    {
+     "item": "22.5",
+     "frases": [
+      "Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial."
+     ]
+    },
+    {
+     "item": "22.6",
+     "frases": [
+      "Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher."
+     ]
+    },
+    {
+     "item": "22.7",
+     "frases": [
+      "Convenção contra a Tortura e Outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes."
+     ]
+    },
+    {
+     "item": "22.8",
+     "frases": [
+      "Convenção sobre os Direitos da Criança."
+     ]
+    },
+    {
+     "item": "22.9",
+     "frases": [
+      "Convenção Internacional sobre a Proteção de Direitos de Todos os Migrantes Trabalhadores e Membros de Suas Famílias."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Os limites dos direitos humanos na ordem internacional."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "A natureza objetiva da proteção internacional dos direitos humanos."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Mecanismos de proteção contra as violações de direitos humanos."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Responsabilidade internacional em matéria de direitos humanos."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Regra do esgotamento dos recursos internos na proteção dos direitos humanos."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Mecanismo unilateral e mecanismo institucional ou coletivo."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "A proteção dos direitos humanos na ONU."
+     ]
+    },
+    {
+     "item": "29.1",
+     "frases": [
+      "Sistemas convencional e extraconvencional da ONU."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Sistema interamericano de direitos humanos."
+     ]
+    },
+    {
+     "item": "30.1",
+     "frases": [
+      "Comissão Interamericana de Direitos Humanos e Corte Interamericana de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "30.2",
+     "frases": [
+      "Proteção dos direitos humanos no Mercosul."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Responsabilidade internacional dos estados por violações de direitos sociais, econômicos e culturais."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Mecanismos coletivos e afirmação do indivíduo como sujeito de direito internacional."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Implementação das decisões de responsabilização internacional do Estado por violação de direitos humanos."
+     ]
+    }
+   ]
+  }
+ ]
+}

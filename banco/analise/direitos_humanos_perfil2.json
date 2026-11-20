@@ -1,0 +1,584 @@
+{
+ "perfil": {
+  "id": 2,
+  "nome": "Direitos Humanos · Analista Jurídico · FCC · DPE-AM 2026 (edital)",
+  "banca": "FCC",
+  "carreira": "Defensoria Pública",
+  "cargo": "Analista Jurídico",
+  "ano_referencia": 2026,
+  "meia_vida": 8,
+  "pesos": {
+   "A": 1,
+   "B": 0.5,
+   "C": 0.25
+  }
+ },
+ "modo": "pontos",
+ "universo": {
+  "id": 7,
+  "nome": "Analista FCC",
+  "filtro": {
+   "bancas": [
+    "FCC"
+   ],
+   "cargos_prefixo": [
+    "Analista"
+   ]
+  }
+ },
+ "n_total": 59,
+ "n_validas": 58,
+ "n_anuladas_ou_fora": 1,
+ "n_provas": 7,
+ "provas_por_grupo": {
+  "A": 5,
+  "B": 1,
+  "C": 1
+ },
+ "soma_pesos": 33.23,
+ "n_efetivo": 54.9,
+ "K_assuntos": 9,
+ "assuntos": {
+  "DH02": {
+   "nome": "Direito Internacional dos Direitos Humanos: fontes e regras gerais",
+   "n": 2.0,
+   "peso": 1.21,
+   "p": 3.6,
+   "lo": 1.0,
+   "hi": 12.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH03": {
+   "nome": "Sistema global (ONU): tratados, comitês e protocolos",
+   "n": 2.5,
+   "peso": 1.83,
+   "p": 5.5,
+   "lo": 1.9,
+   "hi": 14.9,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH04": {
+   "nome": "Sistema interamericano e demais sistemas regionais",
+   "n": 5.5,
+   "peso": 3.42,
+   "p": 10.3,
+   "lo": 4.7,
+   "hi": 21.1,
+   "provas": 6,
+   "grupo": "Cai às vezes"
+  },
+  "DH05": {
+   "nome": "Direito Internacional Humanitário, Direito Internacional Penal e refugiados",
+   "n": 2.0,
+   "peso": 1.25,
+   "p": 3.8,
+   "lo": 1.1,
+   "hi": 12.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH06": {
+   "nome": "Tratados no Brasil: hierarquia, convencionalidade e federalização",
+   "n": 7.0,
+   "peso": 4.66,
+   "p": 14.0,
+   "lo": 7.2,
+   "hi": 25.6,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "DH07": {
+   "nome": "Direitos humanos no Brasil: políticas, memória e acesso à justiça",
+   "n": 3.0,
+   "peso": 1.64,
+   "p": 4.9,
+   "lo": 1.6,
+   "hi": 14.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH08": {
+   "nome": "Igualdade e grupos vulnerabilizados",
+   "n": 31.0,
+   "peso": 16.4,
+   "p": 49.4,
+   "lo": 36.6,
+   "hi": 62.2,
+   "provas": 7,
+   "grupo": "Cai muito"
+  },
+  "DH09": {
+   "nome": "Tortura e privação de liberdade",
+   "n": 3.0,
+   "peso": 1.82,
+   "p": 5.5,
+   "lo": 1.9,
+   "hi": 14.9,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH10": {
+   "nome": "Direitos em espécie e temas contemporâneos",
+   "n": 2.0,
+   "peso": 1.0,
+   "p": 3.0,
+   "lo": 0.7,
+   "hi": 11.4,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "n_assuntos_80pct": 5,
+ "cobranca_pct": {
+  "lei/tratado": 52.8,
+  "lei_seca": 34.8,
+  "jurisprudencia": 5.1,
+  "doutrina": 3.6,
+  "caso_concreto": 2.3,
+  "sumula": 1.4
+ },
+ "retro_assuntos": {
+  "k": 4,
+  "temporal": [
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 8.0,
+    "acertos": 6.0,
+    "pct": 75.0
+   }
+  ],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 16.0,
+    "acertos": 14.0,
+    "pct": 87.5
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 10.0,
+    "acertos": 4.0,
+    "pct": 40.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 7.0,
+    "acertos": 5.5,
+    "pct": 78.6
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 6.0,
+    "acertos": 4.0,
+    "pct": 66.7
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 8.0,
+    "acertos": 6.0,
+    "pct": 75.0
+   }
+  ],
+  "media_temporal": 75.0,
+  "media_loo": 71.3,
+  "acaso": 44.4
+ },
+ "K_pontos": 27,
+ "pontos": {
+  "DH02.02": {
+   "texto": "Interpretação dos tratados e princípio pro persona",
+   "assunto": "DH02",
+   "n": 2.0,
+   "peso": 1.21,
+   "p": 3.6,
+   "lo": 1.0,
+   "hi": 12.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH03.02": {
+   "texto": "Declaração Universal, pactos da ONU e outros tratados",
+   "assunto": "DH03",
+   "n": 2.0,
+   "peso": 1.48,
+   "p": 4.4,
+   "lo": 1.4,
+   "hi": 13.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH03.03": {
+   "texto": "Comitês de tratados: relatórios, comentários gerais e comunicações individuais",
+   "assunto": "DH03",
+   "n": 0.5,
+   "peso": 0.35,
+   "p": 1.1,
+   "lo": 0.1,
+   "hi": 8.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.01": {
+   "texto": "OEA, Comissão e Corte Interamericanas: estrutura e competência",
+   "assunto": "DH04",
+   "n": 2.0,
+   "peso": 1.21,
+   "p": 3.6,
+   "lo": 1.0,
+   "hi": 12.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.02": {
+   "texto": "Petição individual, admissibilidade e procedimento na Comissão",
+   "assunto": "DH04",
+   "n": 2.0,
+   "peso": 1.48,
+   "p": 4.4,
+   "lo": 1.4,
+   "hi": 13.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.06": {
+   "texto": "Casos do Brasil na Corte IDH",
+   "assunto": "DH04",
+   "n": 0.5,
+   "peso": 0.27,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 8.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH04.07": {
+   "texto": "Outros casos e opiniões consultivas da Corte IDH",
+   "assunto": "DH04",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 1.4,
+   "lo": 0.2,
+   "hi": 8.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH05.02": {
+   "texto": "Tribunal Penal Internacional e crimes internacionais",
+   "assunto": "DH05",
+   "n": 2.0,
+   "peso": 1.25,
+   "p": 3.8,
+   "lo": 1.1,
+   "hi": 12.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH06.01": {
+   "texto": "Incorporação e hierarquia dos tratados de direitos humanos",
+   "assunto": "DH06",
+   "n": 3.0,
+   "peso": 2.19,
+   "p": 6.6,
+   "lo": 2.5,
+   "hi": 16.4,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH06.02": {
+   "texto": "Controle de convencionalidade e diálogo entre cortes",
+   "assunto": "DH06",
+   "n": 1.0,
+   "peso": 0.5,
+   "p": 1.5,
+   "lo": 0.2,
+   "hi": 9.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH06.03": {
+   "texto": "Incidente de deslocamento de competência (federalização)",
+   "assunto": "DH06",
+   "n": 3.0,
+   "peso": 1.98,
+   "p": 6.0,
+   "lo": 2.1,
+   "hi": 15.5,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "DH07.02": {
+   "texto": "Memória, verdade e justiça de transição",
+   "assunto": "DH07",
+   "n": 1.5,
+   "peso": 0.82,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 10.6,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH07.03": {
+   "texto": "Acesso à justiça e 100 Regras de Brasília",
+   "assunto": "DH07",
+   "n": 0.5,
+   "peso": 0.27,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 8.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH07.04": {
+   "texto": "Instrumentos de atuação: remédios constitucionais, litígio estrutural e participação",
+   "assunto": "DH07",
+   "n": 1.0,
+   "peso": 0.55,
+   "p": 1.6,
+   "lo": 0.3,
+   "hi": 9.3,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.01": {
+   "texto": "Mulheres: igualdade de gênero e violência contra a mulher",
+   "assunto": "DH08",
+   "n": 9.0,
+   "peso": 5.19,
+   "p": 15.6,
+   "lo": 8.3,
+   "hi": 27.4,
+   "provas": 6,
+   "grupo": "Cai muito"
+  },
+  "DH08.03": {
+   "texto": "Povos indígenas, quilombolas e comunidades tradicionais",
+   "assunto": "DH08",
+   "n": 0.5,
+   "peso": 0.27,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 8.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.04": {
+   "texto": "Pessoas com deficiência",
+   "assunto": "DH08",
+   "n": 11.0,
+   "peso": 5.34,
+   "p": 16.1,
+   "lo": 8.6,
+   "hi": 27.9,
+   "provas": 7,
+   "grupo": "Cai muito"
+  },
+  "DH08.05": {
+   "texto": "Saúde mental, internação e política antimanicomial",
+   "assunto": "DH08",
+   "n": 1.5,
+   "peso": 0.71,
+   "p": 2.1,
+   "lo": 0.4,
+   "hi": 10.1,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.06": {
+   "texto": "Pessoas idosas",
+   "assunto": "DH08",
+   "n": 6.0,
+   "peso": 3.52,
+   "p": 10.6,
+   "lo": 4.9,
+   "hi": 21.5,
+   "provas": 4,
+   "grupo": "Cai muito"
+  },
+  "DH08.08": {
+   "texto": "LGBTQIA+, orientação sexual e identidade de gênero",
+   "assunto": "DH08",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 1.4,
+   "lo": 0.2,
+   "hi": 8.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.09": {
+   "texto": "Migrantes e trabalhadores migrantes",
+   "assunto": "DH08",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 1.4,
+   "lo": 0.2,
+   "hi": 8.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH08.10": {
+   "texto": "Pessoas em situação de rua e vulnerabilidade social",
+   "assunto": "DH08",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 1.4,
+   "lo": 0.2,
+   "hi": 8.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH09.01": {
+   "texto": "Tortura: proibição, Convenção e Comitê contra a Tortura",
+   "assunto": "DH09",
+   "n": 1.5,
+   "peso": 0.8,
+   "p": 2.4,
+   "lo": 0.5,
+   "hi": 10.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH09.02": {
+   "texto": "OPCAT, Subcomitê e Mecanismo Nacional de Prevenção e Combate à Tortura",
+   "assunto": "DH09",
+   "n": 1.0,
+   "peso": 0.77,
+   "p": 2.3,
+   "lo": 0.5,
+   "hi": 10.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.05": {
+   "texto": "Meio ambiente, clima e Agenda 2030",
+   "assunto": "DH10",
+   "n": 1.5,
+   "peso": 0.73,
+   "p": 2.2,
+   "lo": 0.4,
+   "hi": 10.2,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH10.09": {
+   "texto": "Bioética, pesquisa genética e recursos genéticos",
+   "assunto": "DH10",
+   "n": 0.5,
+   "peso": 0.27,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 8.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH09.04": {
+   "texto": "Garantias judiciais, direitos pré-processuais e proteção penal dos direitos humanos",
+   "assunto": "DH09",
+   "n": 0.5,
+   "peso": 0.25,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 7.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "pontos_com_1_questao": 13,
+ "pontos_sem_questao": [
+  "CA01.02",
+  "DH01.01",
+  "DH01.02",
+  "DH01.03",
+  "DH01.04",
+  "DH01.05",
+  "DH02.01",
+  "DH02.03",
+  "DH02.04",
+  "DH02.05",
+  "DH02.06",
+  "DH03.01",
+  "DH03.04",
+  "DH04.03",
+  "DH04.04",
+  "DH04.05",
+  "DH04.08",
+  "DH04.09",
+  "DH05.01",
+  "DH05.03",
+  "DH06.04",
+  "DH07.01",
+  "DH07.05",
+  "DH08.02",
+  "DH08.07",
+  "DH08.11",
+  "DH08.12",
+  "DH09.03",
+  "DH10.01",
+  "DH10.02",
+  "DH10.03",
+  "DH10.04",
+  "DH10.06",
+  "DH10.07",
+  "DH10.08",
+  "DH10.10",
+  "DH10.11",
+  "DH11.01"
+ ],
+ "good_turing_pontos_pct": 22.4,
+ "retro_pontos": {
+  "k": 10,
+  "temporal": [
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 8.0,
+    "acertos": 5.0,
+    "pct": 62.5
+   }
+  ],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 16.0,
+    "acertos": 11.5,
+    "pct": 71.9
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 10.0,
+    "acertos": 3.0,
+    "pct": 30.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 7.0,
+    "acertos": 4.5,
+    "pct": 64.3
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 6.0,
+    "acertos": 4.0,
+    "pct": 66.7
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 8.0,
+    "acertos": 5.0,
+    "pct": 62.5
+   }
+  ],
+  "media_temporal": 62.5,
+  "media_loo": 59.6,
+  "acaso": 37.0
+ },
+ "avisos": [
+  "Número efetivo pequeno: faixas de Wilson largas."
+ ],
+ "grupos_desc": {
+  "A": "mesmo órgão (DPE-AM), carreira, banca e cargo",
+  "B": "mesma carreira e banca, de outro órgão ou cargo",
+  "C": "outra banca ou carreira"
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "pasta": "2025 - DPE-SP - Analista de Defensoria",
+ "banca": "FCC",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 4693,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Constitucionalismo.",
+      "Sistemas de governo, formas de governo e formas de Estado.",
+      "Formação da Constituição, Poder Constituinte e Bloco de Constitucionalidade."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Controle de constitucionalidade.",
+      "O controle difuso, incidental ou concreto da constitucionalidade.",
+      "O controle concentrado, geral ou abstrato da constitucionalidade (ADI, ADC, ADO, ADPF), Representação interventiva, Reclamação constitucional e Mandado de injunção.",
+      "Interpretação constitucional: métodos, classificações, princípios e ativismo judicial.",
+      "Controle de constitucionalidade do direito estadual e do direito municipal."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Direitos, deveres e garantias individuais e coletivos em espécie.",
+      "Liberdades fundamentais, direitos civis e políticos e direitos de cidadania.",
+      "Direitos sociais e direitos dos trabalhadores.",
+      "Direito constitucional antidiscriminatório, feminista e inclusivo.",
+      "Igualdade formal e material.",
+      "Direitos de nacionalidade.",
+      "Condição jurídica do estrangeiro no Brasil.",
+      "Extradição.",
+      "Condição jurídica dos migrantes no Brasil.",
+      "Mecanismos constitucionais de participação popular: plebiscito, referendo e iniciativa popular e demais formas de participação popular nos demais Poderes.",
+      "Experiências brasileiras de participação e gestão democráticas: Conselhos de Direitos, Conselhos Gestores de Políticas Públicas, Conferências, Orçamento Participativo, Audiências Públicas e Consultas Públicas.",
+      "Controladorias, Ouvidorias e Auditorias.",
+      "Participação no Poder Legislativo e comissões parlamentares de participação social."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Organização política do Estado.",
+      "Federalismo, Estado Federal e Federação brasileira: componentes, repartição de competências e intervenção.",
+      "União: natureza jurídica, competências e bens.",
+      "Estados federados: natureza jurídica, competências, autonomia, capacidade de auto-organização e seus limites.",
+      "Organização regional.",
+      "Municípios: natureza jurídica, criação, competências, autonomia, capacidade de auto-organização e seus limites, lei orgânica e seus elementos, regiões metropolitanas, aglomerações urbanas e microrregiões.",
+      "Distrito Federal e Territórios.",
+      "Regiões."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Organização administrativa e funcional do Estado.",
+      "Administração Pública: noção, princípios, normas e organização.",
+      "Servidores públicos civis e militares: regime jurídico constitucional.",
+      "Responsabilidade civil.",
+      "Teoria dos atos jurídicos de direito público.",
+      "Princípio da separação dos poderes, controles interorgânicos e funções típicas e atípicas de cada poder."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Poder Judiciário: funções, organização, competências e funcionamento.",
+      "Estatuto da magistratura e seus princípios informativos.",
+      "Garantias institucionais da função judicial.",
+      "Jurisdição constitucional do Supremo Tribunal Federal e do Tribunal de Justiça do Estado do São Paulo.",
+      "Súmula vinculante.",
+      "Repercussão geral.",
+      "Conselho Nacional de Justiça, provimentos, resoluções e recomendações.",
+      "Amicus Curiae, Audiências Públicas, Consultas Públicas, Fóruns interinstitucionais, Grupos de articulação e comissões de conciliação em políticas públicas."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Funções essenciais à Justiça: Ministério Público, Defensoria Pública, Advocacia Pública e Advocacia Privada.",
+      "Regimes jurídicos.",
+      "Conselho Nacional do Ministério Público, provimentos, resoluções e recomendações.",
+      "Defensoria Pública: enquadramento constitucional, autonomia, princípios, garantias institucionais e funcionais.",
+      "Dever do Estado."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Defesa do Estado e das Instituições Democráticas: estado de defesa, estado de sítio, intervenção.",
+      "Forças armadas e defesa da soberania.",
+      "Segurança pública, política penitenciária e direito à segurança."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Direitos em espécie.",
+      "Atuação do Estado no domínio econômico.",
+      "Política urbana e conflitos urbanos.",
+      "Política agrícola e fundiária e da reforma agrária.",
+      "Direitos dos povos e das comunidades tradicionais.",
+      "Ordem social: fundamento e objetivos.",
+      "Direitos e políticas públicas voltadas à equidade de raça e gênero, população LGBTQIAPN+ e pessoas com deficiência.",
+      "Saúde: bases, diretrizes e instrumentos constitucionais.",
+      "Defesa dos direitos das pessoas com transtorno mental.",
+      "Assistência, Desenvolvimento e Promoção social.",
+      "Direito à alimentação adequada e segurança alimentar.",
+      "Educação, Cultura e Desporto: bases, diretrizes e instrumentos constitucionais.",
+      "Ciência, tecnologia e inovação.",
+      "Comunicação social: meios, propriedade, liberdades de expressão e opinião, regulação constitucional da mídia e mecanismos de participação.",
+      "Meio ambiente, conflitos socioambientais, recursos naturais e saneamento.",
+      "Povos tradicionais e proteção dos/as povos indígenas, comunidades quilombolas, povos ciganos, população ribeirinha, comunidade de terreiro, pescadores artesanais e outros grupos tradicionais e originários.",
+      "Pessoas em situação de rua: bases, diretrizes e instrumentos constitucionais."
+     ]
+    }
+   ]
+  }
+ ]
+}

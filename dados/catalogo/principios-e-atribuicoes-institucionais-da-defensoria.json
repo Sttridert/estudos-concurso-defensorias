@@ -1,0 +1,244 @@
+{
+ "disciplina": "Princípios e Atribuições Institucionais da Defensoria",
+ "assuntos": [
+  {
+   "codigo": "PI01",
+   "nome": "Fundamentos constitucionais da Defensoria Pública",
+   "descricao": "A Defensoria na Constituição Federal."
+  },
+  {
+   "codigo": "PI02",
+   "nome": "Lei Orgânica Nacional da Defensoria Pública",
+   "descricao": "LC 80/1994."
+  },
+  {
+   "codigo": "PI03",
+   "nome": "Normas estaduais de organização da Defensoria",
+   "descricao": "Normas de cada Estado; as do Amazonas são exemplos nos itens (o catálogo é universal)."
+  },
+  {
+   "codigo": "PI04",
+   "nome": "Atuação e ética institucional",
+   "descricao": "Atuação institucional, extrajudicial e deveres éticos."
+  },
+  {
+   "codigo": "PI05",
+   "nome": "Antidiscriminatório e justiça social",
+   "descricao": "Igualdade, inclusão e participação."
+  },
+  {
+   "codigo": "PI06#v1",
+   "nome": "Cobrado em provas anteriores, fora do edital 2026",
+   "descricao": null
+  }
+ ],
+ "pontos": [
+  {
+   "codigo": "PI01.01",
+   "assunto": "PI01",
+   "texto": "Função essencial à Justiça e missão constitucional",
+   "descricao": "CF art. 134: missão e necessitados. [Tema compartilhado com Direito Constitucional]",
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI01.02",
+   "assunto": "PI01",
+   "texto": "Autonomia funcional, administrativa e orçamentária",
+   "descricao": "EC 45/2004, EC 80/2014 e outras.",
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI01.03",
+   "assunto": "PI01",
+   "texto": "Assistência jurídica integral e gratuita",
+   "descricao": "Direitos e garantias fundamentais (CF art. 5º). [Tema compartilhado com Direito Constitucional]",
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI01.04",
+   "assunto": "PI01",
+   "texto": "Administração Pública: princípios constitucionais",
+   "descricao": "CF art. 37. [Tema compartilhado com Direito Constitucional e Direito Administrativo]",
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI02.01",
+   "assunto": "PI02",
+   "texto": "Princípios, funções e objetivos institucionais",
+   "descricao": "[Tema compartilhado com Direito Processual Civil, Direito Processual Penal, ECA, Execução Penal]",
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI02.02",
+   "assunto": "PI02",
+   "texto": "Defensor Público-Geral e Administração Superior",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI02.03",
+   "assunto": "PI02",
+   "texto": "Conselho Superior e Corregedoria-Geral",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da LC 80/1994; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PI02.04",
+   "assunto": "PI02",
+   "texto": "Órgãos de atuação e de execução; núcleos",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI02.05",
+   "assunto": "PI02",
+   "texto": "Garantias e prerrogativas dos membros",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI02.06",
+   "assunto": "PI02",
+   "texto": "Deveres, vedações e responsabilidade funcional dos membros",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto da LC 80/1994; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PI03.01",
+   "assunto": "PI03",
+   "texto": "Constituição estadual e Defensoria Pública",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI03.02",
+   "assunto": "PI03",
+   "texto": "Lei orgânica estadual da Defensoria Pública",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI03.03",
+   "assunto": "PI03",
+   "texto": "Regime funcional dos servidores da Defensoria",
+   "descricao": "Estágio probatório e evolução funcional; inclui a lei estadual de servidores (confirmar o conteúdo).",
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI03.03#v1",
+   "assunto": "PI03",
+   "texto": "Lei estadual 1.762/1986",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 0,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI03.04",
+   "assunto": "PI03",
+   "texto": "Demais normas estaduais de organização da Defensoria",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI04.01",
+   "assunto": "PI04",
+   "texto": "Atuação institucional e direitos dos usuários",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI04.02",
+   "assunto": "PI04",
+   "texto": "Atuação extrajudicial",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI04.03",
+   "assunto": "PI04",
+   "texto": "Ética institucional",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI05.01",
+   "assunto": "PI05",
+   "texto": "Igualdade e proibição de discriminação; ações afirmativas",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI05.02",
+   "assunto": "PI05",
+   "texto": "Justiça social, inclusão e participação",
+   "descricao": "Raça, gênero, LGBTQIAPN+ e pessoas com deficiência. [Tema compartilhado com Direitos Humanos]",
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI06.01#v1",
+   "assunto": "PI06#v1",
+   "texto": "Crimes praticados por funcionário público contra a Administração (CP, arts. 312 a 327)",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 0,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI06.02#v1",
+   "assunto": "PI06#v1",
+   "texto": "Improbidade administrativa (Lei 8.429/1992, arts. 1º a 12)",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 0,
+   "criado_em": "2026-11-15"
+  },
+  {
+   "codigo": "PI06.03#v1",
+   "assunto": "PI06#v1",
+   "texto": "Outros temas da Constituição Federal fora dos arts. 5º, 37 e 134",
+   "descricao": null,
+   "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)",
+   "ativo": 0,
+   "criado_em": "2026-11-15"
+  }
+ ]
+}

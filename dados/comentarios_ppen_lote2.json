@@ -1,0 +1,117 @@
+{
+"2023 - DPE-AM - Analista Jurídico|46": {
+ "c": "Gabarito B. O habeas corpus pode ser impetrado por qualquer pessoa, em seu favor ou de outrem, e também pelo Ministério Público (CPP, art. 654, caput). Não exige advogado nem procuração e não se limita a parentes. A, C, D e E restringem indevidamente quem pode impetrar; E é o contrário da lei, pois o próprio paciente pode impetrar.",
+ "p": "Achar que só advogado ou parente pode impetrar habeas corpus.",
+ "d": ["CPP|art. 654", "CF|art. 5º, LXVIII"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|47": {
+ "c": "Gabarito A. O texto descreve a audiência de custódia: apresentação rápida da pessoa presa a um juiz, com a presença do Ministério Público e da Defensoria ou do advogado, lançada pelo CNJ em 2015 (Resolução CNJ 213/2015) e hoje prevista no CPP (art. 310). As demais audiências (justificação, mediação, preliminar, instrução) têm outra finalidade e não envolvem a análise da prisão em flagrante.",
+ "p": "Nenhuma pegadinha relevante: a questão pede só o nome da audiência.",
+ "d": ["CPP|art. 310", "CNJ|Resolução 213/2015"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|48": {
+ "c": "Gabarito E. O direito de recorrer da sentença a juiz ou tribunal superior (Convenção Americana, art. 8º, 2, h) corresponde ao duplo grau de jurisdição. A presunção de inocência, a motivação, o juiz natural e a identidade física são outros princípios e não se confundem com o direito ao recurso.",
+ "p": "Confundir duplo grau de jurisdição com presunção de inocência por ambos estarem no mesmo artigo da Convenção.",
+ "d": ["Convenção Americana de Direitos Humanos|art. 8º, 2, h"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|49": {
+ "c": "Gabarito D. A Constituição assegura no júri a plenitude de defesa, o sigilo das votações, a soberania dos veredictos e a competência para o julgamento dos crimes dolosos contra a vida (CF, art. 5º, XXXVIII, a a d). Todos os quatro itens estão corretos.",
+ "p": "Duvidar de um dos itens: a plenitude de defesa é a do júri (maior que a ampla defesa comum).",
+ "d": ["CF|art. 5º, XXXVIII"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|50": {
+ "c": "Gabarito C. A preventiva pode ser substituída por prisão domiciliar quando a agente for mulher com filho de até 12 anos incompletos (CPP, art. 318, V). A: a gestante tem o direito em qualquer fase da gestação (art. 318, IV), sem exigir o 7º mês. B: a idade que dá o direito é a de mais de 80 anos (art. 318, I). D: a doença deve ser grave e deixar o preso extremamente debilitado (art. 318, II). E: a gestante não precisa de gravidez de alto risco. Furto não tem violência, então não incide a vedação do art. 318-A.",
+ "p": "Decorar números errados: 12 anos incompletos para os filhos e mais de 80 anos para o idoso.",
+ "d": ["CPP|art. 318, I, II, IV e V", "CPP|art. 318-A"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|53": {
+ "c": "Gabarito A. O acórdão da apelação foi desfavorável ao réu no ponto do regime. Com 4 anos e primariedade, o regime inicial seria o aberto (CP, art. 33, § 2º, c), e a fixação do semiaberto contraria lei federal. Cabem recurso especial, por violação do art. 33 do CP, e, havendo questão constitucional, extraordinário, interpostos perante o presidente ou vice-presidente do Tribunal de Justiça. B: os embargos infringentes (CPP, art. 609, parágrafo único) só cabem contra voto vencido favorável ao réu; aqui o voto vencido era contrário ao réu. C: o julgamento estendido do CPC (art. 942) não foi adotado no processo penal pelo STJ. D: o habeas corpus não se dirige ao presidente do Tribunal. E: a pena e o regime não estão adequados.",
+ "p": "Pensar em embargos infringentes porque o acórdão foi por maioria, sem notar que o voto vencido era contra o réu.",
+ "d": ["CP|art. 33, § 2º, c", "CPP|art. 609, parágrafo único", "CF|art. 105, III, a", "CPC|art. 942"],
+ "pend": 1},
+"2025 - DPE-SP - Analista de Defensoria|54": {
+ "c": "Gabarito B. Se o Ministério Público pede a liberdade provisória na audiência de custódia, o juiz não pode decretar a preventiva por conta própria: a conversão do flagrante em preventiva depende de provocação (CPP, arts. 3º-A, 310 e 311), conforme o sistema acusatório. Confirmar a Súmula 676 do STJ, que trata desse ponto. A: o juiz está, sim, vinculado nesse caso. C e D: o art. 28 do CPP trata do arquivamento do inquérito, não do pedido de liberdade. E: o juiz não deve reabrir a palavra para pressionar o Ministério Público.",
+ "p": "Achar que o juiz pode decretar a preventiva de ofício na audiência de custódia.",
+ "d": ["CPP|art. 3º-A", "CPP|art. 310", "CPP|art. 311", "STJ|Súmula 676 (confirmar)"],
+ "pend": 1},
+"2025 - DPE-SP - Analista de Defensoria|55": {
+ "c": "Gabarito D, pelo entendimento da banca: quem firmou acordo de não persecução penal e não foi denunciado não é mais corréu, e sua oitiva como informante é possível; confirmar o julgado do STJ sobre se pode também ser ouvido como testemunha. A: nos crimes sexuais as perguntas continuam no sistema direto (CPP, art. 212), com as proteções do art. 400-A. B: a prova testemunhal pode suprir o exame de corpo de delito quando os vestígios desapareceram (art. 167), mas a confissão não (art. 158). C: a acareação entre acusado e testemunha é prevista (art. 229). E: o juiz não fica adstrito ao laudo (art. 182).",
+ "p": "Confundir quem pode suprir o exame de corpo de delito: a testemunha pode, a confissão não.",
+ "d": ["CPP|art. 158", "CPP|art. 167", "CPP|art. 182", "CPP|art. 229", "CPP|art. 28-A"],
+ "pend": 1},
+"2025 - DPE-SP - Analista de Defensoria|56": {
+ "c": "Gabarito B. O STF decidiu que o dever de revisar a preventiva a cada 90 dias (CPP, art. 316, parágrafo único) vale até o fim do processo de conhecimento, o que inclui o julgamento em segundo grau (ADI 6.581; confirmar). A: o gabarito considera errada porque o roubo com restrição de liberdade da vítima é crime hediondo, logo inafiançável; confirmar a redação atual da Lei 8.072/1990. C: a prisão temporária é medida da investigação (Lei 7.960/1989), não da instrução. D: o texto chama a domiciliar de medida alternativa, mas ela substitui a preventiva (arts. 317 e 318); a banca a considera errada. E: o tempo de recolhimento noturno e em dias de folga é computado na detração (CP, art. 42; art. 319, V).",
+ "p": "Esquecer que a revisão dos 90 dias vai até o segundo grau e que o recolhimento domiciliar noturno conta para a detração.",
+ "d": ["CPP|art. 316, parágrafo único", "CPP|art. 319, V", "CP|art. 42", "STF|ADI 6.581 (confirmar)", "Lei 8.072/1990|art. 1º (confirmar)"],
+ "pend": 1},
+"2025 - DPE-SP - Analista de Defensoria|57": {
+ "c": "Gabarito A. O descumprimento do acordo de não persecução pode ser usado pelo Ministério Público como justificativa para não oferecer a suspensão condicional do processo (CPP, art. 28-A, § 11). B: da recusa de homologação cabe recurso em sentido estrito (art. 581, XXV), e não apelação. C: a confissão é requisito do acordo, mas negar a proposta só porque o investigado não confessou antes, no inquérito, não é válido; ela pode ser feita ao propor o acordo. D: o reincidente é excluído, salvo se as infrações pretéritas forem insignificantes (art. 28-A, § 2º, II). E: o STF e o STJ admitem o acordo para fatos anteriores à Lei 13.964/2019, desde que o processo ainda não tenha sentença.",
+ "p": "Achar que o acordo só vale para crimes cometidos depois do Pacote Anticrime.",
+ "d": ["CPP|art. 28-A, caput, § 2º e § 11", "CPP|art. 581, XXV"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|58": {
+ "c": "Gabarito C. A revisão criminal é julgada pelo tribunal que proferiu a condenação com mérito; aqui, o Tribunal de Justiça de São Paulo, que julgou a apelação. O STJ não conheceu do habeas corpus e apenas concedeu a ordem de ofício para ajustar a pena; ele não reexaminou o mérito da condenação, por isso não passa a ser competente para a revisão. A e B: os juízes de primeiro grau não julgam revisão. E: o STF só julga revisão de suas próprias condenações.",
+ "p": "Achar que a revisão vai ao STJ por ter havido habeas corpus lá.",
+ "d": ["CPP|art. 621", "CPP|art. 624", "CF|art. 105, I, e"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|59": {
+ "c": "Gabarito C. Nos crimes de ação privada, a autoridade policial só pode proceder a inquérito a requerimento de quem tenha qualidade para intentar a queixa (CPP, art. 5º, § 5º); calúnia contra pessoa comum é de ação privada. A: o arquivamento por falta de provas não faz coisa julgada material (Súmula 524 do STF). B: o relatório deve ser minucioso, mas não traz opinião sobre a culpabilidade (art. 10, § 1º). D: o delegado não pode arquivar o inquérito (art. 17). E: na Lei de Drogas, o prazo é de 30 dias se preso e 90 se solto, dobráveis (Lei 11.343/2006, art. 51), e não 45 dias sem prorrogação.",
+ "p": "Achar que o delegado arquiva o inquérito ou que o relatório deve apontar a culpa.",
+ "d": ["CPP|art. 5º, § 5º", "CPP|art. 10, § 1º", "CPP|art. 17", "Lei 11.343/2006|art. 51", "STF|Súmula 524"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|60": {
+ "c": "Gabarito B. No julgamento das ADIs sobre o juiz das garantias (6.298 e outras), o STF excluiu da competência do juiz das garantias os casos de violência doméstica e familiar, de modo que o juiz da investigação pode presidir a instrução nesses processos; confirmar o acórdão. A: o STF decidiu que os autos da investigação seguem para o juiz da instrução. C: a competência exclui também outras infrações (júri, violência doméstica, eleitorais); dizer 'todas, exceto as de menor potencial' é incompleto. D: a regra do art. 157, § 5º, que afastava o juiz que conhecesse prova inadmissível, foi declarada inconstitucional. E: o art. 155 veda fundamentar a condenação só em elementos do inquérito, ressalvadas as provas cautelares, não repetíveis e antecipadas, e não existe a exceção para crimes sexuais.",
+ "p": "Pensar que a cisão entre juiz das garantias e juiz da instrução vale sempre e em tudo.",
+ "d": ["CPP|art. 3º-B", "CPP|art. 3º-C", "CPP|art. 155", "CPP|art. 157, § 5º", "STF|ADI 6.298 (confirmar)"],
+ "pend": 1},
+"2025 - DPE-SP - Analista de Defensoria|61": {
+ "c": "Gabarito C, pelo entendimento do STJ: o juiz pode corrigir a capitulação logo no recebimento da denúncia (emendatio libelli antecipada) e, se o novo enquadramento permitir, mandar os autos ao Ministério Público para avaliar a suspensão condicional do processo; confirmar o julgado. A: o juiz não devolve para o promotor corrigir. B: o art. 28 do CPP trata de arquivamento. D: esperar a sentença retira a chance de benefícios. E: erro de capitulação não torna a denúncia inepta.",
+ "p": "Achar que o juiz deve esperar a sentença para corrigir a classificação, perdendo o benefício.",
+ "d": ["CPP|art. 383", "CPP|art. 395", "Lei 9.099/1995|art. 89", "STJ|julgado sobre emendatio libelli antecipada (confirmar)"],
+ "pend": 1},
+"2025 - MPPI - Analista Ministerial|41": {
+ "c": "Gabarito E. O STF, ao reconhecer o poder investigatório do Ministério Público (RE 593.727, tema 184, e ADIs 2.943, 3.309 e 3.318), exigiu a comunicação imediata ao juiz competente sobre a instauração e o encerramento do procedimento, com registro e distribuição (I), e a distribuição por dependência ao juízo que primeiro conhecer de procedimento ou inquérito, para evitar duplicidade (IV). II está errada: não há prazo em dobro para inquéritos policiais. III está errada: as prorrogações de prazo dependem de autorização judicial, sendo vedadas as renovações desproporcionais ou imotivadas.",
+ "p": "Inventar prerrogativas do Ministério Público (prazo em dobro, prorrogação sem juiz).",
+ "d": ["STF|RE 593.727 (tema 184)", "STF|ADI 2.943, 3.309 e 3.318"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|42": {
+ "c": "Gabarito A, pelo entendimento dos tribunais superiores (STJ e STF): o réu pode comparecer ao júri com as próprias roupas, pois o uniforme de preso pode influenciar os jurados; confirmar o julgado. B: o STJ e o STF não aceitam o in dubio pro societate como fundamento da pronúncia, que exige indícios suficientes de autoria. C: o STF decidiu que a soberania dos veredictos autoriza a execução imediata da condenação do júri, qualquer que seja a pena (tema 1.068). D: a plenitude de defesa não impede o juiz de avaliar a pertinência da prova. E: a falta de quesito obrigatório gera nulidade absoluta (Súmula 156 do STF), sem depender de registro em ata.",
+ "p": "Ainda usar o in dubio pro societate e a regra antiga de execução da pena só após o fim dos recursos.",
+ "d": ["CPP|art. 413", "CPP|art. 474", "CPP|art. 483", "STF|Súmula 156", "STF|Tema 1.068 (confirmar)"],
+ "pend": 1},
+"2025 - MPPI - Analista Ministerial|43": {
+ "c": "Gabarito C. A Lei 14.245/2021 (Lei Mariana Ferrer) incluiu o art. 400-A no CPP: na audiência, todos devem zelar pela integridade física e psicológica da vítima, sendo vedadas manifestações sobre circunstâncias alheias ao fato e a vida sexual pregressa, e linguagem ofensiva; o juiz tem o dever de coibir a prática, sob pena de responsabilização civil, administrativa e penal. A, D e E admitem tratar da vida sexual ou do comportamento da vítima, o que a lei proíbe. B: a ampla defesa não autoriza ofender a vítima.",
+ "p": "Achar que a ampla defesa permite discutir o comportamento ou a vida sexual da vítima.",
+ "d": ["CPP|art. 400-A", "CPP|art. 474-A", "Lei 14.245/2021"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|44": {
+ "c": "Gabarito B, pelo entendimento do STJ sobre a Lei Maria da Penha: as medidas protetivas não precisam de revisão periódica obrigatória, mas podem ser reavaliadas a pedido ou quando acabar a situação de risco; confirmar o julgado (tema repetitivo do STJ). A: as medidas independem de boletim de ocorrência, inquérito ou processo (art. 19, § 5º, da lei). C: o fim do processo, o arquivamento ou a absolvição não extinguem a medida automaticamente (art. 19, § 6º). D: a duração vale enquanto durar o risco, sem prazos fixos de 30 a 180 dias. E: a revogação exige contraditório, e a vítima deve ser comunicada.",
+ "p": "Achar que a medida protetiva acaba junto com o processo, ou que precisa de prazo fixo.",
+ "d": ["Lei 11.340/2006|art. 19", "Lei 14.550/2023", "STJ|tema repetitivo sobre medidas protetivas (confirmar)"],
+ "pend": 1},
+"2026 - TJCE - Analista Judiciário|56": {
+ "c": "Gabarito C. O acordo de não persecução penal (CPP, art. 28-A) exige pena mínima inferior a 4 anos, crime sem violência ou grave ameaça, e não ter sido o investigado beneficiado, nos 5 anos anteriores, com acordo, transação ou suspensão condicional do processo. Murilo (pena mínima de 4 anos) não preenche; Thiago (grave ameaça) não preenche; Maurício (suspensão condicional nos 5 anos anteriores) não preenche (§ 2º, III). Só Vinícius (pena mínima de 2 anos) preenche.",
+ "p": "Esquecer que o limite é pena mínima INFERIOR a 4 anos (4 anos exatos não serve) e contar a máxima.",
+ "d": ["CPP|art. 28-A, caput e § 2º"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|57": {
+ "c": "Gabarito A. No procedimento comum ordinário, cada parte pode arrolar até 8 testemunhas, e nesse número não se compreendem as que não prestem compromisso e as referidas (CPP, art. 401). D e E erram o número (10 não é o limite de nenhum rito comum; o sumário admite 5, art. 532). B e C erram ao incluir na conta as testemunhas que a lei deixa de fora. O crime contra a dignidade sexual não muda o número.",
+ "p": "Esquecer que as testemunhas que não prestam compromisso e as referidas ficam fora da conta.",
+ "d": ["CPP|art. 401", "CPP|art. 532"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|58": {
+ "c": "Gabarito C. Não impedem a ação civil: o arquivamento do inquérito (Lucila), a decisão que julga extinta a punibilidade (Tício) e a sentença absolutória que decidir que o fato não constitui crime (Igor) (CPP, art. 67). Já a absolvição por legítima defesa (Mauro) faz coisa julgada no cível e impede a ação (art. 65).",
+ "p": "Confundir a absolvição por não ser crime (permite ação civil) com a absolvição por excludente de ilicitude (não permite).",
+ "d": ["CPP|art. 65", "CPP|art. 66", "CPP|art. 67"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|59": {
+ "c": "Gabarito D. A decisão que acolhe a exceção de incompetência, concluindo pela incompetência do juízo, desafia recurso em sentido estrito (CPP, art. 581, II), no prazo de 5 dias (art. 586). A e E: apelação é para sentença. B: a correição parcial não é o recurso adequado quando há recurso previsto em lei. C: o prazo do recurso em sentido estrito é de 5 dias, e não de 2 (os 2 dias são o prazo do juiz para se retratar, art. 589). A apelação também tem prazo de 5 dias, mas não é o recurso cabível.",
+ "p": "Trocar os prazos: o recurso em sentido estrito é de 5 dias, e os embargos de declaração, de 2.",
+ "d": ["CPP|art. 581, II", "CPP|art. 586"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|60": {
+ "c": "Gabarito D. Os quesitos do júri seguem a ordem do art. 483 do CPP: 1) materialidade do fato; 2) autoria ou participação; 3) se o acusado deve ser absolvido; 4) se existe causa de diminuição de pena alegada pela defesa; 5) se existe circunstância qualificadora ou causa de aumento reconhecida na pronúncia. As demais alternativas trocam a ordem (por exemplo, antecipam a diminuição ou deixam o quesito de absolvição por último).",
+ "p": "Colocar o quesito da absolvição no fim ou antes da autoria.",
+ "d": ["CPP|art. 482", "CPP|art. 483"],
+ "pend": 0}
+}

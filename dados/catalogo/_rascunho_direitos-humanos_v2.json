@@ -1,0 +1,1069 @@
+{
+ "slug": "direitos-humanos",
+ "disciplina": "Direitos Humanos",
+ "prefixo": "DH",
+ "versao_base": "v1",
+ "versao_alvo": "v2",
+ "criado_em": "2026-11-20T16:06:58",
+ "estado": "rascunho",
+ "assuntos": [
+  {
+   "uid": "v1:DH01",
+   "antigo": "DH01",
+   "nome": "Teoria geral dos direitos humanos",
+   "descricao": "Origem, fundamentos, características e correntes teóricas.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH01.01",
+     "antigo": "DH01.01",
+     "texto": "Evolução histórica dos direitos humanos",
+     "descricao": "Declarações de 1689, 1776, 1789 e 1948.",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "n:f970c20e",
+     "antigo": null,
+     "texto": "Gerações ou dimensões dos direitos humanos",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:DH01.02",
+     "antigo": "DH01.02",
+     "texto": "Fundamentos e dignidade da pessoa humana",
+     "descricao": "Dignidade da pessoa humana (inclusive na CF) e fundamentos filosóficos.",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "n:4e7bb916",
+     "antigo": null,
+     "texto": "Características dos direitos humanos",
+     "descricao": "Universalidade, indivisibilidade, vedação do retrocesso e demais características.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:DH01.03",
+     "antigo": "DH01.03",
+     "texto": "Universalismo, relativismo cultural e interculturalidade",
+     "descricao": "Debate entre universalismo e relativismo",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH01.04",
+     "antigo": "DH01.04",
+     "texto": "Teoria crítica e decolonialidade",
+     "descricao": "Herrera Flores, Lélia Gonzalez (amefricanidade), colonialidade, perspectivas contra-hegemônicas. Interseccionalidade: ver Igualdade e não discriminação.",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH01.05",
+     "antigo": "DH01.05",
+     "texto": "Teorias contemporâneas e geopolítica dos direitos humanos",
+     "descricao": "Choque de civilizações, biopolítica, necropolítica, estado de exceção, guerra ao terror, fundamentalismos",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:DH02",
+   "antigo": "DH02",
+   "nome": "Direito Internacional dos Direitos Humanos: regras gerais",
+   "descricao": "Fontes, interpretação, limites e responsabilidade internacional.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH02.01",
+     "antigo": "DH02.01",
+     "texto": "Fontes, classificação e soft law",
+     "descricao": "Tratados, costume, princípios, resoluções e instrumentos não vinculantes e seu papel",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH02.02",
+     "antigo": "DH02.02",
+     "texto": "Interpretação dos tratados e princípio pro persona",
+     "descricao": "Regras de interpretação (Convenção de Viena), pro persona ou pro homine, colisão de direitos humanos",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH02.03",
+     "antigo": "DH02.03",
+     "texto": "Restrição, limitação e suspensão de direitos",
+     "descricao": "Cláusulas de limitação, saúde pública, estado de emergência (CADH art. 27, PIDCP art. 4º), reserva legal",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH02.04",
+     "antigo": "DH02.04",
+     "texto": "Reservas, denúncia, vigência e eficácia dos tratados",
+     "descricao": "Reservas incompatíveis com o objeto do tratado, denúncia, entrada em vigor",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH02.05",
+     "antigo": "DH02.05",
+     "texto": "Responsabilidade internacional do Estado, reparação e sanções",
+     "descricao": "Obrigações assumidas pelo Brasil, formas de reparação, atos de agentes e de particulares",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH02.06",
+     "antigo": "DH02.06",
+     "texto": "Obrigações dos Estados e teorias de controle",
+     "descricao": "Margem de apreciação e quarta instância (confirmar).",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:DH03",
+   "antigo": "DH03",
+   "nome": "Sistema global (ONU)",
+   "descricao": "Órgãos, tratados e mecanismos de monitoramento da ONU.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH03.01",
+     "antigo": "DH03.01",
+     "texto": "Sistema ONU: órgãos, Conselho de Direitos Humanos e agências",
+     "descricao": "Assembleia Geral, ECOSOC, Conselho de Direitos Humanos, Alto Comissariado, procedimentos especiais, agências com atuação no Brasil",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH03.02",
+     "antigo": "DH03.02",
+     "texto": "Declaração Universal, pactos da ONU e outros tratados",
+     "descricao": "Conteúdo dos três instrumentos, protocolos facultativos e abolição da pena de morte [texto anterior: Declaração Universal, PIDCP e PIDESC]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH03.03",
+     "antigo": "DH03.03",
+     "texto": "Comitês de tratados: relatórios, comentários gerais e comunicações individuais",
+     "descricao": "Funcionamento dos comitês, quais tratados aceitam petição individual, valor jurídico das constatações",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH03.04",
+     "antigo": "DH03.04",
+     "texto": "Revisão Periódica Universal e outros mecanismos de monitoramento",
+     "descricao": "RPU, relatórios dos Estados e da sociedade civil, monitoramento de tratados",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:DH04",
+   "antigo": "DH04",
+   "nome": "Sistema interamericano: órgãos e procedimento",
+   "descricao": "Quem decide e como se chega à Comissão e à Corte.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH04.01",
+     "antigo": "DH04.01",
+     "texto": "OEA, Comissão e Corte Interamericanas: estrutura e competência",
+     "descricao": "Composição, sede, competência contenciosa e consultiva, legitimados",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH04.02",
+     "antigo": "DH04.02",
+     "texto": "Petição individual, admissibilidade e procedimento na Comissão",
+     "descricao": "CADH arts. 44 a 46: quem peticiona, requisitos, esgotamento dos recursos internos, prazo, litispendência",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH04.03",
+     "antigo": "DH04.03",
+     "texto": "Medidas cautelares e medidas provisórias",
+     "descricao": "Medidas da Comissão e da Corte (CADH art. 63, §2º), efeito vinculante",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "n:caac8267",
+   "antigo": null,
+   "nome": "Sistema interamericano: direitos e jurisprudência",
+   "descricao": "Direitos protegidos, casos e instrumentos temáticos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH04.04",
+     "antigo": "DH04.04",
+     "texto": "Convenção Americana e Declaração Americana: direitos e garantias",
+     "descricao": "Direitos dos arts. 3 a 26 da CADH (vida, garantias judiciais, associação, retificação ou resposta, escravidão) e deveres da Declaração Americana [Tema compartilhado com Execução Penal (jurisprudência interamericana), Direito Processual Penal]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH04.05",
+     "antigo": "DH04.05",
+     "texto": "Protocolos adicionais à Convenção Americana",
+     "descricao": "Protocolo de San Salvador (direitos econômicos, sociais e culturais) e protocolo da abolição da pena de morte.",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH04.06",
+     "antigo": "DH04.06",
+     "texto": "Casos do Brasil na Corte IDH",
+     "descricao": "Ximenes Lopes, Escher, Garibaldi, Gomes Lund, Favela Nova Brasília, Fazenda Brasil Verde, Hernández Norambuena, supervisão de cumprimento",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH04.07",
+     "antigo": "DH04.07",
+     "texto": "Outros casos e opiniões consultivas da Corte IDH",
+     "descricao": "OC-14/94, Ruano Torres, Lhaka Honhat, Pacheco Tineo, jurisprudência de outros Estados",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH04.08",
+     "antigo": "DH04.08",
+     "texto": "Convenções interamericanas temáticas e resoluções da OEA",
+     "descricao": "Desaparecimento forçado, prevenção da tortura, resoluções da Assembleia Geral e da Comissão",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "n:f65561e5",
+   "antigo": null,
+   "nome": "Outros sistemas regionais de proteção",
+   "descricao": "Sistemas fora das Américas.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH04.09",
+     "antigo": "DH04.09",
+     "texto": "Sistema africano",
+     "descricao": "Carta Africana, Comissão e Corte Africanas, comparação com o sistema interamericano.",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "n:435499e0",
+     "antigo": null,
+     "texto": "Sistema europeu",
+     "descricao": "Convenção Europeia e Corte Europeia (confirmar se é cobrado).",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:DH05",
+   "antigo": "DH05",
+   "nome": "Direito internacional humanitário e penal",
+   "descricao": "Direito da guerra e responsabilização por crimes internacionais.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH05.01",
+     "antigo": "DH05.01",
+     "texto": "Direito Internacional Humanitário",
+     "descricao": "Convenções de Genebra, princípios, perfídia e meios e métodos de guerra",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH05.02",
+     "antigo": "DH05.02",
+     "texto": "Tribunal Penal Internacional e crimes internacionais",
+     "descricao": "Estatuto de Roma, genocídio, crimes contra a humanidade, de guerra e agressão, complementaridade",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "n:e60458fd",
+   "antigo": null,
+   "nome": "Mobilidade humana",
+   "descricao": "Refúgio, apatridia e migração.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH05.03",
+     "antigo": "DH05.03",
+     "texto": "Refugiados e asilo",
+     "descricao": "Convenção de 1951, Protocolo de 1967, Lei 9.474/1997, não devolução, caso Pacheco Tineo.",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "n:9cb46c5b",
+     "antigo": null,
+     "texto": "Apatridia",
+     "descricao": "Convenções sobre apatridia (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:DH08.09",
+     "antigo": "DH08.09",
+     "texto": "Migrantes e trabalhadores migrantes",
+     "descricao": "Convenção sobre Trabalhadores Migrantes, Pacto Global para Migração, expulsão coletiva [Tema compartilhado com Direito Constitucional]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:DH06",
+   "antigo": "DH06",
+   "nome": "Tratados de direitos humanos no direito brasileiro",
+   "descricao": "Incorporação, hierarquia, convencionalidade e federalização.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH06.01",
+     "antigo": "DH06.01",
+     "texto": "Incorporação e hierarquia dos tratados de direitos humanos",
+     "descricao": "CF art. 5º, §§2º e 3º, art. 84, VIII e art. 49, I [Tema compartilhado com Direito Constitucional]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH06.02",
+     "antigo": "DH06.02",
+     "texto": "Controle de convencionalidade e diálogo entre cortes",
+     "descricao": "Controle difuso e concentrado, Almonacid Arellano, uso de precedentes internacionais [Tema compartilhado com Direito Constitucional]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH06.03",
+     "antigo": "DH06.03",
+     "texto": "Incidente de deslocamento de competência (federalização)",
+     "descricao": "CF art. 109, V-A e §5º: legitimado (PGR), tribunal (STJ), requisitos",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH06.04",
+     "antigo": "DH06.04",
+     "texto": "Execução de decisões internacionais e conflito com a norma constitucional",
+     "descricao": "Cumprimento de sentenças e recomendações internacionais no Brasil",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:DH07",
+   "antigo": "DH07",
+   "nome": "Políticas públicas de direitos humanos",
+   "descricao": "Programas, educação, participação e proteção de defensores.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH07.01",
+     "antigo": "DH07.01",
+     "texto": "Políticas e programas nacionais de direitos humanos",
+     "descricao": "PNDH, conselhos de direitos, participação social.",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH11.01",
+     "antigo": "DH11.01",
+     "texto": "Educação em direitos humanos",
+     "descricao": "Plano nacional de educação em direitos humanos e práticas pedagógicas emancipatórias",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "n:4dbdc8ff",
+     "antigo": null,
+     "texto": "Proteção de defensores de direitos humanos",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:DH07.05",
+     "antigo": "DH07.05",
+     "texto": "Participação política e liberdade de manifestação",
+     "descricao": "Manifestação e resistência (confirmar).",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "n:f1f55e55",
+   "antigo": null,
+   "nome": "Memória, verdade e justiça de transição",
+   "descricao": "Tratamento do passado autoritário.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH07.02",
+     "antigo": "DH07.02",
+     "texto": "Lei de Anistia e justiça de transição",
+     "descricao": "Lei de Anistia e ADPF 153, desaparecidos políticos, garantias de não repetição. [Tema compartilhado com Direito Constitucional]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "n:ac3ba051",
+     "antigo": null,
+     "texto": "Comissão Nacional da Verdade e direito à verdade",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:9d9a2ee4",
+   "antigo": null,
+   "nome": "Acesso à justiça e instrumentos de atuação",
+   "descricao": "Como levar a violação de direitos ao sistema de justiça.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH07.03",
+     "antigo": "DH07.03",
+     "texto": "Acesso à justiça e 100 Regras de Brasília",
+     "descricao": "Gratuidade, barreiras formais, adaptações procedimentais para grupos vulneráveis",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH07.04",
+     "antigo": "DH07.04",
+     "texto": "Instrumentos de atuação: remédios constitucionais, litígio estrutural e participação",
+     "descricao": "Habeas corpus e data, mandado de segurança, litígio estrutural, amicus curiae, audiências públicas [Tema compartilhado com Direito Constitucional, Direito Processual Penal, Direito Processual Civil]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:DH08",
+   "antigo": "DH08",
+   "nome": "Igualdade e não discriminação",
+   "descricao": "Teoria antidiscriminatória e discriminação por motivo (sexo, raça, orientação, religião).",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH08.11",
+     "antigo": "DH08.11",
+     "texto": "Teoria antidiscriminatória",
+     "descricao": "Discriminação direta, indireta e interseccional; categorias suspeitas; impacto desproporcional; ônus da prova. [Tema compartilhado com Direito Constitucional, Princípios e Atribuições Institucionais da Defensoria]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH08.01",
+     "antigo": "DH08.01",
+     "texto": "Igualdade de gênero",
+     "descricao": "CEDAW, direitos reprodutivos, violência obstétrica.",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "n:a987afd5",
+     "antigo": null,
+     "texto": "Violência contra a mulher",
+     "descricao": "Convenção de Belém do Pará. Lei Maria da Penha. [Tema compartilhado com Direito Penal (Lei Maria da Penha)]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:DH08.02",
+     "antigo": "DH08.02",
+     "texto": "Discriminação racial e ações afirmativas",
+     "descricao": "CERD, Convenção Interamericana contra o Racismo, cotas, perfilamento racial, Simone André Diniz [Tema compartilhado com Direito Penal (Lei 7.716/1989), Princípios e Atribuições Institucionais da Defensoria]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH08.08",
+     "antigo": "DH08.08",
+     "texto": "LGBTQIA+, orientação sexual e identidade de gênero",
+     "descricao": "Princípios de Yogyakarta, Convenção Interamericana contra a Discriminação e Intolerância, decisão do STF sobre homofobia",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH08.12",
+     "antigo": "DH08.12",
+     "texto": "Direitos sexuais e reprodutivos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:454deb68",
+     "antigo": null,
+     "texto": "Laicidade e liberdade religiosa",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:d4de2261",
+   "antigo": null,
+   "nome": "Grupos vulnerabilizados",
+   "descricao": "Direitos de grupos com proteção específica.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH08.03",
+     "antigo": "DH08.03",
+     "texto": "Povos indígenas",
+     "descricao": "Convenção 169 da OIT e Declaração da ONU. [Tema compartilhado com Direito Constitucional]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "n:301fd2b0",
+     "antigo": null,
+     "texto": "Quilombolas e comunidades tradicionais",
+     "descricao": "ADCT art. 68, política nacional dos povos e comunidades tradicionais. [Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:DH08.04",
+     "antigo": "DH08.04",
+     "texto": "Pessoas com deficiência",
+     "descricao": "Convenção da ONU (CDPD) e seu protocolo, Convenção Interamericana, Lei Brasileira de Inclusão, educação inclusiva, BPC [Tema compartilhado com Direito Constitucional, Direito Civil, Princípios e Atribuições Institucionais da Defensoria]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH08.05",
+     "antigo": "DH08.05",
+     "texto": "Saúde mental e política antimanicomial",
+     "descricao": "Direitos das pessoas com transtorno mental: Lei 10.216/2001, RAPS, Resolução CNJ 487. [Tema compartilhado com Execução Penal (medida de segurança)]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH08.06",
+     "antigo": "DH08.06",
+     "texto": "Pessoas idosas",
+     "descricao": "Convenção Interamericana sobre os direitos dos idosos, Estatuto da Pessoa Idosa [Tema compartilhado com Direito Constitucional, Direito Civil]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH08.07",
+     "antigo": "DH08.07",
+     "texto": "Crianças e adolescentes: instrumentos internacionais",
+     "descricao": "Convenção sobre os Direitos da Criança, Protocolos Facultativos, Declaração de 1959. [Tema compartilhado com ECA]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH08.10",
+     "antigo": "DH08.10",
+     "texto": "Pessoas em situação de rua e vulnerabilidade social",
+     "descricao": "Decreto 7.053/2009, Política Nacional, LOAS e miserabilidade [Tema compartilhado com ECA (assistência social), Direito Constitucional]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:DH09",
+   "antigo": "DH09",
+   "nome": "Violência estatal e garantias penais",
+   "descricao": "Tortura, uso da força e proteção penal dos direitos humanos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH09.01",
+     "antigo": "DH09.01",
+     "texto": "Tortura: proibição, Convenção e Comitê contra a Tortura",
+     "descricao": "Definição, proibição absoluta, não devolução, estupro como tortura, prova obtida sob tortura, Protocolo de Istambul. [Tema compartilhado com Execução Penal e Direito Penal (Lei de Tortura)]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH09.02",
+     "antigo": "DH09.02",
+     "texto": "OPCAT, Subcomitê e Mecanismo Nacional de Prevenção e Combate à Tortura",
+     "descricao": "Sistema de visitas regulares, mecanismos nacionais, Lei 12.847/2013",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH09.03",
+     "antigo": "DH09.03",
+     "texto": "Privação de liberdade: regras internacionais",
+     "descricao": "Regras de Mandela, Regras de Bangkok, jovens privados de liberdade, revista de visitantes. [Tema compartilhado com Execução Penal]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH10.08",
+     "antigo": "DH10.08",
+     "texto": "Direito à vida, segurança pública e uso da força",
+     "descricao": "ADPF 635, princípios da ONU sobre uso da força, violência policial",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH09.04",
+     "antigo": "DH09.04",
+     "texto": "Garantias judiciais e proteção penal dos direitos humanos",
+     "descricao": "[Tema compartilhado com Direito Processual Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:DH10",
+   "antigo": "DH10",
+   "nome": "Direitos econômicos, sociais e culturais",
+   "descricao": "Direitos em espécie e as regras de sua efetivação.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH10.01",
+     "antigo": "DH10.01",
+     "texto": "Direito à saúde",
+     "descricao": "Constituição da OMS, PIDESC art. 12, SUS, saúde como direito [Tema compartilhado com Direito Constitucional]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH10.02",
+     "antigo": "DH10.02",
+     "texto": "Moradia, despejos forçados e conflitos fundiários",
+     "descricao": "Comentário Geral 7 do Comitê DESC, ADPF 828 e Comissões de Soluções Fundiárias",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH10.03",
+     "antigo": "DH10.03",
+     "texto": "Alimentação adequada e padrão de vida adequado",
+     "descricao": "Segurança alimentar, Comentário Geral 12, caso Lhaka Honhat",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH10.04",
+     "antigo": "DH10.04",
+     "texto": "Direito à educação",
+     "descricao": "PIDESC art. 2º, Comentário Geral 3, direitos sociais e não regressividade [Tema compartilhado com Direito Constitucional]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "n:29510a53",
+     "antigo": null,
+     "texto": "Progressividade e vedação do retrocesso",
+     "descricao": "PIDESC art. 2º, Comentário Geral 3. [Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:DH10.11",
+     "antigo": "DH10.11",
+     "texto": "Reserva do possível, financiamento e judicialização",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "n:9253a125",
+   "antigo": null,
+   "nome": "Temas contemporâneos",
+   "descricao": "Direitos humanos diante de temas recentes.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:DH10.05",
+     "antigo": "DH10.05",
+     "texto": "Meio ambiente, clima e Agenda 2030",
+     "descricao": "Direito ao meio ambiente saudável, ODS, justiça climática [Tema compartilhado com Direito Constitucional]",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH10.06",
+     "antigo": "DH10.06",
+     "texto": "Empresas e direitos humanos",
+     "descricao": "Princípios Orientadores da ONU, deveres de regulação e controle do Estado",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH10.07",
+     "antigo": "DH10.07",
+     "texto": "Liberdade de expressão, mídia e tecnologias",
+     "descricao": "Moderação de conteúdo, plataformas digitais, inteligência artificial, direito de resposta",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH10.09",
+     "antigo": "DH10.09",
+     "texto": "Bioética, pesquisa genética e recursos genéticos",
+     "descricao": "ADI 3510, Convenção sobre Diversidade Biológica",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    },
+    {
+     "uid": "v1:DH10.10",
+     "antigo": "DH10.10",
+     "texto": "Pandemia e direitos humanos",
+     "descricao": "Direito pandêmico, Resolução 01/2020 da CIDH, medidas de emergência sanitária",
+     "origem": "editais e provas FCC de Defensorias (IA, rascunho)"
+    }
+   ]
+  }
+ ],
+ "lixeira": [],
+ "lixeira_assuntos": [
+  {
+   "uid": "v1:DH11",
+   "antigo": "DH11",
+   "nome": "Educação em direitos humanos",
+   "descricao": "Plano nacional e práticas pedagógicas.",
+   "apagado_em": "2026-11-20T16:06:58",
+   "rebaixado_para": "v1:DH11.01",
+   "nota": null
+  }
+ ],
+ "base_v1": {
+  "assuntos": {
+   "v1:DH01": {
+    "codigo": "DH01",
+    "nome": "Teoria geral e fundamentos dos direitos humanos"
+   },
+   "v1:DH02": {
+    "codigo": "DH02",
+    "nome": "Direito Internacional dos Direitos Humanos: fontes e regras gerais"
+   },
+   "v1:DH03": {
+    "codigo": "DH03",
+    "nome": "Sistema global (ONU): tratados, comitês e protocolos"
+   },
+   "v1:DH04": {
+    "codigo": "DH04",
+    "nome": "Sistema interamericano e demais sistemas regionais"
+   },
+   "v1:DH05": {
+    "codigo": "DH05",
+    "nome": "Direito Internacional Humanitário, Direito Internacional Penal e refugiados"
+   },
+   "v1:DH06": {
+    "codigo": "DH06",
+    "nome": "Tratados no Brasil: hierarquia, convencionalidade e federalização"
+   },
+   "v1:DH07": {
+    "codigo": "DH07",
+    "nome": "Direitos humanos no Brasil: políticas, memória e acesso à justiça"
+   },
+   "v1:DH08": {
+    "codigo": "DH08",
+    "nome": "Igualdade e grupos vulnerabilizados"
+   },
+   "v1:DH09": {
+    "codigo": "DH09",
+    "nome": "Tortura e privação de liberdade"
+   },
+   "v1:DH10": {
+    "codigo": "DH10",
+    "nome": "Direitos em espécie e temas contemporâneos"
+   },
+   "v1:DH11": {
+    "codigo": "DH11",
+    "nome": "Educação em direitos humanos"
+   }
+  },
+  "pontos": {
+   "v1:DH01.01": {
+    "codigo": "DH01.01",
+    "texto": "Origem, história e dimensões dos direitos humanos",
+    "assunto_uid": "v1:DH01"
+   },
+   "v1:DH01.02": {
+    "codigo": "DH01.02",
+    "texto": "Fundamentos filosóficos, dignidade humana e características dos direitos humanos",
+    "assunto_uid": "v1:DH01"
+   },
+   "v1:DH01.03": {
+    "codigo": "DH01.03",
+    "texto": "Universalismo, relativismo cultural e interculturalidade",
+    "assunto_uid": "v1:DH01"
+   },
+   "v1:DH01.04": {
+    "codigo": "DH01.04",
+    "texto": "Teoria crítica, decolonialidade e interseccionalidade",
+    "assunto_uid": "v1:DH01"
+   },
+   "v1:DH01.05": {
+    "codigo": "DH01.05",
+    "texto": "Teorias contemporâneas e geopolítica dos direitos humanos",
+    "assunto_uid": "v1:DH01"
+   },
+   "v1:DH02.01": {
+    "codigo": "DH02.01",
+    "texto": "Fontes, classificação e soft law no direito internacional dos direitos humanos",
+    "assunto_uid": "v1:DH02"
+   },
+   "v1:DH02.02": {
+    "codigo": "DH02.02",
+    "texto": "Interpretação dos tratados e princípio pro persona",
+    "assunto_uid": "v1:DH02"
+   },
+   "v1:DH02.03": {
+    "codigo": "DH02.03",
+    "texto": "Restrição, limitação e suspensão de direitos",
+    "assunto_uid": "v1:DH02"
+   },
+   "v1:DH02.04": {
+    "codigo": "DH02.04",
+    "texto": "Reservas, denúncia, vigência e eficácia dos tratados",
+    "assunto_uid": "v1:DH02"
+   },
+   "v1:DH02.05": {
+    "codigo": "DH02.05",
+    "texto": "Responsabilidade internacional do Estado, reparação e sanções",
+    "assunto_uid": "v1:DH02"
+   },
+   "v1:DH02.06": {
+    "codigo": "DH02.06",
+    "texto": "Obrigações dos Estados e teorias de controle (margem de apreciação, quarta instância)",
+    "assunto_uid": "v1:DH02"
+   },
+   "v1:DH03.01": {
+    "codigo": "DH03.01",
+    "texto": "Sistema ONU: órgãos, Conselho de Direitos Humanos e agências",
+    "assunto_uid": "v1:DH03"
+   },
+   "v1:DH03.02": {
+    "codigo": "DH03.02",
+    "texto": "Declaração Universal, pactos da ONU e outros tratados",
+    "assunto_uid": "v1:DH03"
+   },
+   "v1:DH03.03": {
+    "codigo": "DH03.03",
+    "texto": "Comitês de tratados: relatórios, comentários gerais e comunicações individuais",
+    "assunto_uid": "v1:DH03"
+   },
+   "v1:DH03.04": {
+    "codigo": "DH03.04",
+    "texto": "Revisão Periódica Universal e outros mecanismos de monitoramento",
+    "assunto_uid": "v1:DH03"
+   },
+   "v1:DH04.01": {
+    "codigo": "DH04.01",
+    "texto": "OEA, Comissão e Corte Interamericanas: estrutura e competência",
+    "assunto_uid": "v1:DH04"
+   },
+   "v1:DH04.02": {
+    "codigo": "DH04.02",
+    "texto": "Petição individual, admissibilidade e procedimento na Comissão",
+    "assunto_uid": "v1:DH04"
+   },
+   "v1:DH04.03": {
+    "codigo": "DH04.03",
+    "texto": "Medidas cautelares e medidas provisórias",
+    "assunto_uid": "v1:DH04"
+   },
+   "v1:DH04.04": {
+    "codigo": "DH04.04",
+    "texto": "Convenção Americana e Declaração Americana: direitos e garantias",
+    "assunto_uid": "v1:DH04"
+   },
+   "v1:DH04.05": {
+    "codigo": "DH04.05",
+    "texto": "Protocolo de San Salvador e protocolo da abolição da pena de morte",
+    "assunto_uid": "v1:DH04"
+   },
+   "v1:DH04.06": {
+    "codigo": "DH04.06",
+    "texto": "Casos do Brasil na Corte IDH",
+    "assunto_uid": "v1:DH04"
+   },
+   "v1:DH04.07": {
+    "codigo": "DH04.07",
+    "texto": "Outros casos e opiniões consultivas da Corte IDH",
+    "assunto_uid": "v1:DH04"
+   },
+   "v1:DH04.08": {
+    "codigo": "DH04.08",
+    "texto": "Convenções interamericanas temáticas e resoluções da OEA",
+    "assunto_uid": "v1:DH04"
+   },
+   "v1:DH04.09": {
+    "codigo": "DH04.09",
+    "texto": "Sistema africano e outros sistemas regionais",
+    "assunto_uid": "v1:DH04"
+   },
+   "v1:DH05.01": {
+    "codigo": "DH05.01",
+    "texto": "Direito Internacional Humanitário",
+    "assunto_uid": "v1:DH05"
+   },
+   "v1:DH05.02": {
+    "codigo": "DH05.02",
+    "texto": "Tribunal Penal Internacional e crimes internacionais",
+    "assunto_uid": "v1:DH05"
+   },
+   "v1:DH05.03": {
+    "codigo": "DH05.03",
+    "texto": "Refugiados, apátridas e asilo",
+    "assunto_uid": "v1:DH05"
+   },
+   "v1:DH06.01": {
+    "codigo": "DH06.01",
+    "texto": "Incorporação e hierarquia dos tratados de direitos humanos",
+    "assunto_uid": "v1:DH06"
+   },
+   "v1:DH06.02": {
+    "codigo": "DH06.02",
+    "texto": "Controle de convencionalidade e diálogo entre cortes",
+    "assunto_uid": "v1:DH06"
+   },
+   "v1:DH06.03": {
+    "codigo": "DH06.03",
+    "texto": "Incidente de deslocamento de competência (federalização)",
+    "assunto_uid": "v1:DH06"
+   },
+   "v1:DH06.04": {
+    "codigo": "DH06.04",
+    "texto": "Execução de decisões internacionais e conflito com a norma constitucional",
+    "assunto_uid": "v1:DH06"
+   },
+   "v1:DH07.01": {
+    "codigo": "DH07.01",
+    "texto": "Políticas e programas nacionais de direitos humanos",
+    "assunto_uid": "v1:DH07"
+   },
+   "v1:DH07.02": {
+    "codigo": "DH07.02",
+    "texto": "Memória, verdade e justiça de transição",
+    "assunto_uid": "v1:DH07"
+   },
+   "v1:DH07.03": {
+    "codigo": "DH07.03",
+    "texto": "Acesso à justiça e 100 Regras de Brasília",
+    "assunto_uid": "v1:DH07"
+   },
+   "v1:DH07.04": {
+    "codigo": "DH07.04",
+    "texto": "Instrumentos de atuação: remédios constitucionais, litígio estrutural e participação",
+    "assunto_uid": "v1:DH07"
+   },
+   "v1:DH07.05": {
+    "codigo": "DH07.05",
+    "texto": "Participação política, manifestação, resistência e proteção de defensores de direitos humanos",
+    "assunto_uid": "v1:DH07"
+   },
+   "v1:DH08.01": {
+    "codigo": "DH08.01",
+    "texto": "Mulheres: igualdade de gênero e violência contra a mulher",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH08.02": {
+    "codigo": "DH08.02",
+    "texto": "Discriminação racial e ações afirmativas",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH08.03": {
+    "codigo": "DH08.03",
+    "texto": "Povos indígenas, quilombolas e comunidades tradicionais",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH08.04": {
+    "codigo": "DH08.04",
+    "texto": "Pessoas com deficiência",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH08.05": {
+    "codigo": "DH08.05",
+    "texto": "Saúde mental, internação e política antimanicomial",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH08.06": {
+    "codigo": "DH08.06",
+    "texto": "Pessoas idosas",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH08.07": {
+    "codigo": "DH08.07",
+    "texto": "Crianças e adolescentes: instrumentos internacionais",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH08.08": {
+    "codigo": "DH08.08",
+    "texto": "LGBTQIA+, orientação sexual e identidade de gênero",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH08.09": {
+    "codigo": "DH08.09",
+    "texto": "Migrantes e trabalhadores migrantes",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH08.10": {
+    "codigo": "DH08.10",
+    "texto": "Pessoas em situação de rua e vulnerabilidade social",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH08.11": {
+    "codigo": "DH08.11",
+    "texto": "Teoria antidiscriminatória: discriminação direta, indireta e interseccional",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH08.12": {
+    "codigo": "DH08.12",
+    "texto": "Direitos sexuais e reprodutivos, laicidade e liberdade religiosa",
+    "assunto_uid": "v1:DH08"
+   },
+   "v1:DH09.01": {
+    "codigo": "DH09.01",
+    "texto": "Tortura: proibição, Convenção e Comitê contra a Tortura",
+    "assunto_uid": "v1:DH09"
+   },
+   "v1:DH09.02": {
+    "codigo": "DH09.02",
+    "texto": "OPCAT, Subcomitê e Mecanismo Nacional de Prevenção e Combate à Tortura",
+    "assunto_uid": "v1:DH09"
+   },
+   "v1:DH09.03": {
+    "codigo": "DH09.03",
+    "texto": "Privação de liberdade: Regras de Mandela, Bangkok e jovens privados de liberdade",
+    "assunto_uid": "v1:DH09"
+   },
+   "v1:DH09.04": {
+    "codigo": "DH09.04",
+    "texto": "Garantias judiciais, direitos pré-processuais e proteção penal dos direitos humanos",
+    "assunto_uid": "v1:DH09"
+   },
+   "v1:DH10.01": {
+    "codigo": "DH10.01",
+    "texto": "Direito à saúde e conceito de saúde da OMS",
+    "assunto_uid": "v1:DH10"
+   },
+   "v1:DH10.02": {
+    "codigo": "DH10.02",
+    "texto": "Moradia, despejos forçados e conflitos fundiários",
+    "assunto_uid": "v1:DH10"
+   },
+   "v1:DH10.03": {
+    "codigo": "DH10.03",
+    "texto": "Alimentação adequada e padrão de vida adequado",
+    "assunto_uid": "v1:DH10"
+   },
+   "v1:DH10.04": {
+    "codigo": "DH10.04",
+    "texto": "Educação, progressividade e vedação do retrocesso",
+    "assunto_uid": "v1:DH10"
+   },
+   "v1:DH10.05": {
+    "codigo": "DH10.05",
+    "texto": "Meio ambiente, clima e Agenda 2030",
+    "assunto_uid": "v1:DH10"
+   },
+   "v1:DH10.06": {
+    "codigo": "DH10.06",
+    "texto": "Empresas e direitos humanos",
+    "assunto_uid": "v1:DH10"
+   },
+   "v1:DH10.07": {
+    "codigo": "DH10.07",
+    "texto": "Liberdade de expressão, mídia e tecnologias",
+    "assunto_uid": "v1:DH10"
+   },
+   "v1:DH10.08": {
+    "codigo": "DH10.08",
+    "texto": "Direito à vida, segurança pública e uso da força",
+    "assunto_uid": "v1:DH10"
+   },
+   "v1:DH10.09": {
+    "codigo": "DH10.09",
+    "texto": "Bioética, pesquisa genética e recursos genéticos",
+    "assunto_uid": "v1:DH10"
+   },
+   "v1:DH10.10": {
+    "codigo": "DH10.10",
+    "texto": "Pandemia e direitos humanos",
+    "assunto_uid": "v1:DH10"
+   },
+   "v1:DH10.11": {
+    "codigo": "DH10.11",
+    "texto": "Direitos econômicos, sociais e culturais: reserva do possível, financiamento e judicialização",
+    "assunto_uid": "v1:DH10"
+   },
+   "v1:DH11.01": {
+    "codigo": "DH11.01",
+    "texto": "Educação em direitos humanos",
+    "assunto_uid": "v1:DH11"
+   }
+  }
+ },
+ "historico": {
+  "passado": [],
+  "futuro": []
+ },
+ "atualizado_em": "2026-11-20T17:16:36"
+}

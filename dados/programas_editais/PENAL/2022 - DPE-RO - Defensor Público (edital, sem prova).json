@@ -1,0 +1,237 @@
+{
+ "pasta": "2022 - DPE-RO - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "PENAL",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PENAL",
+   "caracteres": 2878,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Fontes do direito penal; princípios aplicáveis ao direito penal."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Aplicação da lei penal: princípios da legalidade e da anterioridade; a lei penal no tempo e no espaço; tempo e lugar do crime; lei penal excepcional, especial e temporária; territorialidade e extraterritorialidade da lei penal; pena cumprida no estrangeiro; eficácia da sentença estrangeira; contagem de prazo; frações não computáveis da pena; interpretação da lei penal; analogia; irretroatividade da lei penal; conflito aparente de normas penais."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Crime."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Classificação dos crimes; teorias do crime; o fato típico e seus elementos; relação de causalidade; superveniência de causa independente; relevância da omissão; crime consumado e tentado; pena da tentativa; desistência voluntária e arrependimento eficaz; arrependimento posterior; crime impossível; crime doloso, culposo e preterdoloso; agravação pelo resultado; concurso de crimes; erro sobre elementos do tipo; descriminantes putativas; erro determinado por terceiro; erro sobre a pessoa; erro sobre a ilicitude do fato (erro de proibição); coação irresistível e obediência hierárquica; ilicitude e causas de exclusão; excesso punível; culpabilidade: teorias, elementos e causas de exclusão."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Imputabilidade penal."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Concurso de pessoas."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Penas: espécies de penas; cominação das penas; aplicação da pena; suspensão condicional da pena; livramento condicional; efeitos da condenação; reabilitação; execução das penas em espécie e incidentes de execução."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Medidas de segurança; execução das medidas de segurança."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Ação penal."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Punibilidade e causas de extinção."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Crimes contra a pessoa."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Crimes contra o patrimônio."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Crimes contra a propriedade imaterial."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Crimes contra a organização do trabalho."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Crimes contra o sentimento religioso e contra o respeito aos mortos."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Crimes contra a dignidade sexual."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Crimes contra a família."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Crimes contra a incolumidade pública."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Crimes contra a paz pública."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Crimes contra a fé pública."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Crimes contra a administração pública."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Lei nº 8.072/1990 (crimes hediondos)."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Lei nº 11.343/2006 (Lei Antidrogas)."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Lei nº 13.869/2019 (abuso de autoridade)."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Lei nº 9.455/1997 (crimes de tortura)."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Lei nº 10.826/2003 (Estatuto do Desarmamento)."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Lei nº 12.850/2013 (organização criminosa)."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Lei nº 9.613/1998 (lavagem de dinheiro)."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Decreto nº 678/1992 (Convenção Americana sobre Direitos Humanos)."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Lei nº 9.503/1997 (crimes de trânsito)."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Lei nº 11.340/2006 (Lei Maria da Penha)."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Decreto-lei nº 3.688/1941 (contravenções penais)."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Crimes contra o meio ambiente (Lei nº 9.605/1998)."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Crimes previstos no Estatuto da Pessoa Idosa (Lei nº 10.741/2003)."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Crimes previstos no Código de Defesa do Consumidor (Lei nº 8.078/1990)."
+     ]
+    },
+    {
+     "item": "35",
+     "frases": [
+      "Crimes resultantes de preconceitos de raça ou de cor (Lei nº 7.716/1989)."
+     ]
+    },
+    {
+     "item": "36",
+     "frases": [
+      "Disposições constitucionais aplicáveis ao direito penal."
+     ]
+    }
+   ]
+  }
+ ]
+}

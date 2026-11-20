@@ -1,0 +1,574 @@
+{
+ "pasta": "2024 - DPE-AC - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "PENAL",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PENAL",
+   "caracteres": 3474,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito Penal e Poder Punitivo."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Direito Penal do Autor e Direito Penal do Fato."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Garantismo Penal."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Direito Penal do Inimigo."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Dinâmica Histórica da Legislação Penal."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Funções da Pena.",
+      "Teorias."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Características e fontes do Direito Penal."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Princípios aplicáveis ao Direito Penal."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Bem jurídico-penal."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Teorias."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Lei penal."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Teoria e aplicação da lei penal no tempo e no espaço."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Interpretação da lei penal."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Lei penal e prerrogativas funcionais."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Concurso de normas penais."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Revogação da lei penal."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Responsabilidade penal."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Autoria e participação."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Concurso de pessoas."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Circunstâncias incomunicáveis."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Casos de impunibilidade."
+     ]
+    },
+    {
+     "item": "8.5",
+     "frases": [
+      "Responsabilização penal de pessoas físicas e jurídicas."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Teoria geral e estrutura analítica do crime."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Conceitos, elementos e classificações dos crimes."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Conduta punível."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Ação e omissão."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Relação de causalidade."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Imputação objetiva."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Resultado."
+     ]
+    },
+    {
+     "item": "10.5",
+     "frases": [
+      "Consumação e tentativa."
+     ]
+    },
+    {
+     "item": "10.6",
+     "frases": [
+      "Crime impossível."
+     ]
+    },
+    {
+     "item": "10.7",
+     "frases": [
+      "Desistência voluntária."
+     ]
+    },
+    {
+     "item": "10.8",
+     "frases": [
+      "Arrependimento eficaz."
+     ]
+    },
+    {
+     "item": "10.9",
+     "frases": [
+      "Arrependimento posterior."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Tipicidade."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Tipicidade e Excludentes da tipicidade."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Ilicitude."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Ilicitude e Excludentes da ilicitude."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Culpabilidade."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Culpabilidade e excludentes da culpabilidade."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Estrutura jurídica do erro e aplicação em direito penal."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "Erro de tipo."
+     ]
+    },
+    {
+     "item": "14.2",
+     "frases": [
+      "Erro de proibição."
+     ]
+    },
+    {
+     "item": "14.3",
+     "frases": [
+      "Descriminantes putativas."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Concurso de crimes."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Pena criminal."
+     ]
+    },
+    {
+     "item": "16.1",
+     "frases": [
+      "Teorias da pena."
+     ]
+    },
+    {
+     "item": "16.2",
+     "frases": [
+      "Espécies de pena: privativas de liberdade, restritivas de direitos e pecuniárias."
+     ]
+    },
+    {
+     "item": "16.3",
+     "frases": [
+      "Limite das penas."
+     ]
+    },
+    {
+     "item": "16.4",
+     "frases": [
+      "Isenção de pena."
+     ]
+    },
+    {
+     "item": "16.5",
+     "frases": [
+      "Extinção da punibilidade."
+     ]
+    },
+    {
+     "item": "16.6",
+     "frases": [
+      "Cominação e aplicação."
+     ]
+    },
+    {
+     "item": "16.7",
+     "frases": [
+      "Cálculo da pena: definição da pena-base, circunstâncias agravantes e atenuantes, causas de aumento e de diminuição."
+     ]
+    },
+    {
+     "item": "16.8",
+     "frases": [
+      "Fixação de regimes de execução da pena privativa de liberdade."
+     ]
+    },
+    {
+     "item": "16.9",
+     "frases": [
+      "Substituição da pena privativa de liberdade por penas restritivas de direitos."
+     ]
+    },
+    {
+     "item": "16.10",
+     "frases": [
+      "Fixação de valor mínimo para reparação dos danos causados pela infração."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Justiça penal negocial."
+     ]
+    },
+    {
+     "item": "17.1",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "17.2",
+     "frases": [
+      "Direitos e benefícios penais."
+     ]
+    },
+    {
+     "item": "17.3",
+     "frases": [
+      "Sanções premiais."
+     ]
+    },
+    {
+     "item": "17.4",
+     "frases": [
+      "Cominação e aplicação."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Suspensão condicional da pena."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Livramento condicional."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Medida de segurança."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Condenação."
+     ]
+    },
+    {
+     "item": "21.1",
+     "frases": [
+      "Efeitos da condenação."
+     ]
+    },
+    {
+     "item": "21.2",
+     "frases": [
+      "Reabilitação."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Ação penal."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Crimes contra a pessoa."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Crimes contra o patrimônio."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Crimes contra a propriedade imaterial."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Crimes contra o sentimento religioso e contra o respeito aos mortos."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Crimes contra a dignidade sexual."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Crimes contra a família."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Crimes contra a incolumidade pública."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Crimes contra a paz pública."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Crimes contra a fé pública."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Crimes contra a administração pública."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Lei nº 8.072/1990 (Crimes hediondos)."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Lei nº 11.343/2006 (Lei Antidrogas)."
+     ]
+    },
+    {
+     "item": "35",
+     "frases": [
+      "Lei nº 13.869/2019 (Abuso de Autoridade)."
+     ]
+    },
+    {
+     "item": "36",
+     "frases": [
+      "Lei nº 9.455/1997 (Crimes de Tortura)."
+     ]
+    },
+    {
+     "item": "37",
+     "frases": [
+      "Lei nº 10.826/2003 (Estatuto do Desarmamento)."
+     ]
+    },
+    {
+     "item": "38",
+     "frases": [
+      "Lei nº 12.850/2013 (Organização Criminosa)."
+     ]
+    },
+    {
+     "item": "39",
+     "frases": [
+      "Lei nº 9.613/1998 (Lavagem de Dinheiro)."
+     ]
+    },
+    {
+     "item": "40",
+     "frases": [
+      "Lei nº 9.503/1997 (Crimes de trânsito)."
+     ]
+    },
+    {
+     "item": "41",
+     "frases": [
+      "Lei nº 11.340/2006 (Lei Maria da Penha)."
+     ]
+    },
+    {
+     "item": "42",
+     "frases": [
+      "Decreto-lei nº 3.688/1941 (Contravenções Penais)."
+     ]
+    },
+    {
+     "item": "43",
+     "frases": [
+      "Crimes contra o meio ambiente (Lei nº 9.605/1998)."
+     ]
+    },
+    {
+     "item": "44",
+     "frases": [
+      "Crimes previstos no Estatuto da Pessoa Idosa (Lei nº 10.741/2003)."
+     ]
+    },
+    {
+     "item": "45",
+     "frases": [
+      "Lei nº 8.078/1990 (Crimes previstos no Código de Defesa do Consumidor)."
+     ]
+    },
+    {
+     "item": "46",
+     "frases": [
+      "Lei nº 7.716/1989 (Crimes resultantes de preconceitos de raça ou de cor)."
+     ]
+    },
+    {
+     "item": "47",
+     "frases": [
+      "Disposições constitucionais aplicáveis ao Direito Penal."
+     ]
+    }
+   ]
+  }
+ ]
+}

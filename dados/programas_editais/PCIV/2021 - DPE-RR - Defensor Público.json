@@ -1,0 +1,437 @@
+{
+ "pasta": "2021 - DPE-RR - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PCIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 8777,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Novo Código de Processo Civil (Lei nº13.105, de 16 de março de 2015)."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Constituição e Processo:"
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "A Constitucionalização do processo.",
+      "Princípios constitucionais no processo civil."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Conteúdo jurídico do direito de acesso à tutela jurisdicional do Estado."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Conteúdo jurídico do direito de defesa."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Direitos fundamentais e processo."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "A busca pela efetividade do processo e as reformas processuais."
+     ]
+    },
+    {
+     "item": "2.6",
+     "frases": [
+      "O provimento jurisdicional como instrumento de transformação social."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Normas de Direito Processual Civil: natureza jurídica, fontes, princípios processuais civis, interpretação e Direito Processual intertemporal.",
+      "Princípios infraconstitucionais do processo civil."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Jurisdição: conceito, características, princípios e espécies."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Meios adequados de solução de conflitos: autotutela, autocomposição (conciliação e mediação), arbitragem e tribunais administrativos.",
+      "Resolução CNJ n. 125/2010.",
+      "Lei de Mediação (Lei nº13.140/2015)."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Competência."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Ação: teorias, classificação, elementos e cumulação.",
+      "Teoria da asserção."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Processo: pressupostos processuais, atos processuais, vícios dos atos processuais, lugar, tempo e forma dos atos processuais, comunicação dos atos processuais.",
+      "Preclusão."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Sujeitos do processo: partes, capacidade, deveres e responsabilidade por dano processual, substituição, sucessão.",
+      "Litisconsórcio.",
+      "Assistência.",
+      "Intervenção de terceiros: típicas e atípicas.",
+      "Amicus curiae.",
+      "Juiz e auxiliares da justiça.",
+      "Ministério Público.",
+      "Advocacia Pública.",
+      "Defensoria Pública.",
+      "A intervenção da Defensoria Pública como custos vulnerabilis."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Da tutela provisória.",
+      "Tutela de urgência e tutela da evidência.",
+      "Tutela antecedente e incidente.",
+      "Estabilização da tutela provisória."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Do procedimento.",
+      "Teoria geral do procedimento.",
+      "Procedimentos especiais e procedimentos de jurisdição voluntária.",
+      "Procedimento comum: petição inicial, indeferimento da petição inicial, improcedência liminar do pedido, audiência de conciliação ou mediação, respostas do réu, revelia, providências preliminares e saneamento, julgamento conforme o estado do processo, audiência de instrução e julgamento, provas, sentença e coisa julgada."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Do cumprimento de sentença."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Provas.",
+      "Objeto, fonte e meios.",
+      "Admissibilidade.",
+      "Provas típicas e atípicas.",
+      "Provas ilícitas.",
+      "Ônus da prova.",
+      "Provas em espécie e sua produção."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Normas processuais civis e medidas tutelares:"
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "No Estatuto da Criança e Adolescente;"
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "No Estatuto do Idoso;"
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "No Estatuto das Cidades;"
+     ]
+    },
+    {
+     "item": "12.4",
+     "frases": [
+      "Na Lei de Proteção e Defesa aos Portadores de Deficiência;"
+     ]
+    },
+    {
+     "item": "12.5",
+     "frases": [
+      "No Código de Defesa aos Consumidores."
+     ]
+    },
+    {
+     "item": "12.6",
+     "frases": [
+      "Na Lei de violência doméstica."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Tutelas declaratórias, condenatórias, mandamentais, cominatórias e específicas."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Processo de execução: espécies, procedimentos, execução provisória e definitiva.",
+      "Execução para entrega de coisa, execução de obrigações de fazer ou de não fazer, execução por quantia certa, execução contra a fazenda pública, execução de alimentos.",
+      "Defesas do devedor e de terceiros na execução.",
+      "Ações prejudiciais à execução.",
+      "Embargos à execução.",
+      "Suspensão e extinção do processo de execução.",
+      "Publicado no Diário Eletrônico da Defensoria Pública de Roraima, edição nº 283, disponibilização em 23 de julho de 2021."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Processo nos tribunais e meios de impugnação das decisões judiciais: ordem dos processos nos tribunais e processos de competência originária dos tribunais: incidente de assunção de competência, incidente de arguição de inconstitucionalidade, conflito de competência, homologação de decisão estrangeira e concessão do exequatur à carta rogatória, ação rescisória, incidente de resolução de demandas repetitivas e reclamação."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Recursos e meios de impugnação.",
+      "Admissibilidade e efeitos.",
+      "Princípios.",
+      "Apelação, agravos, embargos de declaração, embargos de divergência, duplo grau obrigatório, ação rescisória, mandado de segurança contra ato judicial, ação declaratória de inexistência de ato processual e querela nullitatis.",
+      "Recursos nos Tribunais Superiores.",
+      "Incidente de resolução de recursos repetitivos.",
+      "Repercussão Geral.",
+      "Súmula.",
+      "Súmula Vinculante.",
+      "Lei Federal n. 11.417/06.",
+      "Precedentes: teoria geral, distinguishing e overhulling."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Prerrogativas processuais da Defensoria Pública."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "A Fazenda Pública como parte no processo: polos ativo e passivo.",
+      "Prerrogativas.",
+      "Tutela provisória e tutela específica.",
+      "Ação de conhecimento e execução.",
+      "A Fazenda nos procedimentos especiais.",
+      "Juizados Especiais da Fazenda Pública Estadual."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Ação de usucapião.",
+      "Usucapião como matéria de defesa."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Processo coletivo.",
+      "Microssistema de tutela coletiva.",
+      "Ação civil pública e demais instrumentos de proteção transindividual."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Ação direta de inconstitucionalidade e ação declaratória de constitucionalidade.",
+      "Ação de descumprimento de preceito constitucional."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Habeas Corpus, Habeas Data e Mandado de Injunção."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Reclamação."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Ação popular."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Mandado de segurança individual e coletivo."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Ações da Lei de Locação dos Imóveis Urbanos: despejo, consignatória de aluguel e acessórios, renovatória e revisional.",
+      "Postulação e defesa."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Ações possessórias e petitórias."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Ações de alimentos.",
+      "Execução de alimentos.",
+      "Lei de Alimentos e disposições do Código de Processo Civil."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Ações declaratória e negatória de vínculo parental (em vida e póstuma)."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Separação, divórcio direto e mediante conversão.",
+      "Declaratória de união estável (em vida e póstuma).",
+      "Separação e divórcio extrajudiciais."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Inventário judicial e extrajudicial.",
+      "Arrolamento.",
+      "Alvará."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Juizados Especiais Cíveis.",
+      "Enunciados."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Assistência Judiciária: aspectos processuais."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Processo eletrônico."
+     ]
+    },
+    {
+     "item": "34.1",
+     "frases": [
+      "Resolução CNJ n. 345/2021, n. 372/2021 e n. 385/2021 Direito Do Consumidor 1.Direito do consumidor.",
+      "1.1 Natureza e fonte de suas regras.",
+      "1.1.1 Teoria constitucional da proteção do consumidor.",
+      "1.1.2 Competência legislativa sobre direito do consumidor.",
+      "1.2 Características e princípios do Código de Defesa do Consumidor.",
+      "1.3 Integrantes e objeto da relação de consumo.",
+      "1.4 Política nacional de relações de consumo.",
+      "1.4.1 Objetivos e princípios.",
+      "1.5 Direitos básicos do consumidor.",
+      "1.6 Qualidade de produtos e serviços, prevenção e reparação de danos.",
+      "1.6.1 Proteção à saúde e segurança.",
+      "1.6.2 Responsabilidade pelo fato do produto e do serviço.",
+      "1.6.3 Responsabilidade por vício do produto e do serviço.",
+      "1.6.4 Decadência e prescrição.",
+      "1.6.5 Desconsideração da personalidade jurídica.",
+      "1.7 Práticas comerciais.",
+      "1.7.1 Oferta e efeito vinculante da oferta publicitária.",
+      "1.7.2 Publicidade.",
+      "1.7.3 Práticas abusivas.",
+      "1.7.4 Cobrança de dívidas.",
+      "1.7.5 Bancos de dados e cadastros de consumidores.",
+      "1.8 Proteção contratual.",
+      "1.8.1 Princípios basilares dos contratos de consumo.",
+      "Cláusulas abusivas.",
+      "1.8.3 Contratos de adesão.",
+      "1.8.4 Superendividamento.",
+      "1.9 Sanções administrativas.",
+      "2.Infrações penais.",
+      "2.1 As relações de consumo como bem jurídico penal.",
+      "2.2 Sujeitos ativo e passivo dos crimes contra as relações de consumo.",
+      "2.3 Código Penal e proteção ao consumidor.",
+      "2.4 Resultado nas infrações penais de consumo e crimes de perigo.",
+      "2.5 Responsabilidade penal da pessoa jurídica.",
+      "2.6 Tipos penais.",
+      "2.6.1 Omissão de informação a consumidores.",
+      "2.6.2 Omissão de comunicação da nocividade de produtos.",
+      "2.6.3 Execução de serviço de alto grau de periculosidade.",
+      "2.6.4 Oferta não publicitária enganosa.",
+      "2.6.5 Publicidade enganosa ou abusiva.",
+      "2.6.6 Indução a comportamento prejudicial ou perigoso.",
+      "2.6.7 Publicidade sem base fática, técnica ou científica.",
+      "2.6.8 Troca de peças usadas sem autorização.",
+      "2.6.9 Cobrança abusiva de dívidas.",
+      "2.6.10 Impedimento de acesso a cadastros e Publicado no Diário Eletrônico da Defensoria Pública de Roraima, edição nº 283, disponibilização em 23 de julho de 2021. banco de dados.",
+      "2.6.11 Omissão de correção de informações em bancos de dados e cadastros.",
+      "2.6.12 Omissão de entrega do termo de garantia.",
+      "2.7 Individualização e fixação judicial da pena.",
+      "2.8 Valor da fiança.",
+      "2.8.1 Assistência.",
+      "2.8.2 Ação penal subsidiária.",
+      "3.Defesa do consumidor em juízo.",
+      "3.1 Teoria dos direitos transindividuais: interesses ou direitos difusos, coletivos e individuais homogêneos.",
+      "3.2 Legitimidade ativa para a propositura de ações coletivas.",
+      "3.3 Ações coletivas para a defesa de interesses individuais homogêneos.",
+      "3.4 Ações de responsabilidade do fornecedor de produtos e serviços.",
+      "3.5 Coisa julgada.",
+      "4.Sistema nacional de defesa do consumidor.",
+      "4.1 Defensoria Pública.",
+      "4.2 Ministério Público.",
+      "4.3 Delegacia do Consumidor.",
+      "4.4 PROCON.",
+      "Associações Civis de Defesa do Consumidor.",
+      "4.6 Secretaria Nacional do Consumidor -SENACON.",
+      "4.7 Sistema Nacional de Informações de Defesa do Consumidor - SINDEC.",
+      "4.8 Conflito de atribuições entre PROCON e outros órgãos de defesa do consumidor.",
+      "5.Convenção coletiva.",
+      "6.Lei nº8.078/1990. 7.Decreto nº 2.181/1997. 8.",
+      "Lei nº 14.010/2020.",
+      "Lei nº 14.046/2020."
+     ]
+    }
+   ]
+  }
+ ]
+}

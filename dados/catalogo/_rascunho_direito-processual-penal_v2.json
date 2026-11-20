@@ -1,0 +1,748 @@
+{
+ "slug": "direito-processual-penal",
+ "disciplina": "Direito Processual Penal",
+ "prefixo": "PP",
+ "versao_base": "v1",
+ "versao_alvo": "v2",
+ "criado_em": "2026-11-20T16:16:43",
+ "estado": "rascunho",
+ "assuntos": [
+  {
+   "uid": "v1:PP01",
+   "antigo": "PP01",
+   "nome": "Fundamentos do processo penal",
+   "descricao": "Sistemas, fontes, aplicação da lei e princípios.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP01.01",
+     "antigo": "PP01.01",
+     "texto": "Sistemas processuais penais",
+     "descricao": "Acusatório, inquisitivo e misto.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:09db39e4",
+     "antigo": null,
+     "texto": "Fontes e aplicação da lei processual penal",
+     "descricao": "Interpretação e aplicação no tempo e no espaço (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "v1:PP01.02",
+     "antigo": "PP01.02",
+     "texto": "Princípios constitucionais do processo penal",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:16601a3c",
+     "antigo": null,
+     "texto": "Garantias convencionais do processo penal",
+     "descricao": "Garantias judiciais da Convenção Americana (confirmar). [Tema compartilhado com Direitos Humanos]",
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PP02",
+   "antigo": "PP02",
+   "nome": "Investigação criminal",
+   "descricao": "Apuração antes da ação penal.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP02.01",
+     "antigo": "PP02.01",
+     "texto": "Inquérito policial",
+     "descricao": "Investigação preliminar.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:e175ae9f",
+     "antigo": null,
+     "texto": "Investigação por outros órgãos e investigação defensiva",
+     "descricao": "Investigação pelo Ministério Público e pela defesa (confirmar: sem item de edital que cite o nome).",
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:a80472e4",
+     "antigo": null,
+     "texto": "Juiz das garantias",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PP03",
+   "antigo": "PP03",
+   "nome": "Ação penal",
+   "descricao": "Espécies, condições e peças de acusação.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP03.01",
+     "antigo": "PP03.01",
+     "texto": "Ação penal: espécies e condições",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:6e531ba2",
+     "antigo": null,
+     "texto": "Denúncia, queixa e recebimento",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:85635b57",
+     "antigo": null,
+     "texto": "Ação civil ex delicto",
+     "descricao": "Reparação do dano decorrente do crime.",
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:b9fd4d1b",
+   "antigo": null,
+   "nome": "Jurisdição e competência",
+   "descricao": "Quem julga e em que juízo.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "n:177ac502",
+     "antigo": null,
+     "texto": "Jurisdição e seus princípios",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "v1:PP03.02",
+     "antigo": "PP03.02",
+     "texto": "Competência: critérios de fixação",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:a3500fb9",
+     "antigo": null,
+     "texto": "Conexão e continência",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:15de6f73",
+     "antigo": null,
+     "texto": "Competência por prerrogativa de função",
+     "descricao": "Foro por prerrogativa de função (confirmar: sem item de edital que cite o nome).",
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:05f41337",
+   "antigo": null,
+   "nome": "Sujeitos do processo penal",
+   "descricao": "Quem atua no processo.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "n:2608f190",
+     "antigo": null,
+     "texto": "Juiz e auxiliares da justiça",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:132a0938",
+     "antigo": null,
+     "texto": "Ministério Público no processo penal",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:49f49f31",
+     "antigo": null,
+     "texto": "Vítima e assistente de acusação",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "v1:PP03.03",
+     "antigo": "PP03.03",
+     "texto": "Defensoria Pública no processo penal",
+     "descricao": "Sujeitos processuais, vítima, Ministério Público e Defensoria (conteúdo do v1 repartido nos tópicos vizinhos). [Tema compartilhado com Princípios e Atribuições Institucionais da Defensoria, Execução Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:PP03.04",
+     "antigo": "PP03.04",
+     "texto": "Acusado, autodefesa e defesa técnica",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PP04",
+   "antigo": "PP04",
+   "nome": "Provas: teoria geral",
+   "descricao": "Regras comuns a toda prova.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP04.01",
+     "antigo": "PP04.01",
+     "texto": "Teoria geral da prova e ônus da prova",
+     "descricao": "Ônus, indícios e valoração.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:dc1eead4",
+     "antigo": null,
+     "texto": "Provas ilícitas",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:e3702155",
+     "antigo": null,
+     "texto": "Cadeia de custódia",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:a3a22a49",
+   "antigo": null,
+   "nome": "Provas: meios de prova",
+   "descricao": "Instrumentos de produção da prova.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP04.02",
+     "antigo": "PP04.02",
+     "texto": "Interrogatório e confissão",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:c31aadb8",
+     "antigo": null,
+     "texto": "Testemunhas e declarações da vítima",
+     "descricao": "Inclui o depoimento especial de crianças e adolescentes (confirmar). [Tema compartilhado com ECA]",
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:02a93317",
+     "antigo": null,
+     "texto": "Prova pericial",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:1d5b47f1",
+     "antigo": null,
+     "texto": "Reconhecimento de pessoas e coisas",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:6e097e55",
+   "antigo": null,
+   "nome": "Provas: meios de obtenção de prova",
+   "descricao": "Instrumentos de busca da prova.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP04.03",
+     "antigo": "PP04.03",
+     "texto": "Busca e apreensão",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:23b87ed4",
+     "antigo": null,
+     "texto": "Interceptação telefônica e sigilo",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:1c168ec1",
+     "antigo": null,
+     "texto": "Colaboração premiada",
+     "descricao": "[Tema compartilhado com Direito Penal (organização criminosa)]",
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PP05",
+   "antigo": "PP05",
+   "nome": "Prisões, medidas cautelares e liberdade",
+   "descricao": "Restrições à liberdade antes do trânsito em julgado.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP05.01",
+     "antigo": "PP05.01",
+     "texto": "Prisão em flagrante e audiência de custódia",
+     "descricao": "[Tema compartilhado com Direitos Humanos (audiência de custódia)]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:95bd7f95",
+     "antigo": null,
+     "texto": "Prisão preventiva",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:4be906bf",
+     "antigo": null,
+     "texto": "Prisão temporária",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:828fc0e5",
+     "antigo": null,
+     "texto": "Prisão domiciliar",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "v1:PP05.02",
+     "antigo": "PP05.02",
+     "texto": "Medidas cautelares diversas da prisão",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:7ac8d587",
+     "antigo": null,
+     "texto": "Liberdade provisória e fiança",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:f3575030",
+     "antigo": null,
+     "texto": "Medidas assecuratórias",
+     "descricao": "Sequestro, arresto e hipoteca legal (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PP06",
+   "antigo": "PP06",
+   "nome": "Atos processuais e comunicação",
+   "descricao": "Forma, prazos e comunicação dos atos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP06.01",
+     "antigo": "PP06.01",
+     "texto": "Atos processuais e prazos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:08f27b79",
+     "antigo": null,
+     "texto": "Citação e intimação",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:1bfe4668",
+     "antigo": null,
+     "texto": "Revelia",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:dd612444",
+   "antigo": null,
+   "nome": "Nulidades e incidentes processuais",
+   "descricao": "Vícios do processo e questões que o interrompem.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP06.02",
+     "antigo": "PP06.02",
+     "texto": "Nulidades",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:e3522b45",
+     "antigo": null,
+     "texto": "Preclusão",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "v1:PP06.03",
+     "antigo": "PP06.03",
+     "texto": "Questões e processos incidentes",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PP07",
+   "antigo": "PP07",
+   "nome": "Procedimento comum",
+   "descricao": "Ordinário e sumário.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP07.01",
+     "antigo": "PP07.01",
+     "texto": "Procedimento comum ordinário",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:824bfcaa",
+     "antigo": null,
+     "texto": "Procedimento comum sumário",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:cdfb293b",
+   "antigo": null,
+   "nome": "Tribunal do Júri",
+   "descricao": "Procedimento dos crimes dolosos contra a vida.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP07.02",
+     "antigo": "PP07.02",
+     "texto": "Tribunal do Júri: fase de acusação",
+     "descricao": "Procedimento até a pronúncia.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:1f07e7a5",
+     "antigo": null,
+     "texto": "Tribunal do Júri: plenário",
+     "descricao": "Julgamento em plenário.",
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:59f71718",
+   "antigo": null,
+   "nome": "Procedimentos especiais e consensuais",
+   "descricao": "Ritos fora do comum e soluções negociadas.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP07.03",
+     "antigo": "PP07.03",
+     "texto": "Procedimentos especiais",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:ad69888a",
+     "antigo": null,
+     "texto": "Juizados Especiais Criminais",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:3562d84d",
+     "antigo": null,
+     "texto": "Acordo de não persecução penal",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:37565f76",
+     "antigo": null,
+     "texto": "Suspensão condicional do processo",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "v1:PP07.04",
+     "antigo": "PP07.04",
+     "texto": "Aspectos processuais da legislação penal especial",
+     "descricao": "[Tema compartilhado com Direito Penal (legislação penal especial)]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PP08",
+   "antigo": "PP08",
+   "nome": "Sentença e coisa julgada",
+   "descricao": "Decisão final e seus efeitos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP08.01",
+     "antigo": "PP08.01",
+     "texto": "Sentença penal",
+     "descricao": "Requisitos e motivação.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:817248f3",
+     "antigo": null,
+     "texto": "Efeitos da sentença penal",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:54eb489a",
+     "antigo": null,
+     "texto": "Coisa julgada penal",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PP09",
+   "antigo": "PP09",
+   "nome": "Recursos e ações autônomas de impugnação",
+   "descricao": "Meios de impugnar decisões.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PP09.01",
+     "antigo": "PP09.01",
+     "texto": "Teoria geral dos recursos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:c9c9e198",
+     "antigo": null,
+     "texto": "Apelação",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:b8157e98",
+     "antigo": null,
+     "texto": "Recurso em sentido estrito",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:187085bb",
+     "antigo": null,
+     "texto": "Embargos e agravos",
+     "descricao": "Embargos de declaração e infringentes e agravos (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:d21db502",
+     "antigo": null,
+     "texto": "Recursos extraordinário e especial",
+     "descricao": "[Tema compartilhado com Direito Processual Civil]",
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "v1:PP09.02",
+     "antigo": "PP09.02",
+     "texto": "Habeas corpus",
+     "descricao": "[Tema compartilhado com Direito Constitucional e Direitos Humanos (remédios constitucionais), Direito Processual Civil]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:7e52dc99",
+     "antigo": null,
+     "texto": "Revisão criminal",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    },
+    {
+     "uid": "n:0c8c69f9",
+     "antigo": null,
+     "texto": "Mandado de segurança em matéria criminal",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)"
+    }
+   ]
+  }
+ ],
+ "lixeira": [],
+ "lixeira_assuntos": [],
+ "base_v1": {
+  "assuntos": {
+   "v1:PP01": {
+    "codigo": "PP01",
+    "nome": "Noções gerais, sistemas e princípios do processo penal"
+   },
+   "v1:PP02": {
+    "codigo": "PP02",
+    "nome": "Investigação criminal"
+   },
+   "v1:PP03": {
+    "codigo": "PP03",
+    "nome": "Ação penal, jurisdição e sujeitos do processo"
+   },
+   "v1:PP04": {
+    "codigo": "PP04",
+    "nome": "Provas"
+   },
+   "v1:PP05": {
+    "codigo": "PP05",
+    "nome": "Prisões, medidas cautelares e liberdade"
+   },
+   "v1:PP06": {
+    "codigo": "PP06",
+    "nome": "Atos processuais, comunicação, prazos e nulidades"
+   },
+   "v1:PP07": {
+    "codigo": "PP07",
+    "nome": "Procedimentos"
+   },
+   "v1:PP08": {
+    "codigo": "PP08",
+    "nome": "Sentença e coisa julgada"
+   },
+   "v1:PP09": {
+    "codigo": "PP09",
+    "nome": "Recursos e ações autônomas de impugnação"
+   }
+  },
+  "pontos": {
+   "v1:PP01.01": {
+    "codigo": "PP01.01",
+    "texto": "Sistemas processuais, fontes e aplicação da lei processual penal",
+    "assunto_uid": "v1:PP01"
+   },
+   "v1:PP01.02": {
+    "codigo": "PP01.02",
+    "texto": "Princípios e garantias constitucionais e convencionais do processo penal",
+    "assunto_uid": "v1:PP01"
+   },
+   "v1:PP02.01": {
+    "codigo": "PP02.01",
+    "texto": "Inquérito policial, investigação preliminar e juiz das garantias",
+    "assunto_uid": "v1:PP02"
+   },
+   "v1:PP03.01": {
+    "codigo": "PP03.01",
+    "texto": "Ação penal: espécies, condições, denúncia, queixa e ação civil ex delicto",
+    "assunto_uid": "v1:PP03"
+   },
+   "v1:PP03.02": {
+    "codigo": "PP03.02",
+    "texto": "Jurisdição e competência",
+    "assunto_uid": "v1:PP03"
+   },
+   "v1:PP03.03": {
+    "codigo": "PP03.03",
+    "texto": "Sujeitos processuais, vítima, Ministério Público e Defensoria",
+    "assunto_uid": "v1:PP03"
+   },
+   "v1:PP03.04": {
+    "codigo": "PP03.04",
+    "texto": "Direito de defesa: autodefesa e defesa técnica",
+    "assunto_uid": "v1:PP03"
+   },
+   "v1:PP04.01": {
+    "codigo": "PP04.01",
+    "texto": "Teoria geral da prova: ônus, indícios, provas ilícitas e cadeia de custódia",
+    "assunto_uid": "v1:PP04"
+   },
+   "v1:PP04.02": {
+    "codigo": "PP04.02",
+    "texto": "Meios de prova: interrogatório, confissão, testemunhas, perícia e reconhecimento",
+    "assunto_uid": "v1:PP04"
+   },
+   "v1:PP04.03": {
+    "codigo": "PP04.03",
+    "texto": "Meios de obtenção de prova: busca, interceptação, sigilo e colaboração premiada",
+    "assunto_uid": "v1:PP04"
+   },
+   "v1:PP05.01": {
+    "codigo": "PP05.01",
+    "texto": "Prisões: flagrante, preventiva, temporária, domiciliar e audiência de custódia",
+    "assunto_uid": "v1:PP05"
+   },
+   "v1:PP05.02": {
+    "codigo": "PP05.02",
+    "texto": "Medidas cautelares, liberdade provisória, fiança e medidas assecuratórias",
+    "assunto_uid": "v1:PP05"
+   },
+   "v1:PP06.01": {
+    "codigo": "PP06.01",
+    "texto": "Atos processuais, citação, intimação, prazos e revelia",
+    "assunto_uid": "v1:PP06"
+   },
+   "v1:PP06.02": {
+    "codigo": "PP06.02",
+    "texto": "Nulidades e preclusão",
+    "assunto_uid": "v1:PP06"
+   },
+   "v1:PP06.03": {
+    "codigo": "PP06.03",
+    "texto": "Questões e processos incidentes",
+    "assunto_uid": "v1:PP06"
+   },
+   "v1:PP07.01": {
+    "codigo": "PP07.01",
+    "texto": "Procedimento comum: ordinário, sumário e sumaríssimo",
+    "assunto_uid": "v1:PP07"
+   },
+   "v1:PP07.02": {
+    "codigo": "PP07.02",
+    "texto": "Tribunal do Júri",
+    "assunto_uid": "v1:PP07"
+   },
+   "v1:PP07.03": {
+    "codigo": "PP07.03",
+    "texto": "Procedimentos especiais, Juizados Criminais, ANPP e suspensão condicional do processo",
+    "assunto_uid": "v1:PP07"
+   },
+   "v1:PP07.04": {
+    "codigo": "PP07.04",
+    "texto": "Aspectos processuais da legislação penal especial",
+    "assunto_uid": "v1:PP07"
+   },
+   "v1:PP08.01": {
+    "codigo": "PP08.01",
+    "texto": "Sentença penal, motivação, efeitos e coisa julgada",
+    "assunto_uid": "v1:PP08"
+   },
+   "v1:PP09.01": {
+    "codigo": "PP09.01",
+    "texto": "Teoria geral dos recursos e recursos em espécie",
+    "assunto_uid": "v1:PP09"
+   },
+   "v1:PP09.02": {
+    "codigo": "PP09.02",
+    "texto": "Habeas corpus, revisão criminal e mandado de segurança criminal",
+    "assunto_uid": "v1:PP09"
+   }
+  }
+ },
+ "historico": {
+  "passado": [],
+  "futuro": []
+ },
+ "atualizado_em": "2026-11-20T17:16:36"
+}

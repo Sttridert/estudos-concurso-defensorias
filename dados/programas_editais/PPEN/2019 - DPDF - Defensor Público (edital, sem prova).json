@@ -1,0 +1,400 @@
+{
+ "pasta": "2019 - DPDF - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "PPEN",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL PENAL",
+   "caracteres": 2524,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Processo Penal Brasileiro.",
+      "Processo Penal Constitucional."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Sistemas e Princípios Fundamentais."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Princípios que regem o processo penal."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Direitos e garantias aplicáveis ao processo penal na Constituição Federal."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Direitos e garantias aplicáveis ao processo penal nos tratados e convenções internacionais ratificados pelo Brasil."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Conceito e características do devido processo penal."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Conceito e características do processo penal inquisitório e acusatório."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Fontes do processo penal."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Aplicação da lei processual no tempo, no espaço e em relação às pessoas."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Disposições preliminares do Código de Processo Penal."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Sistemas de investigação preliminar."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Inquérito policial."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Identificação criminal."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Meios de obtenção de prova na persecução criminal."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Busca e apreensão."
+     ]
+    },
+    {
+     "item": "8.5",
+     "frases": [
+      "Lei nº 9.296/1996 (Interceptação telefônica)."
+     ]
+    },
+    {
+     "item": "8.6",
+     "frases": [
+      "Quebra de sigilo telefônico, bancário e fiscal."
+     ]
+    },
+    {
+     "item": "8.7",
+     "frases": [
+      "Delação premiada."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Processo, procedimento e relação jurídica processual."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Elementos identificadores da relação processual."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Formas do procedimento."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Princípios gerais e informadores do processo."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Pretensão punitiva."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Tipos de processo penal."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Ação penal."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Ação civil Ex Delicto."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Jurisdição e Competência."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Questões e processos incidentes."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Prova."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "Ônus da prova."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Sujeitos do Processo."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "O papel da vítima no processo penal."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "O direito de defesa."
+     ]
+    },
+    {
+     "item": "17.1",
+     "frases": [
+      "Autodefesa e defesa técnica."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Prisão."
+     ]
+    },
+    {
+     "item": "18.1",
+     "frases": [
+      "Prisão em flagrante."
+     ]
+    },
+    {
+     "item": "18.2",
+     "frases": [
+      "Prisão preventiva."
+     ]
+    },
+    {
+     "item": "18.3",
+     "frases": [
+      "Lei nº 7.960/1989 e suas alterações (Prisão temporária)."
+     ]
+    },
+    {
+     "item": "18.4",
+     "frases": [
+      "Prisão domiciliar."
+     ]
+    },
+    {
+     "item": "18.5",
+     "frases": [
+      "Relaxamento e liberdade provisória."
+     ]
+    },
+    {
+     "item": "18.6",
+     "frases": [
+      "Medidas cautelares diversas da prisão."
+     ]
+    },
+    {
+     "item": "18.7",
+     "frases": [
+      "A implantação das audiências de custódia."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Citações e intimações."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Atos processuais e atos judiciais."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Procedimentos."
+     ]
+    },
+    {
+     "item": "21.1",
+     "frases": [
+      "Processo comum."
+     ]
+    },
+    {
+     "item": "21.2",
+     "frases": [
+      "Processos especiais."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Lei nº 9.099/1995 e suas alterações."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Prazos."
+     ]
+    },
+    {
+     "item": "23.1",
+     "frases": [
+      "Características, princípios e contagem."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Nulidades."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Recursos em geral."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Ações de impugnação."
+     ]
+    },
+    {
+     "item": "26.1",
+     "frases": [
+      "Revisão criminal."
+     ]
+    },
+    {
+     "item": "26.2",
+     "frases": [
+      "Habeas corpus."
+     ]
+    },
+    {
+     "item": "26.3",
+     "frases": [
+      "Mandado de segurança contra ato jurisdicional penal."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Normas processuais da Lei nº 7.210/1984 e suas alterações (execução penal)."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Disposições gerais do Código de Processo Penal."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Regras Mínimas para o Tratamento do Preso no Brasil."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Lei nº 12.258/2010 (monitoramento eletrônico)."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Assistência jurídica integral e gratuita."
+     ]
+    },
+    {
+     "item": "31.1",
+     "frases": [
+      "Aspectos processuais."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Prerrogativas e garantias dos defensores públicos relacionadas com o processo penal."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Jurisprudência dos tribunais superiores."
+     ]
+    }
+   ]
+  }
+ ]
+}

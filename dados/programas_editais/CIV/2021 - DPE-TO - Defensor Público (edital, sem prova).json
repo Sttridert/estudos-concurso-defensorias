@@ -1,0 +1,735 @@
+{
+ "pasta": "2021 - DPE-TO - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "CIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 3765,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Lei de Introdução às Normas do Direito Brasileiro."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Vigência, aplicação, obrigatoriedade, interpretação e integração das leis."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Conflito das leis no tempo."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Eficácia das leis no espaço."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Pessoas naturais."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Início da pessoa natural."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Personalidade."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Capacidade."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "Direitos da personalidade."
+     ]
+    },
+    {
+     "item": "2.6",
+     "frases": [
+      "Nome civil."
+     ]
+    },
+    {
+     "item": "2.7",
+     "frases": [
+      "Estado civil."
+     ]
+    },
+    {
+     "item": "2.8",
+     "frases": [
+      "Domicílio."
+     ]
+    },
+    {
+     "item": "2.9",
+     "frases": [
+      "Ausência."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Pessoas jurídicas."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Disposições Gerais."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Conceito e elementos caracterizadores."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Constituição."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Extinção."
+     ]
+    },
+    {
+     "item": "3.5",
+     "frases": [
+      "Capacidade e direitos da personalidade."
+     ]
+    },
+    {
+     "item": "3.6",
+     "frases": [
+      "Domicílio."
+     ]
+    },
+    {
+     "item": "3.7",
+     "frases": [
+      "Sociedades de fato."
+     ]
+    },
+    {
+     "item": "3.8",
+     "frases": [
+      "Associações."
+     ]
+    },
+    {
+     "item": "3.9",
+     "frases": [
+      "Sociedades."
+     ]
+    },
+    {
+     "item": "3.10",
+     "frases": [
+      "Fundações."
+     ]
+    },
+    {
+     "item": "3.11",
+     "frases": [
+      "Grupos despersonalizados."
+     ]
+    },
+    {
+     "item": "3.12",
+     "frases": [
+      "Desconsideração da personalidade jurídica."
+     ]
+    },
+    {
+     "item": "3.13",
+     "frases": [
+      "Responsabilidade da pessoa jurídica e dos sócios."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Bens."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Diferentes classes."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Bens corpóreos e incorpóreos."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Bens no comércio e fora do comércio."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Fato jurídico."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Negócio jurídico."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Classificação e interpretação."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Elementos."
+     ]
+    },
+    {
+     "item": "6.4",
+     "frases": [
+      "Representação."
+     ]
+    },
+    {
+     "item": "6.5",
+     "frases": [
+      "Condição, termo e encargo."
+     ]
+    },
+    {
+     "item": "6.6",
+     "frases": [
+      "Defeitos do negócio jurídico."
+     ]
+    },
+    {
+     "item": "6.7",
+     "frases": [
+      "Existência, eficácia, validade, invalidade e nulidade do negócio jurídico."
+     ]
+    },
+    {
+     "item": "6.8",
+     "frases": [
+      "Simulação."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Atos jurídicos lícitos e ilícitos."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Prescrição e decadência."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Prova do fato jurídico."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Obrigações."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Elementos"
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Boa-fé."
+     ]
+    },
+    {
+     "item": "10.5",
+     "frases": [
+      "Obrigação complexa (a obrigação como um processo)."
+     ]
+    },
+    {
+     "item": "10.6",
+     "frases": [
+      "Obrigações de dar."
+     ]
+    },
+    {
+     "item": "10.7",
+     "frases": [
+      "Obrigações de fazer e de não fazer."
+     ]
+    },
+    {
+     "item": "10.8",
+     "frases": [
+      "Obrigações alternativas e facultativas."
+     ]
+    },
+    {
+     "item": "10.9",
+     "frases": [
+      "Obrigações divisíveis e indivisíveis."
+     ]
+    },
+    {
+     "item": "10.10",
+     "frases": [
+      "Obrigações solidárias."
+     ]
+    },
+    {
+     "item": "10.11",
+     "frases": [
+      "Obrigações civis e naturais, de meio, de resultado e de garantia."
+     ]
+    },
+    {
+     "item": "10.12",
+     "frases": [
+      "Obrigações de execução instantânea, diferida e continuada."
+     ]
+    },
+    {
+     "item": "10.13",
+     "frases": [
+      "Obrigações puras e simples, condicionais, a termo e modais."
+     ]
+    },
+    {
+     "item": "10.14",
+     "frases": [
+      "Obrigações líquidas e ilíquidas."
+     ]
+    },
+    {
+     "item": "10.15",
+     "frases": [
+      "Obrigações principais e acessórias."
+     ]
+    },
+    {
+     "item": "10.16",
+     "frases": [
+      "Transmissão das obrigações."
+     ]
+    },
+    {
+     "item": "10.17",
+     "frases": [
+      "Adimplemento e extinção das obrigações."
+     ]
+    },
+    {
+     "item": "10.18",
+     "frases": [
+      "Inadimplemento das obrigações."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Contratos."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "Contratos em geral."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "11.5",
+     "frases": [
+      "Interpretação."
+     ]
+    },
+    {
+     "item": "11.6",
+     "frases": [
+      "Extinção."
+     ]
+    },
+    {
+     "item": "11.7",
+     "frases": [
+      "Espécies de contratos regulados no Código Civil."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Atos unilaterais."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Títulos de crédito."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Títulos ao portador, à ordem e nominativos."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Responsabilidade civil."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Preferências e privilégios creditórios."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Direito de empresa."
+     ]
+    },
+    {
+     "item": "16.1",
+     "frases": [
+      "Empresário."
+     ]
+    },
+    {
+     "item": "16.2",
+     "frases": [
+      "Empresa individual."
+     ]
+    },
+    {
+     "item": "16.3",
+     "frases": [
+      "Sociedade."
+     ]
+    },
+    {
+     "item": "16.4",
+     "frases": [
+      "Estabelecimento."
+     ]
+    },
+    {
+     "item": "16.5",
+     "frases": [
+      "Institutos complementares."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Posse."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Direitos reais."
+     ]
+    },
+    {
+     "item": "18.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "18.2",
+     "frases": [
+      "Propriedade."
+     ]
+    },
+    {
+     "item": "18.3",
+     "frases": [
+      "Superfície."
+     ]
+    },
+    {
+     "item": "18.4",
+     "frases": [
+      "Servidões."
+     ]
+    },
+    {
+     "item": "18.5",
+     "frases": [
+      "Usufruto."
+     ]
+    },
+    {
+     "item": "18.6",
+     "frases": [
+      "Uso."
+     ]
+    },
+    {
+     "item": "18.7",
+     "frases": [
+      "Habitação."
+     ]
+    },
+    {
+     "item": "18.8",
+     "frases": [
+      "Direito do promitente comprador."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Direitos reais de garantia."
+     ]
+    },
+    {
+     "item": "19.1",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "19.2",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "19.3",
+     "frases": [
+      "Penhor, hipoteca e anticrese."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Direito de família."
+     ]
+    },
+    {
+     "item": "20.1",
+     "frases": [
+      "Casamento."
+     ]
+    },
+    {
+     "item": "20.2",
+     "frases": [
+      "Relações de parentesco."
+     ]
+    },
+    {
+     "item": "20.3",
+     "frases": [
+      "Regime de bens entre os cônjuges."
+     ]
+    },
+    {
+     "item": "20.4",
+     "frases": [
+      "Usufruto e administração dos bens de filhos menores."
+     ]
+    },
+    {
+     "item": "20.5",
+     "frases": [
+      "Alimentos."
+     ]
+    },
+    {
+     "item": "20.6",
+     "frases": [
+      "Bem de família."
+     ]
+    },
+    {
+     "item": "20.7",
+     "frases": [
+      "União estável."
+     ]
+    },
+    {
+     "item": "20.8",
+     "frases": [
+      "Concubinato."
+     ]
+    },
+    {
+     "item": "20.9",
+     "frases": [
+      "Tutela."
+     ]
+    },
+    {
+     "item": "20.10",
+     "frases": [
+      "Curatela."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Direito das sucessões."
+     ]
+    },
+    {
+     "item": "21.1",
+     "frases": [
+      "Sucessão em geral."
+     ]
+    },
+    {
+     "item": "21.2",
+     "frases": [
+      "Sucessão legítima."
+     ]
+    },
+    {
+     "item": "21.3",
+     "frases": [
+      "Sucessão testamentária."
+     ]
+    },
+    {
+     "item": "21.4",
+     "frases": [
+      "Inventário e partilha."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Lei nº 6.766/1979 (parcelamento do solo urbano)."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Lei nº 6.015/1973 (registros públicos)."
+     ]
+    },
+    {
+     "item": "23.1",
+     "frases": [
+      "Noções gerais, registros, presunção de fé pública, prioridade, especialidade, legalidade, continuidade, transcrição, inscrição e averbação."
+     ]
+    },
+    {
+     "item": "23.2",
+     "frases": [
+      "Procedimento de dúvida."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Lei nº 8.245/1991 (locação de imóveis urbanos)."
+     ]
+    },
+    {
+     "item": "24.1",
+     "frases": [
+      "Disposições gerais, locação em geral, sublocações, aluguel, deveres do locador e do locatário, direito de preferência, benfeitorias, garantias locatícias, penalidades civis, nulidades, locação residencial, locação para temporada, locação não residencial."
+     ]
+    }
+   ]
+  }
+ ]
+}

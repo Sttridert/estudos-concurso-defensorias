@@ -1,0 +1,64 @@
+{
+ "pasta": "2026 - DPE-PB - Analista e Técnico (edital, sem prova)",
+ "banca": "FCC",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 1250,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direitos e garantias fundamentais: direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade, à segurança e à propriedade; direitos sociais; nacionalidade; cidadania e direitos políticos; partidos políticos; garantias constitucionais individuais; garantias dos direitos coletivos, sociais e políticos."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Organização do Estado: organização político-administrativa, União, Estados, Municípios, Distrito Federal e Territórios."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Administração Pública: servidores públicos."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Poder Legislativo: fundamento, atribuições e garantias de independência, processo legislativo."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Poder Executivo: forma e sistema de governo; chefia de Estado e chefia de governo; atribuições e responsabilidades do Chefe do Poder Executivo dos entes federados."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Poder Judiciário: Disposições gerais, Tribunais Superiores, tribunais e juízes eleitorais."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Funções essenciais à Justiça: da Defensoria Pública, do Ministério Público e da Advocacia Pública e não Pública"
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Ordem social: base e objetivos da ordem social; seguridade social; educação, cultura e desporto; ciência e tecnologia e inovação; comunicação social; meio ambiente; família, criança, adolescente, jovem e idoso; índios.",
+      "Ato das Disposições Constitucionais Transitórias."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "slug": "criminologia",
+ "disciplina": "Criminologia",
+ "prefixo": "CR",
+ "versao_base": "v1",
+ "versao_alvo": "v2",
+ "criado_em": "2026-11-20T15:33:06",
+ "estado": "rascunho",
+ "assuntos": [
+  {
+   "uid": "n:8356cdfa",
+   "antigo": null,
+   "nome": "Fundamentos da Criminologia",
+   "descricao": "O que é a Criminologia e como se relaciona com outras ciências.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "n:8c8071f5",
+     "antigo": null,
+     "texto": "Conceito, objeto e métodos da Criminologia",
+     "descricao": "Objeto (crime, criminoso, vítima e controle social) e métodos (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:df6d187d",
+     "antigo": null,
+     "texto": "Criminologia e ciências penais afins",
+     "descricao": "Relação com Direito Penal e Política Criminal (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CR01",
+   "antigo": "CR01",
+   "nome": "Escolas e teorias criminológicas",
+   "descricao": "Da escola clássica às tendências contemporâneas.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CR01.01",
+     "antigo": "CR01.01",
+     "texto": "Escola clássica e positivismo",
+     "descricao": "Escola clássica e positivismo criminológico.",
+     "origem": "migrado de PE02.01 (Direito Penal v1) em 2026-11-20"
+    },
+    {
+     "uid": "n:93551c9e",
+     "antigo": null,
+     "texto": "Teorias sociológicas do consenso",
+     "descricao": "Escola de Chicago e demais teorias sociológicas (confirmar quais cobrar).",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:0972df14",
+     "antigo": null,
+     "texto": "Teorias do conflito e criminologia crítica",
+     "descricao": "Labelling approach e criminologia crítica.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:c60da58d",
+     "antigo": null,
+     "texto": "Minimalismo penal e abolicionismo",
+     "descricao": "Tendências contemporâneas.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:7237e3e8",
+   "antigo": null,
+   "nome": "Controle social e sistema penal",
+   "descricao": "Como a sociedade e o Estado controlam o comportamento e selecionam quem é punido.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CR01.02",
+     "antigo": "CR01.02",
+     "texto": "Controle social formal e informal",
+     "descricao": "Controle social formal e informal; polícia.",
+     "origem": "migrado de PE02.02 (Direito Penal v1) em 2026-11-20"
+    },
+    {
+     "uid": "n:46c196f6",
+     "antigo": null,
+     "texto": "Criminalização e seletividade",
+     "descricao": "Criminalização primária e secundária; seletividade do sistema penal.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:5cbd903d",
+     "antigo": null,
+     "texto": "Mídia e punitivismo",
+     "descricao": "Papel da mídia no processo de criminalização (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:1eaa37c0",
+   "antigo": null,
+   "nome": "Vitimologia",
+   "descricao": "A vítima no estudo do crime.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CR01.03",
+     "antigo": "CR01.03",
+     "texto": "Conceito e evolução da vitimologia",
+     "descricao": "Papel da vítima e etapas históricas (confirmar).",
+     "origem": "migrado de PE02.03 (Direito Penal v1) em 2026-11-20"
+    },
+    {
+     "uid": "n:e4873b47",
+     "antigo": null,
+     "texto": "Vitimização primária, secundária e terciária",
+     "descricao": "Vitimização primária, secundária e terciária.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:22fde992",
+   "antigo": null,
+   "nome": "Política criminal e sistema penitenciário",
+   "descricao": "Respostas do Estado ao crime e seus efeitos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "n:9cb2b5ca",
+     "antigo": null,
+     "texto": "Política criminal",
+     "descricao": "Conceito e orientações de política criminal (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:CR01.04",
+     "antigo": "CR01.04",
+     "texto": "Encarceramento e prisionização",
+     "descricao": "Dados do encarceramento, prisionização e relações de poder na prisão.",
+     "origem": "migrado de PE02.04 (Direito Penal v1) em 2026-11-20"
+    }
+   ]
+  }
+ ],
+ "lixeira": [],
+ "lixeira_assuntos": [],
+ "base_v1": {
+  "assuntos": {
+   "v1:CR01": {
+    "codigo": "CR01",
+    "nome": "Criminologia e política criminal"
+   }
+  },
+  "pontos": {
+   "v1:CR01.01": {
+    "codigo": "CR01.01",
+    "texto": "Escolas criminológicas e modernas tendências",
+    "assunto_uid": "v1:CR01"
+   },
+   "v1:CR01.02": {
+    "codigo": "CR01.02",
+    "texto": "Sistema penal, controle social e processo de criminalização",
+    "assunto_uid": "v1:CR01"
+   },
+   "v1:CR01.03": {
+    "codigo": "CR01.03",
+    "texto": "Vitimologia e vitimização",
+    "assunto_uid": "v1:CR01"
+   },
+   "v1:CR01.04": {
+    "codigo": "CR01.04",
+    "texto": "Política criminal e penitenciária, encarceramento e prisonização",
+    "assunto_uid": "v1:CR01"
+   }
+  }
+ },
+ "historico": {
+  "passado": [],
+  "futuro": []
+ },
+ "atualizado_em": "2026-11-20T15:33:24"
+}

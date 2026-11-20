@@ -1,0 +1,290 @@
+{
+ "pasta": "2023 - DPE-MG - Defensor Público (edital, sem prova)",
+ "banca": "Fundep",
+ "disciplina": "PCIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 4385,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Código de Processo Civil."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Processo e Constituição.",
+      "A Constitucionalização do processo civil.",
+      "Princípios constitucionais do Processo Civil.",
+      "Inafastabilidade do controle jurisdicional.",
+      "Direitos fundamentais e processo.",
+      "A conexão entre os princípios do contraditório e da fundamentação das decisões jurisdicionais."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Normas de Direito Processual Civil.",
+      "Natureza jurídica, fontes, princípios e garantias processuais civis, interpretação e direito processual intertemporal."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Jurisdição: conceito, características, escopo, elementos, princípios e espécies.",
+      "Jurisdição voluntária.",
+      "Equivalentes jurisdicionais: autotutela, autocomposição, mediação, arbitragem.",
+      "Competência."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Ação: teorias, classificação, elementos, condições e cumulação.",
+      "Perspectiva constitucional do direito de ação.",
+      "Direito subjetivo, pretensão, ação de direito material e ação de direito processual: distinções."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "A Defensoria Pública no Processo Civil.",
+      "Prerrogativas.",
+      "Curadoria especial."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Sujeitos do processo: partes, capacidade, deveres e responsabilidade por dano processual, substituição, sucessão.",
+      "Litisconsórcio.",
+      "Intervenção de terceiros: típicas e atípicas."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Processo: teorias, pressupostos processuais, atos processuais, lugar, tempo e forma dos atos processuais, prazos, comunicação dos atos processuais, distribuição e registro, valor da causa.",
+      "Formação, suspensão e extinção do processo."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Tutela provisória."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Nulidades."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Processo de conhecimento."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Das provas.",
+      "Teoria geral das provas e provas em espécie."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Procedimento comum: petição inicial, improcedência liminar do pedido.",
+      "Audiência de conciliação ou de mediação.",
+      "Respostas do réu; contestação, reconvenção e revelia.",
+      "Providências preliminares.",
+      "Julgamento conforme o estado do processo."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Sentença e coisa julgada: conceito, requisitos, vícios, efeitos e modalidades da sentença.",
+      "Legitimidade das decisões judiciais.",
+      "Classificações da sentença e as espécies de tutelas.",
+      "Sentenças não satisfativas."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Tutelas específicas: tutela inibitória mandamental, tutela inibitória executiva, tutela reintegratória ou de remoção do ilícito, tutela do adimplemento da obrigação contratual na forma específica, tutela ressarcitória na forma específica, tutela ressarcitória pelo equivalente monetário."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Coisa julgada: conceito, requisitos, vícios, efeitos, modalidades e classificações.",
+      "Os limites subjetivos, objetivos e temporais da coisa julgada.",
+      "Eficácia preclusiva.",
+      "A relativização da coisa julgada."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Dos processos nos tribunais.",
+      "Ações originárias dos Tribunais.",
+      "Ação rescisória.",
+      "Incidente de resolução de demandas repetitivas.",
+      "Incidente de assunção de competência.",
+      "Reclamação."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Meios de impugnação das decisões judiciais.",
+      "Recursos: conceito, princípios, requisitos de admissibilidade e efeitos.",
+      "Recursos em espécie.",
+      "Reexame necessário.",
+      "Mandado de segurança contra ato judicial.",
+      "Teoria dos precedentes judiciais.",
+      "Distinção e superação de precedentes.",
+      "Repercussão geral.",
+      "Súmula.",
+      "Súmula vinculante.",
+      "Regimento interno do TJ/MG, do STJ e do STF."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Procedimentos especiais (jurisdição contenciosa e jurisdição voluntária)."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Processo de execução: da execução em geral.",
+      "As diversas espécies de execução.",
+      "Defesas do devedor e de terceiros na execução.",
+      "Remissão, suspensão e extinção do processo de execução."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Liquidação e cumprimento de sentença.",
+      "Defesas do executado."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "A Fazenda Pública como parte no processo: polos ativo e passivo.",
+      "Prerrogativas.",
+      "Tutela antecipada, tutela específica.",
+      "Ação de conhecimento e execução.",
+      "A Fazenda nos procedimentos especiais.",
+      "Juizados Especiais da Fazenda Pública Estadual."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Ação Civil Pública."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Mandado de Segurança."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Mandado de Injunção."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Habeas Data."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Ação Popular."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Ação de usucapião.",
+      "Usucapião como matéria de defesa."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Ações da Lei de Locação de Imóveis Urbanos: despejo, consignatória de aluguel e acessórios, renovatória e revisional.",
+      "Postulação e defesa."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Ação de alimentos.",
+      "Execução de alimentos.",
+      "Lei de alimentos e disposições do Código de Processo Civil.",
+      "Alimentos gravídicos."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Ações declaratória e negatória de vínculo parental (em vida e póstuma)."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Separação, divórcio direto e mediante conversão.",
+      "Ação declaratória de união estável (em vida e póstuma).",
+      "Separação e divórcio extrajudiciais."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Juizados Especiais Cíveis.",
+      "Enunciados."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Assistência jurídica gratuita: aspectos processuais."
+     ]
+    },
+    {
+     "item": "35",
+     "frases": [
+      "Ação de desapropriação."
+     ]
+    },
+    {
+     "item": "36",
+     "frases": [
+      "Processo eletrônico."
+     ]
+    }
+   ]
+  }
+ ]
+}

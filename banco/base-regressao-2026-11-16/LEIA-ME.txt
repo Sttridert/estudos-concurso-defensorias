@@ -1,0 +1,72 @@
+Base de regressao de 2026-11-16 (plano 06). HEAD: 70f8ac9
+estudos.db sha256: 180bb0f4957b184d8b82e75dfb93ccda0354f7ebfe2d59d414f8d958e7f6823e
+
+Apostilas (tamanho em bytes, caminho):
+70114  produtos/apostilas/direito-administrativo/Apostila - Direito Administrativo (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+83104  produtos/apostilas/direito-civil/Apostila - Direito Civil (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+78832  produtos/apostilas/direito-constitucional/Apostila - Direito Constitucional (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+77124  produtos/apostilas/direito-da-criança-e-do-adolescente,-do-idoso,-da-pessoa-com-deficiência-e-da-mulher/Apostila - Direito da Criança e do Adolescente, do Idoso, da Pessoa com Deficiência e da Mulher (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+92495  produtos/apostilas/direito-penal/Apostila - Direito Penal (Analista Jurídico FCC · DPE-AM 2026) [edital classificado].docx
+70776  produtos/apostilas/direito-penal/Apostila - Direito Penal (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+86530  produtos/apostilas/direito-penal/Apostila - Direito Penal (Analista Jurídico FCC · DPE-AM 2026).docx
+72357  produtos/apostilas/direito-processual-civil/Apostila - Direito Processual Civil (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+75665  produtos/apostilas/direito-processual-penal/Apostila - Direito Processual Penal (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+97539  produtos/apostilas/direitos-humanos/Apostila - Direitos Humanos (Analista Jurídico FCC · DPE-AM 2026) [edital classificado].docx
+90192  produtos/apostilas/direitos-humanos/Apostila - Direitos Humanos (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+84184  produtos/apostilas/direitos-humanos/Apostila - Direitos Humanos (Analista Jurídico FCC · DPE-AM 2026).docx
+205132  produtos/apostilas/direitos-humanos/Apostila - Direitos Humanos (Defensoria Pública FCC).docx
+54811  produtos/apostilas/legislação-da-defensoria-e-conhecimentos-jurídicos-e-institucionais/Apostila - Legislação da Defensoria e Conhecimentos Jurídicos e Institucionais (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+151525  produtos/apostilas/língua-portuguesa/Apostila - Língua Portuguesa (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+
+Scripts (sha256 curto):
+4c8cf2ce1e5e *01_extrair_texto.py
+c769dc830f77 *01b_reocr.py
+ff855c61c30c *01c_reocr_am23.py
+11d84c1166cf *01d_novas_provas.py
+4a1a5880d8b2 *04_gabaritos_fcc.py
+ed0b1567313e *05_ajustes_gabarito.py
+f0331e8beb2a *06_ler_tec.py
+69dcfa72a132 *08_programa_dh.py
+0f13b74c4491 *09_matriz_editais_dh.py
+01d57b9c7cf8 *20_criar_banco_permanente.py
+79b5d4e368c7 *21_catalogo_pontos_dh.py
+a58dfdaee9af *22_classificar_pontos_dh.py
+c8a10fa25823 *23_motor_analise.py
+751616b6491e *24_gerar_apostila.py
+ca0357408aae *25_universos.py
+387730c54994 *26_ingerir_prova.py
+3e4fb7d01a25 *27_organizar_provas_novas.py
+cc5f3297ab5e *28_importar_edital.py
+fdab9e922c86 *29_comentarios_dh_provas_novas.py
+e72a031d912a *30_corrigir_questoes_penal_analista.py
+85847fa101ba *31_catalogo_e_classificacao_penal.py
+5510e5038b83 *32_gravar_comentarios.py
+46d0859a63fd *40_extrair_programas.py
+2c61c442fad2 *41_consolidar_itens.py
+d60ba3fa2084 *42_teste_encaixe.py
+8d99adce3f6d *43_gravar_edital_geral.py
+5c8003d3fc00 *44_gerar_documento_edital_geral.py
+bd7659a34056 *50_programa_edital.py
+f6aa503dd196 *51_classificar_edital.py
+99842a34adeb *52_gravar_edital_classificado.py
+2edfc2da8e01 *53_visualizar_edital.py
+337762226222 *55_aplicar_correcoes_texto.py
+972182d74540 *56_acrescentar_bloco_ao_programa.py
+c67b000471f3 *57_gravar_textos_base.py
+c9e88649623f *58_catalogo_lingua_portuguesa.py
+2e48665e70af *59_classificar_lingua_portuguesa.py
+aec5155dfe54 *60_catalogo_principios_institucionais.py
+3efb6b7e61d2 *61_classificar_principios_institucionais.py
+34f31e351fb8 *62_classificar_execucao_penal.py
+01450ee3ccd4 *63_classificar_idoso_pcd_mulher.py
+279d11942127 *64_aplicar_revisao_web.py
+599b1f7a2e4a *65_aplicar_gabaritos.py
+93d6c07bb8a7 *66_confirmar_texto_questoes.py
+68c029861faa *70_porteiro_edital.py
+1589585ad349 *apostila_lib.py
+910ffec25fb9 *cmp_gab.py
+4b25b382c176 *lib_edital_classificado.py
+3c4435490a79 *lib_escopo.py
+bd332cd8b9e0 *lib_gabarito.py
+27c862b0f6ee *receptor_local.py
+Nota (16/11/2026, Etapa 2): perfis 1 e 2 (DH) atualizados na base depois de mover a disciplina 21 para DH; os demais seguem os de 16/11 (sem diferenca).

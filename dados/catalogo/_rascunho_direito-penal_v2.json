@@ -1,0 +1,1021 @@
+{
+ "slug": "direito-penal",
+ "disciplina": "Direito Penal",
+ "prefixo": "PE",
+ "versao_base": "v1",
+ "versao_alvo": "v2",
+ "criado_em": "2026-11-20T14:23:05",
+ "estado": "rascunho",
+ "assuntos": [
+  {
+   "uid": "v1:PE01",
+   "antigo": "PE01",
+   "nome": "Fundamentos do Direito Penal",
+   "descricao": "Conceito, fontes, escolas, princípios e relação com a Constituição e os Direitos Humanos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE01.01",
+     "antigo": "PE01.01",
+     "texto": "Conceito, fontes e finalidades do Direito Penal",
+     "descricao": "Conceito e fontes do Direito Penal, poder punitivo e função do Direito Penal.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "n:3e10a14a",
+     "antigo": null,
+     "texto": "Escolas penais e evolução histórica",
+     "descricao": "Escolas penais e história da criminalização no Brasil.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:PE01.02",
+     "antigo": "PE01.02",
+     "texto": "Princípios penais",
+     "descricao": "Legalidade, intervenção mínima, fragmentariedade, insignificância, ofensividade, adequação social, humanidade, culpabilidade, individualização.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE01.03",
+     "antigo": "PE01.03",
+     "texto": "Direito Penal, Constituição e Direitos Humanos",
+     "descricao": "CF art. 5º (incisos penais), garantismo, Direito Penal e Direitos Humanos. [Tema compartilhado com Direitos Humanos]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PE03",
+   "antigo": "PE03",
+   "nome": "Lei penal e sua aplicação",
+   "descricao": "Eficácia da lei penal no tempo e no espaço, interpretação e conflito entre normas.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE03.01",
+     "antigo": "PE03.01",
+     "texto": "Lei penal no tempo",
+     "descricao": "CF art. 5º, XL; tempo do crime; retroatividade da lei mais benéfica; leis temporárias e excepcionais (confirmar).",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE03.02",
+     "antigo": "PE03.02",
+     "texto": "Lei penal no espaço",
+     "descricao": "Territorialidade e extraterritorialidade, lugar do crime, imunidades e extradição (confirmar).",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE03.03",
+     "antigo": "PE03.03",
+     "texto": "Interpretação e integração da lei penal",
+     "descricao": "Espécies de interpretação e analogia in malam partem.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "n:3a74c54a",
+     "antigo": null,
+     "texto": "Conflito aparente de normas",
+     "descricao": "Especialidade, subsidiariedade e consunção.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:1b3eb00c",
+   "antigo": null,
+   "nome": "Teoria do delito: conceito e estrutura",
+   "descricao": "Visão geral do crime e das teorias que o explicam; a tipicidade, a ilicitude e a culpabilidade vêm nos três assuntos seguintes.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE04.01",
+     "antigo": "PE04.01",
+     "texto": "Conceito analítico de crime",
+     "descricao": "Conceito formal, material e analítico de crime (confirmar a divisão em tipicidade, ilicitude e culpabilidade).",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "n:009d8d64",
+     "antigo": null,
+     "texto": "Evolução da teoria do delito",
+     "descricao": "Causalismo, finalismo e funcionalismo.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:1ca623cb",
+     "antigo": null,
+     "texto": "Bem jurídico-penal",
+     "descricao": "Conceito e função do bem jurídico.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PE04",
+   "antigo": "PE04",
+   "nome": "Teoria do delito: tipicidade",
+   "descricao": "Tudo o que torna a conduta típica: tipo, conduta, resultado, causalidade, elemento subjetivo, erro de tipo e as fases e figuras que afetam a tipicidade (tentativa e afins).",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "n:1a143106",
+     "antigo": null,
+     "texto": "Tipo penal e tipicidade",
+     "descricao": "Elementos do tipo; tipicidade formal, material e conglobante; norma penal em branco (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:PE04.02",
+     "antigo": "PE04.02",
+     "texto": "Conduta e omissão",
+     "descricao": "Teorias da conduta; omissão própria e imprópria (CP art. 13, §2º, confirmar).",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "n:f5b1f019",
+     "antigo": null,
+     "texto": "Resultado e relação de causalidade",
+     "descricao": "CP art. 13 (causalidade, causa superveniente).",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:ec73e6f9",
+     "antigo": null,
+     "texto": "Imputação objetiva",
+     "descricao": "Risco proibido e imputação do resultado.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:PE04.03",
+     "antigo": "PE04.03",
+     "texto": "Dolo e culpa",
+     "descricao": "CP art. 18",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE06.04",
+     "antigo": "PE06.04",
+     "texto": "Erro de tipo",
+     "descricao": "CP art. 20.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE04.04",
+     "antigo": "PE04.04",
+     "texto": "Iter criminis e tentativa",
+     "descricao": "CP art. 14",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE04.05",
+     "antigo": "PE04.05",
+     "texto": "Desistência voluntária e arrependimento eficaz",
+     "descricao": "CP art. 15.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE07.02",
+     "antigo": "PE07.02",
+     "texto": "Crime impossível",
+     "descricao": "CP art. 17.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE07.01",
+     "antigo": "PE07.01",
+     "texto": "Arrependimento posterior",
+     "descricao": "CP art. 16. (confirmar se fica aqui ou em Pena; é causa de diminuição de pena)",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PE05",
+   "antigo": "PE05",
+   "nome": "Teoria do delito: ilicitude",
+   "descricao": "Contrariedade da conduta típica ao Direito e as causas que a excluem.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE05.01",
+     "antigo": "PE05.01",
+     "texto": "Ilicitude e injusto penal",
+     "descricao": "Ilicitude formal e material, injusto penal, Direito Penal e moral.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE05.02",
+     "antigo": "PE05.02",
+     "texto": "Excludentes de ilicitude",
+     "descricao": "CP arts. 23 a 25: estado de necessidade, legítima defesa, estrito cumprimento do dever legal, exercício regular de direito, excesso.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PE06",
+   "antigo": "PE06",
+   "nome": "Teoria do delito: culpabilidade",
+   "descricao": "Reprovabilidade do autor e as causas que a afastam.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE06.01",
+     "antigo": "PE06.01",
+     "texto": "Conceito e teorias da culpabilidade",
+     "descricao": "Teorias da culpabilidade, coculpabilidade, culpabilidade por vulnerabilidade, Direito Penal do fato e do autor.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE06.02",
+     "antigo": "PE06.02",
+     "texto": "Imputabilidade",
+     "descricao": "CP arts. 26 a 28.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "n:08976aa5",
+     "antigo": null,
+     "texto": "Potencial consciência da ilicitude e erro de proibição",
+     "descricao": "CP art. 21.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:PE06.03",
+     "antigo": "PE06.03",
+     "texto": "Inexigibilidade de conduta diversa",
+     "descricao": "CP art. 22 (coação moral irresistível e obediência hierárquica), inexigibilidade.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PE07",
+   "antigo": "PE07",
+   "nome": "Concurso de pessoas",
+   "descricao": "Pluralidade de agentes no mesmo crime.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE07.03",
+     "antigo": "PE07.03",
+     "texto": "Requisitos e punição no concurso de pessoas",
+     "descricao": "CP arts. 29 a 31.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "n:0fce2e19",
+     "antigo": null,
+     "texto": "Autoria e participação",
+     "descricao": "Teorias da autoria, coautoria, participação e autoria mediata (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PE08",
+   "antigo": "PE08",
+   "nome": "Penas",
+   "descricao": "Teoria e espécies das sanções penais.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE08.01",
+     "antigo": "PE08.01",
+     "texto": "Teorias e finalidades da pena",
+     "descricao": "Teorias absolutas, relativas e mistas [Tema compartilhado com Execução Penal]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE08.02",
+     "antigo": "PE08.02",
+     "texto": "Espécies de pena e regimes de cumprimento",
+     "descricao": "CP arts. 32 a 42. [Tema compartilhado com Execução Penal]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE08.05",
+     "antigo": "PE08.05",
+     "texto": "Penas restritivas de direitos",
+     "descricao": "CP arts. 43 a 52 (requisitos da substituição). [Tema compartilhado com Execução Penal]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "n:ada72c95",
+     "antigo": null,
+     "texto": "Pena de multa",
+     "descricao": "Dias-multa e execução da multa (confirmar). [Tema compartilhado com Execução Penal]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:8b429516",
+     "antigo": null,
+     "texto": "Medida de segurança",
+     "descricao": "CP arts. 96 a 99. [Tema compartilhado com Execução Penal e Direitos Humanos (saúde mental)]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:00e44a26",
+   "antigo": null,
+   "nome": "Aplicação da pena",
+   "descricao": "Como o juiz chega à pena concreta.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE08.03",
+     "antigo": "PE08.03",
+     "texto": "Dosimetria: sistema trifásico",
+     "descricao": "CP arts. 59, 61 a 68.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE08.04",
+     "antigo": "PE08.04",
+     "texto": "Reincidência e antecedentes",
+     "descricao": "CP arts. 63 e 64",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE07.04",
+     "antigo": "PE07.04",
+     "texto": "Concurso de crimes",
+     "descricao": "CP arts. 69 a 71 (material, formal e continuado).",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "n:9b48ba5e",
+   "antigo": null,
+   "nome": "Medidas posteriores à condenação",
+   "descricao": "Suspensão, livramento e efeitos da condenação.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE08.06",
+     "antigo": "PE08.06",
+     "texto": "Suspensão condicional da pena (sursis)",
+     "descricao": "CP arts. 77 a 82 (confirmar). [Tema compartilhado com Execução Penal]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "n:cbc0cd9d",
+     "antigo": null,
+     "texto": "Livramento condicional",
+     "descricao": "CP arts. 83 a 90 (confirmar). [Tema compartilhado com Execução Penal]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:PE08.07",
+     "antigo": "PE08.07",
+     "texto": "Efeitos da condenação",
+     "descricao": "Efeitos genéricos e específicos (confirmar).",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:e85967d3",
+     "antigo": null,
+     "texto": "Reabilitação",
+     "descricao": "CP arts. 93 a 95 (confirmar). [Tema compartilhado com Execução Penal]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PE09",
+   "antigo": "PE09",
+   "nome": "Punibilidade",
+   "descricao": "Extinção da punibilidade.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE09.01",
+     "antigo": "PE09.01",
+     "texto": "Causas de extinção da punibilidade",
+     "descricao": "CP art. 107 (morte, anistia, graça, indulto, abolitio, decadência, perempção, renúncia, perdão). [Tema compartilhado com Execução Penal (anistia, graça e indulto)]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE09.02",
+     "antigo": "PE09.02",
+     "texto": "Prescrição",
+     "descricao": "CP arts. 109 a 119. [Tema compartilhado com Execução Penal]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PE10",
+   "antigo": "PE10",
+   "nome": "Crimes em espécie",
+   "descricao": "Os crimes do Código Penal, um tópico por grupo de crimes (bem jurídico protegido).",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE10.01",
+     "antigo": "PE10.01",
+     "texto": "Crimes contra a pessoa",
+     "descricao": "CP arts. 121 a 154 (vida, lesão corporal, periclitação, honra, liberdade individual).",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE11.01",
+     "antigo": "PE11.01",
+     "texto": "Crimes contra o patrimônio",
+     "descricao": "CP arts. 155 a 183 (furto, roubo, latrocínio, extorsão, estelionato, receptação).",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE12.01",
+     "antigo": "PE12.01",
+     "texto": "Crimes contra a dignidade sexual",
+     "descricao": "CP arts. 213 a 218-C (estupro, estupro de vulnerável, importunação e assédio). [Tema compartilhado com ECA]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE13.01",
+     "antigo": "PE13.01",
+     "texto": "Crimes contra a administração pública",
+     "descricao": "CP arts. 312 a 359.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE13.02",
+     "antigo": "PE13.02",
+     "texto": "Crimes contra o Estado Democrático de Direito",
+     "descricao": "CP arts. 359-I a 359-T (Lei 14.197/2021).",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE13.03",
+     "antigo": "PE13.03",
+     "texto": "Crimes contra a incolumidade e a paz públicas",
+     "descricao": "Incêndio, associação criminosa e demais títulos fora da lista do edital (confirmar).",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PE14",
+   "antigo": "PE14",
+   "nome": "Legislação penal especial",
+   "descricao": "Leis penais fora do Código Penal; aqui a própria lei é o tópico (confirmar se convém agrupar por tema).",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PE14.01",
+     "antigo": "PE14.01",
+     "texto": "Lei de Drogas",
+     "descricao": "Lei 11.343/2006.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE14.02",
+     "antigo": "PE14.02",
+     "texto": "Violência doméstica (Lei Maria da Penha)",
+     "descricao": "Lei 11.340/2006. [Tema compartilhado com Direitos Humanos]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE14.03",
+     "antigo": "PE14.03",
+     "texto": "Crimes hediondos",
+     "descricao": "Lei 8.072/1990.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE14.04",
+     "antigo": "PE14.04",
+     "texto": "Estatuto do Desarmamento",
+     "descricao": "Lei 10.826/2003.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE14.05",
+     "antigo": "PE14.05",
+     "texto": "Organização criminosa",
+     "descricao": "Lei 12.850/2013. [Tema compartilhado com Direito Processual Penal]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE14.06",
+     "antigo": "PE14.06",
+     "texto": "Crimes de trânsito",
+     "descricao": "Lei 9.503/1997.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE14.07",
+     "antigo": "PE14.07",
+     "texto": "Lei de Tortura",
+     "descricao": "Lei 9.455/1997. [Tema compartilhado com Direitos Humanos e Execução Penal]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE14.08",
+     "antigo": "PE14.08",
+     "texto": "Crimes ambientais",
+     "descricao": "Lei 9.605/1998.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE14.09",
+     "antigo": "PE14.09",
+     "texto": "Crimes de preconceito de raça ou de cor",
+     "descricao": "Lei 7.716/1989. [Tema compartilhado com Direitos Humanos]",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE14.10",
+     "antigo": "PE14.10",
+     "texto": "Abuso de autoridade",
+     "descricao": "Lei 13.869/2019.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE14.11",
+     "antigo": "PE14.11",
+     "texto": "Contravenções penais",
+     "descricao": "Decreto-Lei 3.688/1941.",
+     "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)"
+    },
+    {
+     "uid": "v1:PE14.12",
+     "antigo": "PE14.12",
+     "texto": "Lavagem de dinheiro",
+     "descricao": "Lei de lavagem de capitais (confirmar). ECA, Estatuto do Idoso e Torcedor: ver outras disciplinas.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:0058d265",
+     "antigo": null,
+     "texto": "Lei antiterrorismo",
+     "descricao": "Crimes de terrorismo (confirmar a lei).",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:d9c43964",
+     "antigo": null,
+     "texto": "Crimes do Estatuto da Criança e do Adolescente",
+     "descricao": "Crimes previstos no Estatuto (confirmar a lista). [Tema compartilhado com ECA]",
+     "origem": "rascunho v2 (IA, fase 4; confirmar)"
+    }
+   ]
+  }
+ ],
+ "lixeira": [
+  {
+   "uid": "v1:PE02.01",
+   "antigo": "PE02.01",
+   "texto": "Escolas criminológicas e modernas tendências",
+   "descricao": "Escola clássica, positivismo, Chicago, labelling approach, criminologia crítica, abolicionismo, minimalismo.",
+   "assunto_uid": "v1:PE02",
+   "apagado_em": "2026-11-20T15:27:28",
+   "destino": null,
+   "nota": "migra para a disciplina Criminologia"
+  },
+  {
+   "uid": "v1:PE02.02",
+   "antigo": "PE02.02",
+   "texto": "Sistema penal, controle social e processo de criminalização",
+   "descricao": "Controle social formal e informal, criminalização primária e secundária, seletividade, polícia e mídia.",
+   "assunto_uid": "v1:PE02",
+   "apagado_em": "2026-11-20T15:27:28",
+   "destino": null,
+   "nota": "migra para a disciplina Criminologia"
+  },
+  {
+   "uid": "v1:PE02.03",
+   "antigo": "PE02.03",
+   "texto": "Vitimologia e vitimização",
+   "descricao": "Vitimização primária, secundária e terciária.",
+   "assunto_uid": "v1:PE02",
+   "apagado_em": "2026-11-20T15:27:28",
+   "destino": null,
+   "nota": "migra para a disciplina Criminologia"
+  },
+  {
+   "uid": "v1:PE02.04",
+   "antigo": "PE02.04",
+   "texto": "Política criminal e penitenciária, encarceramento e prisonização",
+   "descricao": "Dados do encarceramento, prisonização, relações de poder na prisão.",
+   "assunto_uid": "v1:PE02",
+   "apagado_em": "2026-11-20T15:27:28",
+   "destino": null,
+   "nota": "migra para a disciplina Criminologia"
+  },
+  {
+   "uid": "v1:PE10.02",
+   "antigo": "PE10.02",
+   "texto": "Lesão corporal e demais crimes contra a pessoa",
+   "descricao": "CP arts. 129 a 154.",
+   "assunto_uid": "v1:PE10",
+   "apagado_em": "2026-11-20T15:27:28",
+   "destino": "v1:PE10.01",
+   "nota": null
+  },
+  {
+   "uid": "v1:PE11.02",
+   "antigo": "PE11.02",
+   "texto": "Extorsão, estelionato, receptação e demais crimes patrimoniais",
+   "descricao": "CP arts. 158 a 183.",
+   "assunto_uid": "v1:PE11",
+   "apagado_em": "2026-11-20T15:27:28",
+   "destino": "v1:PE11.01",
+   "nota": null
+  },
+  {
+   "uid": "v1:PE12.02",
+   "antigo": "PE12.02",
+   "texto": "Importunação, assédio e demais crimes sexuais",
+   "descricao": "CP arts. 215 a 218-C.",
+   "assunto_uid": "v1:PE12",
+   "apagado_em": "2026-11-20T15:27:28",
+   "destino": "v1:PE12.01",
+   "nota": null
+  }
+ ],
+ "lixeira_assuntos": [
+  {
+   "uid": "v1:PE02",
+   "antigo": "PE02",
+   "nome": "Criminologia e política criminal",
+   "descricao": "Escolas criminológicas, sistema penal e controle social, criminalização, vitimologia, encarceramento e prisonização, mídia.",
+   "apagado_em": "2026-11-20T15:27:28",
+   "rebaixado_para": null,
+   "nota": "migra para a disciplina Criminologia"
+  },
+  {
+   "uid": "v1:PE11",
+   "antigo": "PE11",
+   "nome": "Crimes contra o patrimônio",
+   "descricao": "Furto, roubo, latrocínio, extorsão, estelionato, receptação.",
+   "apagado_em": "2026-11-20T15:27:28",
+   "rebaixado_para": "v1:PE11.01",
+   "nota": null
+  },
+  {
+   "uid": "v1:PE12",
+   "antigo": "PE12",
+   "nome": "Crimes contra a dignidade sexual",
+   "descricao": "Estupro, estupro de vulnerável, importunação e assédio sexual.",
+   "apagado_em": "2026-11-20T15:27:28",
+   "rebaixado_para": "v1:PE12.01",
+   "nota": null
+  },
+  {
+   "uid": "v1:PE13",
+   "antigo": "PE13",
+   "nome": "Crimes contra a administração pública, o Estado Democrático de Direito e outros crimes do CP",
+   "descricao": "Peculato e demais crimes funcionais, crimes contra o Estado Democrático de Direito, incolumidade e paz pública.",
+   "apagado_em": "2026-11-20T15:27:28",
+   "rebaixado_para": "v1:PE13.01",
+   "nota": null
+  }
+ ],
+ "base_v1": {
+  "assuntos": {
+   "v1:PE01": {
+    "codigo": "PE01",
+    "nome": "Fundamentos e princípios do Direito Penal"
+   },
+   "v1:PE02": {
+    "codigo": "PE02",
+    "nome": "Criminologia e política criminal"
+   },
+   "v1:PE03": {
+    "codigo": "PE03",
+    "nome": "Lei penal: aplicação e interpretação"
+   },
+   "v1:PE04": {
+    "codigo": "PE04",
+    "nome": "Teoria do delito e tipicidade"
+   },
+   "v1:PE05": {
+    "codigo": "PE05",
+    "nome": "Ilicitude"
+   },
+   "v1:PE06": {
+    "codigo": "PE06",
+    "nome": "Culpabilidade, imputabilidade e erro"
+   },
+   "v1:PE07": {
+    "codigo": "PE07",
+    "nome": "Arrependimento posterior, crime impossível e concursos"
+   },
+   "v1:PE08": {
+    "codigo": "PE08",
+    "nome": "Pena: teorias, espécies e aplicação"
+   },
+   "v1:PE09": {
+    "codigo": "PE09",
+    "nome": "Punibilidade e prescrição"
+   },
+   "v1:PE10": {
+    "codigo": "PE10",
+    "nome": "Crimes contra a pessoa"
+   },
+   "v1:PE11": {
+    "codigo": "PE11",
+    "nome": "Crimes contra o patrimônio"
+   },
+   "v1:PE12": {
+    "codigo": "PE12",
+    "nome": "Crimes contra a dignidade sexual"
+   },
+   "v1:PE13": {
+    "codigo": "PE13",
+    "nome": "Crimes contra a administração pública, o Estado Democrático de Direito e outros crimes do CP"
+   },
+   "v1:PE14": {
+    "codigo": "PE14",
+    "nome": "Legislação penal especial"
+   }
+  },
+  "pontos": {
+   "v1:PE01.01": {
+    "codigo": "PE01.01",
+    "texto": "Conceito, fontes, objetivos, escolas penais e evolução histórica",
+    "assunto_uid": "v1:PE01"
+   },
+   "v1:PE01.02": {
+    "codigo": "PE01.02",
+    "texto": "Princípios penais",
+    "assunto_uid": "v1:PE01"
+   },
+   "v1:PE01.03": {
+    "codigo": "PE01.03",
+    "texto": "Constituição, Estado Democrático de Direito e Direitos Humanos",
+    "assunto_uid": "v1:PE01"
+   },
+   "v1:PE02.01": {
+    "codigo": "PE02.01",
+    "texto": "Escolas criminológicas e modernas tendências",
+    "assunto_uid": "v1:PE02"
+   },
+   "v1:PE02.02": {
+    "codigo": "PE02.02",
+    "texto": "Sistema penal, controle social e processo de criminalização",
+    "assunto_uid": "v1:PE02"
+   },
+   "v1:PE02.03": {
+    "codigo": "PE02.03",
+    "texto": "Vitimologia e vitimização",
+    "assunto_uid": "v1:PE02"
+   },
+   "v1:PE02.04": {
+    "codigo": "PE02.04",
+    "texto": "Política criminal e penitenciária, encarceramento e prisonização",
+    "assunto_uid": "v1:PE02"
+   },
+   "v1:PE03.01": {
+    "codigo": "PE03.01",
+    "texto": "Lei penal no tempo",
+    "assunto_uid": "v1:PE03"
+   },
+   "v1:PE03.02": {
+    "codigo": "PE03.02",
+    "texto": "Lei penal no espaço, tempo e lugar do crime, imunidades e extradição",
+    "assunto_uid": "v1:PE03"
+   },
+   "v1:PE03.03": {
+    "codigo": "PE03.03",
+    "texto": "Interpretação da lei penal, analogia e conflito aparente de normas",
+    "assunto_uid": "v1:PE03"
+   },
+   "v1:PE04.01": {
+    "codigo": "PE04.01",
+    "texto": "Teoria do delito: evolução, elementos do crime e bem jurídico",
+    "assunto_uid": "v1:PE04"
+   },
+   "v1:PE04.02": {
+    "codigo": "PE04.02",
+    "texto": "Conduta, resultado, nexo causal e imputação objetiva",
+    "assunto_uid": "v1:PE04"
+   },
+   "v1:PE04.03": {
+    "codigo": "PE04.03",
+    "texto": "Dolo e culpa",
+    "assunto_uid": "v1:PE04"
+   },
+   "v1:PE04.04": {
+    "codigo": "PE04.04",
+    "texto": "Iter criminis, consumação e tentativa",
+    "assunto_uid": "v1:PE04"
+   },
+   "v1:PE04.05": {
+    "codigo": "PE04.05",
+    "texto": "Desistência voluntária e arrependimento eficaz",
+    "assunto_uid": "v1:PE04"
+   },
+   "v1:PE05.01": {
+    "codigo": "PE05.01",
+    "texto": "Ilicitude: conceito e injusto penal",
+    "assunto_uid": "v1:PE05"
+   },
+   "v1:PE05.02": {
+    "codigo": "PE05.02",
+    "texto": "Excludentes da ilicitude",
+    "assunto_uid": "v1:PE05"
+   },
+   "v1:PE06.01": {
+    "codigo": "PE06.01",
+    "texto": "Culpabilidade: conceito, estrutura e vulnerabilidade",
+    "assunto_uid": "v1:PE06"
+   },
+   "v1:PE06.02": {
+    "codigo": "PE06.02",
+    "texto": "Imputabilidade e medida de segurança",
+    "assunto_uid": "v1:PE06"
+   },
+   "v1:PE06.03": {
+    "codigo": "PE06.03",
+    "texto": "Excludentes de culpabilidade e inexigibilidade de conduta diversa",
+    "assunto_uid": "v1:PE06"
+   },
+   "v1:PE06.04": {
+    "codigo": "PE06.04",
+    "texto": "Erro de tipo e erro de proibição",
+    "assunto_uid": "v1:PE06"
+   },
+   "v1:PE07.01": {
+    "codigo": "PE07.01",
+    "texto": "Arrependimento posterior",
+    "assunto_uid": "v1:PE07"
+   },
+   "v1:PE07.02": {
+    "codigo": "PE07.02",
+    "texto": "Crime impossível",
+    "assunto_uid": "v1:PE07"
+   },
+   "v1:PE07.03": {
+    "codigo": "PE07.03",
+    "texto": "Concurso de pessoas",
+    "assunto_uid": "v1:PE07"
+   },
+   "v1:PE07.04": {
+    "codigo": "PE07.04",
+    "texto": "Concurso de crimes",
+    "assunto_uid": "v1:PE07"
+   },
+   "v1:PE08.01": {
+    "codigo": "PE08.01",
+    "texto": "Teorias e finalidades da pena",
+    "assunto_uid": "v1:PE08"
+   },
+   "v1:PE08.02": {
+    "codigo": "PE08.02",
+    "texto": "Espécies de pena, regimes de cumprimento e progressão",
+    "assunto_uid": "v1:PE08"
+   },
+   "v1:PE08.03": {
+    "codigo": "PE08.03",
+    "texto": "Dosimetria: sistema trifásico e circunstâncias",
+    "assunto_uid": "v1:PE08"
+   },
+   "v1:PE08.04": {
+    "codigo": "PE08.04",
+    "texto": "Reincidência e antecedentes",
+    "assunto_uid": "v1:PE08"
+   },
+   "v1:PE08.05": {
+    "codigo": "PE08.05",
+    "texto": "Penas restritivas de direitos e multa",
+    "assunto_uid": "v1:PE08"
+   },
+   "v1:PE08.06": {
+    "codigo": "PE08.06",
+    "texto": "Sursis, livramento condicional e reabilitação",
+    "assunto_uid": "v1:PE08"
+   },
+   "v1:PE08.07": {
+    "codigo": "PE08.07",
+    "texto": "Efeitos da condenação",
+    "assunto_uid": "v1:PE08"
+   },
+   "v1:PE09.01": {
+    "codigo": "PE09.01",
+    "texto": "Causas de extinção da punibilidade",
+    "assunto_uid": "v1:PE09"
+   },
+   "v1:PE09.02": {
+    "codigo": "PE09.02",
+    "texto": "Prescrição",
+    "assunto_uid": "v1:PE09"
+   },
+   "v1:PE10.01": {
+    "codigo": "PE10.01",
+    "texto": "Homicídio, feminicídio e crimes contra a vida",
+    "assunto_uid": "v1:PE10"
+   },
+   "v1:PE10.02": {
+    "codigo": "PE10.02",
+    "texto": "Lesão corporal e demais crimes contra a pessoa",
+    "assunto_uid": "v1:PE10"
+   },
+   "v1:PE11.01": {
+    "codigo": "PE11.01",
+    "texto": "Furto e roubo",
+    "assunto_uid": "v1:PE11"
+   },
+   "v1:PE11.02": {
+    "codigo": "PE11.02",
+    "texto": "Extorsão, estelionato, receptação e demais crimes patrimoniais",
+    "assunto_uid": "v1:PE11"
+   },
+   "v1:PE12.01": {
+    "codigo": "PE12.01",
+    "texto": "Estupro e estupro de vulnerável",
+    "assunto_uid": "v1:PE12"
+   },
+   "v1:PE12.02": {
+    "codigo": "PE12.02",
+    "texto": "Importunação, assédio e demais crimes sexuais",
+    "assunto_uid": "v1:PE12"
+   },
+   "v1:PE13.01": {
+    "codigo": "PE13.01",
+    "texto": "Crimes contra a administração pública",
+    "assunto_uid": "v1:PE13"
+   },
+   "v1:PE13.02": {
+    "codigo": "PE13.02",
+    "texto": "Crimes contra o Estado Democrático de Direito",
+    "assunto_uid": "v1:PE13"
+   },
+   "v1:PE13.03": {
+    "codigo": "PE13.03",
+    "texto": "Outros crimes do Código Penal",
+    "assunto_uid": "v1:PE13"
+   },
+   "v1:PE14.01": {
+    "codigo": "PE14.01",
+    "texto": "Lei de Drogas",
+    "assunto_uid": "v1:PE14"
+   },
+   "v1:PE14.02": {
+    "codigo": "PE14.02",
+    "texto": "Violência doméstica (Lei Maria da Penha)",
+    "assunto_uid": "v1:PE14"
+   },
+   "v1:PE14.03": {
+    "codigo": "PE14.03",
+    "texto": "Crimes hediondos",
+    "assunto_uid": "v1:PE14"
+   },
+   "v1:PE14.04": {
+    "codigo": "PE14.04",
+    "texto": "Estatuto do Desarmamento",
+    "assunto_uid": "v1:PE14"
+   },
+   "v1:PE14.05": {
+    "codigo": "PE14.05",
+    "texto": "Organização criminosa",
+    "assunto_uid": "v1:PE14"
+   },
+   "v1:PE14.06": {
+    "codigo": "PE14.06",
+    "texto": "Crimes de trânsito",
+    "assunto_uid": "v1:PE14"
+   },
+   "v1:PE14.07": {
+    "codigo": "PE14.07",
+    "texto": "Lei de Tortura",
+    "assunto_uid": "v1:PE14"
+   },
+   "v1:PE14.08": {
+    "codigo": "PE14.08",
+    "texto": "Crimes ambientais",
+    "assunto_uid": "v1:PE14"
+   },
+   "v1:PE14.09": {
+    "codigo": "PE14.09",
+    "texto": "Crimes de preconceito de raça ou de cor",
+    "assunto_uid": "v1:PE14"
+   },
+   "v1:PE14.10": {
+    "codigo": "PE14.10",
+    "texto": "Abuso de autoridade",
+    "assunto_uid": "v1:PE14"
+   },
+   "v1:PE14.11": {
+    "codigo": "PE14.11",
+    "texto": "Contravenções penais",
+    "assunto_uid": "v1:PE14"
+   },
+   "v1:PE14.12": {
+    "codigo": "PE14.12",
+    "texto": "Outras leis penais especiais (antiterrorismo, lavagem de dinheiro, ECA, Estatuto do Idoso, Torcedor)",
+    "assunto_uid": "v1:PE14"
+   }
+  }
+ },
+ "historico": {
+  "passado": [],
+  "futuro": []
+ },
+ "atualizado_em": "2026-11-20T17:16:36"
+}

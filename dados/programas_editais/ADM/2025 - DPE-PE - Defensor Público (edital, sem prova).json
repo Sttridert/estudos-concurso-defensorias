@@ -1,0 +1,216 @@
+{
+ "pasta": "2025 - DPE-PE - Defensor Público (edital, sem prova)",
+ "banca": "FGV",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 5225,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "As funções do Estado.",
+      "Origem do Direito Administrativo.",
+      "O regime jurídico-administrativo.",
+      "Conteúdo do regime jurídico administrativo.",
+      "Lei de Introdução às Normas do Direito Brasileiro – LINDB.",
+      "Aplicação do regime jurídico administrativo a entidades da Administração Indireta, entidades de colaboração e particulares.",
+      "Estatuto das Empresas Estatais (Lei nº 13.303/2006).",
+      "Administração Direta e Indireta.",
+      "Terceiro Setor.",
+      "Conceito de Direito Administrativo e suas relações com as outras disciplinas jurídicas.",
+      "A constitucionalização do Direito Administrativo."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Princípios Constitucionais do Direito Administrativo.",
+      "Restrições ao princípio da legalidade.",
+      "Princípios reconhecidos em legislação infraconstitucional, pela doutrina e pela jurisprudência.",
+      "Interpretação do direito administrativo.",
+      "Normas sobre interpretação do direito público na Lei de Introdução ao Direito Brasileiro.",
+      "Controle sistemático das relações administrativas."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Ato administrativo: conceito, elementos, atributos, classificação, espécies.",
+      "Perfeição, validade e eficácia do ato administrativo.",
+      "Invalidade, nulidade, anulação, cassação, caducidade, convalidação e revogação.",
+      "Principais espécies.",
+      "Controle de mérito e de legalidade dos atos administrativos.",
+      "Controle sistemático dos atos administrativos.",
+      "Regime jurídico dos atos administrativos."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Improbidade administrativa: Lei Federal nº 8.429/1992.",
+      "Agentes do polo ativo e passivo.",
+      "Atos de improbidade.",
+      "Da ação de improbidade administrativa.",
+      "Das penas.",
+      "Enriquecimento ilícito.",
+      "Prejuízo ao erário.",
+      "Princípios.",
+      "Penas.",
+      "Procedimento e prescrição.",
+      "Regime jurídico dos atos de improbidade administrativa.",
+      "Lei de Responsabilidade Fiscal - Lei Complementar nº 101/2000.",
+      "Lei de Acesso à Informação - Lei Federal nº 12.527/2011.",
+      "Lei Anticorrupção - Lei Federal nº 12.846/2013."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Controles da Administração Pública: Controle administrativo; Controle legislativo ou político; Controle judicial.",
+      "Discricionariedade administrativa e controle judicial.",
+      "Controle interno e controle externo.",
+      "Controle pelo Tribunal de Contas.",
+      "Domínio público.",
+      "Controle sistemático das delegações de serviços públicos.",
+      "Domínio Público.",
+      "Bens públicos.",
+      "Regime jurídico.",
+      "Classificação, Administração e Utilização.",
+      "Alienação.",
+      "Tratamento do tema no Estatuto da Cidade (Lei Federal nº 10.257/2001)."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Licitação (Lei nº 14.133/2021): Princípios, Obrigatoriedade, Dispensa e Exigibilidade, Procedimentos e Modalidades.",
+      "Pregão presencial e eletrônico.",
+      "Fases da licitação.",
+      "Habilitação.",
+      "Julgamento.",
+      "DEFENSORIA PÚBLICA DO ESTADO DE PERNAMBUCO 36 Homologação e adjudicação.",
+      "Recursos administrativos.",
+      "Crimes.",
+      "Licitação e mandado de segurança.",
+      "Regime Diferenciado de Contratações Públicas.",
+      "Registro de preços.",
+      "Regime jurídico de licitações."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Contrato administrativo.",
+      "Espécies.",
+      "Conceito.",
+      "Características.",
+      "Prerrogativas da Administração.",
+      "Formalização.",
+      "Execução e inexecução.",
+      "A cláusula rebus sic stantibus.",
+      "A Teoria da Imprevisão.",
+      "As cláusulas de reajuste de preços.",
+      "Obrigações do Estado derivadas de contratos inválidos ou inexistentes.",
+      "Rescisão e anulação.",
+      "Regime jurídico dos contratos administrativos."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Convênios e Consórcios.",
+      "Concessões e Permissões de serviços públicos (Lei nº 8.987/1995 e suas alterações).",
+      "Forma e condições da outorga do serviço em concessão.",
+      "O Prazo nas concessões e sua prorrogação.",
+      "Poderes do Concedente.",
+      "Os Direitos do concessionário.",
+      "Regime tarifário e sua revisão.",
+      "Os Direitos dos usuários.",
+      "Formas de extinção da concessão e seus efeitos jurídicos.",
+      "A reversão dos Bens.",
+      "Serviços públicos.",
+      "Responsabilidades civis do concessionário e do Poder concedente.",
+      "Permissão.",
+      "Parcerias Público-Privadas."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Parcerias com o terceiro setor.",
+      "Convênios e outras espécies de ajustes colaborativos.",
+      "Organizações sociais.",
+      "OSCIPs.",
+      "Organizações da Sociedade Civil."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Poderes Administrativos.",
+      "Poder de polícia: conceito.",
+      "Intervenção do Estado na propriedade.",
+      "Função social da propriedade.",
+      "Desapropriação.",
+      "Conceito.",
+      "Requisitos.",
+      "Bens suscetíveis de desapropriação: Competências relacionadas à desapropriação.",
+      "Espécies de desapropriação Indenização e consectários legais.",
+      "Caducidade da desapropriação.",
+      "Imissão na posse do imóvel desapropriado.",
+      "Direito de extensão.",
+      "Desapropriação indireta.",
+      "Retrocessão.",
+      "Controle da desapropriação.",
+      "Servidão administrativa.",
+      "Tombamento.",
+      "Requisição.",
+      "Ocupação provisória.",
+      "Limitação administrativa.",
+      "Direito de construir e seu exercício.",
+      "Loteamento e zoneamento."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Responsabilidade civil do Estado: evolução das teorias.",
+      "Reparação do dano.",
+      "Responsabilidade objetiva e subjetiva.",
+      "Caracterização.",
+      "Causas de exclusão e mitigação.",
+      "Prescrição e decadência.",
+      "Responsabilidades dos contratados e delegatários de serviços públicos.",
+      "Procedimento administrativo e judicial.",
+      "Direito de regresso."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Organização administrativa: noções gerais.",
+      "Administração direta e indireta, centralizada e descentralizada.",
+      "Autarquias.",
+      "Autarquias comuns e especiais.",
+      "Agências reguladoras e agências executivas.",
+      "Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista.",
+      "Consórcios Públicos.",
+      "Tutela dos entes da Administração Indireta.",
+      "Entidades de colaboração e seu regime jurídico."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Jurisprudência e súmulas de direito administrativo do Superior Tribunal de Justiça e do Supremo Tribunal Federal.",
+      "Súmulas Vinculantes."
+     ]
+    }
+   ]
+  }
+ ]
+}

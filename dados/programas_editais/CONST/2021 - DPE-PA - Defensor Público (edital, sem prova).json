@@ -1,0 +1,353 @@
+{
+ "pasta": "2021 - DPE-PA - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 2131,
+   "avisos": [
+    "hifen removido: ...político-|administrativa."
+   ],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Constituição e constitucionalismo."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Teoria da constituição."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Supremacia da constituição."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Normas constitucionais, regras e princípios."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Hermenêutica constitucional."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Interpretação, aplicação e concretização do direito constitucional."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Poder constituinte."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Princípios fundamentais."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Teoria geral dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Categorias e funções dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Dimensões subjetiva e objetiva dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Eficácia horizontal dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Direitos e deveres individuais e coletivos."
+     ]
+    },
+    {
+     "item": "4.6",
+     "frases": [
+      "Habeas corpus, mandado de segurança, mandado de injunção e habeas data."
+     ]
+    },
+    {
+     "item": "4.7",
+     "frases": [
+      "Direitos sociais."
+     ]
+    },
+    {
+     "item": "4.8",
+     "frases": [
+      "Nacionalidade."
+     ]
+    },
+    {
+     "item": "4.9",
+     "frases": [
+      "Direitos políticos."
+     ]
+    },
+    {
+     "item": "4.10",
+     "frases": [
+      "Partidos políticos."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Organização do Estado."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Organização políticoadministrativa."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Estado Federal Brasileiro."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "A União."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Estados federados."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Municípios."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "O Distrito Federal."
+     ]
+    },
+    {
+     "item": "5.7",
+     "frases": [
+      "Intervenção federal."
+     ]
+    },
+    {
+     "item": "5.8",
+     "frases": [
+      "Intervenção dos estados nos municípios."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Organização dos poderes no Estado."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Mecanismos de freios e contrapesos."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Poder Legislativo."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Poder Executivo."
+     ]
+    },
+    {
+     "item": "6.4",
+     "frases": [
+      "Poder Judiciário."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Funções essenciais à Justiça."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Ministério Público."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Advocacia Pública."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Advocacia."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Defensoria Pública."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Controle da constitucionalidade."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Controle incidental ou concreto."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Controle abstrato de constitucionalidade."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Controle concreto e abstrato de constitucionalidade do direito municipal."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Defesa do Estado e das instituições democráticas."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Sistema Tributário Nacional."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Princípios gerais."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Limitações do poder de tributar."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Normas constitucionais sobre impostos da União, dos Estados e dos municípios."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Repartição das receitas tributárias."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Finanças públicas."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Normas gerais."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Orçamentos."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Ordem econômica e financeira."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Princípios gerais da atividade econômica."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Política urbana, agrícola e fundiária e reforma agrária."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Ordem social."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Lei Complementar Estadual nº 54/2006 e suas alterações (Dispõe sobre a reorganização da Defensoria Pública do Estado do Pará e da carreira de seus membros e dá outras providências)."
+     ]
+    }
+   ]
+  }
+ ]
+}

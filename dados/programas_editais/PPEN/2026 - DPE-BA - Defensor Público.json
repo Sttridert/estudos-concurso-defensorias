@@ -1,0 +1,285 @@
+{
+ "pasta": "2026 - DPE-BA - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PPEN",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL PENAL E EXECUCAO PENAL",
+   "caracteres": 6563,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Princípios que regem o processo penal.",
+      "Direitos e garantias aplicáveis ao processo penal na Constituição Federal.",
+      "Direitos e garantias aplicáveis ao processo penal nos tratados e convenções internacionais ratificados pelo Brasil.",
+      "Conceito e características do devido processo penal."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Conceito e características do processo penal inquisitório e acusatório.",
+      "Fontes do processo penal.",
+      "Lei processual penal no tempo e no espaço.",
+      "Interpretação da lei processual penal.",
+      "Sistemas de investigação preliminar.",
+      "Inquérito policial.",
+      "Investigação defensiva.",
+      "Identificação criminal."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Prova.",
+      "Meios de obtenção de prova na persecução criminal.",
+      "Busca e apreensão.",
+      "Interceptação telefônica.",
+      "Quebra de sigilo telefônico, bancário e fiscal.",
+      "Delação premiada.",
+      "Prova.",
+      "Ônus da prova.",
+      "Procedimento probatório.",
+      "Cadeia de custódia da prova.",
+      "Garantias aplicáveis à proposição, produção e valoração da prova.",
+      "Meios de prova.",
+      "Indícios no processo penal.",
+      "Standards Probatórios.",
+      "Ação penal de iniciativa pública e privada.",
+      "Condições da ação.",
+      "Denúncia e Queixa-crime.",
+      "Ação civil ex delicto.",
+      "O papel da vítima no processo penal.",
+      "Acordo de não persecução penal."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Jurisdição e competência.",
+      "Sujeitos processuais.",
+      "O direito de defesa.",
+      "Autodefesa e defesa técnica.",
+      "Interrogatório.",
+      "Questões e processos incidentes.",
+      "Medidas assecuratórias.",
+      "Citação, notificação e intimação.",
+      "Revelia e suspensão condicional do processo."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Prisão em flagrante.",
+      "Prisão preventiva.",
+      "Prisão temporária.",
+      "Prisão domiciliar.",
+      "Relaxamento e liberdade provisória.",
+      "Medidas cautelares diversas da prisão.",
+      "Poder Geral de Cautela. audiências de custódia.",
+      "Aplicação provisória de interdições e medida de segurança.",
+      "Juiz de garantias."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Sentença penal, motivação das decisões e coisa julgada.",
+      "Emendatio libelli e mutatio libelli.",
+      "Processo e procedimento.",
+      "Pressupostos processuais.",
+      "Procedimento comum e especial.",
+      "Rito ordinário.",
+      "Rito sumário.",
+      "Rito sumaríssimo.",
+      "Juizados Especiais Criminais.",
+      "Procedimento relativo ao Tribunal do Júri.",
+      "Procedimentos especiais."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Nulidades.",
+      "Recursos.",
+      "Ações de impugnação.",
+      "Revisão criminal.",
+      "Habeas corpus.",
+      "Mandado de segurança contra ato jurisdicional penal.",
+      "Precedentes no Processo Penal."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Execução penal: evolução histórica, crise e alternativas.",
+      "Natureza da execução penal.",
+      "Lei de Execução Penal (Lei n. 7.210/84).",
+      "Objetivos da execução penal.",
+      "Execução penal e economia política da pena.",
+      "Execução penal, encarceramento em massa e dano social.",
+      "Fundamentos do direito de punir.",
+      "Funções da pena.",
+      "Princípios e direitos fundamentais limitadores do poder punitivo do Estado.",
+      "Princípios penais relativos à execução penal.",
+      "Natureza jurídica e objetivos da execução penal.",
+      "Execução Penal Definitiva e Provisória.",
+      "Aplicação da lei de execução penal ao preso provisórios"
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Do objeto e da aplicação da Lei de Execuções Penais (Lei Federal nº 7.210/1984).",
+      "Do condenado e do internado.",
+      "Da classificação.",
+      "Da assistência.",
+      "Do trabalho.",
+      "Direito de visita.",
+      "Visita íntima.",
+      "Revista íntima ou revista vexatória.",
+      "Resolução nº 4/2011 do Conselho Nacional de Política Criminal e Penitenciária (CNPCP)."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Dos deveres, dos direitos e da disciplina.",
+      "Das faltas disciplinares.",
+      "Das sanções e das recompensas.",
+      "Da aplicação das sanções.",
+      "Do procedimento administrativo; Do contraditório e da ampla defesa.",
+      "Do procedimento judicial."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Dos órgãos da execução penal.",
+      "Conselho Nacional de Política Criminal e Penitenciária.",
+      "Juízo da Execução.",
+      "Ministério Público.",
+      "Conselho Penitenciário.",
+      "Departamentos Penitenciários.",
+      "Patronato.",
+      "Conselho da Comunidade.",
+      "Defensoria Pública.",
+      "A Defensoria Pública como órgão da Execução Penal.",
+      "Legitimação Social.",
+      "A tutela individual e coletiva dos presos pela Defensoria Pública.",
+      "Prerrogativas da Defensoria Pública na atuação em execução penal.",
+      "Lei Orgânica Nacional da Defensoria Pública.",
+      "Lei Federal nº 12.313/2010.",
+      "Atribuições da Defensoria Pública na Execução Penal."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Dos estabelecimentos penais.",
+      "Da Penitenciária.",
+      "Da Colônia Agrícola, Industrial ou Similar.",
+      "Da Casa do Albergado.",
+      "Do Centro de Observação.",
+      "Do Hospital de Custódia e Tratamento Psiquiátrico.",
+      "Da Cadeia Pública.",
+      "Da falta de vaga nos estabelecimentos prisionais e suas consequências jurídicas."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Da execução das penas em espécie.",
+      "Das penas privativas de liberdade.",
+      "Das penas restritivas de Direito.",
+      "Da suspensão condicional da pena.",
+      "Da pena de multa.",
+      "Da execução das medidas de segurança.",
+      "Dos regimes.",
+      "Da soma e da unificação de penas.",
+      "Da progressão e regressão de regime.",
+      "Do livramento condicional.",
+      "Das autorizações de saída.",
+      "Da detração e da remição de penas.",
+      "Remição por leitura.",
+      "Da transferência de presos.",
+      "Da monitoração eletrônica.",
+      "Da extinção de pena."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Procedimento administrativo.",
+      "Procedimento administrativo disciplinar no âmbito da execução penal.",
+      "Procedimento judicial.",
+      "Recursos.",
+      "Habeas Corpus na execução penal.",
+      "Revisão Criminal.",
+      "Mandado de Segurança.",
+      "Dos incidentes de execução.",
+      "Resolução nº 113/2010 do Conselho Nacional de Justiça."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Indulto, Comutação, Anistia, Graça.",
+      "Disposições constitucionais e legais."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Lei dos Crimes Hediondos (Lei Federal nº 8.072/1990).",
+      "Lei de Drogas (Lei nº 11.343/2006)."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Regras Mínimas para o Tratamento do Preso da ONU.",
+      "Regras Mínimas para tratamento do preso no Brasil (Resolução nº 14/1994 do Conselho Nacional de Política Criminal e Penitenciária).",
+      "Convenção contra a tortura e outros tratamentos ou penas cruéis, desumanas ou degradantes.",
+      "Convenção Interamericana para prevenir e punir a tortura.",
+      "Regras de Bangkok (Regras das Nações Unidades para o tratamento de mulheres presas e medidas não privativas de liberdade para mulheres infratoras).",
+      "Regras de Mandela (regras mínimas das nações unidas para o tratamento de presos)."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Resolução CNJ nº 348/2020, nº 391/2021, nº 405/2021, nº 412/2021 e nº 487/2023.Resolução do Conselho Nacional de Política Criminal e Penitenciária nº 04/2014, nº 05/2016, nº 28/2022 e nº 29/2022."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Aspectos processuais da legislação penal especial: abuso de autoridade; crimes hediondos; organização criminosa; tortura; crimes de menor potencial ofensivo; proteção a vítimas e a testemunhas; desarmamento; lei de drogas; violência doméstica e familiar contra a mulher; trânsito; meio ambiente; crimes de preconceito; crimes contra as relações de consumo; Estatuto do Idoso."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Prerrogativas e garantias dos Defensores Públicos relacionadas com o processo penal."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Assistência jurídica integral e gratuita: aspectos processuais."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Jurisprudência dos Tribunais Superiores e do Tribunal de Justiça do Estado da Bahia em matéria relativa ao conteúdo programático de Direito Processual Penal e Execução Penal no presente edital."
+     ]
+    }
+   ]
+  }
+ ]
+}

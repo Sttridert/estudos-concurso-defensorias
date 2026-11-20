@@ -1,0 +1,276 @@
+{
+ "pasta": "2026 - DPE-BA - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 6954,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito administrativo.",
+      "Origem.",
+      "Princípios informativos.",
+      "Conceito.",
+      "Objeto.",
+      "Fontes.",
+      "Direito Administrativo e direitos fundamentais: devido processo administrativo, motivação, proporcionalidade/razoabilidade, proteção da confiança e segurança jurídica."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Administração pública.",
+      "Conceito, organização e modelos.",
+      "Órgãos públicos.",
+      "Hierarquia administrativa."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Regimes público e privado na administração pública.",
+      "Regime jurídico administrativo.",
+      "Princípios expressos e reconhecidos.",
+      "Poderes da Administração Pública.",
+      "Poderes e deveres dos administradores públicos.",
+      "Uso e abuso do poder.",
+      "Transparência e acesso à informação no Poder Público.",
+      "Lei nº 13.709, de 14 de agosto de 2018."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Ato administrativo.",
+      "Conceito, características e atributos.",
+      "Elementos, requisitos de validade e eficácia.",
+      "Classificação e espécies.",
+      "Formação e efeitos.",
+      "Exteriorização do ato administrativo.",
+      "Mérito, discricionariedade e vinculação.",
+      "Extinção, revogação, invalidação e convalidação.",
+      "Controle do ato administrativo.",
+      "Teoria das nulidades no direito administrativo.",
+      "Teoria dos motivos determinantes.",
+      "Procedimento administrativo.",
+      "Princípios do Processo Administrativo.",
+      "Tipologia.",
+      "Fases.",
+      "Coisa julgada administrativa.",
+      "Processo administrativo (Lei nº 9.784/1999): princípios, competência, impedimento e suspeição, forma, motivação, convalidação, invalidação, recursos, revisão e decadência/prescrição administrativa."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Poder Regulamentar e de Polícia.",
+      "Limites e Fundamentos.",
+      "Adoção de mecanismos consensuais no exercício do poder de polícia.",
+      "Termos de ajuste de conduta administrativos.",
+      "Termos substitutivos de sanção.",
+      "Limites à delegabilidade do poder de polícia."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Agentes públicos.",
+      "Conceito e classificação.",
+      "Organização e regime jurídico funcional.",
+      "Prerrogativas.",
+      "Deveres.",
+      "Classificação.",
+      "Regime previdenciário.",
+      "Responsabilidade administrativa, civil e criminal.",
+      "Limites de gasto com pessoal."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Cargo público.",
+      "Criação e transformação.",
+      "Conceito, provimento, acumulação, vacância, desnecessidade, extinção.",
+      "Classificação.",
+      "Organização e regime jurídico funcional.",
+      "Estágio probatório.",
+      "Servidor ocupante de cargo em comissão.",
+      "Responsabilidade administrativa, civil e criminal.",
+      "Processo Administrativo.",
+      "Sindicância.",
+      "Procedimento Administrativo Disciplinar.",
+      "Espécies.",
+      "Transgressões Disciplinares, Penalidades e Extinção de Punibilidade.",
+      "Violação dos Valores, Deveres e Disciplina.",
+      "Sanções Administrativas Disciplinares.",
+      "Recolhimento Disciplinar e Procedimento Disciplinar.",
+      "Competência.",
+      "Julgamento, Aplicação e Cumprimento das Sanções Disciplinares e dos Recursos.",
+      "Revisão e reabilitação.",
+      "Termo de Ajustamento de Conduta Disciplinar e outros meios alternativos de solução de conflitos no âmbito disciplinar."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Serviços públicos.",
+      "Conceito, características e classificação.",
+      "Competência, regulamentação e controle.",
+      "Princípios.",
+      "Direitos e deveres dos usuários.",
+      "Serviços públicos e serviços sociais.",
+      "Serviços públicos e atividade econômica.",
+      "Prestação e remuneração dos serviços públicos.",
+      "Direito dos usuários.",
+      "Deveres dos usuários.",
+      "Suspensão da prestação.",
+      "Greve.",
+      "Execução dos serviços públicos.",
+      "Concessão, permissão, autorização e parceria público-privada.",
+      "Atendimento na Defensoria Pública do Estado da Bahia."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Administração Direta e Indireta.",
+      "Aspectos gerais da Administração Direta.",
+      "Autarquias.",
+      "Empresas públicas, sociedades de economia mista e fundação privada.",
+      "Consórcios públicos.",
+      "Fundações públicas.",
+      "Agências Executivas.",
+      "Agências Reguladoras.",
+      "Entidades e arranjos institucionais na regulação e/ou execução de serviços.",
+      "Entidades de cooperação.",
+      "Pessoas jurídicas vinculadas ao Estado."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Licitação.",
+      "Conceito, natureza jurídica, objeto e finalidade.",
+      "Princípios básicos e correlatos.",
+      "Modalidades.",
+      "Obrigatoriedade, dispensa e inexigibilidade.",
+      "Processo de Contratação Direta.",
+      "Procedimento licitatório.",
+      "Fases.",
+      "Revogação, invalidação e desistência da licitação.",
+      "Controle.",
+      "Critérios de Julgamento.",
+      "Anulação, revogação e recursos.",
+      "Nova lei de Licitações e convivência de normas.",
+      "Fase de transição legal.",
+      "Procedimento administrativo sancionatório.",
+      "Licitação sustentável.",
+      "Regime Diferenciado de Contratações (RDC – Lei nº 12.462/2011) e hipóteses de cabimento."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Negócios Jurídicos da Administração.",
+      "Contrato administrativo.",
+      "Conceito, principais características e espécies.",
+      "Formalização, execução e inexecução.",
+      "Duração, prorrogação, renovação e hipóteses de extinção.",
+      "Garantias.",
+      "Nulidades.",
+      "Revisão e alterações.",
+      "Inexecução do contrato.",
+      "Arbitragem e outros meios alternativos de resolução de controvérsias.",
+      "Cláusula de privilégio.",
+      "Equação Econômico-Financeira.",
+      "Cláusulas exorbitantes.",
+      "Contratos em espécie.",
+      "Responsabilidade pela não execução do contrato e respectivos encargos.",
+      "Políticas de fomento por meio das contratações públicas.",
+      "Convênios e consórcios.",
+      "Termos e acordos de cooperação técnica.",
+      "Marco Regulatório de Organizações da Sociedade Civil."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Bens públicos.",
+      "Conceito, elementos e classificação.",
+      "Bens públicos em espécie.",
+      "Aquisição e espécies.",
+      "Utilização e regime jurídico.",
+      "Uso de bem público.",
+      "Diferentes tipos de uso.",
+      "Uso privativo pelo particular.",
+      "Gestão e alienação.",
+      "Afetação e desafetação.",
+      "Concessão de direito real de uso."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Atuação do Estado no domínio econômico.",
+      "Liberalismo econômico e o intervencionismo.",
+      "Fundamentos da ordem econômica.",
+      "Formas de atuação do Estado.",
+      "Estado regulador e executor.",
+      "Monopólio estatal.",
+      "Intervenção do Estado na propriedade.",
+      "Fundamentos, competência e controle judicial.",
+      "Desapropriação.",
+      "Servidão administrativa.",
+      "Requisição.",
+      "Ocupação temporária.",
+      "Limitações administrativas.",
+      "Tombamento.",
+      "Formas de intervenção previstas no Estatuto da Cidade.",
+      "Desapropriação por utilidade pública, necessidade pública e interesse social.",
+      "Desapropriação para reforma agrária.",
+      "Desapropriação-sanção urbana.",
+      "Indenização, imissão na posse, retrocessão."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Responsabilidade Civil do Estado.",
+      "Responsabilidade extracontratual do Estado.",
+      "Panorama teórico e evolutivo da responsabilidade civil do Estado.",
+      "Responsabilidade objetiva na Constituição.",
+      "Causas excludentes e atenuantes.",
+      "Responsabilidade e a irresponsabilidade do Estado.",
+      "Responsabilidade por atos administrativos, legislativos e judiciais.",
+      "Reparação do dano e direito de regresso."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Controle da Administração Pública.",
+      "Controle legislativo, jurisdicional e administrativo.",
+      "Conceito, fundamentos, natureza jurídica, objetivo e classificação.",
+      "Controle jurídico e administrativo e processo administrativo.",
+      "Controle legislativo e Tribunal de Contas.",
+      "Improbidade Administrativa.",
+      "Lei nº 8.429/1992 (Lei de Improbidade Administrativa) com alterações: natureza, tipos, elemento subjetivo, sanções, prescrição e acordo de não persecução cível.",
+      "Lei Anticorrupção (Lei nº 12.846/2013): responsabilização administrativa e civil de pessoas jurídicas, leniência e compliance.",
+      "Súmulas vinculantes e demais instrumentos de controle judicial."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Jurisprudência dos Tribunais Superiores e do Tribunal de Justiça do Estado da Bahia em matéria relativa ao conteúdo programático de Direito Administrativo no presente edital."
+     ]
+    }
+   ]
+  }
+ ]
+}

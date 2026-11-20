@@ -1,0 +1,181 @@
+{
+ "pasta": "2021 - DPE-GO - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "EXEC",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO DA EXECUCAO PENAL",
+   "caracteres": 4086,
+   "avisos": [
+    "hifen removido: ...Defini-|tiva",
+    "hifen removido: ...classi-|ficação.",
+    "hifen removido: ...san-|ções.",
+    "hifen removido: ...Públi-|co.",
+    "hifen removido: ...De-|fensoria",
+    "hifen removido: ...con-|dicional.",
+    "hifen removido: ...judici-|al.",
+    "hifen removido: ...Reso-|lução",
+    "hifen removido: ...conce-|dem",
+    "hifen removido: ...medi-|das"
+   ],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Fundamentos do direito de punir.",
+      "Funções da pena.",
+      "Princípios e direitos fundamentais limitadores do poder punitivo do Estado.",
+      "Princípios penais relativos à execução penal.",
+      "Natureza jurídica e objetivos da execução penal.",
+      "Execução Penal Definitiva e Provisória.",
+      "Aplicação da lei de execução penal ao preso provisório."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Do objeto e da aplicação da Lei de Execuções Penais (Lei Federal nº 7.210/1984).",
+      "Do condenado e do internado.",
+      "Da classificação.",
+      "Da assistência.",
+      "Do trabalho.",
+      "Direito de visita.",
+      "Visita íntima.",
+      "Revista íntima ou revista vexatória.",
+      "Resolução nº 4/2011 do Conselho Nacional de Política Criminal e Penitenciária (CNPCP)."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Dos deveres, dos direitos e da disciplina.",
+      "Das faltas disciplinares.",
+      "Das sanções e das recompensas.",
+      "Da aplicação das sanções.",
+      "Do procedimento administrativo; Do contraditório e da ampla defesa.",
+      "Do procedimento judicial."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Dos órgãos da execução penal.",
+      "Conselho Nacional de Política Criminal e Penitenciária.",
+      "Juízo da Execução.",
+      "Ministério Público.",
+      "Conselho Penitenciário.",
+      "Departamentos Penitenciários.",
+      "Patronato.",
+      "Conselho da Comunidade.",
+      "Defensoria Pública.",
+      "A Defensoria Pública como órgão da Execução Penal.",
+      "Legitimação Social.",
+      "A tutela individual e coletiva dos presos pela Defensoria Pública.",
+      "Prerrogativas da Defensoria Pública na atuação em execução penal.",
+      "Lei Orgânica Nacional da Defensoria Pública.",
+      "Lei Federal nº 12.313/2010.",
+      "Atribuições da Defensoria Pública na Execução Penal."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Dos estabelecimentos penais.",
+      "Da Penitenciária.",
+      "Da Colônia Agrícola, Industrial ou Similar.",
+      "Da Casa do Albergado.",
+      "Do Centro de Observação.",
+      "Do Hospital de Custódia e Tratamento Psiquiátrico.",
+      "Da Cadeia Pública.",
+      "Da falta de vaga nos estabelecimentos prisionais e suas consequências jurídicas."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Da execução das penas em espécie.",
+      "Das penas privativas de liberdade.",
+      "Das penas restritivas de Direito.",
+      "Da suspensão condicional.",
+      "Da pena de multa.",
+      "Da execução das medidas de segurança.",
+      "Dos regimes.",
+      "Da soma e da unificação de penas.",
+      "Da progressão e regressão de regime.",
+      "Do livramento condicional.",
+      "Das autorizações de saída.",
+      "Da detração e da remição de penas.",
+      "Remição por leitura.",
+      "Da transferência de presos.",
+      "Da monitoração eletrônica.",
+      "Da extinção de pena."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Procedimento administrativo.",
+      "Procedimento administrativo disciplinar no âmbito da execução penal.",
+      "Procedimento judicial.",
+      "Recursos.",
+      "Habeas Corpus na execução penal.",
+      "Revisão Criminal.",
+      "Mandado de Segurança.",
+      "Dos incidentes de execução.",
+      "Resolução nº 113/2010 do Conselho Nacional de Justiça.",
+      "Disposições Finais e transitórias da Lei de Execução Penal."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Indulto, Comutação, Anistia, Graça.",
+      "Disposições constitucionais e legais.",
+      "Decretos da Presidência da República que concedem indulto e comutação de penas e dão outras providências: Decreto Presidencial nº 8.615/2015, Decreto Presidencial nº 8.940/2016 e Decreto Presidencial nº 9.246/2017.",
+      "Decretos da Presidência da República que concedem indulto especial e comutação de penas às mulheres presas, por ocasião do dia das mães: Decreto Presidencial de 12 de abril de 2017 e Decreto Presidencial nº 9.370/2018."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Código Penal (Decreto-Lei n.º 2.848/1940): Das penas.",
+      "Das espécies de pena.",
+      "Da cominação das penas.",
+      "Da aplicação da pena.",
+      "Da suspensão condicional da pena.",
+      "Do livramento condicional.",
+      "Dos efeitos da condenação.",
+      "Da reabilitação.",
+      "Das medidas de segurança.",
+      "Da extinção da punibilidade."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Lei dos Crimes Hediondos (Lei Federal nº 8.072/1990).",
+      "Lei de Drogas (Lei 11.343/2016)."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Regras Mínimas para o Tratamento do Preso da ONU.",
+      "Regras Mínimas para tratamento do preso no Brasil (Resolução nº 14/1994 do Conselho Nacional de Política Criminal e Penitenciária).",
+      "Convenção contra a tortura e outros tratamentos ou penas cruéis, desumanas ou degradantes.",
+      "Convenção Interamericana para prevenir e punir a tortura.",
+      "Regras de Bangkok (Regras das Nações Unidades para o tratamento de mulheres presas e medidas não privativas de liberdade para mulheres infratoras).",
+      "Regras de Mandela (regras mínimas das nações unidas para o tratamento de presos)."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Jurisprudência dos Tribunais Superiores na matéria constante do programa de Direito da Execução Penal."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,190 @@
+{
+ "pasta": "2025 - DPE-SP - Analista de Defensoria",
+ "banca": "FCC",
+ "disciplina": "PPEN",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL PENAL",
+   "caracteres": 3512,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Princípios processuais penais.",
+      "Direitos e garantias do processo penal na Constituição Federal e nos tratados e convenções internacionais ratificadas pelo Brasil."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Sistemas processuais: processo penal inquisitório e acusatório.",
+      "Fontes e eficácia do direito processual penal.",
+      "Aplicação da lei processual penal no tempo e no espaço.",
+      "Interpretação e integração da lei processual penal."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Investigação preliminar.",
+      "Inquérito policial, investigação defensiva e outras formas de investigação.",
+      "Identificação criminal.",
+      "Identificação de perfil genético.",
+      "Juiz de garantias."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Meios de obtenção de prova na persecução criminal.",
+      "Busca e apreensão.",
+      "Interceptação telefônica.",
+      "Interceptação ambiental.",
+      "Quebra de sigilo das comunicações e de dados.",
+      "Colaboração premiada."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Prova no processo penal.",
+      "Prova e verdade.",
+      "Standard probatório.",
+      "Ônus da prova.",
+      "Procedimento probatório.",
+      "Admissibilidade, produção e valoração da prova.",
+      "Cadeia de custódia da prova.",
+      "Meios de prova..",
+      "Prova digital.",
+      "Indícios."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Prisão e liberdade.",
+      "Prisão em flagrante.",
+      "Prisão preventiva.",
+      "Prisão temporária.",
+      "Prisão domiciliar.",
+      "Substituição da privação de liberdade de gestantes, mães, pais e responsáveis por crianças e pessoas com deficiência.",
+      "Relaxamento e liberdade provisória.",
+      "Medidas cautelares diversas da prisão.",
+      "Audiências de custódia.",
+      "Medidas assecuratórias."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Ação penal de iniciativa pública e privada.",
+      "Denúncia e Queixa-crime.",
+      "Condições da ação.",
+      "Pressupostos processuais."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Jurisdição e competência.",
+      "Relações entre jurisdição civil e jurisdição penal.",
+      "Ação civil ex delicto."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Sujeitos processuais penais e seus papeis.",
+      "Juiz, Ministério Público, Defensoria Pública e acusado no processo penal.",
+      "Assistentes e auxiliares da justiça no processo penal.",
+      "O papel da vítima no processo penal.",
+      "Acordo de não persecução penal.",
+      "Defensoria Pública como custos vulnerabilis no processo penal."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "A defesa no processo penal.",
+      "Autodefesa e defesa técnica.",
+      "Questões e processos incidentes.",
+      "Citação, notificação e intimação.",
+      "Comunicação de atos processuais por meio eletrônico.",
+      "Revelia.",
+      "Suspensão condicional do processo."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Fundamentação das decisões.",
+      "Preclusão.",
+      "Sentença penal.",
+      "Coisa julgada.",
+      "Efeitos da sentença penal.",
+      "Emendatio libelli e mutatio libelli."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Processo e procedimento.",
+      "Procedimento comum e procedimento especial.",
+      "Rito ordinário.",
+      "Rito sumário.",
+      "Rito sumaríssimo (Juizados Especiais Criminais).",
+      "Procedimento relativo ao Tribunal do Júri.",
+      "Procedimentos especiais."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Nulidades.",
+      "Recursos e outros meios de impugnação das decisões judiciais.",
+      "Revisão criminal.",
+      "Habeas corpus.",
+      "Mandado de segurança em matéria penal."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Processo penal, execução penal e saúde mental.",
+      "Medidas de segurança."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Execução penal.",
+      "Inquisição e sistema acusatório da execução penal.",
+      "Jurisdicionalização da execução penal.",
+      "Competência.",
+      "Lei de Execução Penal.",
+      "Aspectos processuais da execução das penas privativas de liberdade, restritivas de direitos e multa.",
+      "Incidentes.",
+      "Recursos."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Aspectos processuais da legislação especial: abuso de autoridade; crimes hediondos; organização criminosa; tortura; crimes de menor potencial ofensivo; proteção a vítimas e a testemunhas; desarmamento; lei de drogas; violência doméstica e familiar contra a mulher; trânsito; meio ambiente; crimes de preconceito; crimes contra as relações de consumo; estatuto do idoso; estatuto da pessoa com deficiência."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Processo Penal Militar.",
+      "Competência da Justiça Militar.",
+      "Conflitos de competência entre Justiça Comum e Justiça Militar.",
+      "Código de Processo Penal Militar e sua aplicação."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,554 @@
+{
+ "perfil": {
+  "id": 11,
+  "nome": "Direito Processual Civil - Analista Juridico - FCC - DPE-AM 2026 (edital)",
+  "banca": "FCC",
+  "carreira": "Defensoria Pública",
+  "cargo": "Analista Jurídico",
+  "ano_referencia": 2026,
+  "meia_vida": 8,
+  "pesos": {
+   "A": 1,
+   "B": 0.5,
+   "C": 0.25
+  }
+ },
+ "modo": "pontos",
+ "universo": {
+  "id": 7,
+  "nome": "Analista FCC",
+  "filtro": {
+   "bancas": [
+    "FCC"
+   ],
+   "cargos_prefixo": [
+    "Analista"
+   ]
+  }
+ },
+ "n_total": 47,
+ "n_validas": 46,
+ "n_anuladas_ou_fora": 1,
+ "n_provas": 8,
+ "provas_por_grupo": {
+  "A": 5,
+  "B": 1,
+  "C": 2
+ },
+ "soma_pesos": 22.32,
+ "n_efetivo": 39.3,
+ "K_assuntos": 12,
+ "assuntos": {
+  "PC01": {
+   "nome": "Normas processuais e princípios",
+   "n": 1.0,
+   "peso": 0.25,
+   "p": 1.1,
+   "lo": 0.1,
+   "hi": 10.8,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC02": {
+   "nome": "Jurisdição, ação e solução de conflitos",
+   "n": 4.5,
+   "peso": 1.75,
+   "p": 7.8,
+   "lo": 2.7,
+   "hi": 20.4,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "PC03": {
+   "nome": "Sujeitos do processo",
+   "n": 3.5,
+   "peso": 1.6,
+   "p": 7.2,
+   "lo": 2.4,
+   "hi": 19.6,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PC04": {
+   "nome": "Atos processuais, prazos e nulidades",
+   "n": 1.0,
+   "peso": 0.58,
+   "p": 2.6,
+   "lo": 0.5,
+   "hi": 13.2,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PC05": {
+   "nome": "Tutela provisória",
+   "n": 1.5,
+   "peso": 0.77,
+   "p": 3.5,
+   "lo": 0.8,
+   "hi": 14.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PC06": {
+   "nome": "Processo de conhecimento e procedimento comum",
+   "n": 14.0,
+   "peso": 6.32,
+   "p": 28.3,
+   "lo": 16.7,
+   "hi": 43.8,
+   "provas": 8,
+   "grupo": "Cai muito"
+  },
+  "PC07": {
+   "nome": "Cumprimento de sentença e execução",
+   "n": 5.5,
+   "peso": 2.35,
+   "p": 10.5,
+   "lo": 4.2,
+   "hi": 23.9,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "PC08": {
+   "nome": "Recursos, tribunais e precedentes",
+   "n": 3.5,
+   "peso": 2.21,
+   "p": 9.9,
+   "lo": 3.9,
+   "hi": 23.1,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "PC09": {
+   "nome": "Procedimentos especiais",
+   "n": 7.5,
+   "peso": 4.35,
+   "p": 19.5,
+   "lo": 10.1,
+   "hi": 34.3,
+   "provas": 5,
+   "grupo": "Cai muito"
+  },
+  "PC10": {
+   "nome": "Processo coletivo",
+   "n": 0.5,
+   "peso": 0.12,
+   "p": 0.6,
+   "lo": 0.0,
+   "hi": 9.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC11": {
+   "nome": "Ações constitucionais",
+   "n": 0.5,
+   "peso": 0.12,
+   "p": 0.6,
+   "lo": 0.0,
+   "hi": 9.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC12": {
+   "nome": "Juizados Especiais",
+   "n": 3.0,
+   "peso": 1.87,
+   "p": 8.4,
+   "lo": 3.0,
+   "hi": 21.2,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "n_assuntos_80pct": 6,
+ "cobranca_pct": {
+  "lei_seca": 76.9,
+  "jurisprudencia": 15.4,
+  "caso_concreto": 7.7
+ },
+ "retro_assuntos": {
+  "k": 4,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 3.0,
+    "acertos": 2.0,
+    "pct": 66.7
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 4.0,
+    "acertos": 3.0,
+    "pct": 75.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 63.6,
+  "acaso": 33.3
+ },
+ "K_pontos": 26,
+ "pontos": {
+  "PC01.02": {
+   "texto": "Princípios processuais e direitos fundamentais no processo",
+   "assunto": "PC01",
+   "n": 1.0,
+   "peso": 0.25,
+   "p": 1.1,
+   "lo": 0.1,
+   "hi": 10.8,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC02.01": {
+   "texto": "Jurisdição e competência",
+   "assunto": "PC02",
+   "n": 3.5,
+   "peso": 1.29,
+   "p": 5.8,
+   "lo": 1.7,
+   "hi": 17.7,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "PC02.03": {
+   "texto": "Meios alternativos de solução de conflitos: conciliação, mediação e arbitragem",
+   "assunto": "PC02",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 2.1,
+   "lo": 0.3,
+   "hi": 12.3,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC03.01": {
+   "texto": "Partes, capacidade, litisconsórcio e intervenção de terceiros",
+   "assunto": "PC03",
+   "n": 1.5,
+   "peso": 0.9,
+   "p": 4.0,
+   "lo": 1.0,
+   "hi": 15.2,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PC03.03": {
+   "texto": "Ministério Público, Advocacia Pública, Defensoria Pública e assistência judiciária",
+   "assunto": "PC03",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 2.1,
+   "lo": 0.3,
+   "hi": 12.3,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC03.04": {
+   "texto": "Fazenda Pública em juízo",
+   "assunto": "PC03",
+   "n": 1.0,
+   "peso": 0.25,
+   "p": 1.1,
+   "lo": 0.1,
+   "hi": 10.8,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC04.01": {
+   "texto": "Atos processuais, prazos, comunicação e processo eletrônico",
+   "assunto": "PC04",
+   "n": 0.5,
+   "peso": 0.23,
+   "p": 1.0,
+   "lo": 0.1,
+   "hi": 10.7,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC04.02": {
+   "texto": "Nulidades e preclusão",
+   "assunto": "PC04",
+   "n": 0.5,
+   "peso": 0.35,
+   "p": 1.6,
+   "lo": 0.2,
+   "hi": 11.6,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC05.01": {
+   "texto": "Tutela provisória: urgência, evidência, antecedente e estabilização",
+   "assunto": "PC05",
+   "n": 1.5,
+   "peso": 0.77,
+   "p": 3.5,
+   "lo": 0.8,
+   "hi": 14.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PC06.01": {
+   "texto": "Petição inicial, improcedência liminar e procedimento comum",
+   "assunto": "PC06",
+   "n": 4.0,
+   "peso": 1.98,
+   "p": 8.9,
+   "lo": 3.3,
+   "hi": 21.8,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "PC06.02": {
+   "texto": "Resposta do réu: contestação, reconvenção e revelia",
+   "assunto": "PC06",
+   "n": 3.0,
+   "peso": 1.29,
+   "p": 5.8,
+   "lo": 1.7,
+   "hi": 17.7,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "PC06.03": {
+   "texto": "Providências preliminares, saneamento e julgamento conforme o estado do processo",
+   "assunto": "PC06",
+   "n": 2.0,
+   "peso": 0.8,
+   "p": 3.6,
+   "lo": 0.8,
+   "hi": 14.6,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PC06.04": {
+   "texto": "Provas e audiência de instrução e julgamento",
+   "assunto": "PC06",
+   "n": 2.0,
+   "peso": 1.23,
+   "p": 5.5,
+   "lo": 1.6,
+   "hi": 17.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PC06.05": {
+   "texto": "Sentença, coisa julgada e liquidação",
+   "assunto": "PC06",
+   "n": 3.0,
+   "peso": 1.02,
+   "p": 4.6,
+   "lo": 1.2,
+   "hi": 16.1,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PC07.01": {
+   "texto": "Cumprimento de sentença",
+   "assunto": "PC07",
+   "n": 1.5,
+   "peso": 0.46,
+   "p": 2.1,
+   "lo": 0.3,
+   "hi": 12.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PC07.03": {
+   "texto": "Defesas do devedor e de terceiros: embargos, impugnação, suspensão e extinção",
+   "assunto": "PC07",
+   "n": 2.0,
+   "peso": 0.94,
+   "p": 4.2,
+   "lo": 1.0,
+   "hi": 15.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PC07.04": {
+   "texto": "Execução de alimentos",
+   "assunto": "PC07",
+   "n": 2.0,
+   "peso": 0.96,
+   "p": 4.3,
+   "lo": 1.1,
+   "hi": 15.6,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PC08.01": {
+   "texto": "Teoria geral dos recursos e recursos em espécie",
+   "assunto": "PC08",
+   "n": 0.5,
+   "peso": 0.23,
+   "p": 1.0,
+   "lo": 0.1,
+   "hi": 10.7,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC08.02": {
+   "texto": "Processos nos tribunais, incidentes, ação rescisória e reclamação",
+   "assunto": "PC08",
+   "n": 2.0,
+   "peso": 1.21,
+   "p": 5.4,
+   "lo": 1.5,
+   "hi": 17.2,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "PC08.03": {
+   "texto": "Tribunais superiores, repercussão geral, súmulas e precedentes",
+   "assunto": "PC08",
+   "n": 1.0,
+   "peso": 0.77,
+   "p": 3.5,
+   "lo": 0.8,
+   "hi": 14.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC09.01": {
+   "texto": "Procedimentos especiais e jurisdição voluntária",
+   "assunto": "PC09",
+   "n": 2.5,
+   "peso": 1.17,
+   "p": 5.2,
+   "lo": 1.5,
+   "hi": 16.9,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "PC09.02": {
+   "texto": "Ações de família e de estado",
+   "assunto": "PC09",
+   "n": 0.5,
+   "peso": 0.35,
+   "p": 1.6,
+   "lo": 0.2,
+   "hi": 11.6,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC09.03": {
+   "texto": "Ações possessórias, usucapião e ações da Lei do Inquilinato",
+   "assunto": "PC09",
+   "n": 4.5,
+   "peso": 2.83,
+   "p": 12.7,
+   "lo": 5.5,
+   "hi": 26.5,
+   "provas": 4,
+   "grupo": "Cai muito"
+  },
+  "PC10.01": {
+   "texto": "Processo coletivo: ação civil pública, ação popular e microssistema",
+   "assunto": "PC10",
+   "n": 0.5,
+   "peso": 0.12,
+   "p": 0.6,
+   "lo": 0.0,
+   "hi": 9.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC11.01": {
+   "texto": "Ações constitucionais: mandado de segurança, habeas corpus, habeas data, mandado de injunção, ADI, ADC e ADPF",
+   "assunto": "PC11",
+   "n": 0.5,
+   "peso": 0.12,
+   "p": 0.6,
+   "lo": 0.0,
+   "hi": 9.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "PC12.01": {
+   "texto": "Juizados Especiais Cíveis e da Fazenda Pública",
+   "assunto": "PC12",
+   "n": 3.0,
+   "peso": 1.87,
+   "p": 8.4,
+   "lo": 3.0,
+   "hi": 21.2,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "pontos_com_1_questao": 11,
+ "pontos_sem_questao": [
+  "CV07.04",
+  "CV11.03",
+  "PC01.01",
+  "PC02.02",
+  "PC03.02",
+  "PC07.02"
+ ],
+ "good_turing_pontos_pct": 23.9,
+ "retro_pontos": {
+  "k": 10,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 3.0,
+    "acertos": 1.0,
+    "pct": 33.3
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 4.0,
+    "acertos": 1.0,
+    "pct": 25.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 2.0,
+    "pct": 40.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 45.5,
+  "acaso": 38.5
+ },
+ "avisos": [
+  "Número efetivo pequeno: faixas de Wilson largas."
+ ],
+ "grupos_desc": {
+  "A": "mesmo órgão (DPE-AM), carreira, banca e cargo",
+  "B": "mesma carreira e banca, de outro órgão ou cargo",
+  "C": "outra banca ou carreira"
+ }
+}

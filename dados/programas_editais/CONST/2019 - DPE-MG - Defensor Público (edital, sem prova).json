@@ -1,0 +1,266 @@
+{
+ "pasta": "2019 - DPE-MG - Defensor Público (edital, sem prova)",
+ "banca": "Fundep",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL, FINANCEIRO E TRIBUTARIO",
+   "caracteres": 2767,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Indivíduo, Sociedade e Estado."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Poder Constituinte."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Hermenêutica Constitucional.",
+      "Interpretação, integração e aplicabilidade da Norma Constitucional."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Controle de Constitucionalidade."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Princípios Fundamentais."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Direitos e Garantias Fundamentais.",
+      "Ações constitucionais."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Organização do Estado."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Organização dos Poderes."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Funções Essenciais à Justiça."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Defesa do Estado e das Instituições Democráticas."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Controle judicial de políticas públicas."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Ordem Econômica e Financeira."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Ordem Social."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Disposições Constitucionais Gerais."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Disposições Constitucionais Transitórias."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Constituição do Estado de Minas Gerais."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Sistema Tributário Nacional.",
+      "Direito Tributário como direito público.",
+      "Direito Tributário como direito obrigacional.",
+      "Autonomia.",
+      "Relação com outros ramos do direito."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Fontes do Direito Tributário.",
+      "Fontes Formais e Fontes Materiais.",
+      "Fontes Principais e secundárias.",
+      "Legislação Tributária.",
+      "Tratados.",
+      "A Medida Provisória e o Direito Tributário."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "A Norma Tributária.",
+      "Hipótese de Incidência Tributária e fato gerador.",
+      "Aspectos da norma tributária.",
+      "Incidência Tributária."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Hermenêutica do Direito Tributário.",
+      "Eficácia da norma tributária no tempo e no espaço.",
+      "Interpretação.",
+      "Integração."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Tributo.",
+      "Conceito.",
+      "Elementos essenciais.",
+      "Tributos em espécie.",
+      "Impostos.",
+      "Taxas.",
+      "Contribuição de Melhoria.",
+      "Contribuições."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Limitações Constitucionais ao Poder de Tributar e o Sistema Constitucional Tributário.",
+      "Legalidade Tributária.",
+      "Capacidade Contributiva.",
+      "Igualdade Tributária.",
+      "Uniformidade Tributária.",
+      "Irretroatividade da Lei Tributária.",
+      "Anterioridade da Lei Tributária.",
+      "Vedação do efeito confiscatório.",
+      "Vedação à limitação de tráfego de pessoas ou bens.",
+      "Imunidades.",
+      "Personalização do imposto.",
+      "Proibição de taxas com base de cálculo própria de imposto.",
+      "Intributabilidade das rendas da dívida pública dos entes da Federação.",
+      "Vedação à isenção heterônoma."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Competência Tributária.",
+      "Competência Legislativa.",
+      "Competência Arrecadatória."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Obrigação Tributária.",
+      "Fato Gerador.",
+      "Sujeito Ativo.",
+      "Sujeito Passivo."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Responsabilidade Tributária.",
+      "Sucessores.",
+      "Terceiros.",
+      "Por Infrações."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Crédito Tributário.",
+      "Constituição.",
+      "Suspensão.",
+      "Extinção.",
+      "Exclusão."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Garantias e privilégios do crédito tributário."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Ilícitos tributários.",
+      "Crimes.",
+      "Elisão e Evasão."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Processo Administrativo Tributário e Processo Judicial Tributário."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Orçamento público: princípios orçamentários da exclusividade, universalidade, unidade, anualidade, programação e equilíbrio financeiro."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Leis orçamentárias.",
+      "Plano plurianual.",
+      "Lei de Diretrizes Orçamentárias.",
+      "Lei Orçamentária Anual.",
+      "Vedações Orçamentárias."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Finanças públicas.",
+      "Receitas públicas.",
+      "Despesas públicas.",
+      "Precatórios.",
+      "Controle interno e externo da atividade Financeira do Estado."
+     ]
+    }
+   ]
+  }
+ ]
+}

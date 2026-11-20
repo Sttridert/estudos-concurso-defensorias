@@ -1,0 +1,124 @@
+{
+ "pasta": "2025 - DPE-SP - Analista de Defensoria",
+ "banca": "FCC",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 3141,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito administrativo: origem, princípios informativos, conceito, objeto e fontes.",
+      "Administração pública: conceito, organização e modelos.",
+      "Órgãos públicos.",
+      "Hierarquia administrativa.",
+      "Regimes público e privado na Administração Pública.",
+      "Regime jurídico administrativo.",
+      "Normas sobre interpretação do direito público na Lei de Introdução ao Direito Brasileiro.",
+      "Poderes da Administração Pública.",
+      "Poderes e deveres dos administradores públicos.",
+      "Uso e abuso do poder."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Ato administrativo: conceito, características, atributos, elementos, requisitos de validade e eficácia, espécies, formação, delegação, avocação, revisão, recurso e efeitos.",
+      "Mérito, discricionariedade e vinculação do ato administrativo.",
+      "Extinção, revogação, invalidação, convalidação e nulidades do ato administrativo.",
+      "Procedimento administrativo e processo administrativo."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Administração Pública.",
+      "Descentralização.",
+      "Desconcentração.",
+      "Administração Direta e Indireta.",
+      "Aspectos gerais da Administração Direta.",
+      "Autarquias, empresas públicas, sociedades de economia mista, fundação pública e fundação privada.",
+      "Consórcios públicos, Agências Executivas e Agências Reguladoras.",
+      "Concessão, permissão, autorização e parceria público-privada.",
+      "Entidades de cooperação.",
+      "Pessoas jurídicas autônomas vinculadas ao Estado: natureza jurídica, competência, autonomia e subordinação."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Agentes públicos: conceito e classificação.",
+      "Prerrogativas e deveres.",
+      "Cargo público: conceito, criação, provimento, acumulação, vacância, desnecessidade, transformação, extinção.",
+      "Organização e regime jurídico funcional.",
+      "Responsabilidade administrativa, civil e criminal do servidor público."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Serviços públicos: conceito, características, princípios, classificação, competência, regulamentação e controle.",
+      "Direitos e deveres dos usuários.",
+      "Execução dos serviços públicos e meios de prestação.",
+      "Terceirização.",
+      "Remuneração dos serviços públicos."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Licitação: conceito, natureza jurídica, objeto, finalidade, princípios e modalidades.",
+      "Obrigatoriedade, dispensa e inexigibilidade.",
+      "Processo de Contratação Direta.",
+      "Procedimento licitatório.",
+      "Revogação, invalidação e desistência da licitação."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Negócios jurídicos da Administração Pública.",
+      "Contrato administrativo: conceito, características, espécies, formalização, execução, inexecução, duração, prorrogação, renovação e hipóteses de extinção.",
+      "Nulidades, revisão, alterações e inexecução do contrato.",
+      "Convênios.",
+      "Marco Regulatório de Organizações da Sociedade Civil.",
+      "Termos de Parceria.",
+      "Organização Social.",
+      "Organização da Sociedade Civil de Interesse Público.",
+      "Políticas de fomento por meio das contratações públicas."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Responsabilidade civil do Estado: origem, evolução, teorias e disciplina constitucional.",
+      "Aplicação da responsabilidade objetiva.",
+      "Responsabilidade subjetiva.",
+      "Responsabilidade por atos legislativos.",
+      "Responsabilidade por atos judiciais.",
+      "Reparação do dano.",
+      "Direito de regresso."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Controle da Administração Pública.",
+      "Controle legislativo, jurisdicional e administrativo.",
+      "Ministério Público.",
+      "Tribunal de Contas.",
+      "Controladoria.",
+      "Ouvidoria.",
+      "Improbidade Administrativa.",
+      "Transparência e acesso à informação no Poder Público.",
+      "Proteção de Dados Pessoais."
+     ]
+    }
+   ]
+  }
+ ]
+}

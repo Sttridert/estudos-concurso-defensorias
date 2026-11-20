@@ -1,0 +1,44 @@
+{
+ "2018 - DPE-AM - Analista Jurídico|57": {
+  "c": "A Lei 12.845/2013 define violência sexual como qualquer forma de atividade sexual não consentida (art. 2º), por isso o atendimento não depende de ter havido conjunção carnal. No atendimento, o médico preserva os materiais que possam ser coletados para o exame médico-legal (art. 3º, § 2º, no texto da época da prova). Gabarito C. A está errada: o exame de DNA cabia ao órgão de medicina legal (art. 3º, § 3º, no texto da época), não ao hospital. B e D erram ao falar em \"hospitais específicos\": o atendimento é obrigatório em todos os hospitais da rede do SUS (art. 3º, caput) e gratuito (§ 1º); D ainda inventa uma condição (comprovar impossibilidade de convênio). E atribui o exame de DNA ao próprio hospital.",
+  "p": "Dizer que só alguns hospitais atendem, que o DNA é feito no hospital ou que a vítima precisa comprovar algo para ser atendida.",
+  "d": ["Lei 12.845/2013|art. 1º", "Lei 12.845/2013|art. 2º", "Lei 12.845/2013|art. 3º"],
+  "pend": 0,
+  "nota_fonte": "Texto do Planalto lido em 15/11/2026. A Lei 15.516/2026 alterou o art. 3º depois da prova (incisos VIII e IX; §§ 2º e 3º com nova redação; § 4º). O gabarito de 2018 não muda."
+ },
+ "2018 - DPE-AM - Analista Jurídico|58": {
+  "c": "A violência doméstica e familiar abrange três âmbitos (Lei 11.340/2006, art. 5º): a unidade doméstica (espaço de convívio permanente de pessoas, com ou sem vínculo familiar, inclusive as esporadicamente agregadas), a família (pessoas que são ou se consideram aparentadas, por laços naturais, por afinidade ou por vontade expressa) e qualquer relação íntima de afeto, independentemente de coabitação. Gabarito E (unidade doméstica, com o agressor esporadicamente agregado). A e B exigem coabitação, que só é irrelevante nas relações íntimas de afeto (inciso III). C restringe a família aos laços naturais. D diz \"homem agressor\", mas as relações do art. 5º independem de orientação sexual (parágrafo único).",
+  "p": "Exigir coabitação ou laços naturais, e supor que o agressor é sempre homem.",
+  "d": ["Lei 11.340/2006|art. 5º, I a III e parágrafo único"],
+  "pend": 0,
+  "nota_fonte": "Texto do Planalto lido em 15/11/2026."
+ },
+ "2018 - DPE-AM - Analista Jurídico|59": {
+  "c": "As medidas protetivas para proteger o patrimônio estão no art. 24 da Lei 11.340/2006 e incluem a proibição temporária de celebrar atos e contratos de compra, venda e locação de bens em comum, salvo expressa autorização judicial (inciso II). Gabarito D. A está errada: o juiz pode rever as medidas e conceder novas a requerimento do Ministério Público ou da ofendida (art. 19, § 3º), não só do MP. B inverte o art. 21: a ofendida deve ser notificada da entrada e da saída do agressor da prisão, sem prejuízo da intimação do advogado ou do defensor. C erra: o art. 22, IV, permite restringir ou suspender as visitas aos dependentes menores, ouvida a equipe multidisciplinar. E erra: a separação de corpos está prevista no art. 23, IV.",
+  "p": "Achar que só o Ministério Público pede a revisão das medidas e que a notificação pode ser só do advogado.",
+  "d": ["Lei 11.340/2006|art. 19, § 3º", "Lei 11.340/2006|art. 21", "Lei 11.340/2006|art. 22, IV", "Lei 11.340/2006|art. 23, IV", "Lei 11.340/2006|art. 24, II"],
+  "pend": 0,
+  "nota_fonte": "Texto do Planalto lido em 15/11/2026."
+ },
+ "2018 - DPE-AM - Analista Jurídico|60": {
+  "c": "As Diretrizes Nacionais para o Abrigamento de Mulheres em Situação de Risco e de Violência (Secretaria de Políticas para as Mulheres, 2011) tratam do acompanhamento pós-abrigamento: a mulher em processo de desabrigamento deve ser acompanhada pelo Centro de Referência mais próximo de sua residência (ou, se não houver, pelo CREAS), e é preciso articular a casa-abrigo com esses serviços. Gabarito C. A erra: as casas-abrigo devem estar preferencialmente vinculadas à assistência social. D erra: a institucionalização (criação por lei e parcerias formais) é o que garante maior segurança, e não o caráter subsidiário. E erra: as Diretrizes exigem articulação permanente com a Segurança Pública. B não foi localizada no texto e cai por eliminação.",
+  "p": "Trocar a vinculação à assistência social pela Secretaria de Políticas para as Mulheres, e dizer que a articulação com a Segurança Pública é vedada.",
+  "d": ["Diretrizes Nacionais de Abrigamento de Mulheres (SPM, 2011)|acompanhamento pós-abrigamento"],
+  "pend": 0,
+  "nota_fonte": "Texto das Diretrizes (PDF do Senado, Observatório da Mulher contra a Violência) lido em 15/11/2026. Item B não conferido no texto."
+ },
+ "2022 - DPE-AM - Analista Jurídico|28": {
+  "c": "Quanto à destinação, os bens públicos se dividem em de uso comum do povo, de uso especial e dominicais (Código Civil, art. 99). O bem que abriga uma repartição pública, local onde se realiza a atividade administrativa, é de uso especial: edifícios ou terrenos destinados a serviço ou estabelecimento da administração. Gabarito D. Natural, alienável e singular não são classificações quanto à destinação, e de uso comum é o bem que o povo usa livremente (ruas, praças).",
+  "p": "Confundir a classificação quanto à destinação com a quanto à titularidade, à alienabilidade ou à natureza do bem.",
+  "d": ["Código Civil|art. 99, II"],
+  "pend": 0,
+  "nota_fonte": "Artigo do Código Civil conhecido; confirmar a redação no Planalto se for citar."
+ },
+ "2025 - MPPI - Analista Ministerial|34": {
+  "c": "Terra devoluta é bem público: não se adquire por usucapião (CF, arts. 183, § 3º, e 191, parágrafo único; Código Civil, art. 102), e a presunção de domínio público só cede por título legítimo, não por posse. Por isso A e D estão erradas. A saída para o pequeno ocupante é a legitimação de posse, que depende dos requisitos legais (não ser proprietário de outro imóvel rural, ocupação com cultura efetiva e morada, limite de área) e de a área não ser necessária à proteção dos ecossistemas naturais. Gabarito B. C erra ao dizer que nenhuma propriedade privada pode existir em unidade de conservação (área de proteção ambiental admite propriedade privada). E erra: servidão administrativa não resolve a titulação da terra.",
+  "p": "Aceitar usucapião de terra devoluta ou achar que toda unidade de conservação exclui propriedade privada.",
+  "d": ["Constituição Federal|art. 183, § 3º", "Constituição Federal|art. 191, parágrafo único", "Código Civil|art. 102", "Lei 6.383/1976|art. 29"],
+  "pend": 1,
+  "nota_fonte": "Requisitos e limite de área da legitimação de posse (Lei 6.383/1976, art. 29, e alterações posteriores) não conferidos no Planalto: confirmar."
+ }
+}

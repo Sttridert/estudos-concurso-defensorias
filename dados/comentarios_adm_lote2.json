@@ -1,0 +1,97 @@
+{
+"2025 - DPE-SP - Analista de Defensoria|17": {
+ "c": "Gabarito E. O princípio da segregação de funções (Lei 14.133/2021, art. 5º, e art. 7º, § 1º) veda que a mesma pessoa atue em fases que devem ser controladas entre si, para reduzir o risco de erro e fraude. O chefe do setor que elabora o projeto básico e ainda atua como pregoeiro acumula funções que deveriam ser separadas. A, B, C e D descrevem outros problemas (falta de clareza das fases, concentração de papéis no mesmo órgão, participação de licitante na elaboração do edital, preferência ao vencedor de concurso), que não são o exemplo mais típico de acúmulo de funções por uma só pessoa.",
+ "p": "Achar que a segregação se refere a órgãos diferentes, e não a pessoas ou agentes diferentes em fases que se controlam.",
+ "d": ["Lei 14.133/2021|art. 5º", "Lei 14.133/2021|art. 7º, § 1º"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|18": {
+ "c": "Gabarito B. A remoção é o deslocamento do servidor no mesmo quadro, com ou sem mudança de sede (Lei 8.112/1990, art. 36). Ela pode ser feita de ofício, no interesse da Administração, desde que motivada, sem caráter de punição e compatível com as atribuições do cargo; é o que reconhece a jurisprudência do STJ (confirmar o julgado). A, C e D afirmam exigências absolutas (relotação, concordância do servidor, impossibilidade de pedido) que a lei não faz. E: a remoção não depende de o servidor estar em estágio probatório.",
+ "p": "Exigir sempre a concordância do servidor ou concurso de remoção.",
+ "d": ["Lei 8.112/1990|art. 36"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|19": {
+ "c": "Gabarito A, que reproduz a Súmula 611 do STJ: desde que devidamente motivada e com amparo em investigação ou sindicância, é permitida a instauração de processo administrativo disciplinar com base em denúncia anônima, em razão do poder-dever de autotutela. B, C, D e E tratam a denúncia anônima como incapaz de ensejar qualquer medida, como mera prova ou como rejeitável de plano, o que não corresponde à súmula.",
+ "p": "Achar que a vedação do anonimato impede qualquer apuração a partir de denúncia anônima.",
+ "d": ["STJ|Súmula 611", "CF|art. 5º, IV"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|20": {
+ "c": "Gabarito C. O serviço adequado, na Lei de Concessões, exige regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia e modicidade das tarifas (Lei 8.987/1995, art. 6º, § 1º). A atualidade compreende a modernidade das técnicas, dos equipamentos e das instalações e sua conservação, bem como a melhoria e expansão do serviço (art. 6º, § 2º). Celeridade, seletividade, itinerância e congruência não aparecem como princípios específicos nessa lista.",
+ "p": "Inventar princípios com nomes plausíveis que a lei não prevê.",
+ "d": ["Lei 8.987/1995|art. 6º, §§ 1º e 2º"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|21": {
+ "c": "Gabarito D. A Constituição (art. 37, § 6º) adota a teoria do risco administrativo: a responsabilidade é objetiva, bastando o dano, a conduta do agente e o nexo causal, e admite excludentes (culpa exclusiva da vítima, caso fortuito, força maior, fato de terceiro). A: o risco integral não admite excludentes e é adotado em casos específicos (como dano nuclear e ambiental). B: a culpa civil é a teoria superada. C e E inventam teorias que não existem com esse conteúdo.",
+ "p": "Confundir risco administrativo (admite excludentes) com risco integral (não admite).",
+ "d": ["CF|art. 37, § 6º"],
+ "pend": 0},
+"2025 - DPE-SP - Analista de Defensoria|22": {
+ "c": "Gabarito C. A OSCIP é pessoa jurídica de direito privado, sem fins lucrativos, que cumpre os requisitos da Lei 9.790/1999 e obtém a qualificação do Ministério da Justiça; com ela, pode firmar Termo de Parceria com o Poder Público (arts. 1º, 3º e 9º). A: não é concessão do Poder Público. B: a qualificação não é opção estatutária. D: não se dá por decreto de utilidade pública. E: não é concedida pelos órgãos fazendários, e o regime fiscal não é o ponto central.",
+ "p": "Confundir OSCIP (Termo de Parceria, qualificação pelo Ministério da Justiça) com organização social (contrato de gestão).",
+ "d": ["Lei 9.790/1999|arts. 1º, 3º e 9º"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|29": {
+ "c": "Gabarito E. O Tribunal de Contas do Estado pode fiscalizar e julgar contas de quem administra recursos estaduais repassados por convênio ao Município, e pode aplicar multa ao responsável (CF, arts. 71, II e VIII, e 75). Nesse caso o prefeito responde como ordenador da despesa, e não como governante, de modo que não se aplica a regra de que as contas de governo do prefeito são julgadas pela Câmara Municipal (CF, art. 31). A e C: a Câmara julga contas de governo; a Assembleia não julga contas do prefeito. B e D: a multa não depende de confirmação por outro órgão.",
+ "p": "Confundir as contas de governo do prefeito (julgadas pela Câmara) com as contas de gestão de recursos de convênio (julgadas pelo Tribunal de Contas).",
+ "d": ["CF|art. 71, II e VIII", "CF|art. 75", "CF|art. 31, § 2º"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|30": {
+ "c": "Gabarito B (itens I e II). Na Lei 14.133/2021, o art. 137 trata dos motivos de extinção do contrato. Estão previstos o atraso na liberação das áreas sujeitas a desapropriação, desocupação ou servidão administrativa (I) e a alteração social ou modificação da finalidade ou da estrutura da empresa que restrinja sua capacidade de concluir o contrato (II). O item III está errado porque a recuperação judicial não é motivo de extinção; a lei fala em falência ou insolvência civil, dissolução da sociedade ou falecimento do contratado. Confirmar os incisos e parágrafos do art. 137 no Planalto.",
+ "p": "Incluir a recuperação judicial entre as causas de rescisão.",
+ "d": ["Lei 14.133/2021|art. 137 (confirmar incisos e parágrafos)"],
+ "pend": 1},
+"2025 - MPPI - Analista Ministerial|32": {
+ "c": "Gabarito C. A concessão administrativa é o contrato de prestação de serviços de que a Administração é usuária direta ou indireta, ainda que envolva execução de obra ou fornecimento e instalação de bens (Lei 11.079/2004, art. 2º, § 2º). Aqui a contratada constrói e mantém a infraestrutura e presta serviços acessórios, e o Estado conserva as atividades finalísticas de saúde. A e B (convênio e termo de fomento) são ajustes de cooperação sem fim lucrativo. D e E: as concessões comum e patrocinada envolvem cobrança de tarifa dos usuários, o que não ocorre no SUS.",
+ "p": "Pensar em concessão comum, esquecendo que o SUS não cobra tarifa dos usuários.",
+ "d": ["Lei 11.079/2004|art. 2º, §§ 1º e 2º"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|33": {
+ "c": "Gabarito E, que reproduz a Súmula 686 do STF: só por lei se pode sujeitar a exame psicotécnico a habilitação de candidato a cargo público. A: a restrição de idade em concurso exige lei, e não só ato administrativo (Súmula 683 do STF). B: o STF não aceita reserva de vagas apenas para um gênero sem justificativa legal e razoável. C: o acesso de estrangeiros a cargos públicos é na forma da lei (CF, art. 37, I): é norma de eficácia limitada. D: a suspensão dos direitos políticos impede a posse, mas a banca não aceitou a ideia de impedimento 'absoluto' como tese firmada; confirmar.",
+ "p": "Esquecer que psicotécnico e limite de idade só valem se previstos em lei.",
+ "d": ["STF|Súmula 686", "STF|Súmula 683", "CF|art. 37, I"],
+ "pend": 0},
+"2025 - MPPI - Analista Ministerial|35": {
+ "c": "Gabarito A. A Lei 14.133/2021 (art. 75) lista as hipóteses de dispensa, entre elas a contratação de profissionais para compor a comissão de avaliação de critérios de técnica, quando se tratar de profissional técnico de notória especialização (art. 75, XIII; confirmar o inciso). B: a intervenção no domínio econômico para regular preços ou normalizar o abastecimento é hipótese da União, e não de Estado ou Município (art. 75, VI; confirmar). C e D: a locação de imóvel cuja localização torne necessária a escolha e o fornecedor exclusivo são casos de INEXIGIBILIDADE (art. 74, V e I), e não de dispensa. E: a dispensa para guerra, estado de defesa e semelhantes não se limita ao material bélico; confirmar o texto no Planalto.",
+ "p": "Confundir dispensa (art. 75) com inexigibilidade (art. 74) na Lei 14.133.",
+ "d": ["Lei 14.133/2021|art. 74, I e V", "Lei 14.133/2021|art. 75 (confirmar incisos)"],
+ "pend": 1},
+"2025 - MPPI - Analista Ministerial|36": {
+ "c": "Gabarito D. O STF fixou, no Tema 362 (RE 608.880), que o Estado não responde por danos causados por pessoa foragida do sistema prisional, salvo se houver nexo de causalidade direto entre a fuga e o dano. O atropelamento durante a fuga tem nexo direto; o latrocínio seis meses depois não tem. Por isso, responde só pelo primeiro evento. A e C: o Estado não responde pelos dois. B: o fundamento não é o autor não ser agente público (o dever de guarda do preso é do Estado). E: a natureza dolosa do crime não é o critério.",
+ "p": "Achar que a fuga de preso gera responsabilidade do Estado por qualquer crime posterior.",
+ "d": ["CF|art. 37, § 6º", "STF|RE 608.880 (Tema 362)"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|29": {
+ "c": "Gabarito A. Pela Lei de Acesso à Informação (Lei 12.527/2011, art. 24, § 4º), passado o prazo de classificação ou consumado o evento que o encerra, a informação se torna automaticamente de acesso público. B: a informação que possa pôr em risco a vida, a segurança ou a saúde da população pode ser classificada (art. 23, II). C: os prazos máximos são fixados pela lei (25, 15 e 5 anos), e não pelo juiz. D: os graus são ultrassecreto, secreto e reservado (art. 24). E: informações sobre violação de direitos humanos por agentes públicos não podem ter acesso restrito (art. 21).",
+ "p": "Esquecer que os graus são ultrassecreto, secreto e reservado, e que violação de direitos humanos não pode ser sigilosa.",
+ "d": ["Lei 12.527/2011|art. 21", "Lei 12.527/2011|art. 23", "Lei 12.527/2011|art. 24"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|30": {
+ "c": "Gabarito B, pela Lei 14.133/2021 e pelo Decreto 10.024/2019: o pregão é a modalidade para bens e serviços comuns, inclusive serviços comuns de engenharia, e a forma eletrônica é a regra; a presencial é admitida mediante justificativa da autoridade e comprovação de inviabilidade técnica ou desvantagem (Decreto 10.024, art. 1º). A e E: a forma eletrônica é a obrigatória na regra, e não a presencial preferencial nem apenas recomendada. C: pregão é modalidade, não critério de julgamento. D: a lei só admite o pregão para objeto comum. Confirmar a vigência do Decreto 10.024/2019, que pode ter sido alterado ou revogado depois da prova.",
+ "p": "Tratar o pregão como critério de julgamento, e não como modalidade.",
+ "d": ["Lei 14.133/2021|art. 6º, XLI", "Lei 14.133/2021|art. 29", "Decreto 10.024/2019|art. 1º (confirmar vigência)"],
+ "pend": 1},
+"2026 - TJCE - Analista Judiciário|31": {
+ "c": "Gabarito A. A Constituição adota a responsabilidade objetiva para as pessoas de direito privado prestadoras de serviço público (CF, art. 37, § 6º), e ela vale também para o dano causado a quem não é usuário do serviço (STF, RE 591.874, Tema 130), o que torna B errada. C e D: o serviço pode ser prestado por concessão ou permissão (art. 175), e a consulta pública não é exigida sempre. E: a titularidade do serviço permanece com o poder público; o que se transfere é a execução.",
+ "p": "Achar que a vítima não usuária do serviço fica fora da responsabilidade objetiva.",
+ "d": ["CF|art. 37, § 6º", "CF|art. 175", "STF|RE 591.874 (Tema 130)"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|32": {
+ "c": "Gabarito E. A Lei 8.987/1995 prevê que o contrato de concessão pode prever mecanismos privados de resolução de disputas, inclusive a arbitragem (art. 23-A). A: os contratos da concessionária com terceiros se regem pelo direito privado, sem relação entre os terceiros e o poder concedente (art. 25, § 2º). B: é permitido oferecer em garantia os direitos emergentes da concessão (art. 28). C: a subconcessão, autorizada, implica sub-rogação, e não caducidade (art. 26). D: a transferência do controle societário exige anuência prévia do poder concedente (art. 27), sem a vedação por prazo.",
+ "p": "Achar que a subconcessão leva à caducidade.",
+ "d": ["Lei 8.987/1995|art. 23-A", "Lei 8.987/1995|art. 25, § 2º", "Lei 8.987/1995|art. 26", "Lei 8.987/1995|art. 27", "Lei 8.987/1995|art. 28"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|33": {
+ "c": "Gabarito E. A competência do Congresso Nacional para sustar atos normativos do Executivo que exorbitem do poder regulamentar ou dos limites de delegação (CF, art. 49, V) é controle externo político. A: o controle prévio existe também no controle externo (por exemplo, a autorização do Senado para operações de crédito). B: a supervisão feita por uma Secretaria sobre entidades vinculadas é controle interno, e não social externo. C: o julgamento de contas pelo Tribunal de Contas é controle externo técnico (administrativo), e não jurisdicional. D: os remédios constitucionais são controle judicial.",
+ "p": "Chamar de jurisdicional o julgamento de contas pelo Tribunal de Contas, que é órgão administrativo.",
+ "d": ["CF|art. 49, V", "CF|art. 71"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|34": {
+ "c": "Gabarito D. A Lei 13.655/2018 incluiu na LINDB a regra de que a decisão que decretar a invalidação de ato, contrato, ajuste, processo ou norma administrativa deve indicar de modo expresso as suas consequências jurídicas e administrativas (LINDB, art. 21). A: a lei permite compromisso com interessados para eliminar irregularidade ou incerteza jurídica (art. 26). C: a decisão deve considerar os obstáculos e as circunstâncias práticas do agente (art. 22, § 1º). E: a nova orientação geral deve prever regime de transição, quando indispensável (art. 23). B: a regra sobre apoio ao agente público na defesa não é a inovação cobrada; confirmar o texto atual da LINDB.",
+ "p": "Esquecer que a invalidação exige a análise de consequências e que a nova orientação exige regime de transição.",
+ "d": ["LINDB|art. 21", "LINDB|art. 22, § 1º", "LINDB|art. 23", "LINDB|art. 26"],
+ "pend": 0},
+"2026 - TJCE - Analista Judiciário|35": {
+ "c": "Gabarito B. Para dados pessoais sensíveis, a LGPD exige o consentimento do titular como regra; ele é dispensado nas hipóteses listadas no art. 11, II, entre elas o cumprimento de obrigação legal ou regulatória, a proteção da vida ou da incolumidade física, a tutela da saúde em procedimento por profissionais ou serviços de saúde e a realização de estudos por órgão de pesquisa. Por exclusão, o consentimento continua necessário para finalidades específicas não excepcionadas em lei, quando a revelação dos dados possa causar dano ao titular. Confirmar a redação do art. 11 no Planalto.",
+ "p": "Esquecer que o art. 11 lista as hipóteses sem consentimento; fora delas, o consentimento é indispensável.",
+ "d": ["Lei 13.709/2018|art. 11"],
+ "pend": 1}
+}

@@ -1,0 +1,278 @@
+{
+ "pasta": "2025 - DPE-AM - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 5104,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito administrativo.",
+      "Conceito.",
+      "Objeto.",
+      "Fontes."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Administração pública.",
+      "Conceito, organização e modelos.",
+      "Regime jurídico administrativo."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Princípios Constitucionais da Administração Pública."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Função pública.",
+      "Conceito.",
+      "Divisão de competências.",
+      "Delegação e avocação de competências."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Poder de Polícia.",
+      "Limites e Fundamentos.",
+      "Adoção de mecanismos consensuais no exercício do poder de polícia.",
+      "Termos de ajuste de conduta administrativos.",
+      "Termos substitutivos de sanção.",
+      "Limites à delegabilidade do poder de polícia."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Ato administrativo.",
+      "Elementos, requisitos, espécies.",
+      "Controle formal e controle de mérito do ato administrativo."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Processo Administrativo.",
+      "Princípios do processo administrativo.",
+      "Finalidades do processo administrativo.",
+      "Mecanismos de controle do processo administrativo.",
+      "Procedimentos em espécie."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Bens públicos.",
+      "Natureza jurídica.",
+      "Aplicação do regime público a bens do domínio privado.",
+      "Espécies de bens públicos.",
+      "Inalienabilidade, impenhorabilidade, imprescritibilidade dos bens públicos.",
+      "Afetação e desafetação.",
+      "Aquisição e alienação de bens públicos.",
+      "Diferentes tipos de uso.",
+      "Uso privativo pelo particular.",
+      "Concessão, permissão e autorização de uso.",
+      "Concessão de direito real de uso."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Discricionariedade: limites e fundamentos.",
+      "Abuso e desvio de Poder."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Contratos Administrativos.",
+      "Teoria Geral do Contrato Administrativo.",
+      "Características.",
+      "Rescisão.",
+      "Meios alternativos de resolução de controvérsias.",
+      "Modalidades.",
+      "Programa de Parceria de Investimentos.",
+      "Contrato de Desempenho e Contrato de Gestão.",
+      "Convênio.",
+      "Consórcio.",
+      "Terceirização.",
+      "Contratos em regime diferenciado de contratação."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Licitação.",
+      "Fundamento constitucional.",
+      "Inexigibilidade e Dispensa.",
+      "Modalidades.",
+      "Pregão.",
+      "Regime Diferenciado de Contratação.",
+      "Tipos de licitação.",
+      "Fases do procedimento licitatório."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Serviços públicos.",
+      "Conceito.",
+      "Elementos.",
+      "Princípios.",
+      "Regime jurídico.",
+      "Regime tarifário.",
+      "Serviços públicos em regime de exclusividade e em regime de competição.",
+      "Regulação de serviços públicos.",
+      "Regime dos bens afetos à prestação de serviço público.",
+      "Serviços públicos e serviços sociais.",
+      "Serviços públicos e atividade econômica."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Concessão e permissão de serviços públicos.",
+      "Conceitos.",
+      "Modalidades de concessão.",
+      "Concessões comuns, patrocinadas e administrativas.",
+      "Reversibilidade de bens.",
+      "Modalidades de extinção de concessões.",
+      "Direitos dos concessionários e direitos dos usuários."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Estrutura da Administração Pública.",
+      "Administração Direta e Administração Indireta.",
+      "Órgãos e entes públicos.",
+      "Princípios da Administração Indireta.",
+      "Controle hierárquico.",
+      "Empresas estatais: espécies e diferenças.",
+      "Regime jurídico e governança das empresas estatais.",
+      "Controle dos entes da Administração Indireta.",
+      "Fundações Públicas.",
+      "Autarquias.",
+      "Empresas Estatais.",
+      "Agências Executivas e Reguladoras."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Entidades paraestatais e terceiro setor."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Responsabilidade Civil do Estado.",
+      "Responsabilidade civil, extracontratual ou aquiliana do Estado.",
+      "Panorama teórico e evolutivo da responsabilidade civil do Estado.",
+      "Responsabilidade objetiva na Constituição.",
+      "Causas excludentes e atenuantes.",
+      "A reparação do dano.",
+      "Responsabilidade por atos administrativos, legislativos e judiciais.",
+      "Reparação do dano e direito de regresso."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Organização funcional: cargos, empregos e funções públicas.",
+      "Servidores públicos.",
+      "Regime jurídico único.",
+      "Direitos e obrigações.",
+      "Processos Disciplinar.",
+      "Regimes jurídicos funcionais.",
+      "Regime de previdência do servidor público: aspectos constitucionais."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Desapropriação.",
+      "Hipóteses.",
+      "Desapropriação indireta.",
+      "Desapropriação por zona.",
+      "Desapropriação urbanística.",
+      "Promoção de atos expropriatórios pelos particulares: hipótese e requisitos.",
+      "Efeitos do decreto e utilidade pública.",
+      "Destinação dos bens desapropriados.",
+      "Hipóteses de desapropriação punitiva.",
+      "Desapropriação por acordo e judicial: diferenças.",
+      "Desapropriação de bens públicos de outro ente da federação."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Intervenção na propriedade e atuação no domínio econômico: servidão, requisição, ocupação temporária, tombamento e limitações administrativas."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Agentes públicos.",
+      "Conceito e classificação.",
+      "Organização e regime jurídico funcional.",
+      "Regime previdenciário.",
+      "Responsabilidade administrativa, civil e criminal.",
+      "Processo Administrativo Disciplinar, transgressões disciplinares, penalidades e da extinção de Punibilidade.",
+      "Aplicação e cumprimento das sanções disciplinares e recursos disciplinares.",
+      "Termo de Ajustamento de Conduta Disciplinar e demais meios alternativos de solução de conflito de interesses no âmbito disciplinar administrativo."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Improbidade administrativa."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Lei de Responsabilidade Fiscal."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Controle da Administração Pública.",
+      "Espécies de controle.",
+      "Controle interno e externo.",
+      "Controle parlamentar, judicial, social e pelos Tribunais de Contas.",
+      "Controle de legalidade e de economicidade.",
+      "Controle operacional.",
+      "Competências cautelares e sancionatórias dos órgãos de controle.",
+      "Lei anticorrupção (Lei nº 12.846/13)."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Controle da Administração Pública.",
+      "Mandado de Segurança, Ação Popular, Habeas Corpus, Habeas Data e Ação Civil Pública."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Arbitragem, mediação e autocomposição de conflitos na Administração Pública."
+     ]
+    }
+   ]
+  }
+ ]
+}

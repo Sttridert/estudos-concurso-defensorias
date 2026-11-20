@@ -1,0 +1,98 @@
+{
+ "2025 - MPPI - Analista Ministerial|21": {
+  "c": "A letra D descreve o controle previsto no art. 62, § 9º, da CF: a comissão mista de Deputados e Senadores examina a medida provisória e emite parecer antes de a apreciarem, em sessões separadas, os plenários das duas Casas. É um controle recíproco inerente à separação de poderes. As outras são inadmissíveis: A confunde a competência e o funcionamento interno dos tribunais, que a CF reserva ao regimento interno e à organização judiciária de iniciativa do próprio tribunal (art. 96, I, a, e II); B cria órgão de controle do Judiciário com participação de outros Poderes por Constituição estadual, o que a jurisprudência do STF rejeita; C contraria a Súmula Vinculante 37 (o Judiciário não pode aumentar vencimentos de servidores por isonomia); E erra porque a sanção do Presidente não convalida o vício de iniciativa privativa.",
+  "p": "Achar que a sanção presidencial 'cura' a usurpação de iniciativa privativa (E).",
+  "d": ["CF|art. 62, § 9º", "CF|art. 61, § 1º", "CF|art. 96, I, a", "STF|Súmula Vinculante 37"],
+  "pend": 0
+ },
+ "2025 - MPPI - Analista Ministerial|22": {
+  "c": "A definição dos crimes de responsabilidade e das normas de processo e julgamento é matéria de competência legislativa PRIVATIVA da União (CF, art. 22, I; Súmula Vinculante 46). Não se trata, portanto, de competência concorrente (afasta C, D e E). Lei estadual que cria crime de responsabilidade viola essa competência e pode ser questionada em ação direta de inconstitucionalidade perante o STF (art. 102, I, a). A reclamação não é o instrumento adequado, pois não cabe contra lei em tese (B e D).",
+  "p": "Escolher a reclamação por violação de súmula vinculante, quando o ataque à lei em tese se faz por ADI.",
+  "d": ["CF|art. 22, I", "STF|Súmula Vinculante 46", "CF|art. 102, I, a", "CF|art. 58, § 3º"],
+  "pend": 0
+ },
+ "2025 - MPPI - Analista Ministerial|23": {
+  "c": "A escusa de consciência está no art. 5º, VIII, da CF: ninguém será privado de direitos por crença religiosa ou convicção filosófica ou política, salvo se as invocar para eximir-se de obrigação legal a todos imposta e recusar-se a cumprir prestação alternativa fixada em lei. O STF, em repercussão geral (tema 1.021), admitiu que a Administração, inclusive no estágio probatório, estabeleça critérios alternativos para o exercício dos deveres funcionais, desde que respeitadas razoabilidade e proporcionalidade, sem ônus desproporcional e com decisão fundamentada. A letra A segue essa tese. B erra ao exigir previsão em lei para a alternativa; C inverte a laicidade, que não impede acomodações razoáveis; D e E falam em privilégio, perda do cargo ou suspensão de direitos políticos, o que não decorre da situação.",
+  "p": "Tratar a alternativa funcional como 'privilégio' que ofende a impessoalidade; o STF admite a acomodação razoável.",
+  "d": ["CF|art. 5º, VIII", "CF|art. 15, IV", "STF|Tema 1.021 (repercussão geral)"],
+  "pend": 1
+ },
+ "2025 - MPPI - Analista Ministerial|24": {
+  "c": "A anterioridade eleitoral do art. 16 da CF diz que a lei que alterar o processo eleitoral entra em vigor na data de sua publicação, mas não se aplica à eleição que ocorra até um ano da data de sua vigência. O STF decidiu que a regra vale também para emenda constitucional (ADI 3685, sobre a EC 52/2006). A letra C reflete isso. A erra ao dispensar a anterioridade para emendas; B restringe a regra à lei infraconstitucional; D e E criam prazos de vigência (um ano, no ano seguinte) que não existem: a vigência é imediata, o que se posterga é a aplicação à eleição.",
+  "p": "Confundir vigência (imediata) com eficácia para a eleição (só depois de um ano); e achar que emenda constitucional escapa da anterioridade.",
+  "d": ["CF|art. 16", "STF|ADI 3685"],
+  "pend": 0
+ },
+ "2025 - MPPI - Analista Ministerial|25": {
+  "c": "O excerto trata de repercussão geral reconhecida pelo Plenário do STF em recurso extraordinário. Pelo CPC, art. 1.035, § 5º, reconhecida a repercussão geral, o relator no STF determina a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional. A letra D está certa. A erra: a recusa do recurso exige dois terços dos membros (CF, art. 102, § 3º), mas aqui a repercussão foi reconhecida e o mérito ainda não foi decidido. B se refere ao efeito da NEGATIVA de repercussão (art. 1.035, § 8º). C erra a competência: o RE é do STF. E descreve requisitos da súmula vinculante (art. 103-A).",
+  "p": "Aplicar a B, que vale quando a repercussão geral é NEGADA, a um caso em que ela foi reconhecida.",
+  "d": ["CF|art. 102, § 3º", "CPC|art. 1.035, § 5º", "CPC|art. 1.035, § 8º", "CF|art. 103-A"],
+  "pend": 0
+ },
+ "2025 - MPPI - Analista Ministerial|26": {
+  "c": "O mandado de segurança contra ato de Ministro de Estado é de competência do STJ (CF, art. 105, I, b). Se a decisão for denegatória, cabe recurso ordinário ao STF (art. 102, II, a). A letra C reúne as duas regras. A e B atribuem a competência ao STF, que só julga MS contra atos do Presidente, das Mesas da Câmara e do Senado, do TCU, do PGR e do próprio STF (art. 102, I, d). D inverte para os juízes federais, que julgam MS contra autoridade federal, exceto as de competência dos tribunais (art. 109, VIII). E acerta o STJ, mas fala em exceções que não se aplicam e deixa de prever o recurso ordinário.",
+  "p": "Levar o MS contra Ministro de Estado ao STF; a competência é do STJ, com recurso ordinário ao STF quando denegado.",
+  "d": ["CF|art. 105, I, b", "CF|art. 102, II, a", "CF|art. 102, I, d", "CF|art. 109, VIII"],
+  "pend": 0
+ },
+ "2025 - MPPI - Analista Ministerial|27": {
+  "c": "A letra E trata da lei complementar de finanças públicas, que deve dispor, entre outros temas, sobre as condições e os limites para concessão, ampliação ou prorrogação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita (CF, art. 163; o inciso foi acrescentado pela EC 109/2021, confirmar). As demais trocam a fonte da norma: a disponibilização de dados contábeis segue periodicidade, formato e sistema do órgão central de contabilidade da União (art. 163-A), não lei complementar do ente (B); a sustentabilidade da dívida é regulada por lei complementar (art. 164-A), não pelo órgão central (C); as disponibilidades de caixa de Estados, DF e Municípios ficam em instituições financeiras oficiais, ressalvados casos previstos em LEI, e não em lei complementar do ente (art. 164, § 3º) (D); e a autorização de ajuste fiscal não cabe ao órgão central de contabilidade (A).",
+  "p": "Trocar quem edita a norma: lei complementar, lei ordinária ou ato do órgão central de contabilidade da União.",
+  "d": ["CF|art. 163", "CF|art. 163-A", "CF|art. 164, § 3º", "CF|art. 164-A"],
+  "pend": 1
+ },
+ "2025 - MPPI - Analista Ministerial|28": {
+  "c": "Não se extradita brasileiro nato; o naturalizado só pode ser extraditado por crime comum cometido antes da naturalização ou por comprovado envolvimento em tráfico ilícito de entorpecentes (CF, art. 5º, LI). O estrangeiro pode ser extraditado, salvo por crime político ou de opinião (art. 5º, LII). A naturalização ordinária depende de REQUERIMENTO: o estrangeiro de qualquer nacionalidade com mais de 15 anos ininterruptos no país e sem condenação penal, e o originário de país de língua portuguesa com residência por um ano e idoneidade moral, podem requerê-la (art. 12, II, a e b), mas não se tornam brasileiros automaticamente. Como o casal não requereu, continuam estrangeiros e podem ser extraditados; e, mesmo se naturalizados, a exceção do tráfico permitiria a extradição. A letra E reúne as hipóteses.",
+  "p": "Achar que quem preenche os requisitos da naturalização já é brasileiro; a naturalização exige requerimento (C e D).",
+  "d": ["CF|art. 5º, LI e LII", "CF|art. 12, II, a e b"],
+  "pend": 0
+ },
+ "2026 - TJCE - Analista Judiciário|21": {
+  "c": "Desde a EC 111/2021, o art. 17, § 6º, da CF prevê que Deputados Federais, Estaduais, Distritais e Vereadores que se desligarem do partido pelo qual foram eleitos perderão o mandato, salvo anuência do partido ou outras hipóteses de justa causa estabelecidas em lei, e a migração não é computada, em qualquer caso, para a distribuição de recursos do fundo partidário, de outros fundos públicos e do acesso gratuito ao rádio e à televisão. A letra B reproduz a regra. A, C e E dizem que a Vereadora não perde o mandato; D erra ao computar a migração para a distribuição de recursos.",
+  "p": "Esquecer que o rol da perda do mandato inclui os Vereadores, e que a migração NÃO conta para fundos e tempo de rádio e TV.",
+  "d": ["CF|art. 17, § 6º"],
+  "pend": 0
+ },
+ "2026 - TJCE - Analista Judiciário|22": {
+  "c": "Pelo art. 226, § 7º, da CF, o planejamento familiar é livre decisão do casal, fundado na dignidade da pessoa humana e na paternidade responsável, cabendo ao Estado propiciar recursos educacionais e científicos para o exercício desse direito, VEDADA qualquer forma coercitiva por parte de instituições oficiais ou privadas. Uma lei que imponha medidas coercitivas de controle do planejamento familiar é, então, inconstitucional. A letra D reproduz o texto. C erra ao permitir coerção por instituições privadas; A, B e E admitem coerção ou controle demográfico estatal.",
+  "p": "Aceitar a coerção por entidades privadas (C); a vedação alcança instituições oficiais e privadas.",
+  "d": ["CF|art. 226, § 7º"],
+  "pend": 0
+ },
+ "2026 - TJCE - Analista Judiciário|23": {
+  "c": "O art. 125, § 7º, da CF diz que o Tribunal de Justiça instalará a justiça itinerante, com audiências e demais funções jurisdicionais nos limites territoriais da respectiva jurisdição, servindo-se de equipamentos públicos e comunitários. A letra C está certa. A erra: para dirimir conflitos fundiários o Tribunal de Justiça PROPÕE a criação de varas especializadas com competência exclusiva para questões agrárias (art. 126). B erra: o TJ pode funcionar descentralizadamente, com Câmaras regionais (art. 125, § 6º). D erra: a lei de organização judiciária é de iniciativa do próprio Tribunal de Justiça (art. 125, § 1º). E erra: a Constituição VEDA atribuir a legitimação para agir a um único órgão na representação de inconstitucionalidade estadual (art. 125, § 2º).",
+  "p": "Dizer que a legitimação da representação de inconstitucionalidade estadual pode ser dada a um só órgão (E); a vedação é expressa.",
+  "d": ["CF|art. 125, §§ 1º, 2º, 6º e 7º", "CF|art. 126"],
+  "pend": 0
+ },
+ "2026 - TJCE - Analista Judiciário|24": {
+  "c": "A vedação de acumular remuneração do art. 37, XVI e XVII, abrange empregos e funções e alcança autarquias, fundações, empresas públicas, sociedades de economia mista, suas subsidiárias e as sociedades controladas, direta ou indiretamente, pelo poder público. Amaury já exerce função remunerada em sociedade controlada indiretamente pelo poder público; somar a ela dois cargos de professor excede o que a CF permite quando há compatibilidade de horários: dois cargos de professor; um de professor com outro técnico ou científico; dois cargos ou empregos privativos de profissionais de saúde com profissões regulamentadas. Logo, ele não pode, e a E é a alternativa que lista as três hipóteses e mantém a vedação. Observação: o texto da alternativa fala em 'outro de qualquer natureza', enquanto a CF diz 'técnico ou científico' (conferir); o gabarito é preliminar.",
+  "p": "Achar que a vedação só alcança cargos públicos em sentido estrito (A, B, C); ela abrange empregos e funções e as empresas controladas.",
+  "d": ["CF|art. 37, XVI e XVII"],
+  "pend": 1
+ },
+ "2026 - TJCE - Analista Judiciário|25": {
+  "c": "I está errado: o art. 5º, VIII, ressalva o caso de quem invoca crença para eximir-se de obrigação legal a todos imposta E se recusa a cumprir prestação alternativa fixada em lei, hipótese em que a privação de direitos é possível (art. 15, IV). II está errado: a determinação judicial só autoriza o ingresso na casa durante o DIA (art. 5º, XI), e não 'independentemente do horário'. III está certo: as entidades associativas, quando expressamente autorizadas, têm legitimidade para representar seus filiados judicial ou extrajudicialmente (art. 5º, XXI). Resposta: apenas III.",
+  "p": "Esquecer o limite do 'durante o dia' para o ingresso por ordem judicial e a ressalva da prestação alternativa na escusa de consciência.",
+  "d": ["CF|art. 5º, VIII", "CF|art. 5º, XI", "CF|art. 5º, XXI", "CF|art. 15, IV"],
+  "pend": 0
+ },
+ "2026 - TJCE - Analista Judiciário|26": {
+  "c": "O art. 8º da CF trata da liberdade sindical: é vedada ao Poder Público a interferência e a intervenção na organização sindical (I); o aposentado filiado tem direito a votar e ser votado nas organizações sindicais (VII); é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até UM ano após o final do mandato, salvo falta grave nos termos da lei (VIII). A letra A reúne as três regras. As demais negam o direito do aposentado, trocam o prazo (dois anos) ou restringem a estabilidade.",
+  "p": "Trocar um ano por dois, excluir o suplente da proteção ou negar ao aposentado o direito de ser votado.",
+  "d": ["CF|art. 8º, I", "CF|art. 8º, VII", "CF|art. 8º, VIII"],
+  "pend": 0
+ },
+ "2026 - TJCE - Analista Judiciário|27": {
+  "c": "Pilar nasceu no Brasil, mas seus pais estrangeiros estavam a serviço de seu país: não é brasileira nata (CF, art. 12, I, a). O cargo de oficial das Forças Armadas é privativo de brasileiro nato (art. 12, § 3º, VI), então ela não poderá seguir a carreira. Cacilda nasceu no exterior, filha de brasileiros que não estavam a serviço do Brasil, e não foi registrada em repartição brasileira: será brasileira nata se vier a residir no Brasil e optar, a qualquer tempo, pela nacionalidade brasileira (art. 12, I, c). Como nata, pode ser Presidente da República (art. 12, § 3º, I; idade mínima de 35 anos no art. 14, § 3º, VI, a). A letra C está certa.",
+  "p": "Achar que Cacilda já é nata sem qualquer providência (E), ou exigir naturalização (B): ela precisa residir no Brasil e optar.",
+  "d": ["CF|art. 12, I, a e c", "CF|art. 12, § 3º, I e VI", "CF|art. 14, § 3º, VI, a"],
+  "pend": 0
+ },
+ "2026 - TJCE - Analista Judiciário|28": {
+  "c": "O alistamento e o voto são facultativos para os analfabetos (CF, art. 14, § 1º, II, a), e os analfabetos são inelegíveis (art. 14, § 4º). Manuela, analfabeta, tem alistamento e voto facultativos e é inelegível (o fato de ser naturalizada e ter 35 anos não basta). Sofia, brasileira nata, tem 30 anos, mas a idade mínima para Presidente é de 35 (art. 14, § 3º, VI, a); logo, é inelegível ao cargo que pretende. A letra A está certa. A idade mínima para Governador é de 30 anos (art. 14, § 3º, VI, b).",
+  "p": "Esquecer que o analfabeto é inelegível mesmo com a idade exigida, e que a idade mínima para Presidente é 35 (e não 30).",
+  "d": ["CF|art. 14, § 1º, II, a", "CF|art. 14, § 3º, VI", "CF|art. 14, § 4º"],
+  "pend": 0
+ }
+}

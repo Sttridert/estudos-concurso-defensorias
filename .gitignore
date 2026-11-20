@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+~$*
+.~lock.*
+*.tmp
+Thumbs.db
+
+# Editais soltos (sem prova): acervo local, vao para o Google Drive do usuario, nao para o git (decisao de 16/11/2026)
+provas/*(edital, sem prova)*/
+
+# Copias automaticas do editor do catalogo (lib_rascunho.salvar)
+dados/catalogo/*.bak

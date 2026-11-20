@@ -1,0 +1,3130 @@
+{
+ "pasta": "2025 - DPE-RS - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "CIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 20942,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Noções Gerais sobre o Direito Privado."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Base epistemológica."
+     ]
+    },
+    {
+     "item": "1.1.1",
+     "frases": [
+      "Pensamento cartesiano, cientificista ou racionalista."
+     ]
+    },
+    {
+     "item": "1.1.2",
+     "frases": [
+      "Paradigma da complexidade."
+     ]
+    },
+    {
+     "item": "1.1.3",
+     "frases": [
+      "Estruturação da relação entre racionalidades científicas."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Base teórica."
+     ]
+    },
+    {
+     "item": "1.2.1",
+     "frases": [
+      "Positivismo."
+     ]
+    },
+    {
+     "item": "1.2.2",
+     "frases": [
+      "Pós-Positivismo."
+     ]
+    },
+    {
+     "item": "1.2.3",
+     "frases": [
+      "Perspectiva histórico-dogmática"
+     ]
+    },
+    {
+     "item": "1.2.4",
+     "frases": [
+      "Teoria tridimensional do direito."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Base hermenêutica."
+     ]
+    },
+    {
+     "item": "1.3.1",
+     "frases": [
+      "Paradigmas hermenêuticos reconstrutivos."
+     ]
+    },
+    {
+     "item": "1.3.2",
+     "frases": [
+      "Paradigmas hermenêuticos criativos."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Estruturação e relação entre os planos do Ser e do Dever-Ser.",
+      "1.5 distinções e aproximações entre direito e moral.",
+      "1.6 Pensamento sistemático.",
+      "1.6.1 Conceito.",
+      "1.6.2 Características.",
+      "1.6.3 Espécies de normas jurídicas: valores, princípios, regras e postulados normativos-aplicativos.",
+      "Formação histórica do Direito Privado.",
+      "Fontes do Direito Privado.",
+      "1.9 Abrangência do Direito Privado.",
+      "1.9.1 Abrangência do Direito Civil.",
+      "1.9.1 Abrangência do Direito Empresarial.",
+      "1.10 Direito público e privado.",
+      "1.10.1 Constitucionalização do Direito Civil.",
+      "1.10.2 Eficácia Horizontal dos Direitos Fundamentais (Drittwirkung).",
+      "1.10.3 Convencionalização do Direito Civil.",
+      "1.11 Direito Material e Direito Processual.",
+      "Direito Objetivo e Direitos Subjetivo e Potestativo.",
+      "Lei de Introdução às normas do Direito Brasileiro."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Noções Gerais sobre a Codificação Civil."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Estruturação normativa e codificação do direito privado."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Unificação do direito privado."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Diretrizes e vetores regentes do código civil de 2002."
+     ]
+    },
+    {
+     "item": "2.3.1",
+     "frases": [
+      "Sistematicidade."
+     ]
+    },
+    {
+     "item": "2.3.2",
+     "frases": [
+      "Operabilidade."
+     ]
+    },
+    {
+     "item": "2.3.3",
+     "frases": [
+      "Socialidade."
+     ]
+    },
+    {
+     "item": "2.3.4",
+     "frases": [
+      "Eticidade.",
+      "3.5 Concreção."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Técnica legislativa."
+     ]
+    },
+    {
+     "item": "2.4.1",
+     "frases": [
+      "Normas fechadas."
+     ]
+    },
+    {
+     "item": "2.4.2",
+     "frases": [
+      "Normas abertas."
+     ]
+    },
+    {
+     "item": "2.4.3",
+     "frases": [
+      "Normas narrativas."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "Base axiológica das relações jurídicas privadas e do código civil de 2002."
+     ]
+    },
+    {
+     "item": "2.5.1",
+     "frases": [
+      "Liberdade e autonomia privada."
+     ]
+    },
+    {
+     "item": "2.5.2",
+     "frases": [
+      "Igualdade e proteção da vulnerabilidade e da hipervulnerabilidade no âmbito do Direito Privado."
+     ]
+    },
+    {
+     "item": "2.5.3",
+     "frases": [
+      "Solidariedade social.",
+      "6 Princípios do código civil de 2002. 2.6.1 Abuso de Direito.",
+      "2.6.2 Boa-Fé Objetiva.",
+      "2.6.3 Função Social.",
+      "2.6.4 Responsabilização Civil.",
+      "2.6.5 Igualdade dos Cônjuges."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Relação Jurídica de Direito Privado."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Fontes."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Apreensão."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Requisitos."
+     ]
+    },
+    {
+     "item": "3.5",
+     "frases": [
+      "Estrutura."
+     ]
+    },
+    {
+     "item": "3.6",
+     "frases": [
+      "Efeitos."
+     ]
+    },
+    {
+     "item": "3.7",
+     "frases": [
+      "Classificações."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Situação Jurídica."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Classificações de Direitos no âmbito do Direito Privado."
+     ]
+    },
+    {
+     "item": "4.2.1",
+     "frases": [
+      "Direitos obrigacionais."
+     ]
+    },
+    {
+     "item": "4.2.2",
+     "frases": [
+      "Direitos reais."
+     ]
+    },
+    {
+     "item": "4.2.3",
+     "frases": [
+      "Direitos da Personalidade."
+     ]
+    },
+    {
+     "item": "4.2.4",
+     "frases": [
+      "Direitos de família."
+     ]
+    },
+    {
+     "item": "4.2.5",
+     "frases": [
+      "Direitos relativos à sucessão."
+     ]
+    },
+    {
+     "item": "4.2.6",
+     "frases": [
+      "Direitos relativos à relação empresarial."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Classificações."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Situação jurídica ativa."
+     ]
+    },
+    {
+     "item": "4.4.1",
+     "frases": [
+      "Direito subjetivo."
+     ]
+    },
+    {
+     "item": "4.4.2",
+     "frases": [
+      "Direito potestativo."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Situação jurídica passiva."
+     ]
+    },
+    {
+     "item": "4.5.1",
+     "frases": [
+      "Dever jurídico."
+     ]
+    },
+    {
+     "item": "4.5.2",
+     "frases": [
+      "Sujeição."
+     ]
+    },
+    {
+     "item": "4.6",
+     "frases": [
+      "Descumprimento juridicamente admissível de dever jurídico."
+     ]
+    },
+    {
+     "item": "4.7",
+     "frases": [
+      "Direitos da personalidade."
+     ]
+    },
+    {
+     "item": "4.7.1",
+     "frases": [
+      "Diferenciação entre categorias e campos jurídicos."
+     ]
+    },
+    {
+     "item": "4.7.1.1",
+     "frases": [
+      "Direitos naturais, humanos, fundamentais e da personalidade."
+     ]
+    },
+    {
+     "item": "4.7.1.2",
+     "frases": [
+      "Premissas da bioética."
+     ]
+    },
+    {
+     "item": "4.7.2",
+     "frases": [
+      "Classificação, objeto ou dimensões."
+     ]
+    },
+    {
+     "item": "4.7.3",
+     "frases": [
+      "Eficácia e abrangência."
+     ]
+    },
+    {
+     "item": "4.7.4",
+     "frases": [
+      "Temporalidade."
+     ]
+    },
+    {
+     "item": "4.7.5",
+     "frases": [
+      "Titularidade."
+     ]
+    },
+    {
+     "item": "4.7.6",
+     "frases": [
+      "Formas de proteção."
+     ]
+    },
+    {
+     "item": "4.7.7",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "4.7.8",
+     "frases": [
+      "Direitos da personalidade em espécie."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Elemento Subjetivo da Relação Jurídica – Pessoa Natural."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Noções gerais sobre pessoa."
+     ]
+    },
+    {
+     "item": "5.1.1",
+     "frases": [
+      "Conceituação e diferenciação entre pessoa e ser humano."
+     ]
+    },
+    {
+     "item": "5.1.2",
+     "frases": [
+      "Espécies de pessoas."
+     ]
+    },
+    {
+     "item": "5.1.3",
+     "frases": [
+      "Ser humano, pessoa e sujeito de direitos."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Personalidade jurídica."
+     ]
+    },
+    {
+     "item": "5.2.1",
+     "frases": [
+      "Início personalidade."
+     ]
+    },
+    {
+     "item": "5.2.1.1",
+     "frases": [
+      "Teorias sobre o início da personalidade."
+     ]
+    },
+    {
+     "item": "5.2.1.2",
+     "frases": [
+      "Requisitos jurídicos do nascimento com vida."
+     ]
+    },
+    {
+     "item": "5.2.2",
+     "frases": [
+      "Proteção constitucional à vida."
+     ]
+    },
+    {
+     "item": "5.2.3",
+     "frases": [
+      "Entes pré-natais."
+     ]
+    },
+    {
+     "item": "5.2.3.1",
+     "frases": [
+      "Nascituro."
+     ]
+    },
+    {
+     "item": "5.2.3.2",
+     "frases": [
+      "Embrião."
+     ]
+    },
+    {
+     "item": "5.2.3.3",
+     "frases": [
+      "Concepturo."
+     ]
+    },
+    {
+     "item": "5.2.3.4",
+     "frases": [
+      "Outros entes jurídicos.",
+      "5.2.5 Término da personalidade.",
+      "5.2.5.1 Morte real.",
+      "5.2.5.2 Morte real e simultânea (comoriência).",
+      "5.2.5.3 Morte presumida sem ausência.",
+      "5.2.5.4 Morte presumida com ausência."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "Capacidade."
+     ]
+    },
+    {
+     "item": "5.3.1",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "5.3.2",
+     "frases": [
+      "Formação histórica da capacidade jurídica ou de direito."
+     ]
+    },
+    {
+     "item": "5.3.3",
+     "frases": [
+      "Diferenciação entre capacidade negocial e capacidade para consentir ou existencial."
+     ]
+    },
+    {
+     "item": "5.3.4",
+     "frases": [
+      "Espécies capacidade de fato ou de exercício."
+     ]
+    },
+    {
+     "item": "5.3.4.1",
+     "frases": [
+      "Incapacidade absoluta."
+     ]
+    },
+    {
+     "item": "5.3.4.2",
+     "frases": [
+      "Incapacidade relativa."
+     ]
+    },
+    {
+     "item": "5.3.4.3",
+     "frases": [
+      "Capacidade plena."
+     ]
+    },
+    {
+     "item": "5.3.5",
+     "frases": [
+      "Modos de suprimento da incapacidade."
+     ]
+    },
+    {
+     "item": "5.3.6",
+     "frases": [
+      "Validade de atos em situações excepcionais."
+     ]
+    },
+    {
+     "item": "5.3.6.1",
+     "frases": [
+      "Relações paracontratuais ou contratuais de fato."
+     ]
+    },
+    {
+     "item": "5.3.6.2",
+     "frases": [
+      "Grupos anômalos e entes despersonalizados."
+     ]
+    },
+    {
+     "item": "5.3.7",
+     "frases": [
+      "Sistema de proteção dos incapazes."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Formas de individualização da pessoa natural."
+     ]
+    },
+    {
+     "item": "5.4.1",
+     "frases": [
+      "Nome."
+     ]
+    },
+    {
+     "item": "5.4.2",
+     "frases": [
+      "Estados."
+     ]
+    },
+    {
+     "item": "5.4.3",
+     "frases": [
+      "Domicílio."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Registro das pessoas naturais."
+     ]
+    },
+    {
+     "item": "5.5.1",
+     "frases": [
+      "Registro das pessoas trans, travestis e transexuais."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Elemento Subjetivo da Relação Jurídica – Pessoa Jurídica."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Noções gerais."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Teorias definidoras da natureza da pessoa jurídica."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Constituição e existência."
+     ]
+    },
+    {
+     "item": "6.3.1",
+     "frases": [
+      "Personificação."
+     ]
+    },
+    {
+     "item": "6.3.2",
+     "frases": [
+      "Peculiaridades sobre a capacidade civil da pessoa jurídica.",
+      "6.3.2 Titularidade e proteção dos direitos da personalidade."
+     ]
+    },
+    {
+     "item": "6.4",
+     "frases": [
+      "Classificação das pessoas jurídicas."
+     ]
+    },
+    {
+     "item": "6.5",
+     "frases": [
+      "Pessoas jurídicas de direito privado."
+     ]
+    },
+    {
+     "item": "6.6",
+     "frases": [
+      "Formas de modificação."
+     ]
+    },
+    {
+     "item": "6.7",
+     "frases": [
+      "Encerramento."
+     ]
+    },
+    {
+     "item": "6.8",
+     "frases": [
+      "Peculiaridades da responsabilidade civil."
+     ]
+    },
+    {
+     "item": "6.9",
+     "frases": [
+      "Desconsideração da personalidade jurídica."
+     ]
+    },
+    {
+     "item": "6.9.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "6.9.2",
+     "frases": [
+      "Fundamento.",
+      "6.6.9.3 Procedimento.",
+      "6.6.9.4 Teorias.",
+      "6.9.5 Formas de desconsideração da personalidade jurídica.",
+      "6.9.5.1 Desconsideração direta ou ordinária.",
+      "6.9.5.2 Desconsideração inversa.",
+      "6.9.5.3 Desconsideração indireta.",
+      "6.9.5.4 Desconsideração expansiva."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Elemento objetivo da relação jurídica - Bens."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Noções gerais."
+     ]
+    },
+    {
+     "item": "7.1.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "7.1.2",
+     "frases": [
+      "Diferença entre coisa e bem."
+     ]
+    },
+    {
+     "item": "7.1.3",
+     "frases": [
+      "Posicionamento na estrutura da relação jurídica."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Classificação dos bens.",
+      "2.1 Quanto à natureza.",
+      "7.2.1.1 Corpóreos e incorpóreos.",
+      "7.2.1.2 Móveis e imóveis.",
+      "7.2.1.3 Fungíveis e infungíveis.",
+      "7.2.1.4 Consumíveis e inconsumíveis.",
+      "7.2.1.5 Divisíveis e indivisíveis.",
+      "7.2.1.6 Singulares e coletivos.",
+      "7.2.2 Quanto à relação entre si.",
+      "7.2.2.1 Principais e acessórios.",
+      "7.2.2.1.1 Pertenças.",
+      "7.2.2.1.2 Benfeitorias.",
+      "7.2.2.1.2 Frutos e Produtos.",
+      "7.2.3 Quanto à pessoa dos titulares.",
+      "7.2.3.1 Titulares do domínio: públicos, privados e difusos.",
+      "7.2.3.2 Apropriação: coisas comuns, de ninguém e abandonadas.",
+      "7.2.4 quanto à comercibilidade.",
+      "7.2.4.1 Comercializáveis e fora do comércio."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Patrimônio."
+     ]
+    },
+    {
+     "item": "7.3.1",
+     "frases": [
+      "Noções gerais."
+     ]
+    },
+    {
+     "item": "7.3.2",
+     "frases": [
+      "Patrimônio mínimo."
+     ]
+    },
+    {
+     "item": "7.3.3",
+     "frases": [
+      "Bem de família."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Fatos jurídicos."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Noções gerais."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Juridicização."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Classificação dos fatos jurídicos."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Planos jurídicos."
+     ]
+    },
+    {
+     "item": "8.4.1",
+     "frases": [
+      "Plano da Existência."
+     ]
+    },
+    {
+     "item": "8.4.2",
+     "frases": [
+      "Plano da Validade."
+     ]
+    },
+    {
+     "item": "8.4.2.1",
+     "frases": [
+      "Declaração de vontade e disposições especiais."
+     ]
+    },
+    {
+     "item": "8.4.2.2",
+     "frases": [
+      "Teoria das invalidades."
+     ]
+    },
+    {
+     "item": "8.4.2.2.1",
+     "frases": [
+      "Noções gerais."
+     ]
+    },
+    {
+     "item": "8.4.2.2.2",
+     "frases": [
+      "Diferenças entre nulidade e anulabilidade."
+     ]
+    },
+    {
+     "item": "8.4.2.2.3",
+     "frases": [
+      "Causas de nulidade."
+     ]
+    },
+    {
+     "item": "8.4.2.2.3.1",
+     "frases": [
+      "Simulação."
+     ]
+    },
+    {
+     "item": "8.4.2.2.3.2",
+     "frases": [
+      "Fraude à lei.",
+      "8.4.2.2.3.2 Causa de nulidade específicas."
+     ]
+    },
+    {
+     "item": "8.4.2.2.4",
+     "frases": [
+      "Causas de anulabilidade.",
+      "4.1 Erro.",
+      "8.4.2.2.4.2 Dolo.",
+      "8.4.2.2.4.3 Coação.",
+      "8.4.2.2.4.4 Estado de perigo.",
+      "8.4.2.2.4.5 Lesão.",
+      "8.4.2.2.4.6 Fraude contra credores.",
+      "8.4.2.2.4.7 Causas de anulabilidade específicas."
+     ]
+    },
+    {
+     "item": "8.4.2.2.5",
+     "frases": [
+      "Disposições especiais."
+     ]
+    },
+    {
+     "item": "8.4.3",
+     "frases": [
+      "Plano da Eficácia."
+     ]
+    },
+    {
+     "item": "8.4.3.1",
+     "frases": [
+      "Elementos de auto-limitação da eficácia."
+     ]
+    },
+    {
+     "item": "8.5",
+     "frases": [
+      "Nascimento, conservação, modificação e extinção de relações jurídicas."
+     ]
+    },
+    {
+     "item": "8.6",
+     "frases": [
+      "Negócios jurídicos."
+     ]
+    },
+    {
+     "item": "8.6.1",
+     "frases": [
+      "Noções gerais."
+     ]
+    },
+    {
+     "item": "8.6.2",
+     "frases": [
+      "Elementos."
+     ]
+    },
+    {
+     "item": "8.6.3",
+     "frases": [
+      "Classificações."
+     ]
+    },
+    {
+     "item": "8.6.4",
+     "frases": [
+      "Interpretação."
+     ]
+    },
+    {
+     "item": "8.6.5",
+     "frases": [
+      "Prova"
+     ]
+    },
+    {
+     "item": "8.7",
+     "frases": [
+      "Atos ilícitos."
+     ]
+    },
+    {
+     "item": "8.8",
+     "frases": [
+      "Prescrição, decadência e institutos afins."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Direito das Obrigações."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Conceito de obrigação."
+     ]
+    },
+    {
+     "item": "9.1.1",
+     "frases": [
+      "Conceito de relação jurídica obrigacional."
+     ]
+    },
+    {
+     "item": "9.1.2",
+     "frases": [
+      "Diferenças entre obrigação, dever jurídico, ônus jurídico e estado de sujeição."
+     ]
+    },
+    {
+     "item": "9.1.3",
+     "frases": [
+      "Diferença entre obrigação e responsabilidade."
+     ]
+    },
+    {
+     "item": "9.1.4",
+     "frases": [
+      "Características da obrigação: transitoriedade; pessoalidade; globalidade."
+     ]
+    },
+    {
+     "item": "9.1.5",
+     "frases": [
+      "Distinção entre direitos obrigacionais e direitos reais"
+     ]
+    },
+    {
+     "item": "9.1.6",
+     "frases": [
+      "Elementos constitutivos da obrigação: sujeitos; objeto; vínculo."
+     ]
+    },
+    {
+     "item": "9.1.7",
+     "frases": [
+      "Fontes das obrigações."
+     ]
+    },
+    {
+     "item": "9.1.8",
+     "frases": [
+      "Obrigações derivadas de atos unilaterais."
+     ]
+    },
+    {
+     "item": "9.1.9",
+     "frases": [
+      "Obrigação como processo."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Classificação das Obrigações."
+     ]
+    },
+    {
+     "item": "9.2.1",
+     "frases": [
+      "Obrigações civis e obrigações empresariais."
+     ]
+    },
+    {
+     "item": "9.2.2",
+     "frases": [
+      "Obrigações perfeitas e obrigações imperfeitas."
+     ]
+    },
+    {
+     "item": "9.2.3",
+     "frases": [
+      "Obrigações de dar, fazer e não fazer."
+     ]
+    },
+    {
+     "item": "9.2.4",
+     "frases": [
+      "Obrigações líquidas e obrigações ilíquidas."
+     ]
+    },
+    {
+     "item": "9.2.5",
+     "frases": [
+      "Obrigações simples, cumulativas, alternativas e facultativas."
+     ]
+    },
+    {
+     "item": "9.2.6",
+     "frases": [
+      "Obrigações divisíveis e indivisíveis."
+     ]
+    },
+    {
+     "item": "9.2.7",
+     "frases": [
+      "Obrigações solidárias."
+     ]
+    },
+    {
+     "item": "9.2.8",
+     "frases": [
+      "Obrigações de meio e de resultado."
+     ]
+    },
+    {
+     "item": "9.2.9",
+     "frases": [
+      "Obrigações propter rem."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Transmissão das obrigações."
+     ]
+    },
+    {
+     "item": "9.3.1",
+     "frases": [
+      "Cessão de crédito."
+     ]
+    },
+    {
+     "item": "9.3.2",
+     "frases": [
+      "Assunção da dívida."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Pagamento e extinção das obrigações."
+     ]
+    },
+    {
+     "item": "9.4.1",
+     "frases": [
+      "Conceito de pagamento."
+     ]
+    },
+    {
+     "item": "9.4.2",
+     "frases": [
+      "Natureza jurídica do pagamento."
+     ]
+    },
+    {
+     "item": "9.4.3",
+     "frases": [
+      "Sujeitos do pagamento."
+     ]
+    },
+    {
+     "item": "9.4.4",
+     "frases": [
+      "Efeitos do pagamento."
+     ]
+    },
+    {
+     "item": "9.4.5",
+     "frases": [
+      "Objeto e prova do pagamento."
+     ]
+    },
+    {
+     "item": "9.4.6",
+     "frases": [
+      "Lugar do pagamento."
+     ]
+    },
+    {
+     "item": "9.4.7",
+     "frases": [
+      "Tempo do pagamento."
+     ]
+    },
+    {
+     "item": "9.4.8",
+     "frases": [
+      "Penhora do crédito."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Meios indiretos de extinção das obrigações."
+     ]
+    },
+    {
+     "item": "9.5.1",
+     "frases": [
+      "Pagamento em consignação."
+     ]
+    },
+    {
+     "item": "9.5.2",
+     "frases": [
+      "Pagamento com subrogação."
+     ]
+    },
+    {
+     "item": "9.5.3",
+     "frases": [
+      "Imputação do pagamento."
+     ]
+    },
+    {
+     "item": "9.5.4",
+     "frases": [
+      "Dação em pagamento."
+     ]
+    },
+    {
+     "item": "9.5.5",
+     "frases": [
+      "Novação."
+     ]
+    },
+    {
+     "item": "9.5.6",
+     "frases": [
+      "Compensação."
+     ]
+    },
+    {
+     "item": "9.5.7",
+     "frases": [
+      "Confusão."
+     ]
+    },
+    {
+     "item": "9.5.8",
+     "frases": [
+      "Remissão das dívidas."
+     ]
+    },
+    {
+     "item": "9.6",
+     "frases": [
+      "Inadimplemento das obrigações."
+     ]
+    },
+    {
+     "item": "9.6.1",
+     "frases": [
+      "Inadimplemento absoluto."
+     ]
+    },
+    {
+     "item": "9.6.2",
+     "frases": [
+      "Mora."
+     ]
+    },
+    {
+     "item": "9.6.3",
+     "frases": [
+      "Violação positiva do crédito."
+     ]
+    },
+    {
+     "item": "9.6.4",
+     "frases": [
+      "Perdas e danos."
+     ]
+    },
+    {
+     "item": "9.6.5",
+     "frases": [
+      "Juros."
+     ]
+    },
+    {
+     "item": "9.6.6",
+     "frases": [
+      "Cláusula penal."
+     ]
+    },
+    {
+     "item": "9.6.7",
+     "frases": [
+      "Arras."
+     ]
+    },
+    {
+     "item": "9.6.8",
+     "frases": [
+      "Prisão Civil."
+     ]
+    },
+    {
+     "item": "9.7",
+     "frases": [
+      "Preferências e privilégios creditórios."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Direito dos Contratos."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Teoria geral dos contratos.",
+      "10.1 Conceito."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Princípios gerais dos contratos."
+     ]
+    },
+    {
+     "item": "10.2.1",
+     "frases": [
+      "Função social dos contratos."
+     ]
+    },
+    {
+     "item": "10.2.2",
+     "frases": [
+      "Boa-fé nas relações contratuais."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Classificação dos contratos."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Formação dos contratos."
+     ]
+    },
+    {
+     "item": "10.5",
+     "frases": [
+      "Fases."
+     ]
+    },
+    {
+     "item": "10.6",
+     "frases": [
+      "Extinção dos contratos."
+     ]
+    },
+    {
+     "item": "10.7",
+     "frases": [
+      "Distrato."
+     ]
+    },
+    {
+     "item": "10.8",
+     "frases": [
+      "Cláusula resolutiva."
+     ]
+    },
+    {
+     "item": "10.9",
+     "frases": [
+      "Exceção do contrato não cumprido."
+     ]
+    },
+    {
+     "item": "10.10",
+     "frases": [
+      "Resolução por onerosidade excessiva."
+     ]
+    },
+    {
+     "item": "10.11",
+     "frases": [
+      "Revisão dos contratos."
+     ]
+    },
+    {
+     "item": "10.11.1",
+     "frases": [
+      "Teorias aplicáveis aos vícios congênitos."
+     ]
+    },
+    {
+     "item": "10.11.2",
+     "frases": [
+      "Teorias aplicáveis aos vícios supervenientes."
+     ]
+    },
+    {
+     "item": "10.11.3",
+     "frases": [
+      "Teoria do adimplemento substancial."
+     ]
+    },
+    {
+     "item": "10.11.4",
+     "frases": [
+      "A aplicação sistemática do Código Civil com o Código de Defesa do Consumidor."
+     ]
+    },
+    {
+     "item": "10.12",
+     "frases": [
+      "Vícios redibitórios.",
+      "10.12 Evicção."
+     ]
+    },
+    {
+     "item": "10.13",
+     "frases": [
+      "Contratos aleatórios."
+     ]
+    },
+    {
+     "item": "10.14",
+     "frases": [
+      "Contrato preliminar."
+     ]
+    },
+    {
+     "item": "10.15",
+     "frases": [
+      "Contrato com pessoa a declarar."
+     ]
+    },
+    {
+     "item": "10.16",
+     "frases": [
+      "Extinção dos contratos."
+     ]
+    },
+    {
+     "item": "10.17",
+     "frases": [
+      "Contratos em espécie."
+     ]
+    },
+    {
+     "item": "10.17.1",
+     "frases": [
+      "Compra e venda."
+     ]
+    },
+    {
+     "item": "10.17.2",
+     "frases": [
+      "Troca."
+     ]
+    },
+    {
+     "item": "10.17.3",
+     "frases": [
+      "Doação."
+     ]
+    },
+    {
+     "item": "10.17.4",
+     "frases": [
+      "Locação."
+     ]
+    },
+    {
+     "item": "10.17.5",
+     "frases": [
+      "Empréstimo, comodato e mútuo."
+     ]
+    },
+    {
+     "item": "10.17.6",
+     "frases": [
+      "Prestação de serviço."
+     ]
+    },
+    {
+     "item": "10.17.7",
+     "frases": [
+      "Empreitada."
+     ]
+    },
+    {
+     "item": "10.17.8",
+     "frases": [
+      "Depósito."
+     ]
+    },
+    {
+     "item": "10.17.9",
+     "frases": [
+      "Mandato."
+     ]
+    },
+    {
+     "item": "10.17.10",
+     "frases": [
+      "Comissão."
+     ]
+    },
+    {
+     "item": "10.17.11",
+     "frases": [
+      "Agência e distribuição."
+     ]
+    },
+    {
+     "item": "10.17.12",
+     "frases": [
+      "Corretagem."
+     ]
+    },
+    {
+     "item": "10.17.13",
+     "frases": [
+      "Transporte."
+     ]
+    },
+    {
+     "item": "10.17.14",
+     "frases": [
+      "Seguro."
+     ]
+    },
+    {
+     "item": "10.17.15",
+     "frases": [
+      "Fiança."
+     ]
+    },
+    {
+     "item": "10.17.16",
+     "frases": [
+      "Planos e seguros privados de assistência à saúde."
+     ]
+    },
+    {
+     "item": "10.17.17",
+     "frases": [
+      "Alienação fiduciária em garantia."
+     ]
+    },
+    {
+     "item": "10.18",
+     "frases": [
+      "Contratos coligados."
+     ]
+    },
+    {
+     "item": "10.18.1",
+     "frases": [
+      "Teoria Geral dos contratos coligados."
+     ]
+    },
+    {
+     "item": "10.18.2",
+     "frases": [
+      "Contratos coligados em espécie."
+     ]
+    },
+    {
+     "item": "10.18.3",
+     "frases": [
+      "Responsabilidade Civil nos contratos coligados."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Atos unilaterais."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Teoria Geral dos Atos Unilaterais."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Atos Unilaterais em Espécies."
+     ]
+    },
+    {
+     "item": "11.2.1",
+     "frases": [
+      "Promessa de recompensa."
+     ]
+    },
+    {
+     "item": "11.2.2",
+     "frases": [
+      "Gestão de negócios."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Responsabilidade Civil."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Noções Gerais sobre Responsabilidade Civil."
+     ]
+    },
+    {
+     "item": "12.1.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "12.1.2",
+     "frases": [
+      "Evolução da responsabilidade civil no Direito brasileiro."
+     ]
+    },
+    {
+     "item": "12.1.3",
+     "frases": [
+      "Funções da responsabilidade civil contemporânea."
+     ]
+    },
+    {
+     "item": "12.1.4",
+     "frases": [
+      "Fontes geradoras do dever de indenizar."
+     ]
+    },
+    {
+     "item": "12.1.5",
+     "frases": [
+      "Ato ilícito."
+     ]
+    },
+    {
+     "item": "12.1.6",
+     "frases": [
+      "Teorias que fundamentam o dever de indenizar."
+     ]
+    },
+    {
+     "item": "12.1.7",
+     "frases": [
+      "Sistema de responsabilidade civil."
+     ]
+    },
+    {
+     "item": "12.1.8",
+     "frases": [
+      "Espécies e classificações de responsabilidade civil.",
+      "12.1.9C ausas excludentes da responsabilidade civil."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Responsabilidades Especiais."
+     ]
+    },
+    {
+     "item": "12.2.1",
+     "frases": [
+      "Responsabilidade civil pelo exercício de atividade de risco."
+     ]
+    },
+    {
+     "item": "12.2.2",
+     "frases": [
+      "Responsabilidade civil pela circulação de produtos"
+     ]
+    },
+    {
+     "item": "12.2.3",
+     "frases": [
+      "Responsabilidade civil por danos do incapaz."
+     ]
+    },
+    {
+     "item": "12.2.4",
+     "frases": [
+      "Responsabilidade civil em caso de estado de necessidade."
+     ]
+    },
+    {
+     "item": "12.2.5",
+     "frases": [
+      "Responsabilidade civil por fato de terceiro."
+     ]
+    },
+    {
+     "item": "12.2.6",
+     "frases": [
+      "Responsabilidade civil por fato do animal."
+     ]
+    },
+    {
+     "item": "12.2.7",
+     "frases": [
+      "Responsabilidade civil por fato de coisa."
+     ]
+    },
+    {
+     "item": "12.2.8",
+     "frases": [
+      "Responsabilidade civil por danos derivados de ruína de um prédio."
+     ]
+    },
+    {
+     "item": "12.2.9",
+     "frases": [
+      "Responsabilidade civil pelo lançamento ou queda de coisas em lugar indevido."
+     ]
+    },
+    {
+     "item": "12.2.10",
+     "frases": [
+      "Responsabilidade civil na cobrança de dívidas."
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "Dos Pressupostos do Dever de Indenizar."
+     ]
+    },
+    {
+     "item": "12.3.1",
+     "frases": [
+      "Da conduta e do evento."
+     ]
+    },
+    {
+     "item": "12.3.2",
+     "frases": [
+      "Dos danos e suas espécies."
+     ]
+    },
+    {
+     "item": "12.3.3",
+     "frases": [
+      "Do nexo de causalidade."
+     ]
+    },
+    {
+     "item": "12.3.4",
+     "frases": [
+      "Da culpa e suas graduações."
+     ]
+    },
+    {
+     "item": "12.4",
+     "frases": [
+      "Da Indenização."
+     ]
+    },
+    {
+     "item": "12.4.1",
+     "frases": [
+      "Critérios e princípios que orientam a reparação dos danos."
+     ]
+    },
+    {
+     "item": "12.4.2",
+     "frases": [
+      "Da indenização em caso de morte."
+     ]
+    },
+    {
+     "item": "12.4.3",
+     "frases": [
+      "Da indenização no caso de lesões à saúde.",
+      "12.4.4. da indenização no caso de dano no exercício de atividade profissional.",
+      "Da indenização no caso de usurpação ou esbulho do alheio.",
+      "Da indenização no caso de injúria, difamação ou calúnia.",
+      "Da indenização no caso de ofensa à liberdade pessoal.",
+      "Da indenização no caso de danos extrapatrimoniais."
+     ]
+    },
+    {
+     "item": "12.5",
+     "frases": [
+      "Efeitos da decisão penal na esfera cível."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Direito das Empresas."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Noções Gerais sobre o Direito das Empresas."
+     ]
+    },
+    {
+     "item": "13.1.1",
+     "frases": [
+      "Da Empresa e Do Empresário."
+     ]
+    },
+    {
+     "item": "13.1.2",
+     "frases": [
+      "Ato empresarial."
+     ]
+    },
+    {
+     "item": "13.1.3",
+     "frases": [
+      "Empresa e Estabelecimento."
+     ]
+    },
+    {
+     "item": "13.1.4",
+     "frases": [
+      "Empresa e atividade econômica."
+     ]
+    },
+    {
+     "item": "13.1.5",
+     "frases": [
+      "Teoria Econômica da Empresa."
+     ]
+    },
+    {
+     "item": "13.1.6",
+     "frases": [
+      "Evolução histórica do direito empresarial."
+     ]
+    },
+    {
+     "item": "13.1.7",
+     "frases": [
+      "Função social no âmbito dos direito das empresas."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Empresário."
+     ]
+    },
+    {
+     "item": "13.2.1",
+     "frases": [
+      "Empresário Individual."
+     ]
+    },
+    {
+     "item": "13.2.2",
+     "frases": [
+      "Micro Empreendedor Individual (MEI)."
+     ]
+    },
+    {
+     "item": "13.2.3",
+     "frases": [
+      "Regimes de Pequeno Porte e Microempresa."
+     ]
+    },
+    {
+     "item": "13.2.4",
+     "frases": [
+      "Obrigações Gerais dos Empresários."
+     ]
+    },
+    {
+     "item": "13.2.5",
+     "frases": [
+      "Responsabilidade dos sócios."
+     ]
+    },
+    {
+     "item": "13.2.6",
+     "frases": [
+      "Proteção da vulnerabilidade do empresário."
+     ]
+    },
+    {
+     "item": "13.3",
+     "frases": [
+      "Teoria Geral das Sociedades."
+     ]
+    },
+    {
+     "item": "13.3.1",
+     "frases": [
+      "Elementos caracterizadores da relação societária."
+     ]
+    },
+    {
+     "item": "13.3.2",
+     "frases": [
+      "Registro e personalização das sociedades."
+     ]
+    },
+    {
+     "item": "13.3.3",
+     "frases": [
+      "Desconsideração da personalidade jurídica."
+     ]
+    },
+    {
+     "item": "13.3.3.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "13.3.3.2",
+     "frases": [
+      "Fundamento."
+     ]
+    },
+    {
+     "item": "13.3.3.3",
+     "frases": [
+      "Procedimento."
+     ]
+    },
+    {
+     "item": "13.3.3.4",
+     "frases": [
+      "Teorias."
+     ]
+    },
+    {
+     "item": "13.3.3.5",
+     "frases": [
+      "Formas de desconsideração da personalidade jurídica."
+     ]
+    },
+    {
+     "item": "13.3.4",
+     "frases": [
+      "Sociedades Despersonificadas."
+     ]
+    },
+    {
+     "item": "13.3.5",
+     "frases": [
+      "Sociedades Personificadas."
+     ]
+    },
+    {
+     "item": "13.3.6",
+     "frases": [
+      "Deliberações sociais."
+     ]
+    },
+    {
+     "item": "13.3.7",
+     "frases": [
+      "Capital social."
+     ]
+    },
+    {
+     "item": "13.3.8",
+     "frases": [
+      "Administração."
+     ]
+    },
+    {
+     "item": "13.3.9",
+     "frases": [
+      "Resolução da sociedade em relação ao sócio."
+     ]
+    },
+    {
+     "item": "13.3.10",
+     "frases": [
+      "Dissolução."
+     ]
+    },
+    {
+     "item": "13.3.11",
+     "frases": [
+      "Liquidação."
+     ]
+    },
+    {
+     "item": "13.3.12",
+     "frases": [
+      "Proteção da vulnerabilidade da pessoa jurídica."
+     ]
+    },
+    {
+     "item": "13.4",
+     "frases": [
+      "Financiamento da Atividade Empresarial."
+     ]
+    },
+    {
+     "item": "13.4.1",
+     "frases": [
+      "Noções de Crédito."
+     ]
+    },
+    {
+     "item": "13.4.2",
+     "frases": [
+      "Teoria Geral dos Títulos de Crédito."
+     ]
+    },
+    {
+     "item": "13.4.3",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "13.4.4",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "13.4.5",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "13.5",
+     "frases": [
+      "Recuperação Judicial, extrajudicial, falência do empresário e da sociedade empresária."
+     ]
+    },
+    {
+     "item": "13.5.1",
+     "frases": [
+      "Disposições comuns."
+     ]
+    },
+    {
+     "item": "13.5.2",
+     "frases": [
+      "Obrigações contratuais na recuperação judicial e na falência."
+     ]
+    },
+    {
+     "item": "13.5.3",
+     "frases": [
+      "Direitos e deveres do falido."
+     ]
+    },
+    {
+     "item": "13.5.4",
+     "frases": [
+      "Habilitação e classificação dos créditos."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Direito das Coisas."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "Noções Gerais sobre o Direito das coisas."
+     ]
+    },
+    {
+     "item": "14.1.1",
+     "frases": [
+      "Aspectos constitucionais."
+     ]
+    },
+    {
+     "item": "14.1.2",
+     "frases": [
+      "Conceitos."
+     ]
+    },
+    {
+     "item": "14.1.3",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "14.1.4",
+     "frases": [
+      "Evolução histórica dos direitos reais."
+     ]
+    },
+    {
+     "item": "14.1.5",
+     "frases": [
+      "Distinção entre direitos reais e pessoais."
+     ]
+    },
+    {
+     "item": "14.1.6",
+     "frases": [
+      "Distinção entre direitos reais e direitos obrigacionais."
+     ]
+    },
+    {
+     "item": "14.1.7",
+     "frases": [
+      "Classificação dos direitos das reais."
+     ]
+    },
+    {
+     "item": "14.1.8",
+     "frases": [
+      "Constituição dos direitos reais."
+     ]
+    },
+    {
+     "item": "14.1.9",
+     "frases": [
+      "Função social dos Direitos Reais."
+     ]
+    },
+    {
+     "item": "14.1.10",
+     "frases": [
+      "Função socioambiental dos Direitos Reais."
+     ]
+    },
+    {
+     "item": "14.2",
+     "frases": [
+      "Posse."
+     ]
+    },
+    {
+     "item": "14.2.1",
+     "frases": [
+      "Origem."
+     ]
+    },
+    {
+     "item": "14.2.2",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "14.2.3",
+     "frases": [
+      "Teorias."
+     ]
+    },
+    {
+     "item": "14.2.4",
+     "frases": [
+      "Detenção."
+     ]
+    },
+    {
+     "item": "14.2.5",
+     "frases": [
+      "Natureza jurídica."
+     ]
+    },
+    {
+     "item": "14.2.6",
+     "frases": [
+      "Objeto da posse."
+     ]
+    },
+    {
+     "item": "14.2.7",
+     "frases": [
+      "Classificação da posse."
+     ]
+    },
+    {
+     "item": "14.2.8",
+     "frases": [
+      "Aquisição da posse."
+     ]
+    },
+    {
+     "item": "14.2.9",
+     "frases": [
+      "Perda da posse."
+     ]
+    },
+    {
+     "item": "14.2.10",
+     "frases": [
+      "Efeitos da posse."
+     ]
+    },
+    {
+     "item": "14.3",
+     "frases": [
+      "Propriedade."
+     ]
+    },
+    {
+     "item": "14.3.1",
+     "frases": [
+      "Histórico."
+     ]
+    },
+    {
+     "item": "14.3.2",
+     "frases": [
+      "Fundamento jurídico."
+     ]
+    },
+    {
+     "item": "14.3.3",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "14.3.4",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "14.3.5",
+     "frases": [
+      "Sujeitos da propriedade."
+     ]
+    },
+    {
+     "item": "14.3.6",
+     "frases": [
+      "Objeto."
+     ]
+    },
+    {
+     "item": "14.3.7",
+     "frases": [
+      "Modalidades de propriedade."
+     ]
+    },
+    {
+     "item": "14.3.8",
+     "frases": [
+      "Aquisição da propriedade."
+     ]
+    },
+    {
+     "item": "14.3.8.1",
+     "frases": [
+      "Sistemas de aquisição."
+     ]
+    },
+    {
+     "item": "14.3.8.2",
+     "frases": [
+      "Modos de aquisição."
+     ]
+    },
+    {
+     "item": "14.3.8.3",
+     "frases": [
+      "Aquisição da propriedade imóvel pela transcrição."
+     ]
+    },
+    {
+     "item": "14.3.8.4",
+     "frases": [
+      "Aquisição da propriedade pela acessão."
+     ]
+    },
+    {
+     "item": "14.3.8.5",
+     "frases": [
+      "Aquisição pela usucapião."
+     ]
+    },
+    {
+     "item": "14.3.8.6",
+     "frases": [
+      "Aquisição da propriedade móvel."
+     ]
+    },
+    {
+     "item": "14.3.9",
+     "frases": [
+      "Perda da propriedade móvel e imóvel."
+     ]
+    },
+    {
+     "item": "14.3.10",
+     "frases": [
+      "Direitos de Vizinhança."
+     ]
+    },
+    {
+     "item": "14.3.11",
+     "frases": [
+      "Condomínio."
+     ]
+    },
+    {
+     "item": "14.3.12",
+     "frases": [
+      "Loteamento."
+     ]
+    },
+    {
+     "item": "14.3.13",
+     "frases": [
+      "Propriedade resolúvel."
+     ]
+    },
+    {
+     "item": "14.3.14",
+     "frases": [
+      "Propriedade fiduciária."
+     ]
+    },
+    {
+     "item": "14.3.15",
+     "frases": [
+      "Propriedade intelectual."
+     ]
+    },
+    {
+     "item": "14.3.16",
+     "frases": [
+      "Parcelamento do solo urbano."
+     ]
+    },
+    {
+     "item": "14.3.17",
+     "frases": [
+      "Regularização fundiária de assentamentos localizados em áreas urbanas."
+     ]
+    },
+    {
+     "item": "14.4",
+     "frases": [
+      "Direitos reais na coisa alheia."
+     ]
+    },
+    {
+     "item": "14.4.1",
+     "frases": [
+      "Direitos reais de gozo ou fruição."
+     ]
+    },
+    {
+     "item": "14.4.1.1",
+     "frases": [
+      "Enfiteuse."
+     ]
+    },
+    {
+     "item": "14.4.1.2",
+     "frases": [
+      "Superfície."
+     ]
+    },
+    {
+     "item": "14.4.1.3",
+     "frases": [
+      "Servidões."
+     ]
+    },
+    {
+     "item": "14.4.1.4",
+     "frases": [
+      "Usufruto."
+     ]
+    },
+    {
+     "item": "14.4.1.5",
+     "frases": [
+      "Uso."
+     ]
+    },
+    {
+     "item": "14.4.1.6",
+     "frases": [
+      "Habitação."
+     ]
+    },
+    {
+     "item": "14.4.1.7",
+     "frases": [
+      "Laje."
+     ]
+    },
+    {
+     "item": "14.4.2",
+     "frases": [
+      "Direitos reais de Aquisição."
+     ]
+    },
+    {
+     "item": "14.4.2.1",
+     "frases": [
+      "Direito do promitente comprador."
+     ]
+    },
+    {
+     "item": "14.4.3",
+     "frases": [
+      "Direitos reais de garantia."
+     ]
+    },
+    {
+     "item": "14.4.3.1",
+     "frases": [
+      "Penhor."
+     ]
+    },
+    {
+     "item": "14.4.3.2",
+     "frases": [
+      "Hipoteca."
+     ]
+    },
+    {
+     "item": "14.4.3.3",
+     "frases": [
+      "Anticrese."
+     ]
+    },
+    {
+     "item": "14.4.4",
+     "frases": [
+      "Direitos reais Sociais."
+     ]
+    },
+    {
+     "item": "14.4.4.1",
+     "frases": [
+      "Concessão de uso especial para fins de moradia."
+     ]
+    },
+    {
+     "item": "14.4.4.2",
+     "frases": [
+      "Concessão de direito real de uso."
+     ]
+    },
+    {
+     "item": "14.5",
+     "frases": [
+      "Direito real à aquisição.",
+      "14.4.5.1 Direito do promitente comprador.",
+      "14.4.5.2 Compromisso de venda e compra.",
+      "14.4.5.3 Adjudicação compulsória."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Direito das Famílias."
+     ]
+    },
+    {
+     "item": "15.1",
+     "frases": [
+      "Entidades familiares."
+     ]
+    },
+    {
+     "item": "15.1.1",
+     "frases": [
+      "Histórico."
+     ]
+    },
+    {
+     "item": "15.1.2",
+     "frases": [
+      "Conceitos."
+     ]
+    },
+    {
+     "item": "15.1.3",
+     "frases": [
+      "Relações familiares plurais e fundamentos da diversidade familiar e afetiva."
+     ]
+    },
+    {
+     "item": "15.1.4",
+     "frases": [
+      "Diversidade sexual."
+     ]
+    },
+    {
+     "item": "15.1.5",
+     "frases": [
+      "Família homoafetiva."
+     ]
+    },
+    {
+     "item": "15.1.6",
+     "frases": [
+      "Princípios da família e aplicáveis às relações familiares."
+     ]
+    },
+    {
+     "item": "15.1.7",
+     "frases": [
+      "Planejamento familiar."
+     ]
+    },
+    {
+     "item": "15.1.8",
+     "frases": [
+      "Violência doméstica."
+     ]
+    },
+    {
+     "item": "15.1.9",
+     "frases": [
+      "Homofobia."
+     ]
+    },
+    {
+     "item": "15.1.10",
+     "frases": [
+      "Discriminação em razão de orientação identitária e sexual."
+     ]
+    },
+    {
+     "item": "15.2",
+     "frases": [
+      "Esponsais."
+     ]
+    },
+    {
+     "item": "15.2.1",
+     "frases": [
+      "Casamento heteroafetivo e homoafetivo."
+     ]
+    },
+    {
+     "item": "15.2.1.1",
+     "frases": [
+      "Capacidade."
+     ]
+    },
+    {
+     "item": "15.2.1.2",
+     "frases": [
+      "Impedimentos."
+     ]
+    },
+    {
+     "item": "15.2.1.3",
+     "frases": [
+      "Causas suspensivas."
+     ]
+    },
+    {
+     "item": "15.2.1.4",
+     "frases": [
+      "Habilitação."
+     ]
+    },
+    {
+     "item": "15.2.1.5",
+     "frases": [
+      "Celebração."
+     ]
+    },
+    {
+     "item": "15.2.1.6",
+     "frases": [
+      "Eficácia."
+     ]
+    },
+    {
+     "item": "15.2.1.7",
+     "frases": [
+      "Direitos e deveres."
+     ]
+    },
+    {
+     "item": "15.2.1.8",
+     "frases": [
+      "Invalidades."
+     ]
+    },
+    {
+     "item": "15.2.1.9",
+     "frases": [
+      "Separação e divórcio."
+     ]
+    },
+    {
+     "item": "15.2.2",
+     "frases": [
+      "Direito Patrimonial."
+     ]
+    },
+    {
+     "item": "15.2.2.1",
+     "frases": [
+      "Regime de bens."
+     ]
+    },
+    {
+     "item": "15.2.2.1.1",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "15.2.2.2",
+     "frases": [
+      "Pacto antenupcial."
+     ]
+    },
+    {
+     "item": "15.2.2.3",
+     "frases": [
+      "Meação e sucessão do cônjuge."
+     ]
+    },
+    {
+     "item": "15.2.2.4",
+     "frases": [
+      "Usufruto e administração de bens de filhos incapazes."
+     ]
+    },
+    {
+     "item": "15.3",
+     "frases": [
+      "Relações de parentesco."
+     ]
+    },
+    {
+     "item": "15.3.1",
+     "frases": [
+      "Vínculos de parentesco."
+     ]
+    },
+    {
+     "item": "15.3.2",
+     "frases": [
+      "Multiparentalidade."
+     ]
+    },
+    {
+     "item": "15.3.3",
+     "frases": [
+      "Ascendência genética."
+     ]
+    },
+    {
+     "item": "15.3.4",
+     "frases": [
+      "Homoparentalidade."
+     ]
+    },
+    {
+     "item": "15.3.5",
+     "frases": [
+      "Paternidade e maternidade."
+     ]
+    },
+    {
+     "item": "15.3.6",
+     "frases": [
+      "Filiação."
+     ]
+    },
+    {
+     "item": "15.3.6.1",
+     "frases": [
+      "Princípios relativos à filiação."
+     ]
+    },
+    {
+     "item": "15.3.6.2",
+     "frases": [
+      "Espécies de filiação."
+     ]
+    },
+    {
+     "item": "15.3.7",
+     "frases": [
+      "Origem genética."
+     ]
+    },
+    {
+     "item": "15.3.8",
+     "frases": [
+      "Reprodução assistida."
+     ]
+    },
+    {
+     "item": "15.3.9",
+     "frases": [
+      "Reconhecimento de filhos."
+     ]
+    },
+    {
+     "item": "15.3.10",
+     "frases": [
+      "Socioafetividade."
+     ]
+    },
+    {
+     "item": "15.3.11",
+     "frases": [
+      "Adoção."
+     ]
+    },
+    {
+     "item": "15.4",
+     "frases": [
+      "Proteção da pessoa dos filhos."
+     ]
+    },
+    {
+     "item": "15.4.1",
+     "frases": [
+      "Convivência familiar."
+     ]
+    },
+    {
+     "item": "15.4.2",
+     "frases": [
+      "Poder familiar."
+     ]
+    },
+    {
+     "item": "15.4.3",
+     "frases": [
+      "Guarda."
+     ]
+    },
+    {
+     "item": "15.4.4",
+     "frases": [
+      "Direito de visitas."
+     ]
+    },
+    {
+     "item": "15.4.5",
+     "frases": [
+      "Alienação Parental."
+     ]
+    },
+    {
+     "item": "15.5",
+     "frases": [
+      "União estável heteorafetiva e homoafetiva."
+     ]
+    },
+    {
+     "item": "15.5.1",
+     "frases": [
+      "Aspectos legais e constitucionais."
+     ]
+    },
+    {
+     "item": "15.5.2",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "15.5.3",
+     "frases": [
+      "Estado."
+     ]
+    },
+    {
+     "item": "15.5.4",
+     "frases": [
+      "Impedimentos."
+     ]
+    },
+    {
+     "item": "15.5.5",
+     "frases": [
+      "Direitos e deveres."
+     ]
+    },
+    {
+     "item": "15.5.6",
+     "frases": [
+      "Efeitos patrimoniais."
+     ]
+    },
+    {
+     "item": "15.5.7",
+     "frases": [
+      "Regime de bens."
+     ]
+    },
+    {
+     "item": "15.5.8",
+     "frases": [
+      "Meação e sucessão do companheiro."
+     ]
+    },
+    {
+     "item": "15.5.9",
+     "frases": [
+      "Uniões estáveis concomitantes."
+     ]
+    },
+    {
+     "item": "15.5.10",
+     "frases": [
+      "Concubinato."
+     ]
+    },
+    {
+     "item": "15.6",
+     "frases": [
+      "Alimentos."
+     ]
+    },
+    {
+     "item": "15.6.1",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "15.6.2",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "15.6.3",
+     "frases": [
+      "Natureza."
+     ]
+    },
+    {
+     "item": "15.6.4",
+     "frases": [
+      "Classificação dos alimentos."
+     ]
+    },
+    {
+     "item": "15.6.5",
+     "frases": [
+      "Características do direito alimentar e da obrigação alimentar."
+     ]
+    },
+    {
+     "item": "15.6.6",
+     "frases": [
+      "Histórico e origens."
+     ]
+    },
+    {
+     "item": "15.6.7",
+     "frases": [
+      "Sujeitos das obrigações alimentares."
+     ]
+    },
+    {
+     "item": "15.6.8",
+     "frases": [
+      "Alimentos Gravídicos."
+     ]
+    },
+    {
+     "item": "15.7",
+     "frases": [
+      "Bem de família."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Direito da Sucessão."
+     ]
+    },
+    {
+     "item": "16.1",
+     "frases": [
+      "Conceito e generalidades."
+     ]
+    },
+    {
+     "item": "16.2",
+     "frases": [
+      "Da Sucessão em geral."
+     ]
+    },
+    {
+     "item": "16.3",
+     "frases": [
+      "Transmissão da herança."
+     ]
+    },
+    {
+     "item": "16.4",
+     "frases": [
+      "Momento da abertura, aceitação e renúncia.",
+      "Sucessor legítimo e sucessor testamentário.",
+      "16.2 Herança jacente e herança vacante.",
+      "Petição de herança 16.4.",
+      "Vocação hereditária e exclusão da herança."
+     ]
+    },
+    {
+     "item": "16.4.1",
+     "frases": [
+      "Aceitação e renúncia"
+     ]
+    },
+    {
+     "item": "16.4.2",
+     "frases": [
+      "Exclusão da herança por indignidade."
+     ]
+    },
+    {
+     "item": "16.4.3",
+     "frases": [
+      "Exclusão da herança por deserdação"
+     ]
+    },
+    {
+     "item": "16.5",
+     "frases": [
+      "Sucessão legítima."
+     ]
+    },
+    {
+     "item": "16.5.1",
+     "frases": [
+      "Da ordem da vocação hereditária."
+     ]
+    },
+    {
+     "item": "16.5.2",
+     "frases": [
+      "Das formas de suceder e modos de partilhar."
+     ]
+    },
+    {
+     "item": "16.5.3",
+     "frases": [
+      "Demais aspectos legais e jurisprudenciais."
+     ]
+    },
+    {
+     "item": "16.6",
+     "frases": [
+      "Sucessão testamentária."
+     ]
+    },
+    {
+     "item": "16.6.1",
+     "frases": [
+      "Capacidade para testar."
+     ]
+    },
+    {
+     "item": "16.6.2",
+     "frases": [
+      "Capacidade para adquirir por testamento."
+     ]
+    },
+    {
+     "item": "16.6.3",
+     "frases": [
+      "Formas de testamentos.",
+      "Formas ordinárias.",
+      "Formas especiais."
+     ]
+    },
+    {
+     "item": "16.6.4",
+     "frases": [
+      "Disposições testamentárias.",
+      "Substituições (vulgar, recíproca e fideicomissária)."
+     ]
+    },
+    {
+     "item": "16.6.5",
+     "frases": [
+      "Direito de acrescer."
+     ]
+    },
+    {
+     "item": "16.6.6",
+     "frases": [
+      "Redução das disposições testamentárias."
+     ]
+    },
+    {
+     "item": "16.6.7",
+     "frases": [
+      "Legados (efeitos, caducidade, substituições)."
+     ]
+    },
+    {
+     "item": "16.6.8",
+     "frases": [
+      "Ineficácia do testamento (plano da existência, validade e eficácia)."
+     ]
+    },
+    {
+     "item": "16.6.9",
+     "frases": [
+      "Testamenteiro."
+     ]
+    },
+    {
+     "item": "16.6.10",
+     "frases": [
+      "Revogação."
+     ]
+    },
+    {
+     "item": "16.6.11",
+     "frases": [
+      "Demais aspectos legais e jurisprudenciais."
+     ]
+    },
+    {
+     "item": "16.7",
+     "frases": [
+      "Planejamento Sucessório."
+     ]
+    },
+    {
+     "item": "16.8",
+     "frases": [
+      "Inventário e partilha."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Conteúdos Normativos Específicos."
+     ]
+    },
+    {
+     "item": "17.1",
+     "frases": [
+      "Registros Públicos (Lei Federal nº 6.015/1973)."
+     ]
+    },
+    {
+     "item": "17.2",
+     "frases": [
+      "Código de Defesa do Consumidor (Lei Federal nº 8.078/1990)."
+     ]
+    },
+    {
+     "item": "17.3",
+     "frases": [
+      "Lei de Locações (Lei Federal nº 8.245/1991)."
+     ]
+    },
+    {
+     "item": "17.4",
+     "frases": [
+      "Estatuto da Cidade (Lei Federal nº 10.257/2001)."
+     ]
+    },
+    {
+     "item": "17.5",
+     "frases": [
+      "Estatuto da Pessoa Idosa (Lei Federal nº 10.741/2003)."
+     ]
+    },
+    {
+     "item": "17.6",
+     "frases": [
+      "Bem de Família (Lei Federal nº 8.009/1990)."
+     ]
+    },
+    {
+     "item": "17.7",
+     "frases": [
+      "Alimentos (Lei Federal nº 5.478/1968)."
+     ]
+    },
+    {
+     "item": "17.8",
+     "frases": [
+      "Alimentos gravídicos (Lei nº 11.804/2008)."
+     ]
+    },
+    {
+     "item": "17.9",
+     "frases": [
+      "Parcelamento do solo (Lei Federal nº 6.766/79)."
+     ]
+    },
+    {
+     "item": "17.10",
+     "frases": [
+      "Regularização Fundiária (Lei nº 13.465, de 11 de julho de 2017)."
+     ]
+    },
+    {
+     "item": "17.11",
+     "frases": [
+      "Estatuto da Pessoa com Deficiência (Lei Federal nº 13.146/15)."
+     ]
+    },
+    {
+     "item": "17.12",
+     "frases": [
+      "Proteção de Dados Pessoais (Lei nº 13.709, de 14 de agosto de 2018)."
+     ]
+    },
+    {
+     "item": "17.13",
+     "frases": [
+      "Lei da liberdade Econômica (Lei 13.874/19)."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Jurisprudência e Enunciados de Súmulas do Supremo Tribunal Federal, do Superior Tribunal de Justiça e do Tribunal de Justiça do Estado do Rio Grande do Sul."
+     ]
+    }
+   ]
+  }
+ ]
+}

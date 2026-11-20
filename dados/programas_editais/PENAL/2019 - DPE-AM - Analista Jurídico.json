@@ -1,0 +1,226 @@
+{
+ "pasta": "2019 - DPE-AM - Analista Jurídico",
+ "banca": "FCC",
+ "disciplina": "PENAL",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PENAL",
+   "caracteres": 4805,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito Penal: conceito, fontes, objetivos.",
+      "Princípios penais.",
+      "Direito penal e poder punitivo.",
+      "Genealogia do pensamento penal.",
+      "As escolas penais.",
+      "Modernas tendências do pensamento penal.",
+      "Evolução histórica do Direito Penal.",
+      "História do processo de criminalização no Brasil."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Política criminal e penitenciária no Brasil.",
+      "As escolas criminológicas.",
+      "Sistema penal e controle social.",
+      "Processo de criminalização.",
+      "Vitimologia e vitimização.",
+      "Polícia e Sistema Penal.",
+      "O encarceramento no Brasil: dados e perspectivas.",
+      "O sistema penal brasileiro.",
+      "Modernas tendências do pensamento criminológico e de política criminal.",
+      "Mídia e sistema penal.",
+      "Prisão: prisonização e relações de poder penitenciárias.",
+      "Análises criminológicas concretas."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Constituição e Direito Penal.",
+      "O Direito Penal e o Estado Democrático de Direito.",
+      "Direito Penal e Direitos Humanos.",
+      "Direitos humanos e processo de criminalização.",
+      "Aplicação e interpretação da lei penal."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Teoria do delito: evolução histórica, elementos do crime.",
+      "Bem jurídico-penal.",
+      "Modernas tendências da teoria do delito."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Tipicidade: tipo penal, conduta (ação e omissão), nexo de causalidade, resultado.",
+      "Iter criminis.",
+      "Desistência voluntária e arrependimento eficaz.",
+      "Dolo.",
+      "Culpa.",
+      "Imputação objetiva."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Ilicitude: conceito.",
+      "O injusto penal.",
+      "Direito Penal e moral.",
+      "Excludentes da ilicitude."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Culpabilidade: conceito, evolução histórica, estrutura.",
+      "Princípio da culpabilidade.",
+      "Culpabilidade e liberdade.",
+      "Culpabilidade e periculosidade.",
+      "Culpabilidade e vulnerabilidade.",
+      "Direito Penal do fato e Direito Penal do autor.",
+      "Imputabilidade.",
+      "Inexigibilidade de conduta diversa.",
+      "Excludentes da culpabilidade."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Arrependimento posterior.",
+      "Crime impossível.",
+      "Concurso de agentes.",
+      "Erro no Direito Penal.",
+      "Punibilidade.",
+      "Concurso de crimes."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Pena: evolução histórica, espécies, aplicação.",
+      "Teorias da pena.",
+      "Modernas tendências das teorias da pena.",
+      "Circunstâncias Judiciais.",
+      "Agravantes e Atenuantes.",
+      "Causas de Aumento e de Diminuição.",
+      "Cálculo da Pena.",
+      "Extinção da punibilidade.",
+      "Suspensão condicional da pena.",
+      "Reabilitação.",
+      "Direito Processual Penal: 1.",
+      "Princípios que regem o processo penal.",
+      "Direitos e garantias aplicáveis ao processo penal na Constituição Federal.",
+      "Direitos e garantias aplicáveis ao processo penal nos tratados e convenções internacionais ratificados pelo Brasil.",
+      "Conceito e características do devido processo penal.",
+      "Conceito e características do processo penal inquisitório e acusatório.",
+      "Fontes do processo penal.",
+      "Lei processual penal no tempo e no espaço.",
+      "Interpretação da lei processual penal.",
+      "Sistemas de investigação preliminar.",
+      "Inquérito policial.",
+      "Identificação criminal."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Meios de obtenção de prova na persecução criminal.",
+      "Busca e apreensão.",
+      "Interceptação telefônica.",
+      "Quebra de sigilo telefônico, bancário e fiscal.",
+      "Delação premiada."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Ação penal de iniciativa pública e privada.",
+      "Condições da ação."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Denúncia e Queixa-crime.",
+      "Garantias do processo penal."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Ação civil exdelicto."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "O papel da vítima no processo penal."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Jurisdição e competência."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Sujeitos processuais.17.",
+      "O direito de defesa.",
+      "Autodefesa e defesa técnica.",
+      "Interrogatório.",
+      "Questões e processos incidentes.",
+      "Prova.",
+      "Ônus da prova.",
+      "Procedimento probatório.",
+      "Garantias aplicáveis à proposição, produção e valoração da prova.",
+      "Meios de prova.",
+      "Indícios no processo penal.",
+      "Prisão em flagrante.",
+      "Prisão preventiva.",
+      "Prisão temporária.",
+      "Prisão domiciliar.",
+      "Relaxamento e liberdade provisória.",
+      "Medidas cautelares diversas da prisão.",
+      "A implantação das audiências de custódia.",
+      "Medidas assecuratórias.",
+      "Citação, notificação e intimação.",
+      "Revelia e suspensão condicional do processo.",
+      "Aplicação provisória de interdições e medida de segurança.",
+      "Sentença penal, motivação das decisões e coisa julgada.",
+      "Emendatio libelli e mutatio libelli.",
+      "Processo e procedimento.",
+      "Pressupostos processuais.",
+      "Procedimento comum e especial.",
+      "Rito ordinário.",
+      "Rito sumário.",
+      "Rito sumaríssimo.",
+      "Juizados Especiais Criminais.",
+      "Procedimento relativo ao Tribunal do Júri.",
+      "Procedimentos especiais.",
+      "Nulidades.",
+      "Recursos.",
+      "Ações de impugnação.",
+      "Revisão criminal.",
+      "Habeas corpus.",
+      "Mandado de segurança contra ato jurisdicional penal.",
+      "Execução penal.",
+      "Legislação federal e legislação estadual pertinente.",
+      "Aspectos processuais da legislação penal especial: abuso de autoridade; crimes hediondos; organização criminosa; tortura; crimes de menor potencial ofensivo; proteção a vítimas e a testemunhas; desarmamento; lei de drogas; violência doméstica e familiar contra a mulher; trânsito; meio ambiente; crimes de preconceito; crimes contra as relações de consumo; estatuto do idoso.",
+      "Prerrogativas e garantias dos defensores públicos relacionadas com o processo penal.",
+      "Assistência jurídica integral e gratuita: aspectos processuais."
+     ]
+    }
+   ]
+  }
+ ]
+}

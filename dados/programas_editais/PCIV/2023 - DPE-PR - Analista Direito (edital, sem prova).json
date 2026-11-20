@@ -1,0 +1,369 @@
+{
+ "pasta": "2023 - DPE-PR - Analista Direito (edital, sem prova)",
+ "banca": "Consulplan",
+ "disciplina": "PCIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 1785,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Lei nº 13.105/2015 (Código de Processo Civil)."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Normas processuais civis."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "A jurisdição."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "A Ação."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Conceito, natureza, elementos e características."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Condições da ação."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Pressupostos processuais."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Preclusão."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Sujeitos do processo."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Capacidade processual e postulatória."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Deveres das partes e procuradores."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Procuradores."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Sucessão das partes e dos procuradores."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Litisconsórcio."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Intervenção de terceiros."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Poderes, deveres e responsabilidade do juiz."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Ministério Público."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Advocacia Pública."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Defensoria Pública."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Atos processuais."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Forma dos atos."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Tempo e lugar."
+     ]
+    },
+    {
+     "item": "13.3",
+     "frases": [
+      "Prazos."
+     ]
+    },
+    {
+     "item": "13.4",
+     "frases": [
+      "Comunicação dos atos processuais."
+     ]
+    },
+    {
+     "item": "13.5",
+     "frases": [
+      "Nulidades."
+     ]
+    },
+    {
+     "item": "13.6",
+     "frases": [
+      "Distribuição e registro."
+     ]
+    },
+    {
+     "item": "13.7",
+     "frases": [
+      "Valor da causa."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Tutela provisória."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "Tutela de urgência."
+     ]
+    },
+    {
+     "item": "14.2",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Formação, suspensão e extinção do processo."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Processo de conhecimento e do cumprimento de sentença."
+     ]
+    },
+    {
+     "item": "16.1",
+     "frases": [
+      "Procedimento comum."
+     ]
+    },
+    {
+     "item": "16.2",
+     "frases": [
+      "Disposições Gerais."
+     ]
+    },
+    {
+     "item": "16.3",
+     "frases": [
+      "Petição inicial."
+     ]
+    },
+    {
+     "item": "16.4",
+     "frases": [
+      "Improcedência liminar do pedido."
+     ]
+    },
+    {
+     "item": "16.5",
+     "frases": [
+      "Contestação, reconvenção e revelia."
+     ]
+    },
+    {
+     "item": "16.6",
+     "frases": [
+      "Providências preliminares e de saneamento."
+     ]
+    },
+    {
+     "item": "16.7",
+     "frases": [
+      "Julgamento conforme o estado do processo."
+     ]
+    },
+    {
+     "item": "16.8",
+     "frases": [
+      "Provas."
+     ]
+    },
+    {
+     "item": "16.9",
+     "frases": [
+      "Sentença e coisa julgada."
+     ]
+    },
+    {
+     "item": "16.10",
+     "frases": [
+      "Cumprimento da sentença."
+     ]
+    },
+    {
+     "item": "16.11",
+     "frases": [
+      "Disposições Gerais."
+     ]
+    },
+    {
+     "item": "16.12",
+     "frases": [
+      "Cumprimento."
+     ]
+    },
+    {
+     "item": "16.13",
+     "frases": [
+      "Liquidação."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Processos de execução."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Processos nos tribunais e meios de impugnação das decisões judiciais."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Disposições finais e transitórias."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Mandado de segurança."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Ação popular."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Ação civil pública."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Ação de improbidade administrativa."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Teoria Geral dos Recursos."
+     ]
+    },
+    {
+     "item": "24.1",
+     "frases": [
+      "Recursos em espécie."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Das ações de família."
+     ]
+    },
+    {
+     "item": "25.1",
+     "frases": [
+      "Do divórcio e da separação consensuais, da extinção consensual de união estável."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Da interdição."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Das disposições comuns à tutela e à curatela."
+     ]
+    }
+   ]
+  }
+ ]
+}

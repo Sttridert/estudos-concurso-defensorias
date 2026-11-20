@@ -1,0 +1,250 @@
+{
+ "disciplina": "Execução Penal",
+ "sem_acento": true,
+ "herdar_do_pai": true,
+ "congelada": "v1 em 15/11/2026",
+ "temas": [
+  {
+   "codigo": "EX01",
+   "nome": "Noções gerais, natureza e princípios da execução penal"
+  },
+  {
+   "codigo": "EX02",
+   "nome": "Órgãos e sujeitos da execução penal"
+  },
+  {
+   "codigo": "EX03",
+   "nome": "Condenado e internado: classificação, assistência, trabalho e direitos"
+  },
+  {
+   "codigo": "EX04",
+   "nome": "Disciplina"
+  },
+  {
+   "codigo": "EX05",
+   "nome": "Execução das penas em espécie"
+  },
+  {
+   "codigo": "EX06",
+   "nome": "Medidas de segurança e saúde mental"
+  },
+  {
+   "codigo": "EX07",
+   "nome": "Estabelecimentos penais e sistema penitenciário"
+  },
+  {
+   "codigo": "EX08",
+   "nome": "Incidentes, extinção da pena e processo da execução"
+  },
+  {
+   "codigo": "EX09",
+   "nome": "Normas internacionais, resoluções e jurisprudência"
+  }
+ ],
+ "topicos": [
+  {
+   "codigo": "EX01.01",
+   "tema": "EX01",
+   "nome": "Natureza jurídica, objetivos, evolução histórica e teorias da pena na execução",
+   "regex": "natureza (juridica )?(e objetivos )?da execucao|natureza da execucao|natureza juridica e objetivos|objetivos? da execucao|evolucao historica|economia politica|encarceramento em massa|jurisdicionalizacao|execucao penal definitiva|fundamentos do direito de punir|funcoes da pena|teorias (absolutas|relativas|mistas|das finalidades)|teoria (agnostica|redutora)|historia da punicao|antecedentes historicos|less eligibility|indeterminacao da pena|inquisicao e sistema acusatorio|garantismo|penas ilicitas|realidade concreta|sistemas de execucao penal|crise e alternativas"
+  },
+  {
+   "codigo": "EX01.02",
+   "tema": "EX01",
+   "nome": "Princípios e direitos fundamentais aplicáveis à execução penal",
+   "regex": "principio|inser[c]?cao constitucional|disposicoes constitucionais|execucao penal e direitos humanos|dignidade|humanizacao|direitos fundamentais relativos|limitadores do poder punitivo|ativismo judicial"
+  },
+  {
+   "codigo": "EX01.03",
+   "tema": "EX01",
+   "nome": "Lei de Execução Penal: objeto, aplicação, destinatários e direito intertemporal",
+   "regex": "^(lei de execucao penal|lei (federal )?n.? ?7\\.210|execucao penal - lei|lei 7\\.210)|lei de execucoes penais|objeto e (da )?aplicacao|fontes positivas|destinatarios|preso provisorio|presos provisorios|preso estrangeiro|13\\.445|aplicacao da lei penal|direito intertemporal|13\\.964|legislacao penal e processual penal aplicavel|demais disposicoes e institutos|disposicoes finais e transitorias|lei penal no tempo|aplicacao da lei de execucao"
+  },
+  {
+   "codigo": "EX02.01",
+   "tema": "EX02",
+   "nome": "Órgãos da execução penal (Juízo, Ministério Público, Conselhos, Departamentos, Patronato)",
+   "regex": "orgaos da execucao|^juizo da execucao|^ministerio publico|conselho penitenciario|departamentos? penitenciarios?|^patronato|conselho da comunidade|^conselho nacional de politica criminal e penitenciaria"
+  },
+  {
+   "codigo": "EX02.02",
+   "tema": "EX02",
+   "nome": "Defensoria Pública na execução penal e tutela individual e coletiva",
+   "regex": "defensoria|12\\.313|legitimacao social|tutela (individual|coletiva)|prerrogativas|notas tecnicas|colegio nacional"
+  },
+  {
+   "codigo": "EX03.01",
+   "tema": "EX03",
+   "nome": "Classificação, exame criminológico e identificação do perfil genético",
+   "regex": "classificacao|exame criminologico|perfil genetico|14\\.069|cadastro nacional"
+  },
+  {
+   "codigo": "EX03.02",
+   "tema": "EX03",
+   "nome": "Assistência ao preso e ao egresso",
+   "regex": "assistencia|saude|seguranca social"
+  },
+  {
+   "codigo": "EX03.03",
+   "tema": "EX03",
+   "nome": "Trabalho do preso (interno e externo)",
+   "regex": "trabalho"
+  },
+  {
+   "codigo": "EX03.04",
+   "tema": "EX03",
+   "nome": "Deveres e direitos do preso (visita, revista, direitos não atingidos, familiares)",
+   "regex": "deveres|direitos do preso|direito de visita|visita intima|revista|direitos nao atingidos|familiares|direitos sociais e execucao"
+  },
+  {
+   "codigo": "EX04.01",
+   "tema": "EX04",
+   "nome": "Faltas disciplinares, sanções, recompensas e regime disciplinar diferenciado",
+   "regex": "faltas? disciplinares?|sancoes|recompensas|regime disciplinar|^disciplina|sistema disciplinar|aplicacao das sancoes"
+  },
+  {
+   "codigo": "EX04.02",
+   "tema": "EX04",
+   "nome": "Procedimento disciplinar (administrativo) e controle judicial",
+   "regex": "procedimento disciplinar|procedimento administrativo|processo administrativo|contraditorio e da ampla defesa|^da disciplina"
+  },
+  {
+   "codigo": "EX05.01",
+   "tema": "EX05",
+   "nome": "Regimes de cumprimento, progressão e regressão",
+   "regex": "regimes?|progressao|regressao|sistema progressivo|penas privativas de liberdade|execucao da pena privativa|8\\.072|crimes hediondos|11\\.343|lei de drogas"
+  },
+  {
+   "codigo": "EX05.02",
+   "tema": "EX05",
+   "nome": "Autorizações de saída (permissão de saída e saída temporária)",
+   "regex": "autorizacoes? de saida|permissao de saida|saida temporaria"
+  },
+  {
+   "codigo": "EX05.03",
+   "tema": "EX05",
+   "nome": "Detração e remição",
+   "regex": "detracao|remicao"
+  },
+  {
+   "codigo": "EX05.04",
+   "tema": "EX05",
+   "nome": "Soma e unificação de penas e transferência ou remoção de presos",
+   "regex": "soma e (da )?unificacao|unificacao|transferencia de presos|remocao do preso|11\\.671|transferencia e inclusao"
+  },
+  {
+   "codigo": "EX05.05",
+   "tema": "EX05",
+   "nome": "Penas restritivas de direitos (prestação de serviços, limitação de fim de semana, interdição)",
+   "regex": "restritivas de direitos?|prestacao de servicos|limitacao de fim de semana|interdicao temporaria"
+  },
+  {
+   "codigo": "EX05.06",
+   "tema": "EX05",
+   "nome": "Pena de multa",
+   "regex": "multa"
+  },
+  {
+   "codigo": "EX05.07",
+   "tema": "EX05",
+   "nome": "Suspensão condicional da pena e livramento condicional",
+   "regex": "suspensao condicional|sursis|livramento condicional"
+  },
+  {
+   "codigo": "EX05.08",
+   "tema": "EX05",
+   "nome": "Monitoração eletrônica",
+   "regex": "monitoracao eletronica"
+  },
+  {
+   "codigo": "EX06.01",
+   "tema": "EX06",
+   "nome": "Execução das medidas de segurança e cessação de periculosidade",
+   "regex": "medidas? de seguranca|periculosidade|superveniencia de doenca mental"
+  },
+  {
+   "codigo": "EX06.02",
+   "tema": "EX06",
+   "nome": "Saúde mental, reforma psiquiátrica e política antimanicomial",
+   "regex": "saude mental|reforma psiquiatrica|10\\.216|487|antimanicomial|portaria.*(94/2014|interministerial)|13\\.146|transtorno mental"
+  },
+  {
+   "codigo": "EX07.01",
+   "tema": "EX07",
+   "nome": "Estabelecimentos penais (penitenciária, colônia, casa do albergado, cadeia pública, hospital de custódia)",
+   "regex": "estabelecimentos? penais|colonia agricola|hospital de custodia|cadeia publica|casa do albergado|centro de observacao|^da penitenciaria|^penitenciaria|direito penitenciario|sistema penitenciario"
+  },
+  {
+   "codigo": "EX07.02",
+   "tema": "EX07",
+   "nome": "Superlotação, numerus clausus e falta de vaga",
+   "regex": "superlotacao|numerus clausus|falta de vaga|lotacao maxima|indicadores para fixacao"
+  },
+  {
+   "codigo": "EX07.03",
+   "tema": "EX07",
+   "nome": "Inspeção e monitoramento dos estabelecimentos prisionais",
+   "regex": "inspecao|monitoramento e inspecao|monitoramento de estabelecimentos|inspecoes|relatorio da defensoria"
+  },
+  {
+   "codigo": "EX08.01",
+   "tema": "EX08",
+   "nome": "Incidentes da execução: conversões, excesso ou desvio",
+   "regex": "conversoes|conversao|excesso (ou|e) desvio|^incidentes|incidentes de execucao|incidentes da execucao"
+  },
+  {
+   "codigo": "EX08.02",
+   "tema": "EX08",
+   "nome": "Anistia, graça, indulto e comutação",
+   "regex": "indulto|comutacao|anistia|graca|decretos? (da presidencia|presidenciais)"
+  },
+  {
+   "codigo": "EX08.03",
+   "tema": "EX08",
+   "nome": "Extinção da pena, prescrição e reabilitação",
+   "regex": "extincao da pena|extincao de pena|declaracao de extincao|reabilitacao|prescricao"
+  },
+  {
+   "codigo": "EX08.04",
+   "tema": "EX08",
+   "nome": "Processo da execução: procedimento judicial, competência, recursos e ações autônomas",
+   "regex": "procedimento judicial|processo judicial|processo da execucao|competencia|^recursos|habeas corpus|revisao criminal|mandado de seguranca|acoes autonomas|normas processuais|aspectos processuais|execucao do acordo|agravo"
+  },
+  {
+   "codigo": "EX09.01",
+   "tema": "EX09",
+   "nome": "Regras de Mandela, de Bangkok e outras regras e princípios internacionais para pessoas presas",
+   "regex": "regras minimas|regras de mandela|regras de bangkok|mandela|bangkok|conjunto de principios|principios basicos|instrumentos internacionais|reclusos"
+  },
+  {
+   "codigo": "EX09.02",
+   "tema": "EX09",
+   "nome": "Prevenção e combate à tortura (convenções, protocolo facultativo, Protocolo de Istambul)",
+   "regex": "tortura|istambul|12\\.847"
+  },
+  {
+   "codigo": "EX09.03",
+   "tema": "EX09",
+   "nome": "Convenção Americana de Direitos Humanos e jurisprudência interamericana",
+   "regex": "convencao americana|pacto de san jose|jurisprudencia interamericana|tribunais internacionais"
+  },
+  {
+   "codigo": "EX09.04",
+   "tema": "EX09",
+   "nome": "Resoluções do CNJ e do CNPCP",
+   "regex": "resolucao|cnj"
+  },
+  {
+   "codigo": "EX09.05",
+   "tema": "EX09",
+   "nome": "Jurisprudência e normas estaduais do sistema prisional",
+   "regex": "jurisprudencia|estadual|regimento interno|regulamento|13\\.675|sinesp|12\\.681"
+  }
+ ],
+ "outra_disciplina": {
+  "Direito Penal": "^codigo penal|^das penas|^das especies de pena|^da cominacao|^da aplicacao da pena|^dos efeitos da condenacao|^da extincao da punibilidade|^extincao de punibilidade|^aplicacao da lei penal no tempo\\.?$",
+  "Direito Constitucional": "constituicao|constitucional",
+  "Outro assunto (ruído do edital)": "gabarito|recurso inconsistente|diario oficial|certificad|candidato"
+ },
+ "fragmentos_genericos": "^(direito (da |de )?)?execucao penal\\.?$|^execucao (da|das) penas?\\.?$|^execucao penal\\.?$|^disposicoes gerais\\.?$"
+}

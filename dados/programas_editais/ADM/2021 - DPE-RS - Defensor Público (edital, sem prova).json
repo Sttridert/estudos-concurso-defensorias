@@ -1,0 +1,1377 @@
+{
+ "pasta": "2021 - DPE-RS - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 5963,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito Administrativo e Administração Pública."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Formação."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Fundamentos."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Sentidos."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Objeto."
+     ]
+    },
+    {
+     "item": "1.6",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "1.7",
+     "frases": [
+      "Fontes."
+     ]
+    },
+    {
+     "item": "1.8",
+     "frases": [
+      "Sistemas administrativos e sistema administrativo brasileiro."
+     ]
+    },
+    {
+     "item": "1.9",
+     "frases": [
+      "Atividade administrativa."
+     ]
+    },
+    {
+     "item": "1.10",
+     "frases": [
+      "Constitucionalização do direito administrativo."
+     ]
+    },
+    {
+     "item": "1.11",
+     "frases": [
+      "Hierarquia administrativa."
+     ]
+    },
+    {
+     "item": "1.12",
+     "frases": [
+      "Órgãos públicos."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Administração indireta."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Natureza."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "Desconcentração e descentralização."
+     ]
+    },
+    {
+     "item": "2.6",
+     "frases": [
+      "Autarquias."
+     ]
+    },
+    {
+     "item": "2.7",
+     "frases": [
+      "Empresas públicas."
+     ]
+    },
+    {
+     "item": "2.8",
+     "frases": [
+      "Sociedades de economia mista."
+     ]
+    },
+    {
+     "item": "2.9",
+     "frases": [
+      "Fundações públicas."
+     ]
+    },
+    {
+     "item": "2.10",
+     "frases": [
+      "Agências."
+     ]
+    },
+    {
+     "item": "2.11",
+     "frases": [
+      "Consórcio público."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Poderes administrativos."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Poder vinculado."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Poder discricionário."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Poder hierárquico."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Poder disciplinar."
+     ]
+    },
+    {
+     "item": "3.5",
+     "frases": [
+      "Poder regulamentar."
+     ]
+    },
+    {
+     "item": "3.6",
+     "frases": [
+      "Poder de polícia."
+     ]
+    },
+    {
+     "item": "3.7",
+     "frases": [
+      "Sentidos."
+     ]
+    },
+    {
+     "item": "3.8",
+     "frases": [
+      "Conceitos."
+     ]
+    },
+    {
+     "item": "3.9",
+     "frases": [
+      "Fundamentos."
+     ]
+    },
+    {
+     "item": "3.10",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "3.11",
+     "frases": [
+      "Elementos."
+     ]
+    },
+    {
+     "item": "3.12",
+     "frases": [
+      "Formas de exercício."
+     ]
+    },
+    {
+     "item": "3.13",
+     "frases": [
+      "Limites."
+     ]
+    },
+    {
+     "item": "3.14",
+     "frases": [
+      "Efeitos."
+     ]
+    },
+    {
+     "item": "3.15",
+     "frases": [
+      "Delegação."
+     ]
+    },
+    {
+     "item": "3.16",
+     "frases": [
+      "Uso, abuso e desvio de poder."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Atos administrativos."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Requisitos."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Atributos."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Elementos."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Vinculação e discricionariedade."
+     ]
+    },
+    {
+     "item": "4.6",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "4.7",
+     "frases": [
+      "Vigência e eficácia."
+     ]
+    },
+    {
+     "item": "4.8",
+     "frases": [
+      "Efeitos."
+     ]
+    },
+    {
+     "item": "4.9",
+     "frases": [
+      "Extinção."
+     ]
+    },
+    {
+     "item": "4.10",
+     "frases": [
+      "Revogação."
+     ]
+    },
+    {
+     "item": "4.11",
+     "frases": [
+      "Invalidação."
+     ]
+    },
+    {
+     "item": "4.12",
+     "frases": [
+      "Convalidação."
+     ]
+    },
+    {
+     "item": "4.13",
+     "frases": [
+      "Fatos da administração."
+     ]
+    },
+    {
+     "item": "4.14",
+     "frases": [
+      "Atos da administração."
+     ]
+    },
+    {
+     "item": "4.15",
+     "frases": [
+      "Teoria dos motivos determinantes."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Processo administrativo."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Processo e procedimento."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "Princípios constitucionais."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Princípios específicos."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Objeto."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "5.7",
+     "frases": [
+      "Fases."
+     ]
+    },
+    {
+     "item": "5.8",
+     "frases": [
+      "Sindicância."
+     ]
+    },
+    {
+     "item": "5.9",
+     "frases": [
+      "Processo administrativo disciplinar."
+     ]
+    },
+    {
+     "item": "5.10",
+     "frases": [
+      "Verdade sabida."
+     ]
+    },
+    {
+     "item": "5.11",
+     "frases": [
+      "Coisa julgada administrativa."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Licitação."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Natureza jurídica."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Fundamentos."
+     ]
+    },
+    {
+     "item": "6.4",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "6.5",
+     "frases": [
+      "Objeto."
+     ]
+    },
+    {
+     "item": "6.6",
+     "frases": [
+      "Finalidade."
+     ]
+    },
+    {
+     "item": "6.7",
+     "frases": [
+      "Limites."
+     ]
+    },
+    {
+     "item": "6.8",
+     "frases": [
+      "Modalidades."
+     ]
+    },
+    {
+     "item": "6.9",
+     "frases": [
+      "Obrigatoriedade."
+     ]
+    },
+    {
+     "item": "6.10",
+     "frases": [
+      "Dispensa."
+     ]
+    },
+    {
+     "item": "6.11",
+     "frases": [
+      "Inexigibilidade."
+     ]
+    },
+    {
+     "item": "6.12",
+     "frases": [
+      "Procedimento."
+     ]
+    },
+    {
+     "item": "6.13",
+     "frases": [
+      "Julgamento."
+     ]
+    },
+    {
+     "item": "6.14",
+     "frases": [
+      "Anulação."
+     ]
+    },
+    {
+     "item": "6.15",
+     "frases": [
+      "Revogação."
+     ]
+    },
+    {
+     "item": "6.16",
+     "frases": [
+      "Recursos administrativos."
+     ]
+    },
+    {
+     "item": "6.17",
+     "frases": [
+      "Compras e alienações na administração pública."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Negócios Jurídicos da Administração."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Contrato administrativo."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Natureza jurídica."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "7.6",
+     "frases": [
+      "Finalidade."
+     ]
+    },
+    {
+     "item": "7.7",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "7.8",
+     "frases": [
+      "Formalização."
+     ]
+    },
+    {
+     "item": "7.9",
+     "frases": [
+      "Duração."
+     ]
+    },
+    {
+     "item": "7.10",
+     "frases": [
+      "Prorrogação."
+     ]
+    },
+    {
+     "item": "7.11",
+     "frases": [
+      "Alteração."
+     ]
+    },
+    {
+     "item": "7.12",
+     "frases": [
+      "Cláusula de privilégio."
+     ]
+    },
+    {
+     "item": "7.13",
+     "frases": [
+      "Equação econômico-financeira."
+     ]
+    },
+    {
+     "item": "7.14",
+     "frases": [
+      "Cláusulas exorbitantes."
+     ]
+    },
+    {
+     "item": "7.15",
+     "frases": [
+      "Execução."
+     ]
+    },
+    {
+     "item": "7.16",
+     "frases": [
+      "Inexecução."
+     ]
+    },
+    {
+     "item": "7.17",
+     "frases": [
+      "Rescisão."
+     ]
+    },
+    {
+     "item": "7.18",
+     "frases": [
+      "Extinção."
+     ]
+    },
+    {
+     "item": "7.19",
+     "frases": [
+      "Recursos administrativos."
+     ]
+    },
+    {
+     "item": "7.20",
+     "frases": [
+      "Contratos de direito privado celebrados pela administração."
+     ]
+    },
+    {
+     "item": "7.21",
+     "frases": [
+      "Convênios."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Serviços públicos."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "8.5",
+     "frases": [
+      "Titularidade."
+     ]
+    },
+    {
+     "item": "8.6",
+     "frases": [
+      "Remuneração."
+     ]
+    },
+    {
+     "item": "8.7",
+     "frases": [
+      "Prestação direta."
+     ]
+    },
+    {
+     "item": "8.8",
+     "frases": [
+      "Prestação indireta."
+     ]
+    },
+    {
+     "item": "8.9",
+     "frases": [
+      "Concessão."
+     ]
+    },
+    {
+     "item": "8.10",
+     "frases": [
+      "Permissão."
+     ]
+    },
+    {
+     "item": "8.11",
+     "frases": [
+      "Autorização."
+     ]
+    },
+    {
+     "item": "8.12",
+     "frases": [
+      "Delegação."
+     ]
+    },
+    {
+     "item": "8.13",
+     "frases": [
+      "Direitos e deveres dos usuários."
+     ]
+    },
+    {
+     "item": "8.14",
+     "frases": [
+      "Suspensão da prestação de serviço público."
+     ]
+    },
+    {
+     "item": "8.15",
+     "frases": [
+      "Desestatização e privatização."
+     ]
+    },
+    {
+     "item": "8.16",
+     "frases": [
+      "Gestão associada."
+     ]
+    },
+    {
+     "item": "8.17",
+     "frases": [
+      "Regimes de parceria."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Bens públicos."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Regimes jurídicos."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Afetação e desafetação."
+     ]
+    },
+    {
+     "item": "9.6",
+     "frases": [
+      "Aquisição."
+     ]
+    },
+    {
+     "item": "9.7",
+     "frases": [
+      "Administração, uso e alienação de bens públicos."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Agentes públicos."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Regimes jurídicos."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Vínculos."
+     ]
+    },
+    {
+     "item": "10.5",
+     "frases": [
+      "Concurso público."
+     ]
+    },
+    {
+     "item": "10.6",
+     "frases": [
+      "Organização funcional."
+     ]
+    },
+    {
+     "item": "10.7",
+     "frases": [
+      "Deveres."
+     ]
+    },
+    {
+     "item": "10.8",
+     "frases": [
+      "Direitos."
+     ]
+    },
+    {
+     "item": "10.9",
+     "frases": [
+      "Responsabilidades e disciplina."
+     ]
+    },
+    {
+     "item": "10.10",
+     "frases": [
+      "Poderes."
+     ]
+    },
+    {
+     "item": "10.11",
+     "frases": [
+      "Prerrogativas."
+     ]
+    },
+    {
+     "item": "10.12",
+     "frases": [
+      "Uso e abuso de poder."
+     ]
+    },
+    {
+     "item": "10.13",
+     "frases": [
+      "Responsabilidade dos agentes públicos."
+     ]
+    },
+    {
+     "item": "10.14",
+     "frases": [
+      "Responsabilidade de agentes públicos e de particulares por improbidade administrativa."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Responsabilidade civil do Estado."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Fundamentos."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "Evolução histórica."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Exclusão da responsabilidade."
+     ]
+    },
+    {
+     "item": "11.5",
+     "frases": [
+      "Teoria da reserva do possível."
+     ]
+    },
+    {
+     "item": "11.6",
+     "frases": [
+      "Responsabilidade civil por atos legislativos e judiciários."
+     ]
+    },
+    {
+     "item": "11.7",
+     "frases": [
+      "Responsabilidade civil por omissão."
+     ]
+    },
+    {
+     "item": "11.8",
+     "frases": [
+      "Responsabilidade civil de notários e registradores públicos."
+     ]
+    },
+    {
+     "item": "11.9",
+     "frases": [
+      "Reparação do dano e direito de regresso."
+     ]
+    },
+    {
+     "item": "11.10",
+     "frases": [
+      "Responsabilidade civil das pessoas privadas prestadoras de serviço público."
+     ]
+    },
+    {
+     "item": "11.11",
+     "frases": [
+      "Responsabilidade civil do Estado em decorrência de obras públicas."
+     ]
+    },
+    {
+     "item": "11.12",
+     "frases": [
+      "Prescrição."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Intervenção do Estado na propriedade."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Evolução histórica."
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "Fundamento."
+     ]
+    },
+    {
+     "item": "12.4",
+     "frases": [
+      "Função social da propriedade."
+     ]
+    },
+    {
+     "item": "12.5",
+     "frases": [
+      "Meios de intervenção."
+     ]
+    },
+    {
+     "item": "12.6",
+     "frases": [
+      "Limitações administrativas."
+     ]
+    },
+    {
+     "item": "12.7",
+     "frases": [
+      "Ocupação temporária."
+     ]
+    },
+    {
+     "item": "12.8",
+     "frases": [
+      "Servidão."
+     ]
+    },
+    {
+     "item": "12.9",
+     "frases": [
+      "Tombamento."
+     ]
+    },
+    {
+     "item": "12.10",
+     "frases": [
+      "Parcelamento e edificação compulsórios."
+     ]
+    },
+    {
+     "item": "12.11",
+     "frases": [
+      "Requisição."
+     ]
+    },
+    {
+     "item": "12.12",
+     "frases": [
+      "Alienação de bens sujeitos à limitação ou restrição administrativa."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Desapropriação."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Evolução histórica."
+     ]
+    },
+    {
+     "item": "13.3",
+     "frases": [
+      "Competência legislativa e material."
+     ]
+    },
+    {
+     "item": "13.4",
+     "frases": [
+      "Desvio de finalidade."
+     ]
+    },
+    {
+     "item": "13.5",
+     "frases": [
+      "Consumação da desapropriação."
+     ]
+    },
+    {
+     "item": "13.6",
+     "frases": [
+      "Retrocessão."
+     ]
+    },
+    {
+     "item": "13.7",
+     "frases": [
+      "Objeto."
+     ]
+    },
+    {
+     "item": "13.8",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "13.9",
+     "frases": [
+      "Desapropriação por zona, para urbanização e reurbanização."
+     ]
+    },
+    {
+     "item": "13.10",
+     "frases": [
+      "Desapropriação urbana e rural."
+     ]
+    },
+    {
+     "item": "13.11",
+     "frases": [
+      "Procedimento da desapropriação."
+     ]
+    },
+    {
+     "item": "13.12",
+     "frases": [
+      "Fases."
+     ]
+    },
+    {
+     "item": "13.13",
+     "frases": [
+      "Imissão provisória da posse."
+     ]
+    },
+    {
+     "item": "13.14",
+     "frases": [
+      "Indenização."
+     ]
+    },
+    {
+     "item": "13.15",
+     "frases": [
+      "Desistência."
+     ]
+    },
+    {
+     "item": "13.16",
+     "frases": [
+      "Controle judicial."
+     ]
+    },
+    {
+     "item": "13.17",
+     "frases": [
+      "Expropriação."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Atuação do Estado no domínio econômico."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "Evolução histórica."
+     ]
+    },
+    {
+     "item": "14.2",
+     "frases": [
+      "Princípios gerais da atividade econômica."
+     ]
+    },
+    {
+     "item": "14.3",
+     "frases": [
+      "Atividades privadas sob regime especial."
+     ]
+    },
+    {
+     "item": "14.4",
+     "frases": [
+      "Competência e modos de intervenção."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Controle da administração."
+     ]
+    },
+    {
+     "item": "15.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "15.2",
+     "frases": [
+      "Fundamento."
+     ]
+    },
+    {
+     "item": "15.3",
+     "frases": [
+      "Controle interno."
+     ]
+    },
+    {
+     "item": "15.4",
+     "frases": [
+      "Controle administrativo."
+     ]
+    },
+    {
+     "item": "15.5",
+     "frases": [
+      "Silêncio."
+     ]
+    },
+    {
+     "item": "15.6",
+     "frases": [
+      "Prescrição."
+     ]
+    },
+    {
+     "item": "15.7",
+     "frases": [
+      "Coisa julgada administrativa."
+     ]
+    },
+    {
+     "item": "15.8",
+     "frases": [
+      "Acesso à informação."
+     ]
+    },
+    {
+     "item": "15.9",
+     "frases": [
+      "Controle externo."
+     ]
+    },
+    {
+     "item": "15.10",
+     "frases": [
+      "Controle legislativo."
+     ]
+    },
+    {
+     "item": "15.11",
+     "frases": [
+      "Controle jurisdicional."
+     ]
+    },
+    {
+     "item": "15.12",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "15.13",
+     "frases": [
+      "Conceitos."
+     ]
+    },
+    {
+     "item": "15.14",
+     "frases": [
+      "Instrumentos de controle."
+     ]
+    },
+    {
+     "item": "15.15",
+     "frases": [
+      "Extensão do controle."
+     ]
+    },
+    {
+     "item": "15.16",
+     "frases": [
+      "Controle popular."
+     ]
+    },
+    {
+     "item": "15.17",
+     "frases": [
+      "Administração pública em juízo."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Responsabilidade das pessoas jurídicas pela prática de atos danosos contra a administração pública."
+     ]
+    },
+    {
+     "item": "16.1",
+     "frases": [
+      "Requisitos."
+     ]
+    },
+    {
+     "item": "16.2",
+     "frases": [
+      "Abrangência."
+     ]
+    },
+    {
+     "item": "16.3",
+     "frases": [
+      "Natureza."
+     ]
+    },
+    {
+     "item": "16.4",
+     "frases": [
+      "Responsabilização administrativa e judicial."
+     ]
+    },
+    {
+     "item": "16.5",
+     "frases": [
+      "Processo administrativo."
+     ]
+    },
+    {
+     "item": "16.6",
+     "frases": [
+      "Acordo de leniência."
+     ]
+    },
+    {
+     "item": "16.7",
+     "frases": [
+      "Cadastro Nacional de Empresas Punidas."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Disciplina constitucional, legal, doutrinária e jurisprudencial sobre os temas de Direito Administrativo."
+     ]
+    }
+   ]
+  }
+ ]
+}

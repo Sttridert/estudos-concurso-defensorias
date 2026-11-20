@@ -1,0 +1,411 @@
+{
+ "pasta": "2025 - DPE-PE - Defensor Público (edital, sem prova)",
+ "banca": "FGV",
+ "disciplina": "ECA",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO DA CRIANCA E DO ADOLESCENTE",
+   "caracteres": 2523,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direitos da criança e do adolescente."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Antecedentes históricos."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Inserção constitucional."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Princípio da prevenção especial."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Direitos fundamentais da criança e do adolescente."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Política e organização do atendimento."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Linhas de ação e da política de atendimento."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Linhas de ação e diretrizes."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Municipalização e descentralização."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Participação da cidadania e conselhos dos direitos."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "Entidades e programas de atendimento."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Conselho Tutelar."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Atribuições."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Competência."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Escolha dos conselheiros e impedimentos."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Medidas de proteção."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Medidas específicas de proteção."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Colocação em família substituta."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Medidas pertinentes aos pais ou responsável."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Direito à convivência familiar."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Família natural e família substituta."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Guarda."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Tutela."
+     ]
+    },
+    {
+     "item": "6.4",
+     "frases": [
+      "Adoção."
+     ]
+    },
+    {
+     "item": "6.5",
+     "frases": [
+      "Perda ou suspensão do poder familiar."
+     ]
+    },
+    {
+     "item": "6.6",
+     "frases": [
+      "Colocação em família substituta."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Prática do ato infracional."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "A questão socioeducativa."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Conceito e tempo do ato infracional."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Inimputabilidade."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Direitos individuais."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Garantias processuais."
+     ]
+    },
+    {
+     "item": "7.6",
+     "frases": [
+      "Medidas socioeducativas."
+     ]
+    },
+    {
+     "item": "7.7",
+     "frases": [
+      "Remissão."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Acesso à Justiça."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "A Justiça da infância e da juventude."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Princípios gerais."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Competência."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Serviços auxiliares."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Procedimentos."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Perda e suspensão do poder familiar."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Destituição da tutela."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Colocação em família substituta."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Apuração de ato infracional atribuído ao adolescente."
+     ]
+    },
+    {
+     "item": "9.6",
+     "frases": [
+      "Apuração de irregularidade em entidade de atendimento."
+     ]
+    },
+    {
+     "item": "9.7",
+     "frases": [
+      "Apuração de infração administrativa às normas de proteção à criança e ao adolescente."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Recursos."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Ministério Público."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "O advogado."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Proteção judicial dos interesses individuais, difusos e coletivos das crianças e dos adolescentes."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Crimes e infrações administrativas."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Jurisprudência aplicada dos tribunais superiores."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Resolução CNJ 165/2012."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Central de Vagas no Sistema Estadual de Atendimento Socioeducativo (Resolução CNJ 367/2021)."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Prevenção à violência doméstica e familiar contra a criança e o adolescente (Lei 14344/2022)."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Política Nacional de Busca de Pessoas Desaparecidas (Lei 13812/2019)."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Resolução CNJ 367/2021."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Recomendação CNJ 87/2021."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Resolução 369/2021 CNJ."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Resolução CNJ 289."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Orientações Técnicas: Serviços de Acolhimento para Crianças e Adolescentes (Resolução Conjunta CNAS e CONANDA 01/2009; Resolução CONANDA 169."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "SINASE (Lei 12594/2012."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "A Defensoria Pública no Estatuto da Criança e do Adolescente."
+     ]
+    }
+   ]
+  }
+ ]
+}

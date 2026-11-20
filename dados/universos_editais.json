@@ -1,0 +1,55 @@
+{
+ "_leia-me": "Universos de editais: quais editais alimentam o edital fictício e o catálogo de uma disciplina ou cargo (decisão do grupo B, 20/11/2026). Separado do universo de questões do perfil. O critério é escrito ANTES de ver o resultado do teste de saturação (scripts/catalogar_saturacao.py) e não se escolhe o universo pelo melhor resultado. `filtro`: carreira (igual), cargo_prefixo (começa com), cargo_exclui (contém), ano_min e ano_max. `excluir_editais`: ids de edital com extração incompleta (menos de 5 das 9 disciplinas de Direito extraídas), com o motivo. O edital do concurso-alvo deve ficar de fora do teste (`edital_alvo`), para medir se o catálogo cobre um edital novo.",
+ "criterio_de_saturacao": {
+  "escrito_em": "2026-11-20",
+  "minimo_editais": 8,
+  "ultimos_sem_assunto_novo": 3,
+  "max_pontos_vistos_em_um_edital_pct": 5,
+  "unidades": [
+   "assunto",
+   "ponto"
+  ],
+  "observacao": "Valores iniciais (hipóteses), calibrados no piloto do grupo B. Não se mede em item de texto: a redação muda de edital para edital."
+ },
+ "universos": {
+  "defensor_publico": {
+   "nome": "Defensor Público (todas as bancas)",
+   "filtro": {
+    "carreira": "Defensoria Pública",
+    "cargo_prefixo": "Defensor P",
+    "cargo_exclui": "Federal"
+   },
+   "excluir_editais": {
+    "50": "DPE-SE 2021: extração incompleta"
+   },
+   "edital_alvo": null
+  },
+  "analista": {
+   "nome": "Analista (todos os cargos de analista de Defensoria)",
+   "filtro": {
+    "carreira": "Defensoria Pública",
+    "cargo_prefixo": "Analista"
+   },
+   "excluir_editais": {
+    "49": "DPE-RO 2025: extração incompleta",
+    "51": "DPE-PR 2023: extração incompleta"
+   },
+   "edital_alvo": 4
+  }
+ },
+ "por_disciplina": {
+  "_leia-me": "Universo que fundamenta o catálogo de cada disciplina (id em `universos`). `validacao`: universo usado só para conferir cobertura. Disciplina sem universo (null) não tem edital fictício: o catálogo usa o edital 4 e as questões.",
+  "CONST": "defensor_publico",
+  "ADM": "defensor_publico",
+  "CIV": "defensor_publico",
+  "PCIV": "defensor_publico",
+  "PENAL": "defensor_publico",
+  "PPEN": "defensor_publico",
+  "EXEC": "defensor_publico",
+  "DH": "defensor_publico",
+  "ECA": "defensor_publico",
+  "LP": null,
+  "PI": null,
+  "validacao": "analista"
+ }
+}

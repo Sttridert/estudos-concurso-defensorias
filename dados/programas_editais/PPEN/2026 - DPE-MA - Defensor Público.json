@@ -1,0 +1,503 @@
+{
+ "pasta": "2026 - DPE-MA - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PPEN",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL PENAL E EXECUCAO PENAL",
+   "caracteres": 6022,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Princípios que regem o processo penal."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Direitos e garantias aplicáveis ao processo penal na Constituição Federal."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Direitos e garantias aplicáveis ao processo penal nos tratados e convenções internacionais ratificados pelo Brasil."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Conceito e características do processo penal inquisitório e acusatório.",
+      "Juiz das Garantias."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Fontes do processo penal."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Lei processual penal no tempo e no espaço."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Interpretação da lei processual penal."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Sistemas de investigação preliminar.",
+      "Inquérito policial.",
+      "Identificação criminal."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Meios de obtenção de prova na persecução criminal.",
+      "Busca e apreensão.",
+      "Interceptação telefônica.",
+      "Quebra de sigilo telefônico, bancário e fiscal.",
+      "Delação premiada."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Ação penal de iniciativa pública e privada.",
+      "Condições da ação."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Denúncia e Queixa-crime.",
+      "Garantias do processo penal."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Ação civil ex delicto."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "O papel da vítima no processo penal."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Jurisdição e competência.",
+      "Conflito de Competência."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Questões e Processos Incidentes.",
+      "Questões Prejudiciais.",
+      "Exceções."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Sujeitos processuais.",
+      "Incompatibilidades e Impedimentos.",
+      "O Juiz, Ministério Público, Acusado e Defensor.",
+      "Assistentes e Auxiliares da Justiça."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Restituição das Coisas Apreendidas.",
+      "Hipóteses e Requisitos legais."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Medidas assecuratórias.",
+      "Sequestro de bens.",
+      "Hipoteca legal.",
+      "Arresto."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Insanidade mental do acusado.",
+      "Procedimento."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "O direito de defesa.",
+      "Autodefesa e defesa técnica."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Prova.",
+      "Ônus da prova.",
+      "Procedimento probatório.",
+      "Garantias aplicáveis à proposição, produção e valoração da prova.",
+      "Cadeia de Custódia.",
+      "Meios de prova.",
+      "Exame do corpo de delito e perícia.",
+      "Interrogatório do acusado.",
+      "Confissão.",
+      "Ofendido.",
+      "Testemunhas.",
+      "Reconhecimento de pessoas e coisas.",
+      "Acareação.",
+      "Documentos.",
+      "Indícios no processo penal."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Busca e Apreensão."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Da Prisão.",
+      "Prisão em flagrante.",
+      "Prisão preventiva.",
+      "Prisão temporária.",
+      "Prisão domiciliar.",
+      "Relaxamento e liberdade provisória.",
+      "Medidas cautelares diversas da prisão."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Citação, notificação e intimação."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Revelia e suspensão do processo."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Aplicação provisória de interdições e medida de segurança."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Sentença penal e coisa julgada."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Emendatio libelli e mutatio libelli."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Processo e procedimento.",
+      "Pressupostos processuais.",
+      "Procedimento comum e especial."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Rito ordinário.",
+      "Rito sumário.",
+      "Rito sumaríssimo."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Juizados Especiais Criminais."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Medidas Despenalizadoras.",
+      "Composição Civil.",
+      "Transação Penal.",
+      "Suspensão Condicional do Processo.",
+      "Acordo de Não Persecução Penal."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Procedimento relativo ao Tribunal do Júri."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Processo e Julgamento dos Crimes Contra a Honra."
+     ]
+    },
+    {
+     "item": "35",
+     "frases": [
+      "Processo e Julgamento dos Crimes Contra a Propriedade Imaterial.",
+      "Nulidades."
+     ]
+    },
+    {
+     "item": "36",
+     "frases": [
+      "Recursos."
+     ]
+    },
+    {
+     "item": "37",
+     "frases": [
+      "Ações de impugnação.",
+      "Revisão criminal.",
+      "Habeas corpus.",
+      "Mandado de segurança contra ato jurisdicional penal."
+     ]
+    },
+    {
+     "item": "38",
+     "frases": [
+      "Aspectos processuais da legislação penal especial: abuso de autoridade; crimes hediondos; crimes praticados por organização criminosa; tortura; crimes de menor potencial ofensivo; proteção a vítimas e a testemunhas; desarmamento; lei de drogas; violência doméstica e familiar contra a mulher; crimes contra criança e adolescente (lei nº 13.431/17); trânsito; meio ambiente; crimes de preconceito; crimes de imprensa; crimes contra as relações de consumo; crimes falimentares; estatuto do idoso."
+     ]
+    },
+    {
+     "item": "39",
+     "frases": [
+      "Prerrogativas e garantias dos defensores públicos relacionadas com o processo penal: Lei Orgânica nacional da Defensoria Pública e Lei Orgânica da Defensoria Pública do Estado do Maranhão."
+     ]
+    },
+    {
+     "item": "40",
+     "frases": [
+      "Regimentos internos dos Tribunais Superiores e do Tribunal de Justiça do Estado do Maranhão."
+     ]
+    },
+    {
+     "item": "41",
+     "frases": [
+      "Assistência jurídica integral e gratuita: aspectos processuais."
+     ]
+    },
+    {
+     "item": "42",
+     "frases": [
+      "Jurisprudência Aplicável dos Tribunais Superiores."
+     ]
+    },
+    {
+     "item": "43",
+     "frases": [
+      "Lei nº 7.210/1984, e suas alterações (Lei de Execução Penal).",
+      "Princípios que regem a execução penal."
+     ]
+    },
+    {
+     "item": "44",
+     "frases": [
+      "Objeto e aplicação da lei de execução penal.",
+      "Da Jurisdição do Juízo da Execução."
+     ]
+    },
+    {
+     "item": "45",
+     "frases": [
+      "Dos presos provisórios."
+     ]
+    },
+    {
+     "item": "46",
+     "frases": [
+      "Classificação dos Condenados: exame de personalidade e exame criminológico."
+     ]
+    },
+    {
+     "item": "47",
+     "frases": [
+      "Assistência: assistência material, assistência à saúde, assistência educacional, assistência social, assistência religiosa, assistência ao egresso."
+     ]
+    },
+    {
+     "item": "48",
+     "frases": [
+      "Trabalho: trabalho interno e externo."
+     ]
+    },
+    {
+     "item": "49",
+     "frases": [
+      "Deveres e direitos do preso."
+     ]
+    },
+    {
+     "item": "50",
+     "frases": [
+      "Disciplina: Faltas disciplinares, regime disciplinar diferenciado, sanções, aplicação das sanções e procedimento disciplinar.",
+      "Regulamento Disciplinar Prisional Aplicável às unidades prisionais no Estado do Maranhão: Decreto Estadual no 37.854/2022."
+     ]
+    },
+    {
+     "item": "51",
+     "frases": [
+      "Órgãos da Execução Penal.",
+      "Juízo da execução penal.",
+      "Defensoria Pública.",
+      "Ministério Público.",
+      "Conselho Penitenciário.",
+      "Conselho da Comunidade."
+     ]
+    },
+    {
+     "item": "52",
+     "frases": [
+      "Dos Estabelecimentos Penais."
+     ]
+    },
+    {
+     "item": "53",
+     "frases": [
+      "Execução da Penas.",
+      "Penas privativas de liberdade.",
+      "Regimes de Cumprimento de Pena."
+     ]
+    },
+    {
+     "item": "54",
+     "frases": [
+      "Autorizações de saída."
+     ]
+    },
+    {
+     "item": "55",
+     "frases": [
+      "Remição."
+     ]
+    },
+    {
+     "item": "56",
+     "frases": [
+      "Livramento condicional."
+     ]
+    },
+    {
+     "item": "57",
+     "frases": [
+      "Decretos Presidenciais que preveem indulto e comutação das penas."
+     ]
+    },
+    {
+     "item": "58",
+     "frases": [
+      "Excesso e desvio da execução penal."
+     ]
+    },
+    {
+     "item": "59",
+     "frases": [
+      "Monitoração Eletrônica."
+     ]
+    },
+    {
+     "item": "60",
+     "frases": [
+      "Penas restritivas de direito."
+     ]
+    },
+    {
+     "item": "61",
+     "frases": [
+      "“Sursis”."
+     ]
+    },
+    {
+     "item": "62",
+     "frases": [
+      "Multa."
+     ]
+    },
+    {
+     "item": "63",
+     "frases": [
+      "Medida de segurança."
+     ]
+    },
+    {
+     "item": "64",
+     "frases": [
+      "Conversões das penas privativas de liberdade."
+     ]
+    },
+    {
+     "item": "65",
+     "frases": [
+      "Agravo em Execução."
+     ]
+    },
+    {
+     "item": "66",
+     "frases": [
+      "“Habeas Corpus”."
+     ]
+    },
+    {
+     "item": "67",
+     "frases": [
+      "Resoluções do Conselho Nacional de Política Criminal e Penitenciária (CNPCP) e Notas Técnicas da Comissão de Execução Penal do Colégio Nacional de Defensores Gerais (CONDEGE).",
+      "Regras Mínimas das Nações Unidas para o Tratamento de Presos (Regras de Mandela).",
+      "Regras das Nações Unidas para o Tratamento de Mulheres Presas e medidas não privativas de liberdade para Mulheres Infratoras (Regras de Bangkok).",
+      "Convenção Internacional contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanas ou Degradantes e o seu Protocolo Facultativo.",
+      "Convenção Americana sobre Direitos Humanos.",
+      "Convenção Interamericana para Prevenir e Punir a Tortura."
+     ]
+    },
+    {
+     "item": "68",
+     "frases": [
+      "Lei dos Crimes Hediondos (Lei nº 8.072/90 e alterações posteriores); Lei de Drogas (Lei nº 11.343/06 e alterações posteriores); e nas Súmulas do STJ e STF, e Súmulas Vinculantes do STF."
+     ]
+    },
+    {
+     "item": "69",
+     "frases": [
+      "Processo Penal Militar"
+     ]
+    },
+    {
+     "item": "70",
+     "frases": [
+      "Jurisprudência aplicável dos Tribunais Superiores."
+     ]
+    }
+   ]
+  }
+ ]
+}

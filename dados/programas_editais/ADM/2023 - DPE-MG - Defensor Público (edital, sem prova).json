@@ -1,0 +1,156 @@
+{
+ "pasta": "2023 - DPE-MG - Defensor Público (edital, sem prova)",
+ "banca": "Fundep",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 6640,
+   "avisos": [
+    "hifen removido: ...constitucional-|federativo"
+   ],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Administração Pública, Direito Administrativo e Organização da Administração Pública: Conceito de Administração Pública e de direito administrativo.",
+      "Sistema constitucionalfederativo de atribuição de competências em matéria de direito administrativo."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Sistema Normativo em Direito Administrativo: Princípios constitucionais de direito administrativo.",
+      "Poderes-deveres ou prerrogativas da Administração Pública.",
+      "Função regulamentar e espécies normativas regulamentares da Administração Pública.",
+      "Interpretação e aplicação das normas de direito administrativo.",
+      "Lei de Introdução às Normas do Direito Brasileiro (LINDB) e normas regulamentares.",
+      "Marco legal e infralegal de Acesso à Informação.",
+      "Marco legal e infralegal de Proteção de Dados Pessoais.",
+      "Marco legal e infralegal sobre princípios, garantias, direitos e deveres para o uso da Internet."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Organização Administrativa: Descentralização e desconcentração.",
+      "Administração direta e indireta: autarquias, fundações, empresas públicas e sociedades de economia mista.",
+      "Agências reguladoras e executivas.",
+      "Consórcios públicos.",
+      "Entidades em colaboração com a Administração Pública: Terceiro setor, entidades paraestatais, serviços sociais autônomos, entidades de apoio, organizações sociais (OS), organizações da sociedade civil de interesse público (Oscip).",
+      "Parcerias entre a Administração Pública e as organizações da sociedade civil.",
+      "A organização administrativa do Estado de Minas Gerais."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Ato Administrativo: Conceito, características e atributos.",
+      "Elementos e requisitos de validade.",
+      "Classificação e espécies.",
+      "Formação e efeitos.",
+      "Mérito, discricionariedade e vinculação.",
+      "Extinção, revogação, invalidação e convalidação.",
+      "Teoria das nulidades no direito administrativo."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Processo e Procedimento Administrativo: Conceito, requisitos, importância, objetivos, fases, espécies, fundamentos constitucionais.",
+      "Princípios do processo administrativo.",
+      "Recursos administrativos.",
+      "Decadência e prescrição administrativa.",
+      "Coisa julgada administrativa.",
+      "O processo administrativo na legislação do Estado de Minas Gerais."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Licitação: Conceito, natureza jurídica, objeto e finalidade.",
+      "Princípios básicos e correlatos.",
+      "Modalidades.",
+      "Obrigatoriedade, dispensa e inexigibilidade.",
+      "Processo de Contratação Direta."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Negócios Jurídicos Celebrados pela Administração Pública: Contrato, convênio, consórcio, acordo, ajuste, termo de parceria, termo de cooperação técnica e outros institutos congêneres.",
+      "Conceitos, características, princípios, modalidades, formalização, garantias, prerrogativas da Administração Pública, cláusulas exorbitantes, duração, execução, alteração, inexecução, extinção, nulidades, meios de resolução de controvérsias, controle."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Agentes Públicos: Conceito e classificação.",
+      "Cargo público, emprego público e função pública.",
+      "Criação e extinção de cargos e empregos públicos.",
+      "Servidores públicos da Administração Pública direta, de autarquias e de fundações públicas.",
+      "Regime constitucional e legal do servidor público: direitos, deveres e vedações.",
+      "Ingresso no serviço público.",
+      "Provimento e vacância de cargos públicos.",
+      "Ações afirmativas nos concursos públicos.",
+      "Estágio Probatório.",
+      "Servidor ocupante de cargo em comissão.",
+      "Acumulação remunerada de cargos, empregos e funções.",
+      "Remuneração e indenizações.",
+      "Estabilidade.",
+      "Progressão e promoção.",
+      "Regime próprio de previdência dos servidores públicos.",
+      "Responsabilidade jurídica dos servidores públicos: civil, administrativa e penal; responsabilidade por improbidade administrativa.",
+      "Lei Orgânica da Defensoria Pública do Estado de Minas Gerais; Estatuto dos Funcionários Públicos Civis do Estado de Minas Gerais.",
+      "Processo Administrativo Disciplinar: marco legal e infralegal do Estado de Minas Gerais; Lei Federal nº 8.112, de 11 de dezembro de 1990, como legislação subsidiária; Termo de Ajustamento Disciplinar.",
+      "Serviços Públicos e Atividade Econômica do Estado: Conceito, características e classificação.",
+      "Competência, regulamentação e controle.",
+      "Princípios.",
+      "Direitos e deveres dos usuários.",
+      "Serviços públicos e serviços sociais.",
+      "Serviços públicos e atividade econômica.",
+      "Formas de prestação e remuneração.",
+      "Concessão, permissão, autorização, parceria público-privada e outras formas.",
+      "Poder de Polícia: Conceito.",
+      "Fundamentos.",
+      "Classificações.",
+      "Meios de atuação.",
+      "Limites.",
+      "Adoção de mecanismos consensuais no exercício do poder de polícia.",
+      "Termos de ajuste de conduta administrativos.",
+      "Termos substitutivos de sanção.",
+      "Limites à delegabilidade do poder de polícia.",
+      "Responsabilidade Civil-Administrativa Extracontratual do Estado: Fundamentos e características.",
+      "Causas excludentes e atenuantes da responsabilidade.",
+      "Reparação do dano.",
+      "Ação regressiva.",
+      "Intervenção do Estado na Propriedade Privada: Fundamentos.",
+      "Função social da propriedade.",
+      "Limitação administrativa, ocupação temporária, requisição, servidão administrativa, tombamento, desapropriação.",
+      "Domínio Público: Bens públicos, espécies, classificações.",
+      "Bens públicos em espécie.",
+      "Regimes jurídicos.",
+      "Aquisição e alienação.",
+      "Uso de bem público por particular.",
+      "Atividade Financeira da Defensoria Pública: Fontes.",
+      "Princípios constitucionais.",
+      "Competência Legislativa: Iniciativa, Proposta Orçamentária.",
+      "Lei Orçamentária Anual, Lei de Diretrizes Orçamentárias e Plano Plurianual.",
+      "Responsabilidade Fiscal.",
+      "Controle.",
+      "Políticas Públicas Setoriais: A atuação da Defensoria Pública no ciclo de políticas públicas: problema, agenda, desenhos e propostas, decisão, implementação, avaliação, monitoramento.",
+      "Políticas Públicas de Saúde – O sistema constitucional e legal de atribuição federativa de competências no direito à saúde.",
+      "O Sistema Único de Saúde (SUS): organização, atribuições e marco normativo.",
+      "O financiamento das políticas públicas de saúde: Lei Complementar Federal nº 141, de 13 de janeiro de 2012; Lei Federal nº 8.142, de 28 de dezembro de 1990, legislação estadual e normas regulamentares federais e estaduais.",
+      "Regionalização, hierarquização, Redes Temáticas de Atenção à Saúde e participação popular nas políticas públicas de saúde.",
+      "Política Nacional de Atenção Integral à Saúde das Pessoas Privadas de Liberdade no Sistema Prisional (PNAISP).",
+      "Políticas Públicas de Assistência Social – A assistência social no sistema constitucional brasileiro: Lei Orgânica da Assistência Social (LOAS): Lei Federal nº 8.742, de 7 de dezembro de 1993, legislação estadual e normas regulamentares federais e estaduais.",
+      "Tipificação nacional dos serviços socioassistenciais: Resolução do Conselho Nacional de Assistência Social nº 109, de 11 de novembro de 2009.",
+      "Políticas Públicas de Urbanização Socioeconômica e Ambientalmente Sustentável – Diretrizes gerais da política urbana."
+     ]
+    }
+   ]
+  }
+ ]
+}

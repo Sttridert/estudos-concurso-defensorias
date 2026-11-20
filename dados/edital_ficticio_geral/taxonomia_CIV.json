@@ -1,0 +1,365 @@
+{
+ "disciplina": "Direito Civil",
+ "sem_acento": true,
+ "herdar_do_pai": true,
+ "temas": [
+  {
+   "codigo": "CV01",
+   "nome": "Lei de Introdução e noções gerais"
+  },
+  {
+   "codigo": "CV02",
+   "nome": "Pessoas"
+  },
+  {
+   "codigo": "CV03",
+   "nome": "Bens"
+  },
+  {
+   "codigo": "CV04",
+   "nome": "Fatos, atos e negócios jurídicos"
+  },
+  {
+   "codigo": "CV05",
+   "nome": "Obrigações"
+  },
+  {
+   "codigo": "CV06",
+   "nome": "Contratos em geral"
+  },
+  {
+   "codigo": "CV07",
+   "nome": "Contratos em espécie"
+  },
+  {
+   "codigo": "CV08",
+   "nome": "Responsabilidade civil"
+  },
+  {
+   "codigo": "CV09",
+   "nome": "Direito das coisas"
+  },
+  {
+   "codigo": "CV10",
+   "nome": "Direito de família"
+  },
+  {
+   "codigo": "CV11",
+   "nome": "Direito das sucessões"
+  },
+  {
+   "codigo": "CV12",
+   "nome": "Legislação civil especial e direito imobiliário"
+  }
+ ],
+ "topicos": [
+  {
+   "codigo": "CV01.01",
+   "tema": "CV01",
+   "nome": "Lei de Introdução às normas do Direito Brasileiro: vigência, aplicação e interpretação",
+   "regex": "lei de introducao|lindb|4\\.657|vigencia|aplicacao das normas|eficacia da lei|conflito de leis|interpretacao e integracao|analogia|fontes do direito civil|direito intertemporal|irretroatividade|lei no tempo|lei no espaco|antinomias|codificacao|aplicacao da lei|aplicacao das leis no (tempo|espaco)|conflito das leis|eficacia das leis"
+  },
+  {
+   "codigo": "CV01.02",
+   "tema": "CV01",
+   "nome": "Direito civil constitucional, princípios e cláusulas gerais",
+   "regex": "direito civil constitucional|constitucionalizacao do direito civil|eficacia horizontal|clausulas gerais|dignidade da pessoa humana|direito civil: conceito|historia do direito civil|patrimonio minimo|eticidade|socialidade|operabilidade|principios do direito civil|boa-fe|^conceito\\.?$|historico de tramitacao|culturalismo|evolucao do direito privado|dicotomia|ordenamento juridico e conceito|estrutura e funcao do direito|fontes e modelos|principios informativos do codigo civil|aplicacao direta da constituicao|aplicabilidade nas relacoes|direitos subjetivos|base filosofica|origem e evolucao historica, autonomia|conceito, elementos, fontes e classificacao|introducao ao direito civil|direito natural e direito positivo"
+  },
+  {
+   "codigo": "CV01.03",
+   "tema": "CV01",
+   "nome": "Teoria geral do direito privado: norma jurídica, relação jurídica e direito subjetivo",
+   "regex": "direito (objetivo|subjetivo|potestativo)|direitos subjetivo|titularidade|relacao juridica|elementos constitutivos da obrigacao|norma juridica|normas juridicas|positivismo|equidade|unidade do direito privado|direito publico e privado|base teorica|especies normativas|principios fundamentais do direito civil|principios do codigo civil|principios fundamentais do regime|estado de sujeicao|onus juridico|dever juridico|legislacao especial|aquisicao, modificacao, defesa e extincao|direitos e deveres|evolucao historica no direito brasileiro|conteudos normativos"
+  },
+  {
+   "codigo": "CV02.01",
+   "tema": "CV02",
+   "nome": "Pessoa natural: personalidade, capacidade, curatela e domicílio",
+   "regex": "pessoa natural|personalidade(?! juridica)|nascituro|capacidade|incapacidade|incapazes|emancipacao|domicilio|ausencia|morte (presumida|real)|comoriencia|estado da pessoa|^nome|registro civil|tomada de decisao apoiada|estatuto da pessoa com deficiencia|13\\.146|pessoa com deficiencia|pessoas naturais|estado civil|saude mental|internacao|tratamento ambulatorial"
+  },
+  {
+   "codigo": "CV02.02",
+   "tema": "CV02",
+   "nome": "Direitos da personalidade",
+   "regex": "direitos da personalidade|direito a imagem|direito ao nome|intimidade|vida privada|integridade fisica|disposicao do proprio corpo|direito ao esquecimento|transplantes|direitos sexuais e reprodutivos|direito ao corpo|cadaver|liberdade de pensamento|racismo|violencia obstetrica|direito a honra|direito a vida"
+  },
+  {
+   "codigo": "CV02.03",
+   "tema": "CV02",
+   "nome": "Pessoa jurídica: associações, fundações e desconsideração da personalidade",
+   "regex": "pessoas? juridicas?|associacoes|fundacoes|desconsideracao da personalidade|organizacoes religiosas|responsabilidade dos administradores|personalidade juridica|desconsideracao inversa"
+  },
+  {
+   "codigo": "CV03.01",
+   "tema": "CV03",
+   "nome": "Bens: classificação, bem de família e patrimônio",
+   "regex": "^bens|dos bens|bens (moveis|imoveis|publicos|particulares|fungiveis|consumiveis|divisiveis|reciprocamente)|bem de familia|pertencas|^frutos|benfeitorias|coisas fora do comercio|classificacao dos bens"
+  },
+  {
+   "codigo": "CV04.01",
+   "tema": "CV04",
+   "nome": "Negócio jurídico: existência, validade, eficácia e defeitos",
+   "regex": "negocio juridico|fatos juridicos|atos juridicos|^validade|invalidade|nulidade|anulabilidade|defeitos do negocio|^erro|^dolo|coacao|^lesao|estado de perigo|fraude contra credores|simulacao|representacao|condicao, termo e encargo|plano da (existencia|validade|eficacia)|forma e prova|conversao|confirmacao|fato juridico|fatos juridicamente|situacoes juridicas|modificacao, conservacao e extincao dos negocios|plano da|elementos acidentais"
+  },
+  {
+   "codigo": "CV04.02",
+   "tema": "CV04",
+   "nome": "Atos ilícitos e abuso do direito",
+   "regex": "atos? ilicitos?|abuso do direito|licitude|exercicio regular"
+  },
+  {
+   "codigo": "CV04.03",
+   "tema": "CV04",
+   "nome": "Prescrição, decadência e prova",
+   "regex": "prescricao|decadencia|prova dos fatos|prova do negocio|causas impeditivas|interrupcao|^prova\\.?$|prova do fato juridico"
+  },
+  {
+   "codigo": "CV05.01",
+   "tema": "CV05",
+   "nome": "Teoria geral das obrigações: modalidades, solidariedade e transmissão",
+   "regex": "obrigacoes|direito das obrigacoes|obrigacao de (dar|fazer|nao fazer)|obrigacoes (solidarias|alternativas|facultativas|divisiveis|indivisiveis|naturais)|modalidades das obrigacoes|transmissao das obrigacoes|cessao de credito|assuncao de divida|fontes das obrigacoes|solidariedade|elementos da obrigacao|propter rem|cessao de contrato|obrigacao complexa|obrigacao como um processo"
+  },
+  {
+   "codigo": "CV05.02",
+   "tema": "CV05",
+   "nome": "Inadimplemento, mora, juros, cláusula penal e arras",
+   "regex": "inadimplemento|^mora|perdas e danos|^juros|correcao monetaria|clausula penal|^arras|adimplemento|inadimplencia|execucao especifica|responsabilidade patrimonial|preferencias e privilegios creditorios|garantias gerais|juros remuneratorios|anatocismo|juros"
+  },
+  {
+   "codigo": "CV05.03",
+   "tema": "CV05",
+   "nome": "Extinção das obrigações, pagamento indevido e atos unilaterais",
+   "regex": "pagamento|novacao|compensacao|confusao|remissao|dacao em pagamento|consignacao em pagamento|imputacao|extincao das obrigacoes|enriquecimento sem causa|gestao de negocios|promessa de recompensa|titulos de credito|atos unilaterais|sub-rogacao|enriquecimento ilicito"
+  },
+  {
+   "codigo": "CV06.01",
+   "tema": "CV06",
+   "nome": "Contratos em geral: princípios, formação, vícios e extinção",
+   "regex": "teoria geral dos contratos|^contratos?\\.?$|principios (contratuais|dos contratos)|formacao dos contratos|contrato preliminar|vicios redibitorios|evic+ao|extincao dos contratos|clausula resolutiva|excecao de contrato nao cumprido|teoria da imprevisao|onerosidade excessiva|distrato|resolucao|resilicao|contrato de adesao|estipulacao em favor de terceiro|contrato com pessoa a declarar|promessa de fato de terceiro|funcao social do contrato|equilibrio contratual|revisao dos contratos|classificacao dos contratos|contratos aleatorios|compromisso de venda e compra|contratos? (comutativ|gratuit|onerosos|bilateral)"
+  },
+  {
+   "codigo": "CV07.01",
+   "tema": "CV07",
+   "nome": "Compra e venda",
+   "regex": "(?<!duplicata de )compra e venda|venda com reserva de dominio|retrovenda|venda a contento|preempcao|clausulas especiais da compra"
+  },
+  {
+   "codigo": "CV07.02",
+   "tema": "CV07",
+   "nome": "Troca",
+   "regex": "^troca|\\btroca\\b|permuta"
+  },
+  {
+   "codigo": "CV07.03",
+   "tema": "CV07",
+   "nome": "Doação",
+   "regex": "doacao|doacoes"
+  },
+  {
+   "codigo": "CV07.04",
+   "tema": "CV07",
+   "nome": "Locação de coisas e Lei do Inquilinato",
+   "regex": "locacao|locacoes|8\\.245|inquilinato|aluguel|locatari|locador"
+  },
+  {
+   "codigo": "CV07.05",
+   "tema": "CV07",
+   "nome": "Comodato",
+   "regex": "comodato|emprestimo"
+  },
+  {
+   "codigo": "CV07.06",
+   "tema": "CV07",
+   "nome": "Mútuo",
+   "regex": "mutuo|emprestimo"
+  },
+  {
+   "codigo": "CV07.07",
+   "tema": "CV07",
+   "nome": "Prestação de serviços",
+   "regex": "prestacao de servicos?"
+  },
+  {
+   "codigo": "CV07.08",
+   "tema": "CV07",
+   "nome": "Empreitada",
+   "regex": "empreitada"
+  },
+  {
+   "codigo": "CV07.09",
+   "tema": "CV07",
+   "nome": "Depósito",
+   "regex": "deposito"
+  },
+  {
+   "codigo": "CV07.10",
+   "tema": "CV07",
+   "nome": "Mandato",
+   "regex": "mandato|procuracao"
+  },
+  {
+   "codigo": "CV07.11",
+   "tema": "CV07",
+   "nome": "Comissão",
+   "regex": "^comissao|contrato de comissao"
+  },
+  {
+   "codigo": "CV07.12",
+   "tema": "CV07",
+   "nome": "Agência e distribuição",
+   "regex": "agencia e distribuicao|contrato de agencia|distribuicao"
+  },
+  {
+   "codigo": "CV07.13",
+   "tema": "CV07",
+   "nome": "Corretagem",
+   "regex": "corretagem"
+  },
+  {
+   "codigo": "CV07.14",
+   "tema": "CV07",
+   "nome": "Transporte",
+   "regex": "transporte"
+  },
+  {
+   "codigo": "CV07.15",
+   "tema": "CV07",
+   "nome": "Seguro",
+   "regex": "^seguro|contrato de seguro|seguros?\\b(?! de saude)"
+  },
+  {
+   "codigo": "CV07.16",
+   "tema": "CV07",
+   "nome": "Fiança",
+   "regex": "fianca"
+  },
+  {
+   "codigo": "CV07.17",
+   "tema": "CV07",
+   "nome": "Contratos em espécie (visão geral), atípicos e modernos",
+   "regex": "contratos? atipicos|contratos? mistos|contratos bancarios|leasing|arrendamento mercantil|franquia|factoring|cartao de credito|contratos eletronicos|contratos? de adesao|^contratos em especie|especies de contratos|contratos em especie"
+  },
+  {
+   "codigo": "CV07.18",
+   "tema": "CV07",
+   "nome": "Outros contratos nomeados: estimatório, constituição de renda, jogo e aposta, transação e compromisso",
+   "regex": "estimatorio|constituicao de renda|renda vitalicia|\\bjogo|aposta|transacao|compromisso(?! de venda)|arbitragem"
+  },
+  {
+   "codigo": "CV08.01",
+   "tema": "CV08",
+   "nome": "Responsabilidade civil: pressupostos, espécies, excludentes e reparação",
+   "regex": "responsabilidade civil|dano moral|dano material|dano estetico|nexo causal|^culpa|responsabilidade (objetiva|subjetiva)|causas excludentes|reparacao|indenizacao|responsabilidade (por fato|pelo fato)|perda de uma chance|danos? (coletivo|social)|quantificacao|especies de responsabilidade|fontes geradoras do dever de indenizar|teorias que fundamentam o dever de indenizar|dever de indenizar|marco civil|dano por|marco civil|dano por"
+  },
+  {
+   "codigo": "CV09.01",
+   "tema": "CV09",
+   "nome": "Posse",
+   "regex": "^posse|da posse|teorias da posse|funcao (social|socioambiental) da posse|aquisicao da posse|protecao possessoria|interditos|detencao|composse|conceito, classificacao, aquisicao, efeitos, protecao e perda da posse"
+  },
+  {
+   "codigo": "CV09.02",
+   "tema": "CV09",
+   "nome": "Propriedade: aquisição, perda, função social e usucapião",
+   "regex": "propriedade(?! fiduciaria em garantia)|aquisicao da propriedade|usucapiao|funcao social da propriedade|perda da propriedade|acessao|especificacao|regularizacao fundiaria|reurb|direito de construir|registro de imoveis|adjudicacao compulsoria|direitos reais\\.?$|direito das coisas|direito real a aquisicao"
+  },
+  {
+   "codigo": "CV09.03",
+   "tema": "CV09",
+   "nome": "Condomínio e direitos de vizinhança",
+   "regex": "condominio|direitos de vizinhanca|vizinhanca|propriedade horizontal|incorporacao imobiliaria|multipropriedade|loteamento fechado"
+  },
+  {
+   "codigo": "CV09.04",
+   "tema": "CV09",
+   "nome": "Direitos reais sobre coisa alheia: servidões, usufruto, superfície e promitente comprador",
+   "regex": "direitos reais sobre coisa alheia|servidoes|usufruto|^uso\\b|habitacao|superficie|laje|direito do promitente comprador|enfiteuse|concessao de uso especial|concessao de direito real de uso"
+  },
+  {
+   "codigo": "CV09.05",
+   "tema": "CV09",
+   "nome": "Direitos reais de garantia: penhor, hipoteca, anticrese e alienação fiduciária",
+   "regex": "direitos reais (em|de) garantia|penhor|hipoteca|anticrese|alienacao fiduciaria|garantia real|propriedade fiduciaria"
+  },
+  {
+   "codigo": "CV10.01",
+   "tema": "CV10",
+   "nome": "Princípios e entidades familiares; diversidade e multiparentalidade",
+   "regex": "principios constitucionais (da|aplicaveis).{0,20}famil|entidades familiares|familia homoafetiva|diversidade (sexual|familiar)|multiparentalidade|relacoes familiares plurais|^familia|homoparentalidade|familias? simultaneas|direito de familia|aspectos constitucionais|afetividade|fundamentos da diversidade|direto de familia|direito das familias|caracterizacao, efeitos alimenticios"
+  },
+  {
+   "codigo": "CV10.02",
+   "tema": "CV10",
+   "nome": "Casamento: impedimentos, invalidade, regime de bens e dissolução",
+   "regex": "casamento|impedimentos|causas suspensivas|regimes? de bens|pacto antenupcial|separacao|divorcio|esponsais|efeitos patrimoniais|dissolucao da sociedade conjugal|^meacao|comunhao|caracteristicas, estado|dissolucao da sociedade e do vinculo conjugal"
+  },
+  {
+   "codigo": "CV10.03",
+   "tema": "CV10",
+   "nome": "União estável e concubinato",
+   "regex": "uniao estavel|uniao homoafetiva|uni.es estaveis|concubinato|companheiro|contrato de convivencia|uniao de pessoas do mesmo sexo|direito homoafetivo"
+  },
+  {
+   "codigo": "CV10.04",
+   "tema": "CV10",
+   "nome": "Parentesco, filiação, adoção e alienação parental",
+   "regex": "parentesco|filiacao|reconhecimento de filhos|paternidade|maternidade|socioafetividade|adocao|alienacao parental|investigacao de paternidade|reproducao assistida|vinculos de parentesco|especies de filiacao|reproducao medicamente assistida"
+  },
+  {
+   "codigo": "CV10.05",
+   "tema": "CV10",
+   "nome": "Poder familiar, guarda e convivência",
+   "regex": "poder familiar|^guarda|direito de visitas?|convivencia familiar|protecao da pessoa dos filhos|usufruto e administracao de bens de filhos|autoridade parental|violencia domestica|maria da penha"
+  },
+  {
+   "codigo": "CV10.06",
+   "tema": "CV10",
+   "nome": "Alimentos",
+   "regex": "alimentos|obrigacao alimentar|direito alimentar|prisao civil|execucao de alimentos|binomio|principios informativos do direito alimentar"
+  },
+  {
+   "codigo": "CV10.07",
+   "tema": "CV10",
+   "nome": "Tutela, curatela, tomada de decisão apoiada e planejamento familiar",
+   "regex": "^tutela|tutela,|curatela|tomada de decisao apoiada|planejamento familiar"
+  },
+  {
+   "codigo": "CV11.01",
+   "tema": "CV11",
+   "nome": "Sucessão em geral: herança, vocação hereditária, aceitação e exclusão",
+   "regex": "sucessao(?! (legitima|testamentaria))|sucessoes|^heranca|vocacao hereditaria|aceitacao e renuncia|heranca (jacente|vacante)|exclusao da sucessao|indignidade|deserdacao|abertura da sucessao|saisine|capacidade para suceder|peticao de heranca|cessao de heranca|administracao da heranca"
+  },
+  {
+   "codigo": "CV11.02",
+   "tema": "CV11",
+   "nome": "Sucessão legítima e testamentária",
+   "regex": "sucessao (legitima|testamentaria)|testamento|legados?|colacao|reducao das disposicoes|meacao e sucessao|sucessao do (conjuge|companheiro)|ordem de vocacao|^legitima|herdeiros necessarios|codicilo|substituicoes|fideicomisso|clausulas restritivas|direito de acrescer"
+  },
+  {
+   "codigo": "CV11.03",
+   "tema": "CV11",
+   "nome": "Inventário, partilha, arrolamento e alvarás",
+   "regex": "inventario|partilha|arrolamentos?|alvaras? judiciais|sobrepartilha|inventariante|sonegados|garantia dos quinhoes|inventario extrajudicial"
+  },
+  {
+   "codigo": "CV12.01",
+   "tema": "CV12",
+   "nome": "Registros públicos, parcelamento do solo, Estatuto da Cidade e direito imobiliário",
+   "regex": "registros? publicos|6\\.015|parcelamento do solo|6\\.766|estatuto da cidade|10\\.257|lei de terras|601/1850|registro de imoveis|provimento do cnj|8\\.935|notarial|cartorario|presuncao de fe publica|prioridade, especialidade|legislacao registral|registro publico imobiliario|provimento n|corregedoria|13\\.465|11\\.977|regularizacao fundiaria"
+  },
+  {
+   "codigo": "CV12.02",
+   "tema": "CV12",
+   "nome": "Estatutos e leis especiais de direito privado (ECA, Idoso, LGPD, planos de saúde, liberdade econômica)",
+   "regex": "estatuto da crianca|8\\.069|estatuto do idoso|10\\.741|13\\.709|lgpd|protecao de dados|planos e seguros privados|planos de saude|13\\.874|liberdade economica|regime juridico emergencial|14\\.010|discriminacao em razao|grupos sociais vulneraveis|protecao dos grupos"
+  }
+ ],
+ "outra_disciplina": {
+  "Direito Empresarial": "\\bempresa|empresari|sociedade (empresaria|limitada|anonima|em comandita|simples)|titulos de credito|falencia|recuperacao (judicial|extrajudicial)|ato empresarial|estabelecimento empresarial|direito societario|propriedade industrial|marcas e patentes|contratos mercantis|franquia|registro de empresa|sociedade em nome coletivo|nao personificada|sociedade personificada|cooperativa|coligadas|transformacao, incorporacao|registro das sociedades|do estabelecimento|prepostos|falimentar|falido|protesto de titulos|cambiaria|11\\.101|8\\.934|operacoes societarias|dissolucao, liquidacao e extincao das sociedades|regime juridico dos socios|relacoes entre sociedades|lei de recuperacao|habilitacao e classificacao dos creditos|^estabelecimento|sociedade irregular|letra de cambio|nota promissoria|duplicata|cheque|titulos em especie|administrador judicial|comite de credores|assembleia geral de credores|decretacao|arrecadacao e realizacao do ativo|plano de recuperacao|credores sujeitos|homologacao judicial, requisitos|6\\.404|deliberacoes sociais|comercio eletronico|apropriacao de servicos",
+  "Direito do Consumidor": "consumidor|8\\.078|fornecedor|relacao de consumo",
+  "Direito Processual Civil": "codigo de processo civil|13\\.105|procedimentos? (especial|comum)|jurisdicao voluntaria|execucao de titulo",
+  "Constituição estadual e leis locais (conteúdo local)": "constituicao do estado|lei estadual|lei municipal"
+ },
+ "congelada": "v1 em 14/11/2026",
+ "fragmentos_genericos": "^(disposicoes (gerais|comuns)|classificacoes?|conceito|principios|caracteristicas|natureza|requisitos|efeitos|especies|elementos|fontes|objeto|institutos complementares|conceito, natureza, requisitos e efeitos|jurisprudencia aplicada.*|caracterizacao|habilitacao)\\.?$"
+}

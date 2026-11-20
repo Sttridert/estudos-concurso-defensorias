@@ -1,0 +1,57 @@
+{
+ "pasta": "2023 - DPE-AM - Analista Jurídico",
+ "banca": "FCC",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 983,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direitos e garantias fundamentais: direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade, à segurança e à propriedade; direitos sociais; nacionalidade; cidadania e direitos políticos; partidos políticos; garantias constitucionais individuais; garantias dos direitos coletivos, sociais e políticos."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Poder Legislativo: fundamento, atribuições e garantias de independência."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Poder Executivo: forma e sistema de governo; chefia de Estado e chefia de governo; atribuições e responsabilidades do presidente da República."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Ordem social: base e objetivos da ordem social; seguridade social; educação, cultura e desporto; ciência e tecnologia; comunicação social; meio ambiente; família, criança, adolescente e idoso."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Poder Judiciário: disposições gerais, tribunais superiores, Supremo Tribunal Federal, tribunais e juízes eleitorais."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Das funções essenciais à Justiça – Da Defensoria Pública."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Ato das Disposições Constitucionais Transitórias."
+     ]
+    }
+   ]
+  }
+ ]
+}

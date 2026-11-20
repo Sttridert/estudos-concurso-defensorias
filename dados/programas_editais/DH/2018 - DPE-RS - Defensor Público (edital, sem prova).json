@@ -1,0 +1,231 @@
+{
+ "pasta": "2018 - DPE-RS - Defensor Público (edital, sem prova)",
+ "banca": "FCC",
+ "disciplina": "DH",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITOS HUMANOS",
+   "caracteres": 8195,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Origem, sentido e evolução histórica dos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "A dignidade humana."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Os fundamentos filosóficos dos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Direito internacional dos Direitos Humanos: fontes, classificação, princípios, características, gerações e dimensões dos Direitos Humanos.",
+      "Normas de interpretação dos tratados de Direitos Humanos.",
+      "Resolução de conflitos ante a colisão de Direitos Humanos.",
+      "A responsabilidade internacional por violação dos Direitos Humanos: tratados internacionais de Direitos Humanos e as obrigações assumidas pelo Brasil, formas de reparação e sanções coletivas e unilaterais.",
+      "A vigência e eficácia das normas do Direito Internacional dos Direitos Humanos.",
+      "As possibilidades de aposição de reservas e de oferecer denúncias relativas aos tratados internacionais de Direitos Humanos.",
+      "A incorporação dos tratados internacionais de proteção de Direitos Humanos ao direito brasileiro.",
+      "A posição hierárquica dos tratados internacionais de Direitos Humanos em face da Constituição brasileira.",
+      "O controle de convencionalidade.",
+      "O direito da autodiscriminação: discriminação direta e indireta e ações afirmativas.",
+      "A execução de decisões oriundas de tribunais internacionais de Direitos Humanos no Brasil."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "O sistema internacional de proteção e promoção dos Direitos Humanos: Organização das Nações Unidas (ONU).",
+      "Declarações, tratados, resoluções, comentários gerais, relatórios e normas de organização e funcionamento dos órgãos de supervisão, fiscalização e controle.",
+      "Órgãos convencionais e extraconvencionais.",
+      "Declaração Universal dos Direitos Humanos.",
+      "Pacto Internacional dos Direitos Civis e Políticos (PIDCP).",
+      "Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos.",
+      "Segundo Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos visando à abolição da pena de morte.",
+      "Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (PIDESC).",
+      "Protocolo Facultativo ao Pacto Internacional de Direitos Econômicos, Sociais e Culturais.",
+      "Convenção para a Prevenção e Punição ao Crime de Genocídio.",
+      "Convenção Relativa ao Estatuto dos Refugiados.",
+      "Protocolo sobre o Estatuto dos Refugiados.",
+      "Convenção sobre a eliminação de todas as formas de discriminação racial.",
+      "Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher.",
+      "Protocolo Facultativo à Convenção sobre a Eliminação de todas as Formas de Discriminação contra a Mulher.",
+      "Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes.",
+      "Protocolo Facultativo à Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes.",
+      "Estatuto de Roma sobre Tribunal Penal Internacional.",
+      "Convenção sobre os Direitos da Pessoa com Deficiência.",
+      "Protocolo Facultativo à Convenção sobre os Direitos da Pessoa com Deficiência.",
+      "Convenção Internacional sobre a Proteção dos Direitos de Todos os Trabalhadores Migrantes e dos Membros das suas Famílias.",
+      "Convenção Internacional para a Proteção de Todas as Pessoas Contra o Desaparecimento Forçado.",
+      "Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Sistema Regional Interamericano de Proteção aos Direitos Humanos.",
+      "Organização dos Estados Americanos (OEA): declarações, tratados, resoluções, relatórios, informes, pareceres, jurisprudência (contenciosa e consultiva da Corte Interamericana de Direitos Humanos), normas de organização e funcionamento dos órgãos de supervisão, fiscalização e controle.",
+      "Comissão Interamericana de Direitos Humanos: relatórios de casos, medidas cautelares, relatórios anuais e relatoria para a liberdade de expressão.",
+      "Corte Interamericana de Direitos Humanos.",
+      "Declaração Americana dos Direitos e Deveres do Homem.",
+      "Convenção Americana de Direitos Humanos.",
+      "Protocolo adicional à Convenção Americana sobre Direitos Humanos em matéria de direitos econômicos, sociais e culturais – “Protocolo de San Salvador”.",
+      "Convenção Interamericana para Prevenir e Punir a Tortura.",
+      "Protocolo à Convenção Americana sobre Direitos Humanos relativo à Abolição da Pena de Morte.",
+      "Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher.",
+      "Convenção Interamericana sobre o Desaparecimento Forçado de Pessoas.",
+      "Convenção Interamericana sobre a Eliminação de Todas as Formas de Discriminação contra Pessoas Portadoras de Deficiência."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Direitos Humanos e acesso à justiça: o dever dos Estados de promover o acesso à justiça, 100 Regras de Brasília e desenvolvimentos no âmbito da Organização dos Estados Americanos relacionados à Defensoria Pública."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Mecanismos de proteção aos Direitos Humanos na Constituição da República do Brasil.",
+      "Federalização de crimes contra os Direitos Humanos.",
+      "Remédios constitucionais.",
+      "A proteção penal dos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Reflexos do Direito Internacional dos Direitos Humanos no direito brasileiro.",
+      "Programa Nacional de Direitos Humanos I, II e III.",
+      "Programa Estadual de Direitos Humanos do Estado.",
+      "Comissão Nacional da Verdade: histórico, atribuições, legislação, audiências públicas e relatórios."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Direitos Humanos em espécie e grupos vulneráveis.",
+      "Direitos Humanos das minorias e de vítimas de injustiças históricas."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Mulher.",
+      "Lei Maria da Penha (Lei n. 11.340/06).",
+      "Gênero; violência de gênero; violência contra as mulheres.",
+      "Formas de violência doméstica e familiar contra a mulher.",
+      "Medidas protetivas às vítimas de violência doméstica e familiar.",
+      "Atendimento obrigatório e integral de pessoas em situação de violência sexual (Lei n. 12.845/13).",
+      "Violência Obstétrica.",
+      "Diretrizes Nacionais para o Abrigamento de Mulheres em Situação de Risco e de Violência.",
+      "Rede de Enfrentamento à Violência contra as Mulheres e Rede de Atendimento à Mulher em Situação de Violência.",
+      "Política Nacional de Enfrentamento à Violência contra as Mulheres."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Negro.",
+      "Estatuto da Igualdade Racial (Lei n. 12.288/10).",
+      "Crimes resultantes de raça ou de cor (Lei n. 7.716/89).",
+      "Sistema Nacional de Promoção da Igualdade Racial (Decreto n. 8.136/2013).",
+      "Racismo Institucional.",
+      "Ações Afirmativas.",
+      "Comunidades Tradicionais; Comunidades Quilombolas; Intolerância Religiosa e Religiões de Matriz Africana."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Idoso.",
+      "Estatuto do Idoso (Lei n. 10.741/03).",
+      "Plano de Ação para o Enfrentamento da Violência Contra Pessoa Idosa.",
+      "Carta de São José sobre os Direitos dos Idosos da América Latina e Caribe.",
+      "Benefício de Amparo Social ao Idoso."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Pessoa com Deficiência.",
+      "Estatuto da Pessoa com Deficiência.",
+      "Benefício de Amparo Social à Pessoa com Deficiência; Passe livre às pessoas com deficiência no sistema de transporte coletivo interestadual (Lei n. 8.899/94).",
+      "Acessibilidade (Lei n. 10.098, de 19 de dezembro de 2000).",
+      "Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista (Lei n. 12.764/12)."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Pessoas em situação de rua e Direito à Saúde Mental.",
+      "Política Nacional para a população em situação de rua (Decreto Federal n. 7.053/09).",
+      "Lei Orgânica de Assistência Social (Lei n. 8.742/92).",
+      "Internação Voluntária; Lei Antimanicomial; Internação Involuntária; Internação Compulsória (Lei n. 10.216/01).",
+      "Registro Tardio de Nascimento (Lei n. 6.015/73 e Provimento n. 28 do Conselho Nacional de Justiça)."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Povos Indígenas.",
+      "Estatuto do Índio (Lei n. 6.001/73).",
+      "Convenção nº 169 da Organização Internacional do Trabalho (OIT) sobre povos indígenas e tribais."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "LGBTTTI (lésbicas, gays, bissexuais, travestis, transexuais, transgêneros e pessoas em situação de intersexo).",
+      "Identidade de gênero; orientação sexual.",
+      "Retificação de registro de nascimento quanto ao nome e sexo de transgênero.",
+      "Nome Social e uso de banheiro nas escolas (Resolução n. 12 de 2015 - Conselho Nacional de Combate à Discriminação LGBT)."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Sem-teto.",
+      "Estatuto da Cidade (Lei n. 10.257/01).",
+      "Regularização Fundiária Urbana.",
+      "Provimento do CNJ n. 44, de 18 de março de 2015.",
+      "Programa Minha Casa, Minha Vida (Lei n. 11.977/09)."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Sem-terra.",
+      "Prevenção e mediação de conflitos agrários.",
+      "Plano Nacional de Combate à Violência no Campo.",
+      "Diretrizes nacionais para execução de mandados judiciais de manutenção e reintegração de posse coletiva."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Imigrantes e Refugiados (Lei n. 9.474, de 22 de julho de 1997)."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Combate à tortura.",
+      "(Lei n. 12.847, de 2 de agosto de 2013 e Decreto n. 8.154, de 16 de dezembro de 2013)."
+     ]
+    }
+   ]
+  }
+ ]
+}

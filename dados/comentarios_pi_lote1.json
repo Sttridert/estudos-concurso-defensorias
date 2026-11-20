@@ -1,0 +1,110 @@
+{
+ "2018 - DPE-AM - Analista Jurídico|17": {
+  "c": "A questão pede quem são os membros natos do Conselho Superior da Defensoria do Amazonas, segundo a LC estadual 01/1990. O gabarito oficial é D (III, IV e V): o Corregedor-Geral, o Subdefensor Público-Geral e o Defensor Público-Geral. Os outros dois itens (membro indicado pela OAB/AM e Defensor Público mais antigo) entram no Conselho por indicação ou escolha, não por ocuparem o cargo. Não consegui conferir o texto da lei estadual; a explicação segue o gabarito. Confirmar na LC 01/1990 a lista dos natos.",
+  "p": "Somar todos os membros do Conselho como se fossem natos (C). Nato é quem está no Conselho só por ocupar o cargo.",
+  "d": [],
+  "pend": 1
+ },
+ "2018 - DPE-AM - Analista Jurídico|18": {
+  "c": "A pergunta é qual item tem exceção escrita na própria Constituição. Só a irretroatividade da lei penal (item IV) a tem: a lei penal não retroagirá, salvo para beneficiar o réu (art. 5º, XL). Os demais não têm exceção expressa: o acesso ao Judiciário (XXXV), o direito adquirido, o ato jurídico perfeito e a coisa julgada (XXXVI), a proibição de juízo ou tribunal de exceção (XXXVII) e a punição de qualquer discriminação atentatória (XLI). Por isso o gabarito é B (apenas IV).",
+  "p": "Achar que há exceção em todas as garantias. A única exceção expressa aqui é o “salvo para beneficiar o réu” do inciso XL.",
+  "d": ["CF|art. 5º, XXXV a XXXVII, XL e XLI"],
+  "pend": 0
+ },
+ "2018 - DPE-AM - Analista Jurídico|19": {
+  "c": "Dos crimes de funcionário público contra a Administração, só o peculato tem forma culposa: quando o funcionário concorre culposamente para o crime de outro (art. 312, § 2º do Código Penal). Concussão (art. 316), corrupção passiva (art. 317), prevaricação (art. 319) e advocacia administrativa (art. 321) só existem na forma dolosa. Gabarito B. Observação: este tema (Código Penal, arts. 312 a 327) constava do edital de 2018, mas não consta do edital 2026.",
+  "p": "Imaginar que os crimes de corrupção também têm forma culposa. Só o peculato tem.",
+  "d": ["CP|art. 312, § 2º"],
+  "pend": 0
+ },
+ "2018 - DPE-AM - Analista Jurídico|20": {
+  "c": "A competência privativa da União está no art. 22 da Constituição, e o inciso VIII traz “comércio exterior e interestadual”, a letra D. Direito financeiro, produção e consumo e proteção à infância e à juventude estão no art. 24, que é a competência concorrente (União, Estados e DF). Gabarito D. Observação: a Constituição inteira (arts. 1º a 144) constava do edital de 2018, mas o edital 2026 limita a CF aos arts. 5º, 37 e 134.",
+  "p": "Confundir competência privativa (art. 22) com concorrente (art. 24): três alternativas são concorrentes.",
+  "d": ["CF|art. 22, VIII", "CF|art. 24"],
+  "pend": 0
+ },
+ "2019 - DPE-AM - Analista Jurídico|13": {
+  "c": "A pergunta é sobre a LC estadual 01/1990. O gabarito oficial é D: as substituições dos membros seguem critérios fixados pelo Defensor Público-Geral, que é quem chefia a instituição e cuida da organização do serviço. O Conselho Superior e a Corregedoria têm outras funções (normas gerais e fiscalização). Não consegui conferir o texto da lei estadual; a explicação segue o gabarito. Confirmar o artigo na LC 01/1990.",
+  "p": "Atribuir ao Conselho Superior (C) o que é ato de gestão do Defensor Público-Geral.",
+  "d": [],
+  "pend": 1
+ },
+ "2019 - DPE-AM - Analista Jurídico|14": {
+  "c": "O gabarito oficial é B: a Corregedoria-Geral apresenta ao Defensor Público-Geral, em janeiro de cada ano, o relatório das atividades do ano anterior. As outras alternativas são funções de outros órgãos ou de outro momento: eleição do Defensor Público-Geral (C) e fixação de atribuições dos órgãos de atuação (D) são do Conselho Superior; promoções (E) são ato do Defensor Público-Geral. Na alternativa A, “instaurar” o processo disciplinar é o verbo errado: a Corregedoria propõe a instauração (veja a questão de 2023 sobre o tema). Confirmar o artigo da LC 80/1994 (capítulo da Corregedoria-Geral).",
+  "p": "Dizer que a Corregedoria “instaura” o processo disciplinar (A). Na LC 80 ela propõe a instauração.",
+  "d": [],
+  "pend": 1
+ },
+ "2019 - DPE-AM - Analista Jurídico|15": {
+  "c": "Pelo gabarito, a letra A: descumprir as normas de celebração, fiscalização e aprovação de contas de parcerias com entidades privadas era ato de improbidade que atenta contra os princípios (art. 11 da Lei 8.429/1992, na redação da época). B e C descrevem atos que causam prejuízo ao erário (art. 10); D é enriquecimento ilícito (art. 9º); E também é enriquecimento ilícito (uso de bens públicos em obra particular). Atenção: a questão é de 2019 e a Lei 14.230/2021 reescreveu a Lei de Improbidade; a lista do art. 11 mudou. Confirmar o texto atual antes de estudar por esta questão. Tema fora do edital 2026.",
+  "p": "Misturar os três grupos da lei: enriquecimento ilícito (art. 9º), dano ao erário (art. 10) e violação a princípios (art. 11).",
+  "d": ["Lei 8.429/1992|arts. 9º, 10 e 11"],
+  "pend": 1
+ },
+ "2019 - DPE-AM - Analista Jurídico|16": {
+  "c": "Receber vantagem econômica para omitir ato de ofício é enriquecimento ilícito (art. 9º da Lei 8.429/1992). Na redação da época, as sanções do art. 12, I incluíam perda dos bens acrescidos ilicitamente, ressarcimento do dano, perda da função, suspensão dos direitos políticos de oito a dez anos e multa civil; é o que diz a letra C, o gabarito. As outras alternativas trazem prazos e multas de outros incisos do art. 12 (3 a 5 anos, 5 a 8 anos). Atenção: a Lei 14.230/2021 mudou as sanções; confirmar os prazos atuais antes de estudar por esta questão. Tema fora do edital 2026.",
+  "p": "Trocar o prazo da suspensão dos direitos políticos: cada grupo de atos (arts. 9º, 10 e 11) tem o seu.",
+  "d": ["Lei 8.429/1992|arts. 9º e 12"],
+  "pend": 1
+ },
+ "2019 - DPE-AM - Analista Jurídico|17": {
+  "c": "A questão cobra o que a Constituição do Amazonas diz expressamente, em seção própria, sobre a Defensoria. O gabarito oficial é E: representar ao Ministério Público em caso de sevícias e maus-tratos à pessoa do defendendo. As demais alternativas inventam funções (defender idosos contra os familiares, representar organizações sociais, defender contra pessoas de direito privado, representar crianças em abandono). Não consegui conferir o texto da Constituição estadual; a explicação segue o gabarito. Confirmar na seção da Defensoria (edital: Constituição do Estado do Amazonas).",
+  "p": "Escolher uma função “bonita” da Defensoria que a Constituição estadual não traz de forma expressa.",
+  "d": [],
+  "pend": 1
+ },
+ "2019 - DPE-AM - Analista Jurídico|18": {
+  "c": "Exigir contribuição social ou tributo que sabe ou deveria saber indevido é excesso de exação (art. 316, § 1º do Código Penal), letra C. A concussão (caput do art. 316) é exigir vantagem indevida para si ou para outro; as expressões “concussão direta, indireta ou implícita” não são nomes de crime. Gabarito C. Tema fora do edital 2026 (o edital de 2019 listava os arts. 312 a 327 do Código Penal).",
+  "p": "Chamar de concussão o que o Código Penal chama de excesso de exação.",
+  "d": ["CP|art. 316, § 1º"],
+  "pend": 0
+ },
+ "2019 - DPE-AM - Analista Jurídico|19": {
+  "c": "A pergunta é sobre o que a LC estadual 01/1990 considera efetivo exercício. O gabarito oficial é D: o afastamento por licença especial conta como efetivo exercício. As outras licenças (mandato legislativo, tratamento de saúde de pessoa da família, estudo no exterior, paternidade) não entram nessa regra, segundo o gabarito. Não consegui conferir o texto da lei estadual; a explicação segue o gabarito. Confirmar o artigo na LC 01/1990.",
+  "p": "Presumir que toda licença conta como efetivo exercício; a lei lista quais contam.",
+  "d": [],
+  "pend": 1
+ },
+ "2019 - DPE-AM - Analista Jurídico|20": {
+  "c": "A pergunta é sobre os impedimentos à evolução funcional do servidor da Defensoria do Amazonas (a lei dos servidores é a Lei 4.077/2014). O gabarito oficial é E: o servidor em estágio probatório não pode evoluir na carreira. As demais hipóteses (advertência, faltas, destituição de cargo em comissão, afastamento autorizado) não são vedação, segundo o gabarito. Não consegui conferir o texto da lei; confirmar o artigo na Lei 4.077/2014.",
+  "p": "Trazer para a evolução funcional regras de punição que a lei não estabelece como vedação.",
+  "d": [],
+  "pend": 1
+ },
+ "2022 - DPE-AM - Analista Jurídico|15": {
+  "c": "A EC 80/2014 reescreveu o art. 134 da Constituição e passou a dizer que a Defensoria defende, em todos os graus, judicial e extrajudicialmente, os direitos individuais e coletivos dos necessitados. A legitimidade para a defesa dos direitos coletivos a Defensoria já exercia por lei (a LC 80, ao prever a ação civil pública); a emenda a levou para o texto constitucional. Gabarito A. A orientação jurídica e a defesa dos necessitados (E) já estavam no art. 134 desde 1988; ação popular, ação penal pública e ADI não são atribuições da Defensoria.",
+  "p": "Marcar a letra E: orientação jurídica e defesa dos necessitados já existiam no art. 134 antes da emenda.",
+  "d": ["CF|art. 134", "EC 80/2014"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico|16": {
+  "c": "A LC 80/1994 garante ao assistido o direito de ter sua pretensão revista quando o Defensor Público recusa a atuação (art. 4º-A). Por isso a resposta é B. A independência funcional (A) não impede a revisão; o Defensor natural pode, sim, recusar a atuação em certos casos (C); o prazo de 15 dias (D) e o recurso ao Conselho Superior (E) não são o mecanismo dessa regra. Confirmar o inciso do art. 4º-A e quem revê a recusa.",
+  "p": "Achar que a recusa do Defensor encerra o assunto (A) ou que ele nunca pode recusar (C).",
+  "d": ["LC 80/1994|art. 4º-A"],
+  "pend": 1
+ },
+ "2022 - DPE-AM - Analista Jurídico|17": {
+  "c": "O servidor deixou de encaminhar o documento no prazo, de propósito, para prejudicar a ex-companheira. Isso é prevaricação (art. 319 do Código Penal): retardar ou deixar de praticar, indevidamente, ato de ofício para satisfazer interesse ou sentimento pessoal. Concussão (art. 316) é exigir vantagem indevida; advocacia administrativa (art. 321) é patrocinar interesse privado perante a Administração; peculato (art. 312) é apropriação ou desvio de bem; condescendência criminosa (art. 320) é deixar de punir subordinado. Gabarito D. Tema fora do edital 2026.",
+  "p": "Procurar vantagem financeira onde há só vingança pessoal. O “sentimento pessoal” é o que marca a prevaricação.",
+  "d": ["CP|art. 319"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico|18": {
+  "c": "O § 4º do art. 3º da LC estadual 01/1990 permite à Defensoria celebrar convênios para executar descentralizadamente seus serviços. A questão liga isso à autonomia administrativa da instituição (C), garantida pelo art. 134, § 2º da Constituição, que é a capacidade de decidir como se organiza e se administra. Independência funcional (A) protege o membro no exercício da função; unidade e indivisibilidade (B e D) são princípios sobre a atuação como um todo; iniciativa legislativa (E) é outra prerrogativa. Gabarito C. Confirmar o texto do § 4º do art. 3º da LC 01/1990.",
+  "p": "Confundir independência funcional (do membro) com autonomia administrativa (da instituição).",
+  "d": ["CF|art. 134, § 2º"],
+  "pend": 1
+ },
+ "2022 - DPE-AM - Analista Jurídico|19": {
+  "c": "O art. 3º-A da LC 80/1994 traz como objetivos da Defensoria a primazia da dignidade da pessoa humana e a redução das desigualdades sociais, entre outros. Eles reproduzem o art. 1º, III (dignidade da pessoa humana, fundamento da República) e o art. 3º, III (reduzir as desigualdades sociais, objetivo da República) da Constituição. Por isso o gabarito é A. As demais alternativas são fundamentos ou objetivos da Constituição que não aparecem no art. 3º-A: pluralismo político, valores sociais do trabalho e da livre iniciativa, desenvolvimento nacional e autodeterminação dos povos.",
+  "p": "Marcar um fundamento da República que não esteja na lista do art. 3º-A. Só a dignidade e a redução das desigualdades estão lá.",
+  "d": ["LC 80/1994|art. 3º-A", "CF|arts. 1º, III e 3º, III"],
+  "pend": 0
+ },
+ "2022 - DPE-AM - Analista Jurídico|20": {
+  "c": "A pergunta é sobre a evolução funcional dos servidores auxiliares na Lei estadual 4.077/2014. O gabarito oficial é E: ela ocorre nos limites da dotação orçamentário-financeira anual, isto é, só se houver orçamento. As alternativas A, B e D trocam o nome das progressões e os prazos, e a C diz que a evolução é automática, o que contraria a vinculação à avaliação de desempenho. Não consegui conferir o texto da lei; confirmar o artigo na Lei 4.077/2014.",
+  "p": "Achar que a evolução funcional é automática ou por prazo fixo. A lei a limita ao orçamento e à avaliação.",
+  "d": [],
+  "pend": 1
+ }
+}

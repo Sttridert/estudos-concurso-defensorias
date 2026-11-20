@@ -1,0 +1,916 @@
+{
+ "pasta": "2026 - DPE-MA - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 16324,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Introdução ao Direito Administrativo"
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Conceito, origem e objeto do direito administrativo."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Fontes do direito administrativo."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Regime jurídico-administrativo: princípios do direito administrativo."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Princípios da administração pública."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Princípios da segurança jurídica, proteção da confiança legítima e boa-fé objetiva na Administração Pública."
+     ]
+    },
+    {
+     "item": "1.6",
+     "frases": [
+      "Relação do Direito Administrativo com os demais ramos do Direito."
+     ]
+    },
+    {
+     "item": "1.7",
+     "frases": [
+      "Lei de Introdução às Normas do Direito Brasileiro (LINDB) e normas regulamentares."
+     ]
+    },
+    {
+     "item": "1.8",
+     "frases": [
+      "Marco legal e infralegal de Acesso à Informação."
+     ]
+    },
+    {
+     "item": "1.9",
+     "frases": [
+      "Marco legal e infralegal de Proteção de Dados Pessoais."
+     ]
+    },
+    {
+     "item": "1.10",
+     "frases": [
+      "Marco legal e infralegal sobre princípios, garantias, direitos e deveres para o uso da Internet."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Administração Pública"
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Conceito de administração pública sob os aspectos orgânico, formal e material.",
+      "Organização administrativa brasileira e modelos de Administração Pública.2.2.",
+      "Órgão público: conceito e classificação.",
+      "Hierarquia administrativa e suas manifestações.",
+      "Servidor: cargo e funções.",
+      "Atribuições.",
+      "Competência administrativa: conceito e critérios de distribuição.",
+      "Avocação e delegação de competência.",
+      "Ausência de competência: agente de fato.",
+      "Administração direta e indireta.",
+      "Autarquias.",
+      "Autarquias em regime especial: Agências Executivas e Agências Reguladoras.",
+      "Fundações públicas (de direito público e de direito privado).",
+      "Empresas públicas.",
+      "Sociedades de economia mista.",
+      "Regime jurídico das empresas estatais (Lei nº 13.303/2016): função social, licitações e contratos.",
+      "Entidades paraestatais e Terceiro Setor: Serviços sociais autônomos (Sistema \"S\").",
+      "Organizações Sociais (OS).",
+      "Organizações da Sociedade Civil de Interesse Público (OSCIP).",
+      "Entidades de Apoio.",
+      "Marco Regulatório das Organizações da Sociedade Civil (MROSC - Lei nº 13.019/2014): Termos de colaboração, termos de fomento e acordos de cooperação.",
+      "Pessoas jurídicas vinculadas ao Estado.",
+      "Dispositivos pertinentes contidos na Constituição Federal de 1988."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Atos Administrativos Conceitos, requisitos (elementos), pressupostos, atributos e classificação.",
+      "Fato administrativo e ato administrativo.",
+      "Fatos da administração pública: atos da administração pública e fatos administrativos.",
+      "Atos administrativos em espécie (normativos, ordinatórios, negociais, enunciativos e punitivos).",
+      "Parecer: natureza jurídica e responsabilidade do emissor do parecer.",
+      "O silêncio no direito administrativo e seus efeitos.",
+      "Cassação.",
+      "Revogação e anulação.",
+      "Processo administrativo.",
+      "Lei nº 9.784/1999 (Regula o processo administrativo no âmbito da Administração Pública Federal) e sua aplicação subsidiária aos Estados e Municípios.",
+      "Princípios do Processo Administrativo (constitucionais e legais).",
+      "Tipologia e Fases do Processo Administrativo.",
+      "Coisa julgada administrativa: conceito, limites e efeitos.",
+      "Formação do ato administrativo: elementos, procedimento administrativo.",
+      "Exteriorização e motivação do ato administrativo.",
+      "Validade, eficácia e autoexecutoriedade do ato administrativo.",
+      "Atos administrativos simples, complexos e compostos.",
+      "Atos administrativos unilaterais, bilaterais e multilaterais.",
+      "Atos administrativos gerais e individuais.",
+      "Atos concretos e abstratos.",
+      "Atos administrativos vinculados e discricionários.",
+      "Mérito do ato administrativo, discricionariedade e controle judicial dos atos discricionários.",
+      "Ato administrativo inexistente.",
+      "Teoria das nulidades no direito administrativo.",
+      "Atos administrativos nulos e anuláveis.",
+      "Vícios do ato administrativo (competência, finalidade, forma, motivo, objeto).",
+      "Teoria dos motivos determinantes.",
+      "Revogação, anulação e convalidação do ato administrativo.",
+      "Efeitos da anulação e da revogação."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Poderes e Deveres da Administração Pública"
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Hierarquia: poder hierárquico e suas manifestações (ordens, fiscalização, delegação, avocação)."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Poder disciplinar: conceito, fundamentos, limites, instauração de processo disciplinar."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Poder Regulamentar (Normativo): conceito, natureza jurídica, limites e fundamentos.",
+      "Regulamentos executivos e autônomos."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Poder de Polícia: conceito, características (discricionariedade, autoexecutoriedade, coercibilidade), atributos, limites e fundamentos.",
+      "Polícia judiciária e polícia administrativa.",
+      "Liberdades públicas e poder de polícia.",
+      "Principais setores de atuação da polícia administrativa.",
+      "Ciclo de polícia.",
+      "Adoção de mecanismos consensuais no exercício do poder de polícia: Termos de Ajuste de Conduta (TAC) administrativos e termos substitutivos de sanção.",
+      "Limites à delegabilidade do poder de polícia."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Poderes e deveres dos administradores públicos (Dever de agir, dever de eficiência, dever de probidade, dever de prestar contas)."
+     ]
+    },
+    {
+     "item": "4.6",
+     "frases": [
+      "Uso e abuso do poder: excesso de poder e desvio de finalidade (desvio de poder)."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Serviços Públicos"
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Conceito de serviço público.",
+      "Caracteres jurídicos, classificação e garantias.",
+      "Princípios dos serviços públicos (continuidade, regularidade, eficiência, segurança, atualidade, generalidade/universalidade, modicidade das tarifas, cortesia).",
+      "Competência para a prestação, regulamentação e controle dos serviços públicos."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Formas de prestação: centralizada e descentralizada.",
+      "Concessão, permissão e autorização de serviço público.",
+      "Delegação.",
+      "Parceria Público-Privada (PPP - Lei nº 11.079/2004)."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "Serviços delegados: direitos e obrigações do poder concedente, do concessionário/permissionário e dos usuários.",
+      "Extinção da concessão e da permissão de serviço público e reversão dos bens."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Direitos e deveres dos usuários.",
+      "Lei nº 13.460/2017 (Código de Defesa do Usuário do Serviço Público)."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Convênios e consórcios públicos (administrativos) (Lei nº 11.107/2005)."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "Serviços públicos e serviços sociais."
+     ]
+    },
+    {
+     "item": "5.7",
+     "frases": [
+      "Serviços públicos e atividade econômica de relevância pública."
+     ]
+    },
+    {
+     "item": "5.8",
+     "frases": [
+      "Remuneração dos serviços públicos: taxa e tarifa.",
+      "Modicidade tarifária."
+     ]
+    },
+    {
+     "item": "5.9",
+     "frases": [
+      "Suspensão e interrupção da prestação do serviço público: hipóteses e condições."
+     ]
+    },
+    {
+     "item": "5.10",
+     "frases": [
+      "Direito de Greve nos serviços públicos (art. 37, VII, CF)."
+     ]
+    },
+    {
+     "item": "5.11",
+     "frases": [
+      "Serviços Essenciais e o Código de Defesa do Consumidor."
+     ]
+    },
+    {
+     "item": "5.12",
+     "frases": [
+      "Gratuidade de Transporte, Educação e Saúde como serviços públicos."
+     ]
+    },
+    {
+     "item": "5.13",
+     "frases": [
+      "Saúde como direito fundamental e serviço público de relevância pública:"
+     ]
+    },
+    {
+     "item": "5.13.1",
+     "frases": [
+      "A saúde na ordem constitucional brasileira.",
+      "O Sistema Único de Saúde (SUS): princípios, organização, atribuições e marco normativo (Lei nº 8.080/1990, Lei nº 8.142/1990, Lei Complementar nº 141/2012)."
+     ]
+    },
+    {
+     "item": "5.13.2",
+     "frases": [
+      "Repartição constitucional e legal de competências no direito à saúde (União, Estados, DF e Municípios)."
+     ]
+    },
+    {
+     "item": "5.13.3",
+     "frases": [
+      "Financiamento das políticas de saúde."
+     ]
+    },
+    {
+     "item": "5.13.4",
+     "frases": [
+      "Regionalização, hierarquização e Redes Temáticas de Atenção à Saúde."
+     ]
+    },
+    {
+     "item": "5.13.5",
+     "frases": [
+      "Participação da comunidade na gestão do SUS (Conselhos e Conferências de Saúde - Lei nº 8.142/1990)."
+     ]
+    },
+    {
+     "item": "5.13.6",
+     "frases": [
+      "Lei nº 13.979/2020 e o regime jurídico emergencial na pandemia de COVID-19."
+     ]
+    },
+    {
+     "item": "5.13.7",
+     "frases": [
+      "Judicialização das políticas públicas de saúde: fornecimento de medicamentos, tratamentos e internações.",
+      "Parâmetros fixados pelo STF e STJ."
+     ]
+    },
+    {
+     "item": "5.13.8",
+     "frases": [
+      "Política Nacional de Atenção Integral à Saúde das Pessoas Privadas de Liberdade no Sistema Prisional (PNAISP)."
+     ]
+    },
+    {
+     "item": "5.13.9",
+     "frases": [
+      "Garantia dos direitos sexuais e reprodutivos das mulheres no âmbito dos serviços de saúde."
+     ]
+    },
+    {
+     "item": "5.14",
+     "frases": [
+      "Assistência Social como direito fundamental e serviço público:"
+     ]
+    },
+    {
+     "item": "5.14.1",
+     "frases": [
+      "A assistência social na ordem constitucional brasileira.",
+      "Lei Orgânica da Assistência Social - LOAS (Lei nº 8.742/1993) e o Sistema Único de Assistência Social (SUAS)."
+     ]
+    },
+    {
+     "item": "5.14.2",
+     "frases": [
+      "Tipificação nacional dos serviços socioassistenciais (Resolução do Conselho Nacional de Assistência Social nº 109/2009)."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Bens Públicos"
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Conceito, classificação e caracteres jurídicos."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Natureza jurídica do domínio público.",
+      "Bens públicos em espécie."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Aquisição de bens públicos: formas originárias e derivadas."
+     ]
+    },
+    {
+     "item": "6.4",
+     "frases": [
+      "Gestão e alienação dos bens públicos: requisitos e procedimentos."
+     ]
+    },
+    {
+     "item": "6.5",
+     "frases": [
+      "Domínio público terrestre: evolução do regime jurídico das terras públicas (urbanas e rurais) no Brasil.",
+      "Terras devolutas.",
+      "Terras tradicionalmente ocupadas pelos indígenas (art. 231, CF).",
+      "Terras de quilombolas (art. 68, ADCT).",
+      "Terras de Marinha e acrescidos."
+     ]
+    },
+    {
+     "item": "6.6",
+     "frases": [
+      "Vias públicas, cemitérios públicos e portos.",
+      "Florestas públicas."
+     ]
+    },
+    {
+     "item": "6.7",
+     "frases": [
+      "Utilização dos bens públicos por particulares: autorização de uso, permissão de uso e concessão de uso.",
+      "Concessão de direito real de uso.",
+      "Ocupação.",
+      "Aforamento (enfiteuse).",
+      "Concessão de domínio pleno.",
+      "Diferentes tipos de uso; uso privativo pelo particular."
+     ]
+    },
+    {
+     "item": "6.8",
+     "frases": [
+      "Afetação e desafetação dos bens públicos."
+     ]
+    },
+    {
+     "item": "6.9",
+     "frases": [
+      "Patrimônio Histórico e Cultural.",
+      "Tombamento (Decreto-Lei nº 25/1937).",
+      "Tombamento e preservação dos direitos históricos e culturais das pessoas negras (Lei nº 10.639/2003)."
+     ]
+    },
+    {
+     "item": "6.10",
+     "frases": [
+      "Demarcação de terras quilombolas."
+     ]
+    },
+    {
+     "item": "6.11",
+     "frases": [
+      "Demarcação e desintrusão de terras indígenas."
+     ]
+    },
+    {
+     "item": "6.12",
+     "frases": [
+      "Direito à moradia e regularização fundiária urbana e rural (Lei nº 13.465/2017 - REURB).",
+      "Concessão de uso especial para fins de moradia (MP nº 2.220/2001)."
+     ]
+    },
+    {
+     "item": "6.13",
+     "frases": [
+      "Instrumentos de política habitacional: Aluguel social, locação social e auxílio aluguel.",
+      "Moradia da mulher vítima de violência doméstica e familiar (Lei Maria da Penha e suas interfaces)."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Intervenção do Estado na Propriedade"
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Fundamentos constitucionais da intervenção (função social da propriedade).",
+      "Competência e controle judicial da intervenção."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Desapropriação: conceito, espécies, fundamentos, competência, procedimento e indenização.",
+      "Desvio de Finalidade na desapropriação.",
+      "Retrocessão (tredestinação ilícita).",
+      "Desapropriação indireta."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Servidões administrativas: conceito, características, formas de instituição, indenização."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Requisição administrativa da propriedade privada: conceito, pressupostos e indenização ulterior."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Ocupação temporária: conceito, pressupostos, indenização."
+     ]
+    },
+    {
+     "item": "7.6",
+     "frases": [
+      "Limitações administrativas: conceito, características, fundamentos e gratuidade.",
+      "Zoneamento.",
+      "Polícia edilícia.",
+      "Zonas fortificadas e de fronteira."
+     ]
+    },
+    {
+     "item": "7.7",
+     "frases": [
+      "Política Urbana: Estatuto da Cidade (Lei nº 10.257/2001) e seus instrumentos (plano diretor, IPTU progressivo no tempo, desapropriação com pagamento em títulos, usucapião especial urbana, direito de preempção, outorga onerosa do direito de construir, operações urbanas consorciadas).",
+      "Lei nº 13.465/2017 e suas alterações na política urbana."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Atuação do Estado no Domínio Econômico"
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Ordem econômica na Constituição de 1988.",
+      "Princípios."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Formas de atuação do Estado no domínio econômico: intervenção por participação e intervenção por direção.",
+      "Fomento, polícia, serviço público e intervenção direta."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Estado regulador e executor.",
+      "Agências Reguladoras e seu papel.",
+      "Monopólio estatal."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Licitações"
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Conceito, finalidades, princípios e objeto."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Obrigatoriedade de licitar.",
+      "Contratação direta: dispensa, inexigibilidade e vedação de licitação.",
+      "Processo de Contratação Direta."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Modalidades de licitação.",
+      "Critérios de Julgamento."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Procedimento licitatório."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Revogação, invalidação e extinção da licitação.",
+      "Desistência da proposta.",
+      "Recursos administrativos em licitações."
+     ]
+    },
+    {
+     "item": "9.6",
+     "frases": [
+      "Sanções administrativas e penais em matéria de licitação.",
+      "Procedimento administrativo sancionatório em licitações."
+     ]
+    },
+    {
+     "item": "9.7",
+     "frases": [
+      "Lei nº 14.133/2021 e regime de transição."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Contratos Administrativos"
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Conceito, peculiaridades, principais características e interpretação."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Formalização.",
+      "Garantias contratuais."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Execução, inexecução, revisão e rescisão.",
+      "Duração, prorrogação, renovação e hipóteses de extinção.",
+      "Nulidades."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Convênios e consórcios administrativos.",
+      "Termos de parceria, termos de cooperação técnica."
+     ]
+    },
+    {
+     "item": "10.5",
+     "frases": [
+      "Cláusulas exorbitantes.",
+      "Equilíbrio econômico- financeiro."
+     ]
+    },
+    {
+     "item": "10.6",
+     "frases": [
+      "Arbitragem e outros meios alternativos de resolução de controvérsias nos contratos administrativos."
+     ]
+    },
+    {
+     "item": "10.7",
+     "frases": [
+      "Responsabilidade pela execução e inexecução do contrato e respectivos encargos."
+     ]
+    },
+    {
+     "item": "10.8",
+     "frases": [
+      "Políticas de fomento por meio das contratações públicas."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Controle da Administração Pública"
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Conceito, tipos e formas de controle.",
+      "Controle interno e externo."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Controle parlamentar.",
+      "Transparência e acesso à informação no Poder Público (Lei nº 12.527/2011 - LAI).",
+      "Serviço de Informações ao Cidadão (SIC).",
+      "Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº 13.709/2018) e seus reflexos no controle e na atividade administrativa."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "Controle pelos Tribunais de Contas.",
+      "Tribunal de Contas da União (TCU) e Tribunais de Contas dos Estados (TCEs) e suas atribuições."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Controle administrativo: Autotutela administrativa.",
+      "Recurso administrativo, pedido de reconsideração e recurso hierárquico próprio e impróprio.",
+      "Reclamação e representação administrativas.",
+      "Prescrição administrativa."
+     ]
+    },
+    {
+     "item": "11.5",
+     "frases": [
+      "Lei de Improbidade Administrativa (Lei nº 8.429/1992 e suas alterações).",
+      "Moralidade Administrativa."
+     ]
+    },
+    {
+     "item": "11.6",
+     "frases": [
+      "Sistemas de controle jurisdicional da administração pública: contencioso administrativo e sistema da jurisdição una.",
+      "Controle jurisdicional da administração pública no direito brasileiro.",
+      "Instrumentos de controle judicial: Mandado de Segurança (individual e coletivo), Ação Popular, Ação Civil Pública, Mandado de Injunção, Habeas Data.",
+      "Súmulas vinculantes.",
+      "Poder Público em Juízo: prerrogativas processuais e sujeições."
+     ]
+    },
+    {
+     "item": "11.7",
+     "frases": [
+      "Advocacia pública consultiva.",
+      "Hipóteses de manifestação obrigatória.",
+      "Responsabilidades do parecerista e do administrador público pelas manifestações exaradas."
+     ]
+    },
+    {
+     "item": "11.8",
+     "frases": [
+      "Controle da atividade financeira do Estado: espécies e sistemas."
+     ]
+    },
+    {
+     "item": "11.9",
+     "frases": [
+      "Procedimento Investigatório no âmbito do controle."
+     ]
+    },
+    {
+     "item": "11.10",
+     "frases": [
+      "Controle judicial de políticas públicas.",
+      "Atuação do Defensor Público na área de Fazenda Pública."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Agentes Públicos e Servidores Públicos"
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Agentes públicos: conceito e classificação."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Natureza jurídica da relação de emprego público.",
+      "Preceitos constitucionais."
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "Cargo, emprego e função pública: criação, transformação, provimento e vacância.",
+      "Formas de provimento derivado: Reingresso, Reintegração, Readmissão, Aproveitamento, Reversão e Transferência.",
+      "Exigência constitucional de concurso público para investidura em cargo ou emprego público.",
+      "Ações afirmativas nos concursos públicos."
+     ]
+    },
+    {
+     "item": "12.4",
+     "frases": [
+      "Servidor efetivo e vitalício: garantias.",
+      "Estabilidade.",
+      "Estágio probatório."
+     ]
+    },
+    {
+     "item": "12.5",
+     "frases": [
+      "Servidor ocupante de cargo em comissão."
+     ]
+    },
+    {
+     "item": "12.6",
+     "frases": [
+      "Direitos, deveres e responsabilidades dos servidores públicos civis."
+     ]
+    },
+    {
+     "item": "12.7",
+     "frases": [
+      "Estatuto Estadual dos Servidores Públicos (Lei nº 6.107/1994 - Maranhão)."
+     ]
+    },
+    {
+     "item": "12.8",
+     "frases": [
+      "Regime disciplinar e processo administrativo disciplinar (PAD).",
+      "Transgressões disciplinares, penalidades e extinção de punibilidade.",
+      "Termo de Ajustamento de Conduta (TAC) Disciplinar e outros meios alternativos de solução de conflitos no âmbito disciplinar."
+     ]
+    },
+    {
+     "item": "12.9",
+     "frases": [
+      "Improbidade administrativa."
+     ]
+    },
+    {
+     "item": "12.10",
+     "frases": [
+      "Lei de Responsabilidade Fiscal."
+     ]
+    },
+    {
+     "item": "12.11",
+     "frases": [
+      "Regime de Previdência dos servidores públicos."
+     ]
+    },
+    {
+     "item": "12.12",
+     "frases": [
+      "Organização e regime jurídico funcional da Defensoria Pública.",
+      "Lei Orgânica da Defensoria Pública do Estado do Maranhão."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Responsabilidade Civil do Estado"
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Responsabilidade patrimonial do Estado por atos da administração pública: evolução histórica e fundamentos jurídicos."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Teorias da responsabilidade patrimonial do Estado.",
+      "Responsabilidade objetiva na Constituição Federal."
+     ]
+    },
+    {
+     "item": "13.3",
+     "frases": [
+      "Responsabilidade patrimonial do Estado por atos da administração pública no direito brasileiro.",
+      "Responsabilidade por atos administrativos, legislativos e judiciais."
+     ]
+    },
+    {
+     "item": "13.4",
+     "frases": [
+      "Elementos da responsabilidade civil do Estado: conduta, dano e nexo causal."
+     ]
+    },
+    {
+     "item": "13.5",
+     "frases": [
+      "Causas excludentes e atenuantes da responsabilidade."
+     ]
+    },
+    {
+     "item": "13.6",
+     "frases": [
+      "Reparação do dano e direito de regresso."
+     ]
+    },
+    {
+     "item": "13.7",
+     "frases": [
+      "Responsabilidade Civil nas Concessões de Obras e Serviços, em razão de grandes eventos e desastres naturais."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Atividade Financeira da Defensoria Pública."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "Fontes.",
+      "Princípios constitucionais.",
+      "Competência Legislativa: Iniciativa, Proposta Orçamentária.",
+      "Lei Orçamentária Anual (LOA), Lei de Diretrizes Orçamentárias (LDO) e Plano Plurianual (PPA).",
+      "Responsabilidade Fiscal.",
+      "Controle."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Tópicos de Direitos Humanos aplicados à atuação administrativa e à Defensoria Pública."
+     ]
+    },
+    {
+     "item": "15.1",
+     "frases": [
+      "Jurisprudência da Corte Interamericana de Direitos Humanos e Resoluções e Recomendações do CNJ em matéria administrativa"
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça em matéria administrativa."
+     ]
+    }
+   ]
+  }
+ ]
+}

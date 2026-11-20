@@ -1,0 +1,5797 @@
+{
+"gerado_em": "2026-11-20",
+"folds": 5,
+"metodo": "TF-IDF + centroide mais próximo, validação cruzada por disciplina",
+"por_disciplina": {
+"CONST": {
+"n": 211,
+"ponto_acuracia": 0.512,
+"ponto_macro_f1": 0.374,
+"assunto_acuracia": 0.607,
+"assunto_macro_f1": 0.463,
+"pontos_com_1_questao": 4
+},
+"ADM": {
+"n": 134,
+"ponto_acuracia": 0.575,
+"ponto_macro_f1": 0.392,
+"assunto_acuracia": 0.746,
+"assunto_macro_f1": 0.688,
+"pontos_com_1_questao": 6
+},
+"CIV": {
+"n": 129,
+"ponto_acuracia": 0.504,
+"ponto_macro_f1": 0.323,
+"assunto_acuracia": 0.62,
+"assunto_macro_f1": 0.437,
+"pontos_com_1_questao": 5
+},
+"PCIV": {
+"n": 189,
+"ponto_acuracia": 0.561,
+"ponto_macro_f1": 0.468,
+"assunto_acuracia": 0.651,
+"assunto_macro_f1": 0.535,
+"pontos_com_1_questao": 2
+},
+"PENAL": {
+"n": 169,
+"ponto_acuracia": 0.479,
+"ponto_macro_f1": 0.389,
+"assunto_acuracia": 0.609,
+"assunto_macro_f1": 0.505,
+"pontos_com_1_questao": 4
+},
+"PPEN": {
+"n": 145,
+"ponto_acuracia": 0.579,
+"ponto_macro_f1": 0.507,
+"assunto_acuracia": 0.71,
+"assunto_macro_f1": 0.595,
+"pontos_com_1_questao": 0
+},
+"DH": {
+"n": 198,
+"ponto_acuracia": 0.444,
+"ponto_macro_f1": 0.223,
+"assunto_acuracia": 0.591,
+"assunto_macro_f1": 0.485,
+"pontos_com_1_questao": 19
+},
+"ECA": {
+"n": 110,
+"ponto_acuracia": 0.473,
+"ponto_macro_f1": 0.233,
+"assunto_acuracia": 0.682,
+"assunto_macro_f1": 0.406,
+"pontos_com_1_questao": 6
+},
+"EXEC": {
+"n": 3,
+"ponto_acuracia": 0.0,
+"ponto_macro_f1": 0,
+"assunto_acuracia": 1.0,
+"assunto_macro_f1": 1.0,
+"pontos_com_1_questao": 3
+},
+"LP": {
+"n": 99,
+"ponto_acuracia": 0.374,
+"ponto_macro_f1": 0.272,
+"assunto_acuracia": 0.515,
+"assunto_macro_f1": 0.381,
+"pontos_com_1_questao": 2
+},
+"PI": {
+"n": 38,
+"ponto_acuracia": 0.526,
+"ponto_macro_f1": 0.323,
+"assunto_acuracia": 0.632,
+"assunto_macro_f1": 0.581,
+"pontos_com_1_questao": 6
+}
+},
+"previsoes": {
+"2018 - DPE-AM - Analista Jurídico|1": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2018 - DPE-AM - Analista Jurídico|2": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2018 - DPE-AM - Analista Jurídico|3": {
+"ponto": "LP04.04",
+"assunto": "LP01"
+},
+"2018 - DPE-AM - Analista Jurídico|4": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2018 - DPE-AM - Analista Jurídico|5": {
+"ponto": "LP09.02",
+"assunto": "LP06"
+},
+"2018 - DPE-AM - Analista Jurídico|6": {
+"ponto": "LP09.02",
+"assunto": "LP04"
+},
+"2018 - DPE-AM - Analista Jurídico|7": {
+"ponto": "LP09.01",
+"assunto": "LP09"
+},
+"2018 - DPE-AM - Analista Jurídico|8": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2018 - DPE-AM - Analista Jurídico|9": {
+"ponto": "LP01.05",
+"assunto": "LP06"
+},
+"2018 - DPE-AM - Analista Jurídico|10": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2018 - DPE-AM - Analista Jurídico|11": {
+"ponto": "LP08.01",
+"assunto": "LP08"
+},
+"2018 - DPE-AM - Analista Jurídico|12": {
+"ponto": "LP08.01",
+"assunto": "LP08"
+},
+"2018 - DPE-AM - Analista Jurídico|13": {
+"ponto": "LP01.05",
+"assunto": "LP04"
+},
+"2018 - DPE-AM - Analista Jurídico|14": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2018 - DPE-AM - Analista Jurídico|15": {
+"ponto": "LP05.01",
+"assunto": "LP06"
+},
+"2018 - DPE-AM - Analista Jurídico|16": {
+"ponto": "LP09.01",
+"assunto": "LP01"
+},
+"2018 - DPE-AM - Analista Jurídico|17": {
+"ponto": "PI03.02",
+"assunto": "PI03"
+},
+"2018 - DPE-AM - Analista Jurídico|18": {
+"ponto": "PI01.03",
+"assunto": "PI01"
+},
+"2018 - DPE-AM - Analista Jurídico|19": {
+"ponto": "PI06.01",
+"assunto": "PI06"
+},
+"2018 - DPE-AM - Analista Jurídico|20": {
+"ponto": "PI01.02",
+"assunto": "PI01"
+},
+"2018 - DPE-AM - Analista Jurídico|21": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2018 - DPE-AM - Analista Jurídico|22": {
+"ponto": "CO10.01",
+"assunto": "CO11"
+},
+"2018 - DPE-AM - Analista Jurídico|23": {
+"ponto": "CO06.01",
+"assunto": "CO06"
+},
+"2018 - DPE-AM - Analista Jurídico|24": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2018 - DPE-AM - Analista Jurídico|25": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2018 - DPE-AM - Analista Jurídico|26": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2018 - DPE-AM - Analista Jurídico|27": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2018 - DPE-AM - Analista Jurídico|28": {
+"ponto": "AD08.01",
+"assunto": "AD08"
+},
+"2018 - DPE-AM - Analista Jurídico|29": {
+"ponto": "AD07.02",
+"assunto": "AD07"
+},
+"2018 - DPE-AM - Analista Jurídico|30": {
+"ponto": "AD10.01",
+"assunto": "AD10"
+},
+"2018 - DPE-AM - Analista Jurídico|31": {
+"ponto": "PC07.04",
+"assunto": "PC07"
+},
+"2018 - DPE-AM - Analista Jurídico|32": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2018 - DPE-AM - Analista Jurídico|33": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2018 - DPE-AM - Analista Jurídico|34": {
+"ponto": "CV09.05",
+"assunto": "CV12"
+},
+"2018 - DPE-AM - Analista Jurídico|35": {
+"ponto": "CV04.03",
+"assunto": "CV11"
+},
+"2018 - DPE-AM - Analista Jurídico|36": {
+"ponto": "CV09.01",
+"assunto": "CV09"
+},
+"2018 - DPE-AM - Analista Jurídico|37": {
+"ponto": "PE06.04",
+"assunto": "PE06"
+},
+"2018 - DPE-AM - Analista Jurídico|38": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2018 - DPE-AM - Analista Jurídico|39": {
+"ponto": "PE08.02",
+"assunto": "PE08"
+},
+"2018 - DPE-AM - Analista Jurídico|40": {
+"ponto": "PE07.04",
+"assunto": "PE11"
+},
+"2018 - DPE-AM - Analista Jurídico|41": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2018 - DPE-AM - Analista Jurídico|42": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2018 - DPE-AM - Analista Jurídico|43": {
+"ponto": "PP03.02",
+"assunto": "PP03"
+},
+"2018 - DPE-AM - Analista Jurídico|44": {
+"ponto": "EX05.01",
+"assunto": "EX05"
+},
+"2018 - DPE-AM - Analista Jurídico|45": {
+"ponto": "DH06.02",
+"assunto": "DH06"
+},
+"2018 - DPE-AM - Analista Jurídico|46": {
+"ponto": "DH03.01",
+"assunto": "DH02"
+},
+"2018 - DPE-AM - Analista Jurídico|47": {
+"ponto": "DH06.03",
+"assunto": "DH06"
+},
+"2018 - DPE-AM - Analista Jurídico|48": {
+"ponto": "DH09.01",
+"assunto": "DH09"
+},
+"2018 - DPE-AM - Analista Jurídico|49": {
+"ponto": "DH04.02",
+"assunto": "DH04"
+},
+"2018 - DPE-AM - Analista Jurídico|50": {
+"ponto": "DH08.06",
+"assunto": "DH08"
+},
+"2018 - DPE-AM - Analista Jurídico|51": {
+"ponto": "DH08.06",
+"assunto": "DH08"
+},
+"2018 - DPE-AM - Analista Jurídico|52": {
+"ponto": "DH08.06",
+"assunto": "DH08"
+},
+"2018 - DPE-AM - Analista Jurídico|53": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2018 - DPE-AM - Analista Jurídico|54": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2018 - DPE-AM - Analista Jurídico|55": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2018 - DPE-AM - Analista Jurídico|56": {
+"ponto": "DH08.05",
+"assunto": "DH08"
+},
+"2018 - DPE-AM - Analista Jurídico|57": {
+"ponto": "DH08.10",
+"assunto": "DH08"
+},
+"2018 - DPE-AM - Analista Jurídico|58": {
+"ponto": "DH08.01",
+"assunto": "DH08"
+},
+"2018 - DPE-AM - Analista Jurídico|59": {
+"ponto": "DH08.01",
+"assunto": "DH08"
+},
+"2018 - DPE-AM - Analista Jurídico|60": {
+"ponto": "DH08.01",
+"assunto": "DH08"
+},
+"2019 - DPE-AM - Analista Jurídico|1": {
+"ponto": "LP09.01",
+"assunto": "LP09"
+},
+"2019 - DPE-AM - Analista Jurídico|2": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2019 - DPE-AM - Analista Jurídico|3": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2019 - DPE-AM - Analista Jurídico|4": {
+"ponto": "LP09.01",
+"assunto": "LP09"
+},
+"2019 - DPE-AM - Analista Jurídico|5": {
+"ponto": "LP09.02",
+"assunto": "LP09"
+},
+"2019 - DPE-AM - Analista Jurídico|6": {
+"ponto": "LP09.02",
+"assunto": "LP09"
+},
+"2019 - DPE-AM - Analista Jurídico|7": {
+"ponto": "LP08.01",
+"assunto": "LP09"
+},
+"2019 - DPE-AM - Analista Jurídico|8": {
+"ponto": "LP04.02",
+"assunto": "LP01"
+},
+"2019 - DPE-AM - Analista Jurídico|9": {
+"ponto": "LP05.01",
+"assunto": "LP01"
+},
+"2019 - DPE-AM - Analista Jurídico|10": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2019 - DPE-AM - Analista Jurídico|11": {
+"ponto": "LP05.01",
+"assunto": "LP05"
+},
+"2019 - DPE-AM - Analista Jurídico|12": {
+"ponto": "LP04.02",
+"assunto": "LP04"
+},
+"2019 - DPE-AM - Analista Jurídico|13": {
+"ponto": "PI02.02",
+"assunto": "PI03"
+},
+"2019 - DPE-AM - Analista Jurídico|14": {
+"ponto": "PI02.02",
+"assunto": "PI02"
+},
+"2019 - DPE-AM - Analista Jurídico|15": {
+"ponto": "PI02.02",
+"assunto": "PI02"
+},
+"2019 - DPE-AM - Analista Jurídico|16": {
+"ponto": "PI06.02",
+"assunto": "PI06"
+},
+"2019 - DPE-AM - Analista Jurídico|18": {
+"ponto": "PI06.01",
+"assunto": "PI06"
+},
+"2019 - DPE-AM - Analista Jurídico|19": {
+"ponto": "PI03.02",
+"assunto": "PI03"
+},
+"2019 - DPE-AM - Analista Jurídico|20": {
+"ponto": "PI03.04",
+"assunto": "PI03"
+},
+"2019 - DPE-AM - Analista Jurídico|21": {
+"ponto": "CO01.05",
+"assunto": "CO01"
+},
+"2019 - DPE-AM - Analista Jurídico|22": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2019 - DPE-AM - Analista Jurídico|23": {
+"ponto": "CO10.03",
+"assunto": "CO10"
+},
+"2019 - DPE-AM - Analista Jurídico|24": {
+"ponto": "CO08.02",
+"assunto": "CO08"
+},
+"2019 - DPE-AM - Analista Jurídico|25": {
+"ponto": "CO06.03",
+"assunto": "CO08"
+},
+"2019 - DPE-AM - Analista Jurídico|26": {
+"ponto": "AD08.02",
+"assunto": "AD14"
+},
+"2019 - DPE-AM - Analista Jurídico|27": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2019 - DPE-AM - Analista Jurídico|28": {
+"ponto": "AD10.01",
+"assunto": "AD10"
+},
+"2019 - DPE-AM - Analista Jurídico|29": {
+"ponto": "CV02.01",
+"assunto": "CV02"
+},
+"2019 - DPE-AM - Analista Jurídico|30": {
+"ponto": "CV11.02",
+"assunto": "CV11"
+},
+"2019 - DPE-AM - Analista Jurídico|31": {
+"ponto": "CV07.16",
+"assunto": "CV04"
+},
+"2019 - DPE-AM - Analista Jurídico|32": {
+"ponto": "CV09.02",
+"assunto": "CV09"
+},
+"2019 - DPE-AM - Analista Jurídico|33": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2019 - DPE-AM - Analista Jurídico|34": {
+"ponto": "PC05.01",
+"assunto": "PC05"
+},
+"2019 - DPE-AM - Analista Jurídico|35": {
+"ponto": "PC06.01",
+"assunto": "PC06"
+},
+"2019 - DPE-AM - Analista Jurídico|36": {
+"ponto": "PC06.03",
+"assunto": "PC06"
+},
+"2019 - DPE-AM - Analista Jurídico|38": {
+"ponto": "PC06.03",
+"assunto": "PC06"
+},
+"2019 - DPE-AM - Analista Jurídico|39": {
+"ponto": "PE05.02",
+"assunto": "PE05"
+},
+"2019 - DPE-AM - Analista Jurídico|40": {
+"ponto": "PE07.04",
+"assunto": "PE07"
+},
+"2019 - DPE-AM - Analista Jurídico|41": {
+"ponto": "PE04.01",
+"assunto": "PE08"
+},
+"2019 - DPE-AM - Analista Jurídico|42": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2019 - DPE-AM - Analista Jurídico|43": {
+"ponto": "PE08.04",
+"assunto": "PE08"
+},
+"2019 - DPE-AM - Analista Jurídico|44": {
+"ponto": "PP05.01",
+"assunto": "PP05"
+},
+"2019 - DPE-AM - Analista Jurídico|45": {
+"ponto": "EX05.01",
+"assunto": "EX05"
+},
+"2019 - DPE-AM - Analista Jurídico|46": {
+"ponto": "PP03.03",
+"assunto": "PP03"
+},
+"2019 - DPE-AM - Analista Jurídico|47": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2019 - DPE-AM - Analista Jurídico|48": {
+"ponto": "PP09.02",
+"assunto": "PP04"
+},
+"2019 - DPE-AM - Analista Jurídico|49": {
+"ponto": "DH09.02",
+"assunto": "DH09"
+},
+"2019 - DPE-AM - Analista Jurídico|50": {
+"ponto": "DH04.06",
+"assunto": "DH04"
+},
+"2019 - DPE-AM - Analista Jurídico|51": {
+"ponto": "DH05.02",
+"assunto": "DH05"
+},
+"2019 - DPE-AM - Analista Jurídico|52": {
+"ponto": "DH10.09",
+"assunto": "DH10"
+},
+"2019 - DPE-AM - Analista Jurídico|53": {
+"ponto": "DH08.03",
+"assunto": "DH08"
+},
+"2019 - DPE-AM - Analista Jurídico|54": {
+"ponto": "DH02.01",
+"assunto": "DH02"
+},
+"2019 - DPE-AM - Analista Jurídico|55": {
+"ponto": "DH07.02",
+"assunto": "DH04"
+},
+"2019 - DPE-AM - Analista Jurídico|56": {
+"ponto": "DH08.06",
+"assunto": "DH08"
+},
+"2019 - DPE-AM - Analista Jurídico|57": {
+"ponto": "DH08.03",
+"assunto": "DH08"
+},
+"2019 - DPE-AM - Analista Jurídico|58": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2019 - DPE-AM - Analista Jurídico|59": {
+"ponto": "CA04.01",
+"assunto": "CA04"
+},
+"2019 - DPE-AM - Analista Jurídico|60": {
+"ponto": "CA03.03",
+"assunto": "CA03"
+},
+"2021 - DPE-AM - Defensor Público|1": {
+"ponto": "DH08.05",
+"assunto": "DH08"
+},
+"2021 - DPE-AM - Defensor Público|2": {
+"ponto": "DH01.04",
+"assunto": "DH01"
+},
+"2021 - DPE-AM - Defensor Público|3": {
+"ponto": "DH03.02",
+"assunto": "DH03"
+},
+"2021 - DPE-AM - Defensor Público|4": {
+"ponto": "DH09.02",
+"assunto": "DH09"
+},
+"2021 - DPE-AM - Defensor Público|5": {
+"ponto": "DH03.03",
+"assunto": "DH03"
+},
+"2021 - DPE-AM - Defensor Público|6": {
+"ponto": "DH03.03",
+"assunto": "DH03"
+},
+"2021 - DPE-AM - Defensor Público|7": {
+"ponto": "DH10.03",
+"assunto": "DH08"
+},
+"2021 - DPE-AM - Defensor Público|8": {
+"ponto": "DH06.03",
+"assunto": "DH06"
+},
+"2021 - DPE-AM - Defensor Público|9": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2021 - DPE-AM - Defensor Público|10": {
+"ponto": "CO10.01",
+"assunto": "CO10"
+},
+"2021 - DPE-AM - Defensor Público|11": {
+"ponto": "CO04.02",
+"assunto": "CO04"
+},
+"2021 - DPE-AM - Defensor Público|12": {
+"ponto": "CO15.03",
+"assunto": "CO15"
+},
+"2021 - DPE-AM - Defensor Público|13": {
+"ponto": "CO08.03",
+"assunto": "CO08"
+},
+"2021 - DPE-AM - Defensor Público|14": {
+"ponto": "CO05.01",
+"assunto": "CO05"
+},
+"2021 - DPE-AM - Defensor Público|15": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2021 - DPE-AM - Defensor Público|16": {
+"ponto": "CO06.03",
+"assunto": "CO06"
+},
+"2021 - DPE-AM - Defensor Público|17": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2021 - DPE-AM - Defensor Público|18": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2021 - DPE-AM - Defensor Público|19": {
+"ponto": "AD02.03",
+"assunto": "AD02"
+},
+"2021 - DPE-AM - Defensor Público|20": {
+"ponto": "AD12.01",
+"assunto": "AD12"
+},
+"2021 - DPE-AM - Defensor Público|21": {
+"ponto": "AD14.01",
+"assunto": "AD04"
+},
+"2021 - DPE-AM - Defensor Público|22": {
+"ponto": "AD07.01",
+"assunto": "AD07"
+},
+"2021 - DPE-AM - Defensor Público|23": {
+"ponto": "AD12.01",
+"assunto": "AD12"
+},
+"2021 - DPE-AM - Defensor Público|24": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2021 - DPE-AM - Defensor Público|25": {
+"ponto": "PE10.02",
+"assunto": "PE10"
+},
+"2021 - DPE-AM - Defensor Público|26": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2021 - DPE-AM - Defensor Público|27": {
+"ponto": "PE14.09",
+"assunto": "PE14"
+},
+"2021 - DPE-AM - Defensor Público|28": {
+"ponto": "PE07.04",
+"assunto": "PE14"
+},
+"2021 - DPE-AM - Defensor Público|29": {
+"ponto": "PE10.02",
+"assunto": "PE10"
+},
+"2021 - DPE-AM - Defensor Público|30": {
+"ponto": "PE10.01",
+"assunto": "PE10"
+},
+"2021 - DPE-AM - Defensor Público|31": {
+"ponto": "PE11.02",
+"assunto": "PE11"
+},
+"2021 - DPE-AM - Defensor Público|32": {
+"ponto": "PE06.04",
+"assunto": "PE06"
+},
+"2021 - DPE-AM - Defensor Público|33": {
+"ponto": "PP01.02",
+"assunto": "PP01"
+},
+"2021 - DPE-AM - Defensor Público|34": {
+"ponto": "PP03.02",
+"assunto": "PP03"
+},
+"2021 - DPE-AM - Defensor Público|35": {
+"ponto": "PP01.01",
+"assunto": "PP04"
+},
+"2021 - DPE-AM - Defensor Público|36": {
+"ponto": "PP07.04",
+"assunto": "PP07"
+},
+"2021 - DPE-AM - Defensor Público|37": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2021 - DPE-AM - Defensor Público|38": {
+"ponto": "PP04.02",
+"assunto": "PP04"
+},
+"2021 - DPE-AM - Defensor Público|39": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2021 - DPE-AM - Defensor Público|40": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2021 - DPE-AM - Defensor Público|49": {
+"ponto": "CV10.02",
+"assunto": "CV10"
+},
+"2021 - DPE-AM - Defensor Público|51": {
+"ponto": "CV02.02",
+"assunto": "CV02"
+},
+"2021 - DPE-AM - Defensor Público|52": {
+"ponto": "CV09.04",
+"assunto": "CV09"
+},
+"2021 - DPE-AM - Defensor Público|53": {
+"ponto": "CV10.07",
+"assunto": "CV10"
+},
+"2021 - DPE-AM - Defensor Público|54": {
+"ponto": "CV11.02",
+"assunto": "CV11"
+},
+"2021 - DPE-AM - Defensor Público|55": {
+"ponto": "CV02.02",
+"assunto": "CV02"
+},
+"2021 - DPE-AM - Defensor Público|56": {
+"ponto": "CV09.04",
+"assunto": "CV09"
+},
+"2021 - DPE-AM - Defensor Público|65": {
+"ponto": "PC07.01",
+"assunto": "PC04"
+},
+"2021 - DPE-AM - Defensor Público|66": {
+"ponto": "PC10.01",
+"assunto": "PC10"
+},
+"2021 - DPE-AM - Defensor Público|67": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2021 - DPE-AM - Defensor Público|68": {
+"ponto": "PC06.01",
+"assunto": "PC06"
+},
+"2021 - DPE-AM - Defensor Público|69": {
+"ponto": "PC07.02",
+"assunto": "PC07"
+},
+"2021 - DPE-AM - Defensor Público|70": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2021 - DPE-AM - Defensor Público|71": {
+"ponto": "PC08.03",
+"assunto": "PC08"
+},
+"2021 - DPE-AM - Defensor Público|72": {
+"ponto": "PC09.02",
+"assunto": "PC06"
+},
+"2021 - DPE-AM - Defensor Público|73": {
+"ponto": "CA02.01",
+"assunto": "CA02"
+},
+"2021 - DPE-AM - Defensor Público|74": {
+"ponto": "CA04.04",
+"assunto": "CA04"
+},
+"2021 - DPE-AM - Defensor Público|75": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2021 - DPE-AM - Defensor Público|76": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2021 - DPE-AM - Defensor Público|77": {
+"ponto": "CA01.03",
+"assunto": "CA06"
+},
+"2021 - DPE-AM - Defensor Público|78": {
+"ponto": "CA07.02",
+"assunto": "CA07"
+},
+"2021 - DPE-AM - Defensor Público|79": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2021 - DPE-AM - Defensor Público|80": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2021 - DPE-BA - Defensor Público|1": {
+"ponto": "DH03.04",
+"assunto": "DH03"
+},
+"2021 - DPE-BA - Defensor Público|2": {
+"ponto": "DH09.02",
+"assunto": "DH09"
+},
+"2021 - DPE-BA - Defensor Público|3": {
+"ponto": "DH08.10",
+"assunto": "DH04"
+},
+"2021 - DPE-BA - Defensor Público|4": {
+"ponto": "DH03.03",
+"assunto": "DH03"
+},
+"2021 - DPE-BA - Defensor Público|5": {
+"ponto": "DH10.04",
+"assunto": "DH08"
+},
+"2021 - DPE-BA - Defensor Público|6": {
+"ponto": "DH06.02",
+"assunto": "DH06"
+},
+"2021 - DPE-BA - Defensor Público|7": {
+"ponto": "DH04.07",
+"assunto": "DH04"
+},
+"2021 - DPE-BA - Defensor Público|9": {
+"ponto": "DH04.06",
+"assunto": "DH04"
+},
+"2021 - DPE-BA - Defensor Público|10": {
+"ponto": "DH04.05",
+"assunto": "DH04"
+},
+"2021 - DPE-BA - Defensor Público|11": {
+"ponto": "CO01.04",
+"assunto": "CO01"
+},
+"2021 - DPE-BA - Defensor Público|12": {
+"ponto": "CO11.04",
+"assunto": "CO01"
+},
+"2021 - DPE-BA - Defensor Público|13": {
+"ponto": "CO11.02",
+"assunto": "CO11"
+},
+"2021 - DPE-BA - Defensor Público|14": {
+"ponto": "CO08.02",
+"assunto": "CO11"
+},
+"2021 - DPE-BA - Defensor Público|15": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2021 - DPE-BA - Defensor Público|16": {
+"ponto": "CO08.02",
+"assunto": "CO08"
+},
+"2021 - DPE-BA - Defensor Público|17": {
+"ponto": "CO05.02",
+"assunto": "CO05"
+},
+"2021 - DPE-BA - Defensor Público|18": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2021 - DPE-BA - Defensor Público|19": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2021 - DPE-BA - Defensor Público|20": {
+"ponto": "CO03.01",
+"assunto": "CO15"
+},
+"2021 - DPE-BA - Defensor Público|21": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2021 - DPE-BA - Defensor Público|22": {
+"ponto": "AD14.04",
+"assunto": "AD14"
+},
+"2021 - DPE-BA - Defensor Público|23": {
+"ponto": "AD05.02",
+"assunto": "AD05"
+},
+"2021 - DPE-BA - Defensor Público|27": {
+"ponto": "PE14.02",
+"assunto": "PE10"
+},
+"2021 - DPE-BA - Defensor Público|28": {
+"ponto": "PE05.02",
+"assunto": "PE05"
+},
+"2021 - DPE-BA - Defensor Público|29": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2021 - DPE-BA - Defensor Público|30": {
+"ponto": "PE06.02",
+"assunto": "PE06"
+},
+"2021 - DPE-BA - Defensor Público|31": {
+"ponto": "PE14.03",
+"assunto": "PE14"
+},
+"2021 - DPE-BA - Defensor Público|32": {
+"ponto": "PE06.04",
+"assunto": "PE06"
+},
+"2021 - DPE-BA - Defensor Público|33": {
+"ponto": "PE02.04",
+"assunto": "PE02"
+},
+"2021 - DPE-BA - Defensor Público|34": {
+"ponto": "PE12.01",
+"assunto": "PE12"
+},
+"2021 - DPE-BA - Defensor Público|35": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2021 - DPE-BA - Defensor Público|36": {
+"ponto": "PE09.02",
+"assunto": "PE08"
+},
+"2021 - DPE-BA - Defensor Público|67": {
+"ponto": "PC02.03",
+"assunto": "PC02"
+},
+"2021 - DPE-BA - Defensor Público|68": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2021 - DPE-BA - Defensor Público|69": {
+"ponto": "PC09.03",
+"assunto": "PC09"
+},
+"2021 - DPE-BA - Defensor Público|70": {
+"ponto": "PC10.01",
+"assunto": "PC10"
+},
+"2021 - DPE-BA - Defensor Público|71": {
+"ponto": "PC07.01",
+"assunto": "PC03"
+},
+"2021 - DPE-BA - Defensor Público|72": {
+"ponto": "PC08.03",
+"assunto": "PC08"
+},
+"2021 - DPE-BA - Defensor Público|73": {
+"ponto": "PC09.02",
+"assunto": "PC02"
+},
+"2021 - DPE-BA - Defensor Público|74": {
+"ponto": "PC06.01",
+"assunto": "PC06"
+},
+"2021 - DPE-BA - Defensor Público|75": {
+"ponto": "PC03.01",
+"assunto": "PC03"
+},
+"2021 - DPE-BA - Defensor Público|76": {
+"ponto": "PC10.01",
+"assunto": "PC10"
+},
+"2021 - DPE-BA - Defensor Público|93": {
+"ponto": "CA02.03",
+"assunto": "CA02"
+},
+"2021 - DPE-BA - Defensor Público|94": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2021 - DPE-BA - Defensor Público|95": {
+"ponto": "CA03.03",
+"assunto": "CA03"
+},
+"2021 - DPE-BA - Defensor Público|96": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2021 - DPE-BA - Defensor Público|97": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2021 - DPE-BA - Defensor Público|98": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2021 - DPE-BA - Defensor Público|99": {
+"ponto": "CA05.01",
+"assunto": "CA05"
+},
+"2021 - DPE-BA - Defensor Público|100": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2021 - DPE-GO - Defensor Público|1": {
+"ponto": "CO05.02",
+"assunto": "CO10"
+},
+"2021 - DPE-GO - Defensor Público|2": {
+"ponto": "CO01.04",
+"assunto": "CO01"
+},
+"2021 - DPE-GO - Defensor Público|3": {
+"ponto": "CO12.01",
+"assunto": "CO12"
+},
+"2021 - DPE-GO - Defensor Público|4": {
+"ponto": "CO10.01",
+"assunto": "CO08"
+},
+"2021 - DPE-GO - Defensor Público|5": {
+"ponto": "CO03.03",
+"assunto": "CO03"
+},
+"2021 - DPE-GO - Defensor Público|6": {
+"ponto": "CO09.01",
+"assunto": "CO09"
+},
+"2021 - DPE-GO - Defensor Público|7": {
+"ponto": "CO10.01",
+"assunto": "CO10"
+},
+"2021 - DPE-GO - Defensor Público|8": {
+"ponto": "CO08.01",
+"assunto": "CO08"
+},
+"2021 - DPE-GO - Defensor Público|9": {
+"ponto": "CO13.01",
+"assunto": "CO13"
+},
+"2021 - DPE-GO - Defensor Público|10": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2021 - DPE-GO - Defensor Público|11": {
+"ponto": "DH04.05",
+"assunto": "DH04"
+},
+"2021 - DPE-GO - Defensor Público|12": {
+"ponto": "DH02.03",
+"assunto": "DH04"
+},
+"2021 - DPE-GO - Defensor Público|13": {
+"ponto": "DH10.09",
+"assunto": "DH06"
+},
+"2021 - DPE-GO - Defensor Público|14": {
+"ponto": "DH09.02",
+"assunto": "DH09"
+},
+"2021 - DPE-GO - Defensor Público|15": {
+"ponto": "DH10.03",
+"assunto": "DH04"
+},
+"2021 - DPE-GO - Defensor Público|16": {
+"ponto": "DH10.03",
+"assunto": "DH10"
+},
+"2021 - DPE-GO - Defensor Público|17": {
+"ponto": "DH03.03",
+"assunto": "DH03"
+},
+"2021 - DPE-GO - Defensor Público|18": {
+"ponto": "DH10.03",
+"assunto": "DH10"
+},
+"2021 - DPE-GO - Defensor Público|19": {
+"ponto": "DH08.09",
+"assunto": "DH04"
+},
+"2021 - DPE-GO - Defensor Público|20": {
+"ponto": "DH05.02",
+"assunto": "DH08"
+},
+"2021 - DPE-GO - Defensor Público|22": {
+"ponto": "AD05.02",
+"assunto": "AD05"
+},
+"2021 - DPE-GO - Defensor Público|23": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2021 - DPE-GO - Defensor Público|24": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2021 - DPE-GO - Defensor Público|25": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2021 - DPE-GO - Defensor Público|49": {
+"ponto": "PC02.01",
+"assunto": "PC02"
+},
+"2021 - DPE-GO - Defensor Público|50": {
+"ponto": "PC05.01",
+"assunto": "PC05"
+},
+"2021 - DPE-GO - Defensor Público|51": {
+"ponto": "PC09.03",
+"assunto": "PC09"
+},
+"2021 - DPE-GO - Defensor Público|52": {
+"ponto": "PC03.03",
+"assunto": "PC07"
+},
+"2021 - DPE-GO - Defensor Público|53": {
+"ponto": "PC06.04",
+"assunto": "PC06"
+},
+"2021 - DPE-GO - Defensor Público|54": {
+"ponto": "PC04.01",
+"assunto": "PC06"
+},
+"2021 - DPE-GO - Defensor Público|55": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2021 - DPE-GO - Defensor Público|56": {
+"ponto": "PC07.03",
+"assunto": "PC07"
+},
+"2021 - DPE-GO - Defensor Público|57": {
+"ponto": "PC03.03",
+"assunto": "PC02"
+},
+"2021 - DPE-GO - Defensor Público|58": {
+"ponto": "PC12.01",
+"assunto": "PC12"
+},
+"2021 - DPE-GO - Defensor Público|67": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2021 - DPE-GO - Defensor Público|68": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2021 - DPE-GO - Defensor Público|69": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2021 - DPE-GO - Defensor Público|70": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2021 - DPE-GO - Defensor Público|71": {
+"ponto": "CA04.01",
+"assunto": "CA06"
+},
+"2021 - DPE-GO - Defensor Público|72": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2021 - DPE-GO - Defensor Público|73": {
+"ponto": "CA02.03",
+"assunto": "CA02"
+},
+"2021 - DPE-GO - Defensor Público|74": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2021 - DPE-GO - Defensor Público|75": {
+"ponto": "PE08.05",
+"assunto": "PE08"
+},
+"2021 - DPE-GO - Defensor Público|76": {
+"ponto": "PE08.03",
+"assunto": "PE10"
+},
+"2021 - DPE-GO - Defensor Público|77": {
+"ponto": "PE04.04",
+"assunto": "PE04"
+},
+"2021 - DPE-GO - Defensor Público|78": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2021 - DPE-GO - Defensor Público|79": {
+"ponto": "PE08.02",
+"assunto": "PE08"
+},
+"2021 - DPE-GO - Defensor Público|80": {
+"ponto": "PE08.05",
+"assunto": "PE08"
+},
+"2021 - DPE-GO - Defensor Público|81": {
+"ponto": "PE06.04",
+"assunto": "PE06"
+},
+"2021 - DPE-GO - Defensor Público|82": {
+"ponto": "PE11.02",
+"assunto": "PE11"
+},
+"2021 - DPE-GO - Defensor Público|83": {
+"ponto": "PE14.07",
+"assunto": "PE14"
+},
+"2021 - DPE-GO - Defensor Público|84": {
+"ponto": "PE10.01",
+"assunto": "PE10"
+},
+"2021 - DPE-RR - Defensor Público|1": {
+"ponto": "CO09.01",
+"assunto": "CO09"
+},
+"2021 - DPE-RR - Defensor Público|2": {
+"ponto": "CO01.02",
+"assunto": "CO01"
+},
+"2021 - DPE-RR - Defensor Público|3": {
+"ponto": "CO01.04",
+"assunto": "CO01"
+},
+"2021 - DPE-RR - Defensor Público|4": {
+"ponto": "CO01.02",
+"assunto": "CO01"
+},
+"2021 - DPE-RR - Defensor Público|5": {
+"ponto": "CO02.01",
+"assunto": "CO02"
+},
+"2021 - DPE-RR - Defensor Público|6": {
+"ponto": "CO08.01",
+"assunto": "CO03"
+},
+"2021 - DPE-RR - Defensor Público|7": {
+"ponto": "CO06.03",
+"assunto": "CO06"
+},
+"2021 - DPE-RR - Defensor Público|8": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2021 - DPE-RR - Defensor Público|9": {
+"ponto": "CO03.01",
+"assunto": "CO03"
+},
+"2021 - DPE-RR - Defensor Público|10": {
+"ponto": "CO14.02",
+"assunto": "CO14"
+},
+"2021 - DPE-RR - Defensor Público|11": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2021 - DPE-RR - Defensor Público|12": {
+"ponto": "AD02.02",
+"assunto": "AD03"
+},
+"2021 - DPE-RR - Defensor Público|13": {
+"ponto": "AD09.02",
+"assunto": "AD09"
+},
+"2021 - DPE-RR - Defensor Público|14": {
+"ponto": "AD04.03",
+"assunto": "AD04"
+},
+"2021 - DPE-RR - Defensor Público|15": {
+"ponto": "AD05.02",
+"assunto": "AD05"
+},
+"2021 - DPE-RR - Defensor Público|16": {
+"ponto": "AD05.02",
+"assunto": "AD05"
+},
+"2021 - DPE-RR - Defensor Público|17": {
+"ponto": "AD05.02",
+"assunto": "AD05"
+},
+"2021 - DPE-RR - Defensor Público|18": {
+"ponto": "AD09.01",
+"assunto": "AD09"
+},
+"2021 - DPE-RR - Defensor Público|19": {
+"ponto": "PE14.02",
+"assunto": "PE14"
+},
+"2021 - DPE-RR - Defensor Público|20": {
+"ponto": "PE10.02",
+"assunto": "PE08"
+},
+"2021 - DPE-RR - Defensor Público|21": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2021 - DPE-RR - Defensor Público|22": {
+"ponto": "PE08.05",
+"assunto": "PE08"
+},
+"2021 - DPE-RR - Defensor Público|23": {
+"ponto": "PE10.02",
+"assunto": "PE10"
+},
+"2021 - DPE-RR - Defensor Público|24": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2021 - DPE-RR - Defensor Público|25": {
+"ponto": "PE11.02",
+"assunto": "PE14"
+},
+"2021 - DPE-RR - Defensor Público|26": {
+"ponto": "PE08.02",
+"assunto": "PE08"
+},
+"2021 - DPE-RR - Defensor Público|27": {
+"ponto": "PE14.01",
+"assunto": "PE08"
+},
+"2021 - DPE-RR - Defensor Público|28": {
+"ponto": "PE11.01",
+"assunto": "PE11"
+},
+"2021 - DPE-RR - Defensor Público|29": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2021 - DPE-RR - Defensor Público|30": {
+"ponto": "PP05.01",
+"assunto": "PP05"
+},
+"2021 - DPE-RR - Defensor Público|31": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2021 - DPE-RR - Defensor Público|32": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2021 - DPE-RR - Defensor Público|34": {
+"ponto": "PP07.02",
+"assunto": "PP07"
+},
+"2021 - DPE-RR - Defensor Público|35": {
+"ponto": "PP06.01",
+"assunto": "PP06"
+},
+"2021 - DPE-RR - Defensor Público|36": {
+"ponto": "PP03.02",
+"assunto": "PP03"
+},
+"2021 - DPE-RR - Defensor Público|40": {
+"ponto": "CV09.01",
+"assunto": "CV09"
+},
+"2021 - DPE-RR - Defensor Público|41": {
+"ponto": "CV12.02",
+"assunto": "CV10"
+},
+"2021 - DPE-RR - Defensor Público|42": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2021 - DPE-RR - Defensor Público|43": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2021 - DPE-RR - Defensor Público|45": {
+"ponto": "CV07.04",
+"assunto": "CV06"
+},
+"2021 - DPE-RR - Defensor Público|46": {
+"ponto": "CV08.01",
+"assunto": "CV08"
+},
+"2021 - DPE-RR - Defensor Público|47": {
+"ponto": "CV12.02",
+"assunto": "CV12"
+},
+"2021 - DPE-RR - Defensor Público|48": {
+"ponto": "CV06.01",
+"assunto": "CV10"
+},
+"2021 - DPE-RR - Defensor Público|49": {
+"ponto": "PC07.02",
+"assunto": "PC07"
+},
+"2021 - DPE-RR - Defensor Público|50": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2021 - DPE-RR - Defensor Público|51": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2021 - DPE-RR - Defensor Público|52": {
+"ponto": "PC06.03",
+"assunto": "PC06"
+},
+"2021 - DPE-RR - Defensor Público|53": {
+"ponto": "PC12.01",
+"assunto": "PC12"
+},
+"2021 - DPE-RR - Defensor Público|54": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2021 - DPE-RR - Defensor Público|55": {
+"ponto": "PC11.01",
+"assunto": "PC11"
+},
+"2021 - DPE-RR - Defensor Público|56": {
+"ponto": "PC02.03",
+"assunto": "PC02"
+},
+"2021 - DPE-RR - Defensor Público|57": {
+"ponto": "PC02.02",
+"assunto": "PC06"
+},
+"2021 - DPE-RR - Defensor Público|58": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2021 - DPE-RR - Defensor Público|69": {
+"ponto": "DH03.01",
+"assunto": "DH10"
+},
+"2021 - DPE-RR - Defensor Público|70": {
+"ponto": "DH06.01",
+"assunto": "DH06"
+},
+"2021 - DPE-RR - Defensor Público|71": {
+"ponto": "DH03.01",
+"assunto": "DH10"
+},
+"2021 - DPE-RR - Defensor Público|72": {
+"ponto": "DH06.02",
+"assunto": "DH06"
+},
+"2021 - DPE-RR - Defensor Público|73": {
+"ponto": "DH04.05",
+"assunto": "DH04"
+},
+"2021 - DPE-RR - Defensor Público|74": {
+"ponto": "DH09.02",
+"assunto": "DH09"
+},
+"2021 - DPE-RR - Defensor Público|75": {
+"ponto": "DH01.05",
+"assunto": "DH01"
+},
+"2021 - DPE-RR - Defensor Público|76": {
+"ponto": "DH08.01",
+"assunto": "DH08"
+},
+"2021 - DPE-RR - Defensor Público|77": {
+"ponto": "DH04.06",
+"assunto": "DH04"
+},
+"2021 - DPE-RR - Defensor Público|78": {
+"ponto": "DH05.02",
+"assunto": "DH05"
+},
+"2021 - DPE-RR - Defensor Público|79": {
+"ponto": "CA07.02",
+"assunto": "CA04"
+},
+"2021 - DPE-RR - Defensor Público|80": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2021 - DPE-RR - Defensor Público|81": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2021 - DPE-RR - Defensor Público|82": {
+"ponto": "CA06.01",
+"assunto": "CA06"
+},
+"2021 - DPE-RR - Defensor Público|83": {
+"ponto": "CA02.03",
+"assunto": "CA02"
+},
+"2021 - DPE-RR - Defensor Público|84": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2021 - DPE-RR - Defensor Público|85": {
+"ponto": "CA03.02",
+"assunto": "CA03"
+},
+"2021 - DPE-RR - Defensor Público|86": {
+"ponto": "CA03.03",
+"assunto": "CA03"
+},
+"2021 - DPE-RR - Defensor Público|87": {
+"ponto": "CA03.01",
+"assunto": "CA03"
+},
+"2021 - DPE-RR - Defensor Público|88": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2021 - DPE-SC - Defensor Público|1": {
+"ponto": "CO10.03",
+"assunto": "CO10"
+},
+"2021 - DPE-SC - Defensor Público|2": {
+"ponto": "CO11.04",
+"assunto": "CO11"
+},
+"2021 - DPE-SC - Defensor Público|3": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2021 - DPE-SC - Defensor Público|4": {
+"ponto": "CO03.03",
+"assunto": "CO03"
+},
+"2021 - DPE-SC - Defensor Público|5": {
+"ponto": "CO03.06",
+"assunto": "CO01"
+},
+"2021 - DPE-SC - Defensor Público|6": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2021 - DPE-SC - Defensor Público|7": {
+"ponto": "CO12.01",
+"assunto": "CO12"
+},
+"2021 - DPE-SC - Defensor Público|8": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2021 - DPE-SC - Defensor Público|9": {
+"ponto": "CO13.01",
+"assunto": "CO13"
+},
+"2021 - DPE-SC - Defensor Público|10": {
+"ponto": "CO05.02",
+"assunto": "CO05"
+},
+"2021 - DPE-SC - Defensor Público|11": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2021 - DPE-SC - Defensor Público|12": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2021 - DPE-SC - Defensor Público|13": {
+"ponto": "CO08.03",
+"assunto": "CO08"
+},
+"2021 - DPE-SC - Defensor Público|14": {
+"ponto": "CO08.03",
+"assunto": "CO10"
+},
+"2021 - DPE-SC - Defensor Público|15": {
+"ponto": "CO10.01",
+"assunto": "CO10"
+},
+"2021 - DPE-SC - Defensor Público|16": {
+"ponto": "DH08.01",
+"assunto": "DH08"
+},
+"2021 - DPE-SC - Defensor Público|17": {
+"ponto": "DH08.01",
+"assunto": "DH08"
+},
+"2021 - DPE-SC - Defensor Público|18": {
+"ponto": "DH08.02",
+"assunto": "DH08"
+},
+"2021 - DPE-SC - Defensor Público|19": {
+"ponto": "DH08.03",
+"assunto": "DH08"
+},
+"2021 - DPE-SC - Defensor Público|20": {
+"ponto": "DH04.05",
+"assunto": "DH04"
+},
+"2021 - DPE-SC - Defensor Público|21": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2021 - DPE-SC - Defensor Público|22": {
+"ponto": "AD04.01",
+"assunto": "AD04"
+},
+"2021 - DPE-SC - Defensor Público|23": {
+"ponto": "AD08.01",
+"assunto": "AD08"
+},
+"2021 - DPE-SC - Defensor Público|24": {
+"ponto": "AD04.01",
+"assunto": "AD04"
+},
+"2021 - DPE-SC - Defensor Público|25": {
+"ponto": "AD14.04",
+"assunto": "AD14"
+},
+"2021 - DPE-SC - Defensor Público|26": {
+"ponto": "AD12.02",
+"assunto": "AD12"
+},
+"2021 - DPE-SC - Defensor Público|28": {
+"ponto": "AD15.02",
+"assunto": "AD15"
+},
+"2021 - DPE-SC - Defensor Público|29": {
+"ponto": "AD12.02",
+"assunto": "AD12"
+},
+"2021 - DPE-SC - Defensor Público|30": {
+"ponto": "AD14.01",
+"assunto": "AD14"
+},
+"2021 - DPE-SC - Defensor Público|35": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2021 - DPE-SC - Defensor Público|36": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2021 - DPE-SC - Defensor Público|37": {
+"ponto": "CA04.04",
+"assunto": "CA04"
+},
+"2021 - DPE-SC - Defensor Público|38": {
+"ponto": "CA01.01",
+"assunto": "CA05"
+},
+"2021 - DPE-SC - Defensor Público|39": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2021 - DPE-SC - Defensor Público|40": {
+"ponto": "CA06.03",
+"assunto": "CA06"
+},
+"2021 - DPE-SC - Defensor Público|53": {
+"ponto": "PC07.04",
+"assunto": "PC07"
+},
+"2021 - DPE-SC - Defensor Público|54": {
+"ponto": "PC07.02",
+"assunto": "PC07"
+},
+"2021 - DPE-SC - Defensor Público|55": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2021 - DPE-SC - Defensor Público|56": {
+"ponto": "PC06.01",
+"assunto": "PC06"
+},
+"2021 - DPE-SC - Defensor Público|57": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2021 - DPE-SC - Defensor Público|58": {
+"ponto": "PC05.01",
+"assunto": "PC05"
+},
+"2021 - DPE-SC - Defensor Público|59": {
+"ponto": "PC06.03",
+"assunto": "PC06"
+},
+"2021 - DPE-SC - Defensor Público|60": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2021 - DPE-SC - Defensor Público|65": {
+"ponto": "PE08.01",
+"assunto": "PE08"
+},
+"2021 - DPE-SC - Defensor Público|66": {
+"ponto": "PE12.01",
+"assunto": "PE14"
+},
+"2021 - DPE-SC - Defensor Público|67": {
+"ponto": "PE06.02",
+"assunto": "PE06"
+},
+"2021 - DPE-SC - Defensor Público|68": {
+"ponto": "PE05.02",
+"assunto": "PE05"
+},
+"2021 - DPE-SC - Defensor Público|69": {
+"ponto": "PE12.01",
+"assunto": "PE07"
+},
+"2021 - DPE-SC - Defensor Público|70": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2021 - DPE-SC - Defensor Público|71": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2021 - DPE-SC - Defensor Público|72": {
+"ponto": "PE14.03",
+"assunto": "PE11"
+},
+"2021 - DPE-SC - Defensor Público|73": {
+"ponto": "PE12.02",
+"assunto": "PE12"
+},
+"2021 - DPE-SC - Defensor Público|74": {
+"ponto": "PE11.02",
+"assunto": "PE11"
+},
+"2021 - DPE-SC - Defensor Público|75": {
+"ponto": "PE10.01",
+"assunto": "PE10"
+},
+"2021 - DPE-SC - Defensor Público|76": {
+"ponto": "PE14.10",
+"assunto": "PE14"
+},
+"2021 - DPE-SC - Defensor Público|77": {
+"ponto": "PP04.02",
+"assunto": "PP04"
+},
+"2021 - DPE-SC - Defensor Público|78": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2021 - DPE-SC - Defensor Público|79": {
+"ponto": "PP01.01",
+"assunto": "PP04"
+},
+"2021 - DPE-SC - Defensor Público|80": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2021 - DPE-SC - Defensor Público|81": {
+"ponto": "PP03.02",
+"assunto": "PP03"
+},
+"2021 - DPE-SC - Defensor Público|83": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2022 - DPE-AM - Analista Jurídico|1": {
+"ponto": "LP06.01",
+"assunto": "LP06"
+},
+"2022 - DPE-AM - Analista Jurídico|2": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico|3": {
+"ponto": "LP06.01",
+"assunto": "LP06"
+},
+"2022 - DPE-AM - Analista Jurídico|4": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico|5": {
+"ponto": "LP06.01",
+"assunto": "LP04"
+},
+"2022 - DPE-AM - Analista Jurídico|6": {
+"ponto": "LP09.01",
+"assunto": "LP09"
+},
+"2022 - DPE-AM - Analista Jurídico|7": {
+"ponto": "LP01.05",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico|8": {
+"ponto": "LP04.03",
+"assunto": "LP06"
+},
+"2022 - DPE-AM - Analista Jurídico|9": {
+"ponto": "LP09.01",
+"assunto": "LP09"
+},
+"2022 - DPE-AM - Analista Jurídico|10": {
+"ponto": "LP04.02",
+"assunto": "LP04"
+},
+"2022 - DPE-AM - Analista Jurídico|11": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico|12": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico|13": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico|14": {
+"ponto": "LP01.01",
+"assunto": "LP08"
+},
+"2022 - DPE-AM - Analista Jurídico|15": {
+"ponto": "PI01.03",
+"assunto": "PI01"
+},
+"2022 - DPE-AM - Analista Jurídico|16": {
+"ponto": "PI03.02",
+"assunto": "PI02"
+},
+"2022 - DPE-AM - Analista Jurídico|17": {
+"ponto": "PI06.01",
+"assunto": "PI06"
+},
+"2022 - DPE-AM - Analista Jurídico|18": {
+"ponto": "PI01.02",
+"assunto": "PI02"
+},
+"2022 - DPE-AM - Analista Jurídico|19": {
+"ponto": "PI01.03",
+"assunto": "PI01"
+},
+"2022 - DPE-AM - Analista Jurídico|20": {
+"ponto": "PI03.04",
+"assunto": "PI03"
+},
+"2022 - DPE-AM - Analista Jurídico|21": {
+"ponto": "CO05.02",
+"assunto": "CO05"
+},
+"2022 - DPE-AM - Analista Jurídico|22": {
+"ponto": "CO10.03",
+"assunto": "CO10"
+},
+"2022 - DPE-AM - Analista Jurídico|23": {
+"ponto": "CO15.03",
+"assunto": "CO15"
+},
+"2022 - DPE-AM - Analista Jurídico|24": {
+"ponto": "CO01.01",
+"assunto": "CO03"
+},
+"2022 - DPE-AM - Analista Jurídico|25": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2022 - DPE-AM - Analista Jurídico|26": {
+"ponto": "AD01.02",
+"assunto": "AD01"
+},
+"2022 - DPE-AM - Analista Jurídico|27": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2022 - DPE-AM - Analista Jurídico|28": {
+"ponto": "AD09.02",
+"assunto": "AD09"
+},
+"2022 - DPE-AM - Analista Jurídico|29": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2022 - DPE-AM - Analista Jurídico|30": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2022 - DPE-AM - Analista Jurídico|31": {
+"ponto": "CV02.03",
+"assunto": "CV02"
+},
+"2022 - DPE-AM - Analista Jurídico|32": {
+"ponto": "CV04.01",
+"assunto": "CV04"
+},
+"2022 - DPE-AM - Analista Jurídico|33": {
+"ponto": "CV11.01",
+"assunto": "CV09"
+},
+"2022 - DPE-AM - Analista Jurídico|34": {
+"ponto": "CV10.02",
+"assunto": "CV07"
+},
+"2022 - DPE-AM - Analista Jurídico|35": {
+"ponto": "CV09.05",
+"assunto": "CV07"
+},
+"2022 - DPE-AM - Analista Jurídico|36": {
+"ponto": "PC02.01",
+"assunto": "PC02"
+},
+"2022 - DPE-AM - Analista Jurídico|37": {
+"ponto": "PC09.03",
+"assunto": "PC09"
+},
+"2022 - DPE-AM - Analista Jurídico|38": {
+"ponto": "PC07.03",
+"assunto": "PC07"
+},
+"2022 - DPE-AM - Analista Jurídico|39": {
+"ponto": "PC12.01",
+"assunto": "PC12"
+},
+"2022 - DPE-AM - Analista Jurídico|40": {
+"ponto": "PC09.01",
+"assunto": "PC09"
+},
+"2022 - DPE-AM - Analista Jurídico|41": {
+"ponto": "PE11.01",
+"assunto": "PE11"
+},
+"2022 - DPE-AM - Analista Jurídico|42": {
+"ponto": "PE08.04",
+"assunto": "PE08"
+},
+"2022 - DPE-AM - Analista Jurídico|43": {
+"ponto": "PE14.01",
+"assunto": "PE14"
+},
+"2022 - DPE-AM - Analista Jurídico|44": {
+"ponto": "PE01.02",
+"assunto": "PE01"
+},
+"2022 - DPE-AM - Analista Jurídico|45": {
+"ponto": "PE06.04",
+"assunto": "PE06"
+},
+"2022 - DPE-AM - Analista Jurídico|46": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2022 - DPE-AM - Analista Jurídico|47": {
+"ponto": "PP07.04",
+"assunto": "PP05"
+},
+"2022 - DPE-AM - Analista Jurídico|48": {
+"ponto": "PP04.02",
+"assunto": "PP04"
+},
+"2022 - DPE-AM - Analista Jurídico|49": {
+"ponto": "PP04.02",
+"assunto": "PP04"
+},
+"2022 - DPE-AM - Analista Jurídico|50": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2022 - DPE-AM - Analista Jurídico|51": {
+"ponto": "DH06.01",
+"assunto": "DH06"
+},
+"2022 - DPE-AM - Analista Jurídico|52": {
+"ponto": "DH05.02",
+"assunto": "DH05"
+},
+"2022 - DPE-AM - Analista Jurídico|53": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2022 - DPE-AM - Analista Jurídico|54": {
+"ponto": "DH04.02",
+"assunto": "DH04"
+},
+"2022 - DPE-AM - Analista Jurídico|55": {
+"ponto": "DH06.03",
+"assunto": "DH06"
+},
+"2022 - DPE-AM - Analista Jurídico|56": {
+"ponto": "CA05.01",
+"assunto": "CA01"
+},
+"2022 - DPE-AM - Analista Jurídico|57": {
+"ponto": "CA05.01",
+"assunto": "CA06"
+},
+"2022 - DPE-AM - Analista Jurídico|58": {
+"ponto": "DH08.06",
+"assunto": "DH08"
+},
+"2022 - DPE-AM - Analista Jurídico|59": {
+"ponto": "CA03.03",
+"assunto": "CA03"
+},
+"2022 - DPE-AM - Analista Jurídico|60": {
+"ponto": "DH08.01",
+"assunto": "DH08"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|1": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|2": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|3": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|4": {
+"ponto": "LP06.01",
+"assunto": "LP06"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|5": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|6": {
+"ponto": "LP04.04",
+"assunto": "LP04"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|7": {
+"ponto": "LP04.02",
+"assunto": "LP04"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|8": {
+"ponto": "LP09.01",
+"assunto": "LP09"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|9": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|10": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|11": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|12": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|13": {
+"ponto": "LP09.01",
+"assunto": "LP09"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|14": {
+"ponto": "LP04.02",
+"assunto": "LP04"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|15": {
+"ponto": "PI01.02",
+"assunto": "PI01"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|16": {
+"ponto": "PI03.02",
+"assunto": "PI03"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|17": {
+"ponto": "PI03.04",
+"assunto": "PI03"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|18": {
+"ponto": "PI01.03",
+"assunto": "PI01"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|19": {
+"ponto": "PI03.02",
+"assunto": "PI03"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|20": {
+"ponto": "PI06.01",
+"assunto": "PI06"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|21": {
+"ponto": "CO03.03",
+"assunto": "CO03"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|22": {
+"ponto": "CO08.01",
+"assunto": "CO08"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|23": {
+"ponto": "CO10.03",
+"assunto": "CO10"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|24": {
+"ponto": "CO10.01",
+"assunto": "CO10"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|25": {
+"ponto": "CO06.03",
+"assunto": "CO08"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|26": {
+"ponto": "AD01.02",
+"assunto": "AD01"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|27": {
+"ponto": "AD10.01",
+"assunto": "AD10"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|28": {
+"ponto": "AD14.01",
+"assunto": "AD14"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|29": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|30": {
+"ponto": "AD09.01",
+"assunto": "AD09"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|31": {
+"ponto": "CV02.03",
+"assunto": "CV07"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|32": {
+"ponto": "CV02.03",
+"assunto": "CV09"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|33": {
+"ponto": "CV04.01",
+"assunto": "CV04"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|34": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|35": {
+"ponto": "CV09.04",
+"assunto": "CV09"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|36": {
+"ponto": "PC07.03",
+"assunto": "PC07"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|37": {
+"ponto": "PC09.03",
+"assunto": "PC09"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|38": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|39": {
+"ponto": "PC12.01",
+"assunto": "PC12"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|40": {
+"ponto": "PC04.01",
+"assunto": "PC06"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|41": {
+"ponto": "PE03.01",
+"assunto": "PE03"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|42": {
+"ponto": "PE03.01",
+"assunto": "PE03"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|43": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|44": {
+"ponto": "PE14.02",
+"assunto": "PE12"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|45": {
+"ponto": "PE07.03",
+"assunto": "PE11"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|46": {
+"ponto": "PP05.01",
+"assunto": "PP05"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|47": {
+"ponto": "PP05.01",
+"assunto": "PP05"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|48": {
+"ponto": "PP06.01",
+"assunto": "PP09"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|49": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|50": {
+"ponto": "PP03.01",
+"assunto": "PP07"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|51": {
+"ponto": "DH06.02",
+"assunto": "DH06"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|52": {
+"ponto": "DH03.02",
+"assunto": "DH03"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|53": {
+"ponto": "DH09.02",
+"assunto": "DH09"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|54": {
+"ponto": "DH04.01",
+"assunto": "DH04"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|55": {
+"ponto": "DH06.01",
+"assunto": "DH06"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|56": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|57": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|58": {
+"ponto": "CA04.04",
+"assunto": "CA04"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|59": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2022 - DPE-AM - Analista Jurídico (2)|60": {
+"ponto": "CA02.03",
+"assunto": "CA02"
+},
+"2022 - DPE-AP - Defensor Público|1": {
+"ponto": "CO01.02",
+"assunto": "CO01"
+},
+"2022 - DPE-AP - Defensor Público|2": {
+"ponto": "CO01.04",
+"assunto": "CO11"
+},
+"2022 - DPE-AP - Defensor Público|3": {
+"ponto": "CO11.02",
+"assunto": "CO11"
+},
+"2022 - DPE-AP - Defensor Público|4": {
+"ponto": "CO06.03",
+"assunto": "CO06"
+},
+"2022 - DPE-AP - Defensor Público|5": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2022 - DPE-AP - Defensor Público|6": {
+"ponto": "CO03.03",
+"assunto": "CO03"
+},
+"2022 - DPE-AP - Defensor Público|7": {
+"ponto": "CO08.02",
+"assunto": "CO01"
+},
+"2022 - DPE-AP - Defensor Público|8": {
+"ponto": "CO03.04",
+"assunto": "CO15"
+},
+"2022 - DPE-AP - Defensor Público|9": {
+"ponto": "CO15.01",
+"assunto": "CO10"
+},
+"2022 - DPE-AP - Defensor Público|10": {
+"ponto": "CO02.01",
+"assunto": "CO02"
+},
+"2022 - DPE-AP - Defensor Público|11": {
+"ponto": "CO10.03",
+"assunto": "CO10"
+},
+"2022 - DPE-AP - Defensor Público|12": {
+"ponto": "CO06.03",
+"assunto": "CO10"
+},
+"2022 - DPE-AP - Defensor Público|13": {
+"ponto": "AD02.03",
+"assunto": "AD02"
+},
+"2022 - DPE-AP - Defensor Público|14": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2022 - DPE-AP - Defensor Público|15": {
+"ponto": "AD05.01",
+"assunto": "AD05"
+},
+"2022 - DPE-AP - Defensor Público|16": {
+"ponto": "AD14.01",
+"assunto": "AD14"
+},
+"2022 - DPE-AP - Defensor Público|17": {
+"ponto": "AD07.02",
+"assunto": "AD07"
+},
+"2022 - DPE-AP - Defensor Público|32": {
+"ponto": "PP05.01",
+"assunto": "PP05"
+},
+"2022 - DPE-AP - Defensor Público|33": {
+"ponto": "PP04.02",
+"assunto": "PP04"
+},
+"2022 - DPE-AP - Defensor Público|34": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2022 - DPE-AP - Defensor Público|35": {
+"ponto": "PP04.03",
+"assunto": "PP04"
+},
+"2022 - DPE-AP - Defensor Público|36": {
+"ponto": "PP06.02",
+"assunto": "PP06"
+},
+"2022 - DPE-AP - Defensor Público|37": {
+"ponto": "PP04.01",
+"assunto": "PP04"
+},
+"2022 - DPE-AP - Defensor Público|38": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2022 - DPE-AP - Defensor Público|39": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2022 - DPE-AP - Defensor Público|40": {
+"ponto": "CV08.01",
+"assunto": "CV08"
+},
+"2022 - DPE-AP - Defensor Público|41": {
+"ponto": "CV07.01",
+"assunto": "CV07"
+},
+"2022 - DPE-AP - Defensor Público|42": {
+"ponto": "CV07.04",
+"assunto": "CV07"
+},
+"2022 - DPE-AP - Defensor Público|43": {
+"ponto": "CV09.05",
+"assunto": "CV09"
+},
+"2022 - DPE-AP - Defensor Público|44": {
+"ponto": "CV10.07",
+"assunto": "CV10"
+},
+"2022 - DPE-AP - Defensor Público|45": {
+"ponto": "CV10.03",
+"assunto": "CV10"
+},
+"2022 - DPE-AP - Defensor Público|46": {
+"ponto": "CV09.04",
+"assunto": "CV09"
+},
+"2022 - DPE-AP - Defensor Público|47": {
+"ponto": "CV07.03",
+"assunto": "CV12"
+},
+"2022 - DPE-AP - Defensor Público|48": {
+"ponto": "CV10.04",
+"assunto": "CV10"
+},
+"2022 - DPE-AP - Defensor Público|49": {
+"ponto": "CV07.01",
+"assunto": "CV07"
+},
+"2022 - DPE-AP - Defensor Público|50": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2022 - DPE-AP - Defensor Público|51": {
+"ponto": "CV03.01",
+"assunto": "CV03"
+},
+"2022 - DPE-AP - Defensor Público|52": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2022 - DPE-AP - Defensor Público|53": {
+"ponto": "PC07.02",
+"assunto": "PC03"
+},
+"2022 - DPE-AP - Defensor Público|54": {
+"ponto": "PC04.02",
+"assunto": "PC04"
+},
+"2022 - DPE-AP - Defensor Público|55": {
+"ponto": "PC02.01",
+"assunto": "PC02"
+},
+"2022 - DPE-AP - Defensor Público|56": {
+"ponto": "PC05.01",
+"assunto": "PC05"
+},
+"2022 - DPE-AP - Defensor Público|57": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2022 - DPE-AP - Defensor Público|58": {
+"ponto": "PC02.03",
+"assunto": "PC02"
+},
+"2022 - DPE-AP - Defensor Público|59": {
+"ponto": "PC06.04",
+"assunto": "PC06"
+},
+"2022 - DPE-AP - Defensor Público|60": {
+"ponto": "PC08.02",
+"assunto": "PC06"
+},
+"2022 - DPE-AP - Defensor Público|61": {
+"ponto": "PC08.02",
+"assunto": "PC03"
+},
+"2022 - DPE-AP - Defensor Público|72": {
+"ponto": "DH08.01",
+"assunto": "DH08"
+},
+"2022 - DPE-AP - Defensor Público|73": {
+"ponto": "DH10.09",
+"assunto": "DH10"
+},
+"2022 - DPE-AP - Defensor Público|74": {
+"ponto": "DH06.02",
+"assunto": "DH06"
+},
+"2022 - DPE-AP - Defensor Público|75": {
+"ponto": "DH08.01",
+"assunto": "DH06"
+},
+"2022 - DPE-AP - Defensor Público|76": {
+"ponto": "DH04.01",
+"assunto": "DH04"
+},
+"2022 - DPE-AP - Defensor Público|77": {
+"ponto": "DH06.03",
+"assunto": "DH06"
+},
+"2022 - DPE-AP - Defensor Público|78": {
+"ponto": "DH05.02",
+"assunto": "DH05"
+},
+"2022 - DPE-AP - Defensor Público|79": {
+"ponto": "DH01.02",
+"assunto": "DH06"
+},
+"2022 - DPE-AP - Defensor Público|80": {
+"ponto": "CA03.01",
+"assunto": "CA03"
+},
+"2022 - DPE-AP - Defensor Público|81": {
+"ponto": "CA04.04",
+"assunto": "CA04"
+},
+"2022 - DPE-AP - Defensor Público|82": {
+"ponto": "CA03.03",
+"assunto": "CA03"
+},
+"2022 - DPE-AP - Defensor Público|83": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2022 - DPE-AP - Defensor Público|84": {
+"ponto": "CA07.02",
+"assunto": "CA07"
+},
+"2022 - DPE-AP - Defensor Público|85": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2022 - DPE-AP - Defensor Público|86": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2022 - DPE-AP - Defensor Público|87": {
+"ponto": "CA06.03",
+"assunto": "CA06"
+},
+"2022 - DPE-CE - Defensor Público|1": {
+"ponto": "DH03.01",
+"assunto": "DH03"
+},
+"2022 - DPE-CE - Defensor Público|2": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2022 - DPE-CE - Defensor Público|3": {
+"ponto": "DH04.06",
+"assunto": "DH04"
+},
+"2022 - DPE-CE - Defensor Público|4": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2022 - DPE-CE - Defensor Público|5": {
+"ponto": "DH10.03",
+"assunto": "DH08"
+},
+"2022 - DPE-CE - Defensor Público|6": {
+"ponto": "CO05.02",
+"assunto": "CO05"
+},
+"2022 - DPE-CE - Defensor Público|7": {
+"ponto": "DH03.03",
+"assunto": "DH03"
+},
+"2022 - DPE-CE - Defensor Público|8": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2022 - DPE-CE - Defensor Público|9": {
+"ponto": "DH08.08",
+"assunto": "DH08"
+},
+"2022 - DPE-CE - Defensor Público|10": {
+"ponto": "CO05.01",
+"assunto": "CO05"
+},
+"2022 - DPE-CE - Defensor Público|11": {
+"ponto": "DH08.08",
+"assunto": "DH08"
+},
+"2022 - DPE-CE - Defensor Público|12": {
+"ponto": "CO15.03",
+"assunto": "CO15"
+},
+"2022 - DPE-CE - Defensor Público|13": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2022 - DPE-CE - Defensor Público|14": {
+"ponto": "DH08.06",
+"assunto": "DH08"
+},
+"2022 - DPE-CE - Defensor Público|15": {
+"ponto": "CO04.02",
+"assunto": "CO04"
+},
+"2022 - DPE-CE - Defensor Público|16": {
+"ponto": "CO15.03",
+"assunto": "CO15"
+},
+"2022 - DPE-CE - Defensor Público|17": {
+"ponto": "DH08.02",
+"assunto": "DH08"
+},
+"2022 - DPE-CE - Defensor Público|18": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2022 - DPE-CE - Defensor Público|19": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2022 - DPE-CE - Defensor Público|20": {
+"ponto": "DH08.07",
+"assunto": "DH08"
+},
+"2022 - DPE-CE - Defensor Público|21": {
+"ponto": "CV10.07",
+"assunto": "CV10"
+},
+"2022 - DPE-CE - Defensor Público|22": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2022 - DPE-CE - Defensor Público|23": {
+"ponto": "CV11.02",
+"assunto": "CV11"
+},
+"2022 - DPE-CE - Defensor Público|24": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2022 - DPE-CE - Defensor Público|25": {
+"ponto": "CV04.03",
+"assunto": "CV04"
+},
+"2022 - DPE-CE - Defensor Público|26": {
+"ponto": "CV07.03",
+"assunto": "CV11"
+},
+"2022 - DPE-CE - Defensor Público|27": {
+"ponto": "CV07.16",
+"assunto": "CV12"
+},
+"2022 - DPE-CE - Defensor Público|28": {
+"ponto": "CV11.02",
+"assunto": "CV11"
+},
+"2022 - DPE-CE - Defensor Público|29": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2022 - DPE-CE - Defensor Público|30": {
+"ponto": "CV01.01",
+"assunto": "CV01"
+},
+"2022 - DPE-CE - Defensor Público|31": {
+"ponto": "CV09.05",
+"assunto": "CV11"
+},
+"2022 - DPE-CE - Defensor Público|32": {
+"ponto": "CV10.03",
+"assunto": "CV10"
+},
+"2022 - DPE-CE - Defensor Público|33": {
+"ponto": "CV10.02",
+"assunto": "CV10"
+},
+"2022 - DPE-CE - Defensor Público|34": {
+"ponto": "PE06.02",
+"assunto": "PE06"
+},
+"2022 - DPE-CE - Defensor Público|35": {
+"ponto": "PE14.01",
+"assunto": "PE14"
+},
+"2022 - DPE-CE - Defensor Público|37": {
+"ponto": "PE08.06",
+"assunto": "PE08"
+},
+"2022 - DPE-CE - Defensor Público|39": {
+"ponto": "PE14.02",
+"assunto": "PE10"
+},
+"2022 - DPE-CE - Defensor Público|40": {
+"ponto": "PE14.01",
+"assunto": "PE14"
+},
+"2022 - DPE-CE - Defensor Público|41": {
+"ponto": "PE11.02",
+"assunto": "PE11"
+},
+"2022 - DPE-CE - Defensor Público|42": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2022 - DPE-CE - Defensor Público|44": {
+"ponto": "PE02.02",
+"assunto": "PE02"
+},
+"2022 - DPE-CE - Defensor Público|45": {
+"ponto": "PE02.02",
+"assunto": "PE08"
+},
+"2022 - DPE-CE - Defensor Público|46": {
+"ponto": "PE02.04",
+"assunto": "PE02"
+},
+"2022 - DPE-CE - Defensor Público|47": {
+"ponto": "PC07.03",
+"assunto": "PC07"
+},
+"2022 - DPE-CE - Defensor Público|48": {
+"ponto": "PC07.04",
+"assunto": "PC07"
+},
+"2022 - DPE-CE - Defensor Público|49": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2022 - DPE-CE - Defensor Público|50": {
+"ponto": "PC06.05",
+"assunto": "PC06"
+},
+"2022 - DPE-CE - Defensor Público|51": {
+"ponto": "PC10.01",
+"assunto": "PC10"
+},
+"2022 - DPE-CE - Defensor Público|52": {
+"ponto": "PC06.04",
+"assunto": "PC06"
+},
+"2022 - DPE-CE - Defensor Público|53": {
+"ponto": "PC06.02",
+"assunto": "PC06"
+},
+"2022 - DPE-CE - Defensor Público|54": {
+"ponto": "PC07.02",
+"assunto": "PC07"
+},
+"2022 - DPE-CE - Defensor Público|55": {
+"ponto": "PC02.03",
+"assunto": "PC02"
+},
+"2022 - DPE-CE - Defensor Público|58": {
+"ponto": "DH08.06",
+"assunto": "DH08"
+},
+"2022 - DPE-CE - Defensor Público|59": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2022 - DPE-CE - Defensor Público|60": {
+"ponto": "PP07.02",
+"assunto": "PP07"
+},
+"2022 - DPE-CE - Defensor Público|61": {
+"ponto": "PP04.02",
+"assunto": "PP04"
+},
+"2022 - DPE-CE - Defensor Público|62": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2022 - DPE-CE - Defensor Público|63": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2022 - DPE-CE - Defensor Público|64": {
+"ponto": "PP01.01",
+"assunto": "PP01"
+},
+"2022 - DPE-CE - Defensor Público|65": {
+"ponto": "PP08.01",
+"assunto": "PP08"
+},
+"2022 - DPE-CE - Defensor Público|66": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2022 - DPE-CE - Defensor Público|67": {
+"ponto": "PP03.02",
+"assunto": "PP03"
+},
+"2022 - DPE-CE - Defensor Público|68": {
+"ponto": "PP06.03",
+"assunto": "PP06"
+},
+"2022 - DPE-CE - Defensor Público|69": {
+"ponto": "PP06.01",
+"assunto": "PP07"
+},
+"2022 - DPE-CE - Defensor Público|70": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2022 - DPE-CE - Defensor Público|73": {
+"ponto": "AD14.03",
+"assunto": "AD14"
+},
+"2022 - DPE-CE - Defensor Público|74": {
+"ponto": "AD08.01",
+"assunto": "AD08"
+},
+"2022 - DPE-CE - Defensor Público|75": {
+"ponto": "AD10.01",
+"assunto": "AD10"
+},
+"2022 - DPE-CE - Defensor Público|76": {
+"ponto": "AD07.03",
+"assunto": "AD07"
+},
+"2022 - DPE-CE - Defensor Público|77": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2022 - DPE-CE - Defensor Público|78": {
+"ponto": "AD14.01",
+"assunto": "AD14"
+},
+"2022 - DPE-CE - Defensor Público|79": {
+"ponto": "AD02.02",
+"assunto": "AD08"
+},
+"2022 - DPE-MT - Defensor Público|1": {
+"ponto": "CV02.02",
+"assunto": "CV10"
+},
+"2022 - DPE-MT - Defensor Público|2": {
+"ponto": "CV02.03",
+"assunto": "CV02"
+},
+"2022 - DPE-MT - Defensor Público|3": {
+"ponto": "CV03.01",
+"assunto": "CV03"
+},
+"2022 - DPE-MT - Defensor Público|4": {
+"ponto": "CV11.02",
+"assunto": "CV11"
+},
+"2022 - DPE-MT - Defensor Público|5": {
+"ponto": "CV12.02",
+"assunto": "CV10"
+},
+"2022 - DPE-MT - Defensor Público|6": {
+"ponto": "CV11.01",
+"assunto": "CV10"
+},
+"2022 - DPE-MT - Defensor Público|7": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2022 - DPE-MT - Defensor Público|8": {
+"ponto": "CV08.01",
+"assunto": "CV08"
+},
+"2022 - DPE-MT - Defensor Público|9": {
+"ponto": "PC02.03",
+"assunto": "PC02"
+},
+"2022 - DPE-MT - Defensor Público|10": {
+"ponto": "PC06.02",
+"assunto": "PC06"
+},
+"2022 - DPE-MT - Defensor Público|11": {
+"ponto": "PC07.01",
+"assunto": "PC03"
+},
+"2022 - DPE-MT - Defensor Público|12": {
+"ponto": "PC05.01",
+"assunto": "PC06"
+},
+"2022 - DPE-MT - Defensor Público|13": {
+"ponto": "PC06.03",
+"assunto": "PC06"
+},
+"2022 - DPE-MT - Defensor Público|14": {
+"ponto": "PC09.03",
+"assunto": "PC09"
+},
+"2022 - DPE-MT - Defensor Público|15": {
+"ponto": "PC03.01",
+"assunto": "PC03"
+},
+"2022 - DPE-MT - Defensor Público|16": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2022 - DPE-MT - Defensor Público|17": {
+"ponto": "CA04.01",
+"assunto": "CA04"
+},
+"2022 - DPE-MT - Defensor Público|18": {
+"ponto": "CA06.01",
+"assunto": "CA03"
+},
+"2022 - DPE-MT - Defensor Público|19": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2022 - DPE-MT - Defensor Público|20": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2022 - DPE-MT - Defensor Público|21": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2022 - DPE-MT - Defensor Público|22": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2022 - DPE-MT - Defensor Público|23": {
+"ponto": "CA02.03",
+"assunto": "CA02"
+},
+"2022 - DPE-MT - Defensor Público|34": {
+"ponto": "PE08.01",
+"assunto": "PE08"
+},
+"2022 - DPE-MT - Defensor Público|35": {
+"ponto": "PE14.07",
+"assunto": "PE10"
+},
+"2022 - DPE-MT - Defensor Público|36": {
+"ponto": "PE08.05",
+"assunto": "PE09"
+},
+"2022 - DPE-MT - Defensor Público|37": {
+"ponto": "PE14.01",
+"assunto": "PE14"
+},
+"2022 - DPE-MT - Defensor Público|38": {
+"ponto": "PE06.04",
+"assunto": "PE04"
+},
+"2022 - DPE-MT - Defensor Público|39": {
+"ponto": "PE04.01",
+"assunto": "PE04"
+},
+"2022 - DPE-MT - Defensor Público|40": {
+"ponto": "PE10.01",
+"assunto": "PE10"
+},
+"2022 - DPE-MT - Defensor Público|41": {
+"ponto": "PE14.08",
+"assunto": "PE14"
+},
+"2022 - DPE-MT - Defensor Público|42": {
+"ponto": "PE06.04",
+"assunto": "PE06"
+},
+"2022 - DPE-MT - Defensor Público|43": {
+"ponto": "PE14.01",
+"assunto": "PE08"
+},
+"2022 - DPE-MT - Defensor Público|44": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2022 - DPE-MT - Defensor Público|45": {
+"ponto": "PE11.01",
+"assunto": "PE11"
+},
+"2022 - DPE-MT - Defensor Público|46": {
+"ponto": "PP03.02",
+"assunto": "PP03"
+},
+"2022 - DPE-MT - Defensor Público|47": {
+"ponto": "PP01.01",
+"assunto": "PP04"
+},
+"2022 - DPE-MT - Defensor Público|48": {
+"ponto": "PP05.01",
+"assunto": "PP05"
+},
+"2022 - DPE-MT - Defensor Público|49": {
+"ponto": "PP07.02",
+"assunto": "PP07"
+},
+"2022 - DPE-MT - Defensor Público|50": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2022 - DPE-MT - Defensor Público|51": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2022 - DPE-MT - Defensor Público|52": {
+"ponto": "PP06.02",
+"assunto": "PP07"
+},
+"2022 - DPE-MT - Defensor Público|53": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2022 - DPE-MT - Defensor Público|54": {
+"ponto": "PP09.02",
+"assunto": "PP09"
+},
+"2022 - DPE-MT - Defensor Público|55": {
+"ponto": "PP06.01",
+"assunto": "PP06"
+},
+"2022 - DPE-MT - Defensor Público|68": {
+"ponto": "CO03.04",
+"assunto": "CO11"
+},
+"2022 - DPE-MT - Defensor Público|69": {
+"ponto": "CO10.01",
+"assunto": "CO10"
+},
+"2022 - DPE-MT - Defensor Público|70": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2022 - DPE-MT - Defensor Público|71": {
+"ponto": "CO10.01",
+"assunto": "CO10"
+},
+"2022 - DPE-MT - Defensor Público|72": {
+"ponto": "CO05.02",
+"assunto": "CO05"
+},
+"2022 - DPE-MT - Defensor Público|73": {
+"ponto": "CO04.02",
+"assunto": "CO04"
+},
+"2022 - DPE-MT - Defensor Público|74": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2022 - DPE-MT - Defensor Público|75": {
+"ponto": "CO06.03",
+"assunto": "CO06"
+},
+"2022 - DPE-MT - Defensor Público|76": {
+"ponto": "AD14.01",
+"assunto": "AD04"
+},
+"2022 - DPE-MT - Defensor Público|77": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2022 - DPE-MT - Defensor Público|78": {
+"ponto": "AD06.02",
+"assunto": "AD09"
+},
+"2022 - DPE-MT - Defensor Público|79": {
+"ponto": "AD04.03",
+"assunto": "AD04"
+},
+"2022 - DPE-MT - Defensor Público|80": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2022 - DPE-MT - Defensor Público|85": {
+"ponto": "DH10.01",
+"assunto": "DH04"
+},
+"2022 - DPE-MT - Defensor Público|86": {
+"ponto": "DH05.02",
+"assunto": "DH05"
+},
+"2022 - DPE-MT - Defensor Público|87": {
+"ponto": "DH04.05",
+"assunto": "DH04"
+},
+"2022 - DPE-MT - Defensor Público|88": {
+"ponto": "DH08.07",
+"assunto": "DH08"
+},
+"2022 - DPE-MT - Defensor Público|89": {
+"ponto": "DH03.04",
+"assunto": "DH03"
+},
+"2022 - DPE-MT - Defensor Público|90": {
+"ponto": "DH06.01",
+"assunto": "DH06"
+},
+"2022 - DPE-MT - Defensor Público|91": {
+"ponto": "DH04.06",
+"assunto": "DH04"
+},
+"2022 - DPE-MT - Defensor Público|92": {
+"ponto": "DH08.10",
+"assunto": "DH08"
+},
+"2022 - DPE-PB - Defensor Público|13": {
+"ponto": "PC04.01",
+"assunto": "PC06"
+},
+"2022 - DPE-PB - Defensor Público|14": {
+"ponto": "PC02.03",
+"assunto": "PC02"
+},
+"2022 - DPE-PB - Defensor Público|15": {
+"ponto": "PC02.01",
+"assunto": "PC12"
+},
+"2022 - DPE-PB - Defensor Público|16": {
+"ponto": "PC06.04",
+"assunto": "PC06"
+},
+"2022 - DPE-PB - Defensor Público|17": {
+"ponto": "PC06.02",
+"assunto": "PC06"
+},
+"2022 - DPE-PB - Defensor Público|18": {
+"ponto": "PC06.01",
+"assunto": "PC06"
+},
+"2022 - DPE-PB - Defensor Público|19": {
+"ponto": "PC06.04",
+"assunto": "PC06"
+},
+"2022 - DPE-PB - Defensor Público|20": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2022 - DPE-PB - Defensor Público|21": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2022 - DPE-PB - Defensor Público|22": {
+"ponto": "PC06.01",
+"assunto": "PC06"
+},
+"2022 - DPE-PB - Defensor Público|23": {
+"ponto": "PC06.03",
+"assunto": "PC07"
+},
+"2022 - DPE-PB - Defensor Público|24": {
+"ponto": "PC12.01",
+"assunto": "PC12"
+},
+"2022 - DPE-PB - Defensor Público|37": {
+"ponto": "PE08.02",
+"assunto": "PE14"
+},
+"2022 - DPE-PB - Defensor Público|38": {
+"ponto": "PE11.02",
+"assunto": "PE11"
+},
+"2022 - DPE-PB - Defensor Público|39": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2022 - DPE-PB - Defensor Público|40": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2022 - DPE-PB - Defensor Público|41": {
+"ponto": "PE14.10",
+"assunto": "PE14"
+},
+"2022 - DPE-PB - Defensor Público|42": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2022 - DPE-PB - Defensor Público|43": {
+"ponto": "PE14.03",
+"assunto": "PE14"
+},
+"2022 - DPE-PB - Defensor Público|44": {
+"ponto": "PE12.01",
+"assunto": "PE12"
+},
+"2022 - DPE-PB - Defensor Público|45": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2022 - DPE-PB - Defensor Público|46": {
+"ponto": "PE14.04",
+"assunto": "PE11"
+},
+"2022 - DPE-PB - Defensor Público|47": {
+"ponto": "PE14.07",
+"assunto": "PE14"
+},
+"2022 - DPE-PB - Defensor Público|48": {
+"ponto": "PE08.04",
+"assunto": "PE08"
+},
+"2022 - DPE-PB - Defensor Público|49": {
+"ponto": "PE08.02",
+"assunto": "PE08"
+},
+"2022 - DPE-PB - Defensor Público|50": {
+"ponto": "PE14.01",
+"assunto": "PE14"
+},
+"2022 - DPE-PB - Defensor Público|51": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2022 - DPE-PB - Defensor Público|52": {
+"ponto": "PP04.03",
+"assunto": "PP04"
+},
+"2022 - DPE-PB - Defensor Público|53": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2022 - DPE-PB - Defensor Público|54": {
+"ponto": "PP04.02",
+"assunto": "PP03"
+},
+"2022 - DPE-PB - Defensor Público|55": {
+"ponto": "PP06.02",
+"assunto": "PP04"
+},
+"2022 - DPE-PB - Defensor Público|56": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2022 - DPE-PB - Defensor Público|57": {
+"ponto": "PP06.01",
+"assunto": "PP04"
+},
+"2022 - DPE-PB - Defensor Público|58": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2022 - DPE-PB - Defensor Público|59": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2022 - DPE-PB - Defensor Público|60": {
+"ponto": "PP04.02",
+"assunto": "PP04"
+},
+"2022 - DPE-PB - Defensor Público|61": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2022 - DPE-PB - Defensor Público|62": {
+"ponto": "PP04.01",
+"assunto": "PP04"
+},
+"2022 - DPE-PB - Defensor Público|63": {
+"ponto": "PP09.01",
+"assunto": "PP07"
+},
+"2022 - DPE-PB - Defensor Público|74": {
+"ponto": "CO08.03",
+"assunto": "CO09"
+},
+"2022 - DPE-PB - Defensor Público|75": {
+"ponto": "CO01.02",
+"assunto": "CO01"
+},
+"2022 - DPE-PB - Defensor Público|76": {
+"ponto": "CO10.03",
+"assunto": "CO10"
+},
+"2022 - DPE-PB - Defensor Público|77": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2022 - DPE-PB - Defensor Público|78": {
+"ponto": "CO11.04",
+"assunto": "CO11"
+},
+"2022 - DPE-PB - Defensor Público|79": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2022 - DPE-PB - Defensor Público|80": {
+"ponto": "CO01.02",
+"assunto": "CO01"
+},
+"2022 - DPE-PB - Defensor Público|81": {
+"ponto": "AD08.02",
+"assunto": "AD08"
+},
+"2022 - DPE-PB - Defensor Público|82": {
+"ponto": "AD09.02",
+"assunto": "AD09"
+},
+"2022 - DPE-PB - Defensor Público|83": {
+"ponto": "AD04.01",
+"assunto": "AD04"
+},
+"2022 - DPE-PB - Defensor Público|84": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2022 - DPE-PB - Defensor Público|85": {
+"ponto": "CA04.02",
+"assunto": "CA04"
+},
+"2022 - DPE-PB - Defensor Público|86": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2022 - DPE-PB - Defensor Público|87": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2022 - DPE-PB - Defensor Público|88": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2022 - DPE-PB - Defensor Público|89": {
+"ponto": "DH04.05",
+"assunto": "DH04"
+},
+"2022 - DPE-PB - Defensor Público|90": {
+"ponto": "DH06.03",
+"assunto": "DH06"
+},
+"2022 - DPE-PB - Defensor Público|91": {
+"ponto": "DH06.01",
+"assunto": "DH06"
+},
+"2022 - DPE-PB - Defensor Público|92": {
+"ponto": "DH03.03",
+"assunto": "DH03"
+},
+"2022 - DPE-PB - Defensor Público|93": {
+"ponto": "DH09.02",
+"assunto": "DH09"
+},
+"2022 - DPE-PB - Defensor Público|94": {
+"ponto": "DH08.01",
+"assunto": "DH04"
+},
+"2022 - DPE-PB - Defensor Público|95": {
+"ponto": "DH04.02",
+"assunto": "DH03"
+},
+"2022 - DPE-PB - Defensor Público|96": {
+"ponto": "DH03.04",
+"assunto": "DH05"
+},
+"2022 - DPE-PB - Defensor Público|97": {
+"ponto": "DH08.03",
+"assunto": "DH10"
+},
+"2023 - DPE-AM - Analista Jurídico|1": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2023 - DPE-AM - Analista Jurídico|2": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2023 - DPE-AM - Analista Jurídico|3": {
+"ponto": "LP06.01",
+"assunto": "LP04"
+},
+"2023 - DPE-AM - Analista Jurídico|4": {
+"ponto": "LP04.04",
+"assunto": "LP04"
+},
+"2023 - DPE-AM - Analista Jurídico|5": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2023 - DPE-AM - Analista Jurídico|6": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2023 - DPE-AM - Analista Jurídico|7": {
+"ponto": "LP06.01",
+"assunto": "LP06"
+},
+"2023 - DPE-AM - Analista Jurídico|8": {
+"ponto": "LP08.01",
+"assunto": "LP08"
+},
+"2023 - DPE-AM - Analista Jurídico|9": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2023 - DPE-AM - Analista Jurídico|10": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2023 - DPE-AM - Analista Jurídico|11": {
+"ponto": "LP09.01",
+"assunto": "LP01"
+},
+"2023 - DPE-AM - Analista Jurídico|12": {
+"ponto": "LP08.01",
+"assunto": "LP08"
+},
+"2023 - DPE-AM - Analista Jurídico|13": {
+"ponto": "LP04.02",
+"assunto": "LP04"
+},
+"2023 - DPE-AM - Analista Jurídico|14": {
+"ponto": "LP04.05",
+"assunto": "LP04"
+},
+"2023 - DPE-AM - Analista Jurídico|15": {
+"ponto": "PI03.04",
+"assunto": "PI03"
+},
+"2023 - DPE-AM - Analista Jurídico|16": {
+"ponto": "PI02.02",
+"assunto": "PI02"
+},
+"2023 - DPE-AM - Analista Jurídico|17": {
+"ponto": "PI01.02",
+"assunto": "PI01"
+},
+"2023 - DPE-AM - Analista Jurídico|18": {
+"ponto": "PI06.02",
+"assunto": "PI06"
+},
+"2023 - DPE-AM - Analista Jurídico|19": {
+"ponto": "PI04.01",
+"assunto": "PI04"
+},
+"2023 - DPE-AM - Analista Jurídico|20": {
+"ponto": "PI03.02",
+"assunto": "PI03"
+},
+"2023 - DPE-AM - Analista Jurídico|21": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2023 - DPE-AM - Analista Jurídico|22": {
+"ponto": "CO15.03",
+"assunto": "CO15"
+},
+"2023 - DPE-AM - Analista Jurídico|23": {
+"ponto": "CO15.02",
+"assunto": "CO14"
+},
+"2023 - DPE-AM - Analista Jurídico|24": {
+"ponto": "CO01.02",
+"assunto": "CO10"
+},
+"2023 - DPE-AM - Analista Jurídico|25": {
+"ponto": "CO10.03",
+"assunto": "CO10"
+},
+"2023 - DPE-AM - Analista Jurídico|26": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2023 - DPE-AM - Analista Jurídico|27": {
+"ponto": "AD03.02",
+"assunto": "AD03"
+},
+"2023 - DPE-AM - Analista Jurídico|28": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2023 - DPE-AM - Analista Jurídico|29": {
+"ponto": "AD02.03",
+"assunto": "AD02"
+},
+"2023 - DPE-AM - Analista Jurídico|30": {
+"ponto": "AD09.02",
+"assunto": "AD09"
+},
+"2023 - DPE-AM - Analista Jurídico|31": {
+"ponto": "CV04.01",
+"assunto": "CV04"
+},
+"2023 - DPE-AM - Analista Jurídico|32": {
+"ponto": "CV09.03",
+"assunto": "CV09"
+},
+"2023 - DPE-AM - Analista Jurídico|33": {
+"ponto": "CV10.04",
+"assunto": "CV10"
+},
+"2023 - DPE-AM - Analista Jurídico|34": {
+"ponto": "CV02.01",
+"assunto": "CV02"
+},
+"2023 - DPE-AM - Analista Jurídico|35": {
+"ponto": "CV10.02",
+"assunto": "CV10"
+},
+"2023 - DPE-AM - Analista Jurídico|36": {
+"ponto": "PC08.03",
+"assunto": "PC08"
+},
+"2023 - DPE-AM - Analista Jurídico|37": {
+"ponto": "PC05.01",
+"assunto": "PC05"
+},
+"2023 - DPE-AM - Analista Jurídico|38": {
+"ponto": "PC07.03",
+"assunto": "PC07"
+},
+"2023 - DPE-AM - Analista Jurídico|39": {
+"ponto": "PC06.04",
+"assunto": "PC06"
+},
+"2023 - DPE-AM - Analista Jurídico|40": {
+"ponto": "PC08.01",
+"assunto": "PC06"
+},
+"2023 - DPE-AM - Analista Jurídico|41": {
+"ponto": "PE08.02",
+"assunto": "PE14"
+},
+"2023 - DPE-AM - Analista Jurídico|42": {
+"ponto": "PE09.01",
+"assunto": "PE09"
+},
+"2023 - DPE-AM - Analista Jurídico|43": {
+"ponto": "PE04.01",
+"assunto": "PE04"
+},
+"2023 - DPE-AM - Analista Jurídico|44": {
+"ponto": "PE05.02",
+"assunto": "PE05"
+},
+"2023 - DPE-AM - Analista Jurídico|45": {
+"ponto": "PE10.01",
+"assunto": "PE10"
+},
+"2023 - DPE-AM - Analista Jurídico|46": {
+"ponto": "PP09.02",
+"assunto": "PP09"
+},
+"2023 - DPE-AM - Analista Jurídico|47": {
+"ponto": "PP05.01",
+"assunto": "PP04"
+},
+"2023 - DPE-AM - Analista Jurídico|48": {
+"ponto": "PP01.02",
+"assunto": "PP01"
+},
+"2023 - DPE-AM - Analista Jurídico|49": {
+"ponto": "PP07.02",
+"assunto": "PP07"
+},
+"2023 - DPE-AM - Analista Jurídico|50": {
+"ponto": "PP05.01",
+"assunto": "PP05"
+},
+"2023 - DPE-AM - Analista Jurídico|51": {
+"ponto": "DH06.01",
+"assunto": "DH06"
+},
+"2023 - DPE-AM - Analista Jurídico|52": {
+"ponto": "DH06.03",
+"assunto": "DH06"
+},
+"2023 - DPE-AM - Analista Jurídico|53": {
+"ponto": "DH09.02",
+"assunto": "DH03"
+},
+"2023 - DPE-AM - Analista Jurídico|54": {
+"ponto": "DH09.02",
+"assunto": "DH09"
+},
+"2023 - DPE-AM - Analista Jurídico|55": {
+"ponto": "DH04.02",
+"assunto": "DH04"
+},
+"2023 - DPE-AM - Analista Jurídico|56": {
+"ponto": "DH08.01",
+"assunto": "DH08"
+},
+"2023 - DPE-AM - Analista Jurídico|57": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2023 - DPE-AM - Analista Jurídico|58": {
+"ponto": "CA02.05",
+"assunto": "CA03"
+},
+"2023 - DPE-AM - Analista Jurídico|59": {
+"ponto": "DH08.06",
+"assunto": "DH08"
+},
+"2023 - DPE-AM - Analista Jurídico|60": {
+"ponto": "CA03.04",
+"assunto": "CA06"
+},
+"2023 - DPE-ES - Defensor Público|1": {
+"ponto": "CO06.02",
+"assunto": "CO06"
+},
+"2023 - DPE-ES - Defensor Público|2": {
+"ponto": "CO10.03",
+"assunto": "CO06"
+},
+"2023 - DPE-ES - Defensor Público|3": {
+"ponto": "CO04.02",
+"assunto": "CO04"
+},
+"2023 - DPE-ES - Defensor Público|4": {
+"ponto": "CO05.01",
+"assunto": "CO05"
+},
+"2023 - DPE-ES - Defensor Público|5": {
+"ponto": "CO03.04",
+"assunto": "CO15"
+},
+"2023 - DPE-ES - Defensor Público|6": {
+"ponto": "CO05.02",
+"assunto": "CO05"
+},
+"2023 - DPE-ES - Defensor Público|7": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2023 - DPE-ES - Defensor Público|8": {
+"ponto": "CO03.01",
+"assunto": "CO11"
+},
+"2023 - DPE-ES - Defensor Público|9": {
+"ponto": "CO03.05",
+"assunto": "CO03"
+},
+"2023 - DPE-ES - Defensor Público|10": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2023 - DPE-ES - Defensor Público|11": {
+"ponto": "DH10.05",
+"assunto": "DH10"
+},
+"2023 - DPE-ES - Defensor Público|12": {
+"ponto": "DH06.02",
+"assunto": "DH06"
+},
+"2023 - DPE-ES - Defensor Público|13": {
+"ponto": "DH09.02",
+"assunto": "DH09"
+},
+"2023 - DPE-ES - Defensor Público|14": {
+"ponto": "DH08.03",
+"assunto": "DH08"
+},
+"2023 - DPE-ES - Defensor Público|15": {
+"ponto": "DH04.01",
+"assunto": "DH04"
+},
+"2023 - DPE-ES - Defensor Público|16": {
+"ponto": "DH10.01",
+"assunto": "DH08"
+},
+"2023 - DPE-ES - Defensor Público|17": {
+"ponto": "DH05.02",
+"assunto": "DH05"
+},
+"2023 - DPE-ES - Defensor Público|18": {
+"ponto": "DH10.05",
+"assunto": "DH10"
+},
+"2023 - DPE-ES - Defensor Público|19": {
+"ponto": "AD10.01",
+"assunto": "AD10"
+},
+"2023 - DPE-ES - Defensor Público|20": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2023 - DPE-ES - Defensor Público|21": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2023 - DPE-ES - Defensor Público|22": {
+"ponto": "AD09.02",
+"assunto": "AD09"
+},
+"2023 - DPE-ES - Defensor Público|23": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2023 - DPE-ES - Defensor Público|24": {
+"ponto": "AD05.01",
+"assunto": "AD14"
+},
+"2023 - DPE-ES - Defensor Público|37": {
+"ponto": "CV10.04",
+"assunto": "CV10"
+},
+"2023 - DPE-ES - Defensor Público|39": {
+"ponto": "CV10.02",
+"assunto": "CV11"
+},
+"2023 - DPE-ES - Defensor Público|40": {
+"ponto": "CV04.01",
+"assunto": "CV04"
+},
+"2023 - DPE-ES - Defensor Público|41": {
+"ponto": "CV08.01",
+"assunto": "CV08"
+},
+"2023 - DPE-ES - Defensor Público|42": {
+"ponto": "CV09.04",
+"assunto": "CV09"
+},
+"2023 - DPE-ES - Defensor Público|43": {
+"ponto": "CV11.02",
+"assunto": "CV11"
+},
+"2023 - DPE-ES - Defensor Público|44": {
+"ponto": "CV03.01",
+"assunto": "CV09"
+},
+"2023 - DPE-ES - Defensor Público|53": {
+"ponto": "PC07.01",
+"assunto": "PC03"
+},
+"2023 - DPE-ES - Defensor Público|54": {
+"ponto": "PC06.05",
+"assunto": "PC03"
+},
+"2023 - DPE-ES - Defensor Público|55": {
+"ponto": "PC06.01",
+"assunto": "PC06"
+},
+"2023 - DPE-ES - Defensor Público|56": {
+"ponto": "PC04.01",
+"assunto": "PC06"
+},
+"2023 - DPE-ES - Defensor Público|57": {
+"ponto": "PC08.01",
+"assunto": "PC08"
+},
+"2023 - DPE-ES - Defensor Público|58": {
+"ponto": "PC09.01",
+"assunto": "PC09"
+},
+"2023 - DPE-ES - Defensor Público|60": {
+"ponto": "PC07.04",
+"assunto": "PC07"
+},
+"2023 - DPE-ES - Defensor Público|61": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2023 - DPE-ES - Defensor Público|62": {
+"ponto": "PC11.01",
+"assunto": "PC11"
+},
+"2023 - DPE-ES - Defensor Público|77": {
+"ponto": "PE08.05",
+"assunto": "PE14"
+},
+"2023 - DPE-ES - Defensor Público|78": {
+"ponto": "PE14.01",
+"assunto": "PE14"
+},
+"2023 - DPE-ES - Defensor Público|79": {
+"ponto": "PE04.01",
+"assunto": "PE04"
+},
+"2023 - DPE-ES - Defensor Público|80": {
+"ponto": "PE14.03",
+"assunto": "PE11"
+},
+"2023 - DPE-ES - Defensor Público|81": {
+"ponto": "PE14.10",
+"assunto": "PE14"
+},
+"2023 - DPE-ES - Defensor Público|82": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2023 - DPE-ES - Defensor Público|83": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2023 - DPE-ES - Defensor Público|84": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2023 - DPE-ES - Defensor Público|85": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2023 - DPE-ES - Defensor Público|87": {
+"ponto": "PP07.02",
+"assunto": "PP07"
+},
+"2023 - DPE-ES - Defensor Público|88": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2023 - DPE-ES - Defensor Público|89": {
+"ponto": "PP06.02",
+"assunto": "PP06"
+},
+"2023 - DPE-ES - Defensor Público|90": {
+"ponto": "PP06.01",
+"assunto": "PP01"
+},
+"2023 - DPE-ES - Defensor Público|91": {
+"ponto": "PP08.01",
+"assunto": "PP08"
+},
+"2023 - DPE-ES - Defensor Público|92": {
+"ponto": "PP04.03",
+"assunto": "PP04"
+},
+"2023 - DPE-SP - Defensor Público|1": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2023 - DPE-SP - Defensor Público|2": {
+"ponto": "CO08.01",
+"assunto": "CO08"
+},
+"2023 - DPE-SP - Defensor Público|3": {
+"ponto": "CO05.01",
+"assunto": "CO05"
+},
+"2023 - DPE-SP - Defensor Público|4": {
+"ponto": "CO10.03",
+"assunto": "CO10"
+},
+"2023 - DPE-SP - Defensor Público|5": {
+"ponto": "CO10.03",
+"assunto": "CO10"
+},
+"2023 - DPE-SP - Defensor Público|6": {
+"ponto": "CO03.05",
+"assunto": "CO03"
+},
+"2023 - DPE-SP - Defensor Público|7": {
+"ponto": "CO12.01",
+"assunto": "CO15"
+},
+"2023 - DPE-SP - Defensor Público|8": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2023 - DPE-SP - Defensor Público|9": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2023 - DPE-SP - Defensor Público|10": {
+"ponto": "AD15.02",
+"assunto": "AD15"
+},
+"2023 - DPE-SP - Defensor Público|11": {
+"ponto": "AD09.02",
+"assunto": "AD09"
+},
+"2023 - DPE-SP - Defensor Público|13": {
+"ponto": "AD05.02",
+"assunto": "AD05"
+},
+"2023 - DPE-SP - Defensor Público|18": {
+"ponto": "PE14.07",
+"assunto": "PE14"
+},
+"2023 - DPE-SP - Defensor Público|19": {
+"ponto": "PE08.02",
+"assunto": "PE08"
+},
+"2023 - DPE-SP - Defensor Público|20": {
+"ponto": "PE11.01",
+"assunto": "PE14"
+},
+"2023 - DPE-SP - Defensor Público|22": {
+"ponto": "PE07.03",
+"assunto": "PE07"
+},
+"2023 - DPE-SP - Defensor Público|23": {
+"ponto": "PE04.04",
+"assunto": "PE04"
+},
+"2023 - DPE-SP - Defensor Público|24": {
+"ponto": "PE02.04",
+"assunto": "PE02"
+},
+"2023 - DPE-SP - Defensor Público|25": {
+"ponto": "PP05.01",
+"assunto": "PP05"
+},
+"2023 - DPE-SP - Defensor Público|26": {
+"ponto": "PP04.01",
+"assunto": "PP04"
+},
+"2023 - DPE-SP - Defensor Público|27": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2023 - DPE-SP - Defensor Público|28": {
+"ponto": "PP01.02",
+"assunto": "PP01"
+},
+"2023 - DPE-SP - Defensor Público|29": {
+"ponto": "PP04.01",
+"assunto": "PP04"
+},
+"2023 - DPE-SP - Defensor Público|30": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2023 - DPE-SP - Defensor Público|31": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2023 - DPE-SP - Defensor Público|32": {
+"ponto": "PP04.02",
+"assunto": "PP07"
+},
+"2023 - DPE-SP - Defensor Público|42": {
+"ponto": "PC09.01",
+"assunto": "PC09"
+},
+"2023 - DPE-SP - Defensor Público|43": {
+"ponto": "PC03.03",
+"assunto": "PC06"
+},
+"2023 - DPE-SP - Defensor Público|44": {
+"ponto": "PC04.01",
+"assunto": "PC04"
+},
+"2023 - DPE-SP - Defensor Público|45": {
+"ponto": "PC06.04",
+"assunto": "PC06"
+},
+"2023 - DPE-SP - Defensor Público|46": {
+"ponto": "PC09.03",
+"assunto": "PC09"
+},
+"2023 - DPE-SP - Defensor Público|47": {
+"ponto": "PC07.02",
+"assunto": "PC07"
+},
+"2023 - DPE-SP - Defensor Público|48": {
+"ponto": "PC11.01",
+"assunto": "PC11"
+},
+"2023 - DPE-SP - Defensor Público|57": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2023 - DPE-SP - Defensor Público|58": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2023 - DPE-SP - Defensor Público|59": {
+"ponto": "CA02.03",
+"assunto": "CA02"
+},
+"2023 - DPE-SP - Defensor Público|60": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2023 - DPE-SP - Defensor Público|61": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2023 - DPE-SP - Defensor Público|62": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2023 - DPE-SP - Defensor Público|63": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2023 - DPE-SP - Defensor Público|64": {
+"ponto": "CA03.03",
+"assunto": "CA03"
+},
+"2023 - DPE-SP - Defensor Público|65": {
+"ponto": "DH10.01",
+"assunto": "DH08"
+},
+"2023 - DPE-SP - Defensor Público|66": {
+"ponto": "DH08.01",
+"assunto": "DH04"
+},
+"2023 - DPE-SP - Defensor Público|67": {
+"ponto": "DH04.01",
+"assunto": "DH08"
+},
+"2023 - DPE-SP - Defensor Público|68": {
+"ponto": "DH01.04",
+"assunto": "DH01"
+},
+"2023 - DPE-SP - Defensor Público|69": {
+"ponto": "DH08.03",
+"assunto": "DH08"
+},
+"2023 - DPE-SP - Defensor Público|70": {
+"ponto": "DH08.10",
+"assunto": "DH08"
+},
+"2023 - DPE-SP - Defensor Público|71": {
+"ponto": "DH04.05",
+"assunto": "DH04"
+},
+"2023 - DPE-SP - Defensor Público|72": {
+"ponto": "DH06.02",
+"assunto": "DH04"
+},
+"2025 - DPE-AM - Defensor Público|1": {
+"ponto": "DH04.04",
+"assunto": "DH08"
+},
+"2025 - DPE-AM - Defensor Público|2": {
+"ponto": "DH08.03",
+"assunto": "DH10"
+},
+"2025 - DPE-AM - Defensor Público|3": {
+"ponto": "DH06.02",
+"assunto": "DH08"
+},
+"2025 - DPE-AM - Defensor Público|4": {
+"ponto": "DH09.01",
+"assunto": "DH04"
+},
+"2025 - DPE-AM - Defensor Público|5": {
+"ponto": "DH03.01",
+"assunto": "DH08"
+},
+"2025 - DPE-AM - Defensor Público|6": {
+"ponto": "DH10.03",
+"assunto": "DH10"
+},
+"2025 - DPE-AM - Defensor Público|7": {
+"ponto": "DH10.03",
+"assunto": "DH08"
+},
+"2025 - DPE-AM - Defensor Público|8": {
+"ponto": "DH03.03",
+"assunto": "DH03"
+},
+"2025 - DPE-AM - Defensor Público|9": {
+"ponto": "CO10.03",
+"assunto": "CO11"
+},
+"2025 - DPE-AM - Defensor Público|10": {
+"ponto": "CO08.01",
+"assunto": "CO08"
+},
+"2025 - DPE-AM - Defensor Público|11": {
+"ponto": "CO01.05",
+"assunto": "CO09"
+},
+"2025 - DPE-AM - Defensor Público|12": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2025 - DPE-AM - Defensor Público|13": {
+"ponto": "CO11.02",
+"assunto": "CO11"
+},
+"2025 - DPE-AM - Defensor Público|14": {
+"ponto": "CO14.01",
+"assunto": "CO15"
+},
+"2025 - DPE-AM - Defensor Público|15": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2025 - DPE-AM - Defensor Público|16": {
+"ponto": "CO03.05",
+"assunto": "CO03"
+},
+"2025 - DPE-AM - Defensor Público|17": {
+"ponto": "CO09.01",
+"assunto": "CO09"
+},
+"2025 - DPE-AM - Defensor Público|18": {
+"ponto": "CO13.02",
+"assunto": "CO15"
+},
+"2025 - DPE-AM - Defensor Público|19": {
+"ponto": "AD07.03",
+"assunto": "AD07"
+},
+"2025 - DPE-AM - Defensor Público|20": {
+"ponto": "AD14.01",
+"assunto": "AD14"
+},
+"2025 - DPE-AM - Defensor Público|21": {
+"ponto": "AD14.04",
+"assunto": "AD14"
+},
+"2025 - DPE-AM - Defensor Público|22": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2025 - DPE-AM - Defensor Público|23": {
+"ponto": "AD08.02",
+"assunto": "AD08"
+},
+"2025 - DPE-AM - Defensor Público|24": {
+"ponto": "AD10.01",
+"assunto": "AD05"
+},
+"2025 - DPE-AM - Defensor Público|26": {
+"ponto": "PE11.02",
+"assunto": "PE08"
+},
+"2025 - DPE-AM - Defensor Público|27": {
+"ponto": "PE14.08",
+"assunto": "PE14"
+},
+"2025 - DPE-AM - Defensor Público|28": {
+"ponto": "PE05.02",
+"assunto": "PE05"
+},
+"2025 - DPE-AM - Defensor Público|29": {
+"ponto": "PE14.01",
+"assunto": "PE14"
+},
+"2025 - DPE-AM - Defensor Público|30": {
+"ponto": "PE08.06",
+"assunto": "PE08"
+},
+"2025 - DPE-AM - Defensor Público|31": {
+"ponto": "PE12.02",
+"assunto": "PE14"
+},
+"2025 - DPE-AM - Defensor Público|32": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2025 - DPE-AM - Defensor Público|33": {
+"ponto": "PP04.03",
+"assunto": "PP04"
+},
+"2025 - DPE-AM - Defensor Público|34": {
+"ponto": "PP06.01",
+"assunto": "PP06"
+},
+"2025 - DPE-AM - Defensor Público|35": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2025 - DPE-AM - Defensor Público|36": {
+"ponto": "PP07.04",
+"assunto": "PP07"
+},
+"2025 - DPE-AM - Defensor Público|37": {
+"ponto": "PP07.02",
+"assunto": "PP07"
+},
+"2025 - DPE-AM - Defensor Público|38": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2025 - DPE-AM - Defensor Público|39": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2025 - DPE-AM - Defensor Público|40": {
+"ponto": "PP04.01",
+"assunto": "PP04"
+},
+"2025 - DPE-AM - Defensor Público|65": {
+"ponto": "PC02.01",
+"assunto": "PC02"
+},
+"2025 - DPE-AM - Defensor Público|66": {
+"ponto": "PC07.01",
+"assunto": "PC07"
+},
+"2025 - DPE-AM - Defensor Público|67": {
+"ponto": "PC06.01",
+"assunto": "PC06"
+},
+"2025 - DPE-AM - Defensor Público|68": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2025 - DPE-AM - Defensor Público|69": {
+"ponto": "PC08.01",
+"assunto": "PC07"
+},
+"2025 - DPE-AM - Defensor Público|70": {
+"ponto": "PC03.03",
+"assunto": "PC06"
+},
+"2025 - DPE-AM - Defensor Público|71": {
+"ponto": "PC09.02",
+"assunto": "PC02"
+},
+"2025 - DPE-AM - Defensor Público|72": {
+"ponto": "PC09.03",
+"assunto": "PC09"
+},
+"2025 - DPE-AM - Defensor Público|73": {
+"ponto": "CA01.01",
+"assunto": "CA03"
+},
+"2025 - DPE-AM - Defensor Público|74": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2025 - DPE-AM - Defensor Público|75": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2025 - DPE-AM - Defensor Público|76": {
+"ponto": "CA02.05",
+"assunto": "CA02"
+},
+"2025 - DPE-AM - Defensor Público|77": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2025 - DPE-AM - Defensor Público|78": {
+"ponto": "CA02.03",
+"assunto": "CA02"
+},
+"2025 - DPE-AM - Defensor Público|79": {
+"ponto": "CA06.03",
+"assunto": "CA06"
+},
+"2025 - DPE-AM - Defensor Público|80": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2025 - DPE-RS - Defensor Público|11": {
+"ponto": "CO10.03",
+"assunto": "CO10"
+},
+"2025 - DPE-RS - Defensor Público|12": {
+"ponto": "CO08.02",
+"assunto": "CO08"
+},
+"2025 - DPE-RS - Defensor Público|13": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2025 - DPE-RS - Defensor Público|14": {
+"ponto": "CO11.04",
+"assunto": "CO11"
+},
+"2025 - DPE-RS - Defensor Público|15": {
+"ponto": "CO08.02",
+"assunto": "CO08"
+},
+"2025 - DPE-RS - Defensor Público|16": {
+"ponto": "CO11.04",
+"assunto": "CO11"
+},
+"2025 - DPE-RS - Defensor Público|17": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2025 - DPE-RS - Defensor Público|18": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2025 - DPE-RS - Defensor Público|19": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2025 - DPE-RS - Defensor Público|20": {
+"ponto": "CO06.01",
+"assunto": "CO10"
+},
+"2025 - DPE-RS - Defensor Público|21": {
+"ponto": "DH04.06",
+"assunto": "DH04"
+},
+"2025 - DPE-RS - Defensor Público|22": {
+"ponto": "DH10.03",
+"assunto": "DH04"
+},
+"2025 - DPE-RS - Defensor Público|23": {
+"ponto": "DH06.02",
+"assunto": "DH06"
+},
+"2025 - DPE-RS - Defensor Público|24": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2025 - DPE-RS - Defensor Público|25": {
+"ponto": "DH02.01",
+"assunto": "DH08"
+},
+"2025 - DPE-RS - Defensor Público|26": {
+"ponto": "DH04.06",
+"assunto": "DH04"
+},
+"2025 - DPE-RS - Defensor Público|27": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2025 - DPE-RS - Defensor Público|28": {
+"ponto": "CA03.03",
+"assunto": "CA06"
+},
+"2025 - DPE-RS - Defensor Público|29": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2025 - DPE-RS - Defensor Público|30": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2025 - DPE-RS - Defensor Público|31": {
+"ponto": "CA05.01",
+"assunto": "CA06"
+},
+"2025 - DPE-RS - Defensor Público|32": {
+"ponto": "PC07.02",
+"assunto": "PC07"
+},
+"2025 - DPE-RS - Defensor Público|33": {
+"ponto": "PC06.02",
+"assunto": "PC06"
+},
+"2025 - DPE-RS - Defensor Público|34": {
+"ponto": "PC02.03",
+"assunto": "PC02"
+},
+"2025 - DPE-RS - Defensor Público|35": {
+"ponto": "PC06.04",
+"assunto": "PC06"
+},
+"2025 - DPE-RS - Defensor Público|36": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2025 - DPE-RS - Defensor Público|37": {
+"ponto": "PC04.01",
+"assunto": "PC04"
+},
+"2025 - DPE-RS - Defensor Público|38": {
+"ponto": "PC08.02",
+"assunto": "PC06"
+},
+"2025 - DPE-RS - Defensor Público|39": {
+"ponto": "PC06.01",
+"assunto": "PC06"
+},
+"2025 - DPE-RS - Defensor Público|40": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2025 - DPE-RS - Defensor Público|41": {
+"ponto": "CV09.01",
+"assunto": "CV09"
+},
+"2025 - DPE-RS - Defensor Público|42": {
+"ponto": "CV09.03",
+"assunto": "CV09"
+},
+"2025 - DPE-RS - Defensor Público|43": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2025 - DPE-RS - Defensor Público|44": {
+"ponto": "CV08.01",
+"assunto": "CV08"
+},
+"2025 - DPE-RS - Defensor Público|45": {
+"ponto": "CV09.01",
+"assunto": "CV09"
+},
+"2025 - DPE-RS - Defensor Público|46": {
+"ponto": "CV10.04",
+"assunto": "CV10"
+},
+"2025 - DPE-RS - Defensor Público|47": {
+"ponto": "CV02.03",
+"assunto": "CV02"
+},
+"2025 - DPE-RS - Defensor Público|48": {
+"ponto": "CV04.01",
+"assunto": "CV04"
+},
+"2025 - DPE-RS - Defensor Público|49": {
+"ponto": "CV11.02",
+"assunto": "CV11"
+},
+"2025 - DPE-RS - Defensor Público|62": {
+"ponto": "PP07.02",
+"assunto": "PP07"
+},
+"2025 - DPE-RS - Defensor Público|63": {
+"ponto": "PP05.01",
+"assunto": "PP05"
+},
+"2025 - DPE-RS - Defensor Público|64": {
+"ponto": "PP03.02",
+"assunto": "PP03"
+},
+"2025 - DPE-RS - Defensor Público|65": {
+"ponto": "PP01.02",
+"assunto": "PP01"
+},
+"2025 - DPE-RS - Defensor Público|66": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2025 - DPE-RS - Defensor Público|67": {
+"ponto": "PP01.01",
+"assunto": "PP01"
+},
+"2025 - DPE-RS - Defensor Público|68": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2025 - DPE-RS - Defensor Público|69": {
+"ponto": "PP06.03",
+"assunto": "PP04"
+},
+"2025 - DPE-RS - Defensor Público|70": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2025 - DPE-RS - Defensor Público|86": {
+"ponto": "AD04.03",
+"assunto": "AD04"
+},
+"2025 - DPE-RS - Defensor Público|87": {
+"ponto": "AD10.01",
+"assunto": "AD10"
+},
+"2025 - DPE-RS - Defensor Público|88": {
+"ponto": "AD14.04",
+"assunto": "AD14"
+},
+"2025 - DPE-RS - Defensor Público|89": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2025 - DPE-RS - Defensor Público|90": {
+"ponto": "AD12.01",
+"assunto": "AD12"
+},
+"2025 - DPE-RS - Defensor Público|91": {
+"ponto": "AD14.01",
+"assunto": "AD14"
+},
+"2025 - DPE-RS - Defensor Público|92": {
+"ponto": "AD02.03",
+"assunto": "AD14"
+},
+"2025 - DPE-SP - Analista de Defensoria|1": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2025 - DPE-SP - Analista de Defensoria|2": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2025 - DPE-SP - Analista de Defensoria|3": {
+"ponto": "LP09.02",
+"assunto": "LP01"
+},
+"2025 - DPE-SP - Analista de Defensoria|4": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2025 - DPE-SP - Analista de Defensoria|5": {
+"ponto": "LP01.03",
+"assunto": "LP01"
+},
+"2025 - DPE-SP - Analista de Defensoria|6": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2025 - DPE-SP - Analista de Defensoria|7": {
+"ponto": "LP01.01",
+"assunto": "LP01"
+},
+"2025 - DPE-SP - Analista de Defensoria|8": {
+"ponto": "CO15.03",
+"assunto": "CO15"
+},
+"2025 - DPE-SP - Analista de Defensoria|9": {
+"ponto": "CO10.01",
+"assunto": "CO11"
+},
+"2025 - DPE-SP - Analista de Defensoria|10": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2025 - DPE-SP - Analista de Defensoria|11": {
+"ponto": "CO09.01",
+"assunto": "CO09"
+},
+"2025 - DPE-SP - Analista de Defensoria|12": {
+"ponto": "CO10.01",
+"assunto": "CO10"
+},
+"2025 - DPE-SP - Analista de Defensoria|13": {
+"ponto": "CO06.02",
+"assunto": "CO06"
+},
+"2025 - DPE-SP - Analista de Defensoria|14": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2025 - DPE-SP - Analista de Defensoria|15": {
+"ponto": "CO05.01",
+"assunto": "CO05"
+},
+"2025 - DPE-SP - Analista de Defensoria|16": {
+"ponto": "CO03.04",
+"assunto": "CO03"
+},
+"2025 - DPE-SP - Analista de Defensoria|17": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2025 - DPE-SP - Analista de Defensoria|18": {
+"ponto": "AD10.01",
+"assunto": "AD10"
+},
+"2025 - DPE-SP - Analista de Defensoria|19": {
+"ponto": "AD05.02",
+"assunto": "AD14"
+},
+"2025 - DPE-SP - Analista de Defensoria|20": {
+"ponto": "AD08.01",
+"assunto": "AD08"
+},
+"2025 - DPE-SP - Analista de Defensoria|21": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2025 - DPE-SP - Analista de Defensoria|22": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2025 - DPE-SP - Analista de Defensoria|26": {
+"ponto": "DH02.01",
+"assunto": "DH08"
+},
+"2025 - DPE-SP - Analista de Defensoria|27": {
+"ponto": "DH10.03",
+"assunto": "DH02"
+},
+"2025 - DPE-SP - Analista de Defensoria|28": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2025 - DPE-SP - Analista de Defensoria|29": {
+"ponto": "DH04.02",
+"assunto": "DH04"
+},
+"2025 - DPE-SP - Analista de Defensoria|30": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2025 - DPE-SP - Analista de Defensoria|31": {
+"ponto": "DH09.01",
+"assunto": "DH04"
+},
+"2025 - DPE-SP - Analista de Defensoria|32": {
+"ponto": "DH08.05",
+"assunto": "DH08"
+},
+"2025 - DPE-SP - Analista de Defensoria|33": {
+"ponto": "DH08.01",
+"assunto": "DH08"
+},
+"2025 - DPE-SP - Analista de Defensoria|35": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2025 - DPE-SP - Analista de Defensoria|36": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2025 - DPE-SP - Analista de Defensoria|37": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2025 - DPE-SP - Analista de Defensoria|38": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2025 - DPE-SP - Analista de Defensoria|39": {
+"ponto": "CA06.01",
+"assunto": "CA02"
+},
+"2025 - DPE-SP - Analista de Defensoria|40": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2025 - DPE-SP - Analista de Defensoria|41": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2025 - DPE-SP - Analista de Defensoria|42": {
+"ponto": "CA02.03",
+"assunto": "CA02"
+},
+"2025 - DPE-SP - Analista de Defensoria|43": {
+"ponto": "CA02.01",
+"assunto": "CA02"
+},
+"2025 - DPE-SP - Analista de Defensoria|44": {
+"ponto": "PE10.01",
+"assunto": "PE10"
+},
+"2025 - DPE-SP - Analista de Defensoria|45": {
+"ponto": "PE11.02",
+"assunto": "PE11"
+},
+"2025 - DPE-SP - Analista de Defensoria|46": {
+"ponto": "PE09.02",
+"assunto": "PE08"
+},
+"2025 - DPE-SP - Analista de Defensoria|47": {
+"ponto": "PE06.02",
+"assunto": "PE06"
+},
+"2025 - DPE-SP - Analista de Defensoria|48": {
+"ponto": "PE14.01",
+"assunto": "PE08"
+},
+"2025 - DPE-SP - Analista de Defensoria|49": {
+"ponto": "PE14.01",
+"assunto": "PE14"
+},
+"2025 - DPE-SP - Analista de Defensoria|50": {
+"ponto": "PE10.02",
+"assunto": "PE10"
+},
+"2025 - DPE-SP - Analista de Defensoria|51": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2025 - DPE-SP - Analista de Defensoria|52": {
+"ponto": "EX05.07",
+"assunto": "EX05"
+},
+"2025 - DPE-SP - Analista de Defensoria|53": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2025 - DPE-SP - Analista de Defensoria|54": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2025 - DPE-SP - Analista de Defensoria|55": {
+"ponto": "PP04.02",
+"assunto": "PP04"
+},
+"2025 - DPE-SP - Analista de Defensoria|56": {
+"ponto": "PP05.02",
+"assunto": "PP05"
+},
+"2025 - DPE-SP - Analista de Defensoria|57": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2025 - DPE-SP - Analista de Defensoria|58": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2025 - DPE-SP - Analista de Defensoria|59": {
+"ponto": "PP05.01",
+"assunto": "PP05"
+},
+"2025 - DPE-SP - Analista de Defensoria|60": {
+"ponto": "PP04.02",
+"assunto": "PP04"
+},
+"2025 - DPE-SP - Analista de Defensoria|61": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2025 - DPE-SP - Analista de Defensoria|62": {
+"ponto": "CV09.04",
+"assunto": "CV09"
+},
+"2025 - DPE-SP - Analista de Defensoria|63": {
+"ponto": "CV02.03",
+"assunto": "CV02"
+},
+"2025 - DPE-SP - Analista de Defensoria|64": {
+"ponto": "CV04.01",
+"assunto": "CV04"
+},
+"2025 - DPE-SP - Analista de Defensoria|66": {
+"ponto": "CV02.02",
+"assunto": "CV02"
+},
+"2025 - DPE-SP - Analista de Defensoria|67": {
+"ponto": "CV08.01",
+"assunto": "CV08"
+},
+"2025 - DPE-SP - Analista de Defensoria|68": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2025 - DPE-SP - Analista de Defensoria|69": {
+"ponto": "CV11.02",
+"assunto": "CV11"
+},
+"2025 - DPE-SP - Analista de Defensoria|70": {
+"ponto": "CV10.07",
+"assunto": "CV10"
+},
+"2025 - DPE-SP - Analista de Defensoria|71": {
+"ponto": "PC06.04",
+"assunto": "PC08"
+},
+"2025 - DPE-SP - Analista de Defensoria|72": {
+"ponto": "PC12.01",
+"assunto": "PC12"
+},
+"2025 - DPE-SP - Analista de Defensoria|73": {
+"ponto": "PC02.03",
+"assunto": "PC02"
+},
+"2025 - DPE-SP - Analista de Defensoria|74": {
+"ponto": "PC09.03",
+"assunto": "PC06"
+},
+"2025 - DPE-SP - Analista de Defensoria|75": {
+"ponto": "PC08.01",
+"assunto": "PC08"
+},
+"2025 - DPE-SP - Analista de Defensoria|76": {
+"ponto": "PC02.01",
+"assunto": "PC02"
+},
+"2025 - DPE-SP - Analista de Defensoria|77": {
+"ponto": "PC05.01",
+"assunto": "PC05"
+},
+"2025 - DPE-SP - Analista de Defensoria|78": {
+"ponto": "PC07.04",
+"assunto": "PC07"
+},
+"2025 - DPE-SP - Analista de Defensoria|79": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2025 - DPE-SP - Analista de Defensoria|80": {
+"ponto": "PI03.02",
+"assunto": "PI03"
+},
+"2025 - DPE-SP - Analista de Defensoria|81": {
+"ponto": "PI04.01",
+"assunto": "PI04"
+},
+"2025 - DPE-SP - Analista de Defensoria|82": {
+"ponto": "PI04.01",
+"assunto": "PI04"
+},
+"2025 - DPE-SP - Analista de Defensoria|83": {
+"ponto": "PI03.02",
+"assunto": "PI03"
+},
+"2025 - DPE-SP - Analista de Defensoria|84": {
+"ponto": "PI02.02",
+"assunto": "PI02"
+},
+"2025 - DPE-SP - Analista de Defensoria|85": {
+"ponto": "PI04.01",
+"assunto": "PI03"
+},
+"2025 - DPE-SP - Analista de Defensoria|86": {
+"ponto": "PI03.02",
+"assunto": "PI02"
+},
+"2025 - DPE-SP - Analista de Defensoria|87": {
+"ponto": "PI04.01",
+"assunto": "PI02"
+},
+"2025 - DPE-SP - Analista de Defensoria|88": {
+"ponto": "PI02.02",
+"assunto": "PI02"
+},
+"2025 - MPPI - Analista Ministerial|1": {
+"ponto": "LP04.01",
+"assunto": "LP04"
+},
+"2025 - MPPI - Analista Ministerial|2": {
+"ponto": "LP04.01",
+"assunto": "LP04"
+},
+"2025 - MPPI - Analista Ministerial|3": {
+"ponto": "LP04.01",
+"assunto": "LP04"
+},
+"2025 - MPPI - Analista Ministerial|4": {
+"ponto": "LP04.05",
+"assunto": "LP02"
+},
+"2025 - MPPI - Analista Ministerial|5": {
+"ponto": "LP01.04",
+"assunto": "LP02"
+},
+"2025 - MPPI - Analista Ministerial|6": {
+"ponto": "LP02.01",
+"assunto": "LP04"
+},
+"2025 - MPPI - Analista Ministerial|7": {
+"ponto": "LP05.01",
+"assunto": "LP05"
+},
+"2025 - MPPI - Analista Ministerial|8": {
+"ponto": "LP04.05",
+"assunto": "LP04"
+},
+"2025 - MPPI - Analista Ministerial|9": {
+"ponto": "LP05.02",
+"assunto": "LP05"
+},
+"2025 - MPPI - Analista Ministerial|10": {
+"ponto": "LP08.01",
+"assunto": "LP08"
+},
+"2025 - MPPI - Analista Ministerial|11": {
+"ponto": "LP08.01",
+"assunto": "LP08"
+},
+"2025 - MPPI - Analista Ministerial|12": {
+"ponto": "LP05.01",
+"assunto": "LP05"
+},
+"2025 - MPPI - Analista Ministerial|21": {
+"ponto": "CO10.01",
+"assunto": "CO10"
+},
+"2025 - MPPI - Analista Ministerial|22": {
+"ponto": "CO11.02",
+"assunto": "CO11"
+},
+"2025 - MPPI - Analista Ministerial|23": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2025 - MPPI - Analista Ministerial|24": {
+"ponto": "CO05.02",
+"assunto": "CO05"
+},
+"2025 - MPPI - Analista Ministerial|25": {
+"ponto": "CO10.01",
+"assunto": "CO10"
+},
+"2025 - MPPI - Analista Ministerial|26": {
+"ponto": "CO11.02",
+"assunto": "CO11"
+},
+"2025 - MPPI - Analista Ministerial|27": {
+"ponto": "CO10.03",
+"assunto": "CO06"
+},
+"2025 - MPPI - Analista Ministerial|28": {
+"ponto": "CO05.01",
+"assunto": "CO05"
+},
+"2025 - MPPI - Analista Ministerial|29": {
+"ponto": "AD14.01",
+"assunto": "AD14"
+},
+"2025 - MPPI - Analista Ministerial|30": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2025 - MPPI - Analista Ministerial|31": {
+"ponto": "PE14.10",
+"assunto": "PE14"
+},
+"2025 - MPPI - Analista Ministerial|32": {
+"ponto": "AD08.02",
+"assunto": "AD08"
+},
+"2025 - MPPI - Analista Ministerial|33": {
+"ponto": "AD10.01",
+"assunto": "AD10"
+},
+"2025 - MPPI - Analista Ministerial|34": {
+"ponto": "AD12.02",
+"assunto": "AD12"
+},
+"2025 - MPPI - Analista Ministerial|35": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2025 - MPPI - Analista Ministerial|36": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2025 - MPPI - Analista Ministerial|37": {
+"ponto": "PE11.01",
+"assunto": "PE11"
+},
+"2025 - MPPI - Analista Ministerial|38": {
+"ponto": "PE14.02",
+"assunto": "PE14"
+},
+"2025 - MPPI - Analista Ministerial|39": {
+"ponto": "PE11.01",
+"assunto": "PE10"
+},
+"2025 - MPPI - Analista Ministerial|40": {
+"ponto": "PE14.01",
+"assunto": "PE14"
+},
+"2025 - MPPI - Analista Ministerial|41": {
+"ponto": "PP06.03",
+"assunto": "PP04"
+},
+"2025 - MPPI - Analista Ministerial|42": {
+"ponto": "PP07.02",
+"assunto": "PP07"
+},
+"2025 - MPPI - Analista Ministerial|43": {
+"ponto": "PP07.02",
+"assunto": "PP07"
+},
+"2025 - MPPI - Analista Ministerial|44": {
+"ponto": "PP07.04",
+"assunto": "PP07"
+},
+"2025 - MPPI - Analista Ministerial|45": {
+"ponto": "CV06.01",
+"assunto": "CV10"
+},
+"2025 - MPPI - Analista Ministerial|46": {
+"ponto": "CV02.03",
+"assunto": "CV02"
+},
+"2025 - MPPI - Analista Ministerial|47": {
+"ponto": "CV04.01",
+"assunto": "CV09"
+},
+"2025 - MPPI - Analista Ministerial|48": {
+"ponto": "CV04.01",
+"assunto": "CV04"
+},
+"2025 - MPPI - Analista Ministerial|49": {
+"ponto": "CV04.01",
+"assunto": "CV10"
+},
+"2025 - MPPI - Analista Ministerial|50": {
+"ponto": "CV10.02",
+"assunto": "CV03"
+},
+"2025 - MPPI - Analista Ministerial|51": {
+"ponto": "CV10.07",
+"assunto": "CV10"
+},
+"2025 - MPPI - Analista Ministerial|52": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2025 - MPPI - Analista Ministerial|53": {
+"ponto": "PC04.01",
+"assunto": "PC09"
+},
+"2025 - MPPI - Analista Ministerial|54": {
+"ponto": "PC06.01",
+"assunto": "PC06"
+},
+"2025 - MPPI - Analista Ministerial|55": {
+"ponto": "PC06.05",
+"assunto": "PC06"
+},
+"2025 - MPPI - Analista Ministerial|56": {
+"ponto": "PC06.05",
+"assunto": "PC06"
+},
+"2025 - MPPI - Analista Ministerial|57": {
+"ponto": "PC07.04",
+"assunto": "PC07"
+},
+"2025 - MPPI - Analista Ministerial|58": {
+"ponto": "PC09.03",
+"assunto": "PC06"
+},
+"2025 - MPPI - Analista Ministerial|59": {
+"ponto": "PC09.01",
+"assunto": "PC09"
+},
+"2025 - MPPI - Analista Ministerial|60": {
+"ponto": "PC07.02",
+"assunto": "PC07"
+},
+"2026 - DPE-BA - Defensor Público|1": {
+"ponto": "DH03.03",
+"assunto": "DH03"
+},
+"2026 - DPE-BA - Defensor Público|2": {
+"ponto": "DH06.02",
+"assunto": "DH04"
+},
+"2026 - DPE-BA - Defensor Público|3": {
+"ponto": "DH01.03",
+"assunto": "DH10"
+},
+"2026 - DPE-BA - Defensor Público|4": {
+"ponto": "DH01.03",
+"assunto": "DH06"
+},
+"2026 - DPE-BA - Defensor Público|5": {
+"ponto": "DH02.03",
+"assunto": "DH02"
+},
+"2026 - DPE-BA - Defensor Público|6": {
+"ponto": "DH02.06",
+"assunto": "DH10"
+},
+"2026 - DPE-BA - Defensor Público|7": {
+"ponto": "DH06.04",
+"assunto": "DH02"
+},
+"2026 - DPE-BA - Defensor Público|8": {
+"ponto": "DH06.02",
+"assunto": "DH02"
+},
+"2026 - DPE-BA - Defensor Público|9": {
+"ponto": "CO03.06",
+"assunto": "CO03"
+},
+"2026 - DPE-BA - Defensor Público|10": {
+"ponto": "CO03.04",
+"assunto": "CO03"
+},
+"2026 - DPE-BA - Defensor Público|11": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2026 - DPE-BA - Defensor Público|12": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2026 - DPE-BA - Defensor Público|13": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2026 - DPE-BA - Defensor Público|14": {
+"ponto": "CO03.04",
+"assunto": "CO03"
+},
+"2026 - DPE-BA - Defensor Público|15": {
+"ponto": "CO05.02",
+"assunto": "CO03"
+},
+"2026 - DPE-BA - Defensor Público|16": {
+"ponto": "CO11.02",
+"assunto": "CO11"
+},
+"2026 - DPE-BA - Defensor Público|17": {
+"ponto": "AD05.02",
+"assunto": "AD05"
+},
+"2026 - DPE-BA - Defensor Público|18": {
+"ponto": "AD10.01",
+"assunto": "AD10"
+},
+"2026 - DPE-BA - Defensor Público|19": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2026 - DPE-BA - Defensor Público|20": {
+"ponto": "AD05.02",
+"assunto": "AD05"
+},
+"2026 - DPE-BA - Defensor Público|21": {
+"ponto": "PE04.04",
+"assunto": "PE04"
+},
+"2026 - DPE-BA - Defensor Público|22": {
+"ponto": "PE14.04",
+"assunto": "PE14"
+},
+"2026 - DPE-BA - Defensor Público|23": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2026 - DPE-BA - Defensor Público|24": {
+"ponto": "PE10.01",
+"assunto": "PE10"
+},
+"2026 - DPE-BA - Defensor Público|25": {
+"ponto": "PE07.04",
+"assunto": "PE08"
+},
+"2026 - DPE-BA - Defensor Público|26": {
+"ponto": "PE14.03",
+"assunto": "PE14"
+},
+"2026 - DPE-BA - Defensor Público|27": {
+"ponto": "PE04.04",
+"assunto": "PE04"
+},
+"2026 - DPE-BA - Defensor Público|28": {
+"ponto": "PE14.01",
+"assunto": "PE14"
+},
+"2026 - DPE-BA - Defensor Público|49": {
+"ponto": "PC07.01",
+"assunto": "PC07"
+},
+"2026 - DPE-BA - Defensor Público|50": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2026 - DPE-BA - Defensor Público|51": {
+"ponto": "PC09.03",
+"assunto": "PC09"
+},
+"2026 - DPE-BA - Defensor Público|52": {
+"ponto": "PC08.03",
+"assunto": "PC08"
+},
+"2026 - DPE-BA - Defensor Público|53": {
+"ponto": "PC07.01",
+"assunto": "PC07"
+},
+"2026 - DPE-BA - Defensor Público|54": {
+"ponto": "PC02.01",
+"assunto": "PC02"
+},
+"2026 - DPE-BA - Defensor Público|55": {
+"ponto": "PC02.02",
+"assunto": "PC06"
+},
+"2026 - DPE-BA - Defensor Público|56": {
+"ponto": "PC03.03",
+"assunto": "PC07"
+},
+"2026 - DPE-BA - Defensor Público|96": {
+"ponto": "DH04.05",
+"assunto": "DH06"
+},
+"2026 - DPE-BA - Defensor Público|97": {
+"ponto": "DH09.01",
+"assunto": "DH04"
+},
+"2026 - DPE-BA - Defensor Público|98": {
+"ponto": "DH08.05",
+"assunto": "DH08"
+},
+"2026 - DPE-BA - Defensor Público|99": {
+"ponto": "DH04.07",
+"assunto": "DH04"
+},
+"2026 - DPE-BA - Defensor Público|100": {
+"ponto": "DH08.10",
+"assunto": "DH08"
+},
+"2026 - DPE-MA - Defensor Público|1": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|2": {
+"ponto": "CO10.03",
+"assunto": "CO11"
+},
+"2026 - DPE-MA - Defensor Público|3": {
+"ponto": "CO10.03",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|4": {
+"ponto": "CO15.01",
+"assunto": "CO15"
+},
+"2026 - DPE-MA - Defensor Público|5": {
+"ponto": "CO03.04",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|6": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|7": {
+"ponto": "CO03.06",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|8": {
+"ponto": "CO03.06",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|9": {
+"ponto": "CO03.05",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|10": {
+"ponto": "CO03.06",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|11": {
+"ponto": "CO03.05",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|12": {
+"ponto": "CO10.03",
+"assunto": "CO10"
+},
+"2026 - DPE-MA - Defensor Público|13": {
+"ponto": "CO10.01",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|14": {
+"ponto": "CO03.05",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|15": {
+"ponto": "CO15.03",
+"assunto": "CO03"
+},
+"2026 - DPE-MA - Defensor Público|23": {
+"ponto": "AD04.03",
+"assunto": "AD04"
+},
+"2026 - DPE-MA - Defensor Público|24": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2026 - DPE-MA - Defensor Público|25": {
+"ponto": "AD05.01",
+"assunto": "AD05"
+},
+"2026 - DPE-MA - Defensor Público|26": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2026 - DPE-MA - Defensor Público|27": {
+"ponto": "AD07.02",
+"assunto": "AD07"
+},
+"2026 - DPE-MA - Defensor Público|28": {
+"ponto": "AD02.03",
+"assunto": "AD02"
+},
+"2026 - DPE-MA - Defensor Público|29": {
+"ponto": "AD14.02",
+"assunto": "AD05"
+},
+"2026 - DPE-MA - Defensor Público|30": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2026 - DPE-MA - Defensor Público|31": {
+"ponto": "AD15.02",
+"assunto": "AD15"
+},
+"2026 - DPE-MA - Defensor Público|33": {
+"ponto": "CV10.04",
+"assunto": "CV10"
+},
+"2026 - DPE-MA - Defensor Público|34": {
+"ponto": "CV11.02",
+"assunto": "CV11"
+},
+"2026 - DPE-MA - Defensor Público|35": {
+"ponto": "CV10.07",
+"assunto": "CV10"
+},
+"2026 - DPE-MA - Defensor Público|36": {
+"ponto": "CV04.03",
+"assunto": "CV04"
+},
+"2026 - DPE-MA - Defensor Público|37": {
+"ponto": "CV08.01",
+"assunto": "CV08"
+},
+"2026 - DPE-MA - Defensor Público|38": {
+"ponto": "CV07.01",
+"assunto": "CV07"
+},
+"2026 - DPE-MA - Defensor Público|39": {
+"ponto": "CV02.03",
+"assunto": "CV02"
+},
+"2026 - DPE-MA - Defensor Público|40": {
+"ponto": "CV09.01",
+"assunto": "CV09"
+},
+"2026 - DPE-MA - Defensor Público|41": {
+"ponto": "CV09.04",
+"assunto": "CV07"
+},
+"2026 - DPE-MA - Defensor Público|42": {
+"ponto": "CV02.02",
+"assunto": "CV02"
+},
+"2026 - DPE-MA - Defensor Público|47": {
+"ponto": "PC07.01",
+"assunto": "PC09"
+},
+"2026 - DPE-MA - Defensor Público|48": {
+"ponto": "PC02.03",
+"assunto": "PC02"
+},
+"2026 - DPE-MA - Defensor Público|49": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2026 - DPE-MA - Defensor Público|50": {
+"ponto": "PC06.05",
+"assunto": "PC07"
+},
+"2026 - DPE-MA - Defensor Público|51": {
+"ponto": "PC12.01",
+"assunto": "PC12"
+},
+"2026 - DPE-MA - Defensor Público|52": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2026 - DPE-MA - Defensor Público|53": {
+"ponto": "PC06.05",
+"assunto": "PC08"
+},
+"2026 - DPE-MA - Defensor Público|54": {
+"ponto": "PC06.02",
+"assunto": "PC06"
+},
+"2026 - DPE-MA - Defensor Público|55": {
+"ponto": "PC08.02",
+"assunto": "PC08"
+},
+"2026 - DPE-MA - Defensor Público|56": {
+"ponto": "PC07.03",
+"assunto": "PC06"
+},
+"2026 - DPE-MA - Defensor Público|64": {
+"ponto": "CA06.04",
+"assunto": "CA03"
+},
+"2026 - DPE-MA - Defensor Público|65": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2026 - DPE-MA - Defensor Público|66": {
+"ponto": "CA05.02",
+"assunto": "CA05"
+},
+"2026 - DPE-MA - Defensor Público|67": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2026 - DPE-MA - Defensor Público|90": {
+"ponto": "DH02.05",
+"assunto": "DH04"
+},
+"2026 - DPE-MA - Defensor Público|91": {
+"ponto": "DH08.03",
+"assunto": "DH10"
+},
+"2026 - DPE-MA - Defensor Público|92": {
+"ponto": "DH05.02",
+"assunto": "DH08"
+},
+"2026 - DPE-MA - Defensor Público|93": {
+"ponto": "DH04.09",
+"assunto": "DH08"
+},
+"2026 - DPE-MA - Defensor Público|94": {
+"ponto": "DH04.07",
+"assunto": "DH04"
+},
+"2026 - DPE-MA - Defensor Público|95": {
+"ponto": "DH08.09",
+"assunto": "DH04"
+},
+"2026 - DPE-MA - Defensor Público|96": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2026 - DPE-MA - Defensor Público|97": {
+"ponto": "DH08.10",
+"assunto": "DH08"
+},
+"2026 - DPE-MA - Defensor Público|98": {
+"ponto": "DH08.01",
+"assunto": "DH08"
+},
+"2026 - DPE-MA - Defensor Público|99": {
+"ponto": "DH04.05",
+"assunto": "DH04"
+},
+"2026 - DPE-MA - Defensor Público|100": {
+"ponto": "DH07.03",
+"assunto": "DH07"
+},
+"2026 - DPE-MT - Defensor Público|1": {
+"ponto": "CV10.03",
+"assunto": "CV01"
+},
+"2026 - DPE-MT - Defensor Público|2": {
+"ponto": "CV04.01",
+"assunto": "CV04"
+},
+"2026 - DPE-MT - Defensor Público|3": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2026 - DPE-MT - Defensor Público|4": {
+"ponto": "CV02.02",
+"assunto": "CV10"
+},
+"2026 - DPE-MT - Defensor Público|5": {
+"ponto": "CV10.02",
+"assunto": "CV10"
+},
+"2026 - DPE-MT - Defensor Público|6": {
+"ponto": "CV08.01",
+"assunto": "CV08"
+},
+"2026 - DPE-MT - Defensor Público|7": {
+"ponto": "CV09.04",
+"assunto": "CV09"
+},
+"2026 - DPE-MT - Defensor Público|8": {
+"ponto": "CV02.03",
+"assunto": "CV02"
+},
+"2026 - DPE-MT - Defensor Público|9": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2026 - DPE-MT - Defensor Público|10": {
+"ponto": "PC07.04",
+"assunto": "PC07"
+},
+"2026 - DPE-MT - Defensor Público|12": {
+"ponto": "PC03.04",
+"assunto": "PC03"
+},
+"2026 - DPE-MT - Defensor Público|14": {
+"ponto": "PC07.04",
+"assunto": "PC07"
+},
+"2026 - DPE-MT - Defensor Público|15": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2026 - DPE-MT - Defensor Público|16": {
+"ponto": "CV10.02",
+"assunto": "CV10"
+},
+"2026 - DPE-MT - Defensor Público|17": {
+"ponto": "PC06.04",
+"assunto": "PC06"
+},
+"2026 - DPE-MT - Defensor Público|18": {
+"ponto": "PC04.02",
+"assunto": "PC04"
+},
+"2026 - DPE-MT - Defensor Público|19": {
+"ponto": "CA03.04",
+"assunto": "CA03"
+},
+"2026 - DPE-MT - Defensor Público|20": {
+"ponto": "CA06.04",
+"assunto": "CA06"
+},
+"2026 - DPE-MT - Defensor Público|21": {
+"ponto": "CA07.02",
+"assunto": "CA07"
+},
+"2026 - DPE-MT - Defensor Público|22": {
+"ponto": "CA06.02",
+"assunto": "CA06"
+},
+"2026 - DPE-MT - Defensor Público|23": {
+"ponto": "CA03.03",
+"assunto": "CA04"
+},
+"2026 - DPE-MT - Defensor Público|34": {
+"ponto": "PE12.02",
+"assunto": "PE12"
+},
+"2026 - DPE-MT - Defensor Público|35": {
+"ponto": "PE08.02",
+"assunto": "PE08"
+},
+"2026 - DPE-MT - Defensor Público|36": {
+"ponto": "PE04.01",
+"assunto": "PE04"
+},
+"2026 - DPE-MT - Defensor Público|37": {
+"ponto": "PE04.01",
+"assunto": "PE06"
+},
+"2026 - DPE-MT - Defensor Público|38": {
+"ponto": "PE14.01",
+"assunto": "PE08"
+},
+"2026 - DPE-MT - Defensor Público|39": {
+"ponto": "PE12.02",
+"assunto": "PE12"
+},
+"2026 - DPE-MT - Defensor Público|40": {
+"ponto": "PE07.04",
+"assunto": "PE14"
+},
+"2026 - DPE-MT - Defensor Público|41": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2026 - DPE-MT - Defensor Público|42": {
+"ponto": "PE08.03",
+"assunto": "PE08"
+},
+"2026 - DPE-MT - Defensor Público|43": {
+"ponto": "PE07.04",
+"assunto": "PE11"
+},
+"2026 - DPE-MT - Defensor Público|44": {
+"ponto": "PP04.01",
+"assunto": "PP04"
+},
+"2026 - DPE-MT - Defensor Público|45": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2026 - DPE-MT - Defensor Público|46": {
+"ponto": "PP02.01",
+"assunto": "PP07"
+},
+"2026 - DPE-MT - Defensor Público|47": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2026 - DPE-MT - Defensor Público|48": {
+"ponto": "PP06.02",
+"assunto": "PP04"
+},
+"2026 - DPE-MT - Defensor Público|49": {
+"ponto": "PP06.02",
+"assunto": "PP06"
+},
+"2026 - DPE-MT - Defensor Público|50": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2026 - DPE-MT - Defensor Público|51": {
+"ponto": "PP04.02",
+"assunto": "PP04"
+},
+"2026 - DPE-MT - Defensor Público|52": {
+"ponto": "PP04.03",
+"assunto": "PP04"
+},
+"2026 - DPE-MT - Defensor Público|53": {
+"ponto": "PP05.01",
+"assunto": "PP05"
+},
+"2026 - DPE-MT - Defensor Público|68": {
+"ponto": "CO08.02",
+"assunto": "CO08"
+},
+"2026 - DPE-MT - Defensor Público|69": {
+"ponto": "CO14.01",
+"assunto": "CO14"
+},
+"2026 - DPE-MT - Defensor Público|70": {
+"ponto": "CO15.02",
+"assunto": "CO15"
+},
+"2026 - DPE-MT - Defensor Público|71": {
+"ponto": "CO06.03",
+"assunto": "CO06"
+},
+"2026 - DPE-MT - Defensor Público|72": {
+"ponto": "CO03.03",
+"assunto": "CO03"
+},
+"2026 - DPE-MT - Defensor Público|73": {
+"ponto": "CO05.02",
+"assunto": "CO05"
+},
+"2026 - DPE-MT - Defensor Público|74": {
+"ponto": "CO11.04",
+"assunto": "CO15"
+},
+"2026 - DPE-MT - Defensor Público|75": {
+"ponto": "CO11.02",
+"assunto": "CO11"
+},
+"2026 - DPE-MT - Defensor Público|76": {
+"ponto": "CO14.01",
+"assunto": "CO14"
+},
+"2026 - DPE-MT - Defensor Público|77": {
+"ponto": "AD05.02",
+"assunto": "AD14"
+},
+"2026 - DPE-MT - Defensor Público|78": {
+"ponto": "AD02.02",
+"assunto": "AD02"
+},
+"2026 - DPE-MT - Defensor Público|79": {
+"ponto": "AD12.02",
+"assunto": "AD12"
+},
+"2026 - DPE-MT - Defensor Público|80": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2026 - DPE-MT - Defensor Público|81": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2026 - DPE-MT - Defensor Público|84": {
+"ponto": "DH08.10",
+"assunto": "DH08"
+},
+"2026 - DPE-MT - Defensor Público|85": {
+"ponto": "DH06.02",
+"assunto": "DH06"
+},
+"2026 - DPE-MT - Defensor Público|86": {
+"ponto": "DH04.06",
+"assunto": "DH04"
+},
+"2026 - DPE-MT - Defensor Público|87": {
+"ponto": "DH02.05",
+"assunto": "DH04"
+},
+"2026 - DPE-MT - Defensor Público|88": {
+"ponto": "DH03.03",
+"assunto": "DH08"
+},
+"2026 - DPE-MT - Defensor Público|89": {
+"ponto": "DH08.10",
+"assunto": "DH08"
+},
+"2026 - DPE-MT - Defensor Público|90": {
+"ponto": "DH06.03",
+"assunto": "DH06"
+},
+"2026 - TJCE - Analista Judiciário|1": {
+"ponto": "LP05.03",
+"assunto": "LP05"
+},
+"2026 - TJCE - Analista Judiciário|2": {
+"ponto": "LP04.03",
+"assunto": "LP02"
+},
+"2026 - TJCE - Analista Judiciário|3": {
+"ponto": "LP02.01",
+"assunto": "LP02"
+},
+"2026 - TJCE - Analista Judiciário|4": {
+"ponto": "LP02.01",
+"assunto": "LP02"
+},
+"2026 - TJCE - Analista Judiciário|5": {
+"ponto": "LP05.03",
+"assunto": "LP05"
+},
+"2026 - TJCE - Analista Judiciário|6": {
+"ponto": "LP04.03",
+"assunto": "LP05"
+},
+"2026 - TJCE - Analista Judiciário|7": {
+"ponto": "LP05.03",
+"assunto": "LP05"
+},
+"2026 - TJCE - Analista Judiciário|8": {
+"ponto": "LP02.01",
+"assunto": "LP02"
+},
+"2026 - TJCE - Analista Judiciário|9": {
+"ponto": "LP04.01",
+"assunto": "LP02"
+},
+"2026 - TJCE - Analista Judiciário|10": {
+"ponto": "LP02.01",
+"assunto": "LP02"
+},
+"2026 - TJCE - Analista Judiciário|16": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2026 - TJCE - Analista Judiciário|17": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2026 - TJCE - Analista Judiciário|18": {
+"ponto": "DH08.04",
+"assunto": "DH08"
+},
+"2026 - TJCE - Analista Judiciário|21": {
+"ponto": "CO05.02",
+"assunto": "CO05"
+},
+"2026 - TJCE - Analista Judiciário|22": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2026 - TJCE - Analista Judiciário|23": {
+"ponto": "CO11.02",
+"assunto": "CO11"
+},
+"2026 - TJCE - Analista Judiciário|24": {
+"ponto": "CO03.02",
+"assunto": "CO05"
+},
+"2026 - TJCE - Analista Judiciário|25": {
+"ponto": "CO03.02",
+"assunto": "CO03"
+},
+"2026 - TJCE - Analista Judiciário|26": {
+"ponto": "CO04.02",
+"assunto": "CO04"
+},
+"2026 - TJCE - Analista Judiciário|27": {
+"ponto": "CO05.01",
+"assunto": "CO05"
+},
+"2026 - TJCE - Analista Judiciário|28": {
+"ponto": "CO05.01",
+"assunto": "CO05"
+},
+"2026 - TJCE - Analista Judiciário|29": {
+"ponto": "AD14.04",
+"assunto": "AD14"
+},
+"2026 - TJCE - Analista Judiciário|30": {
+"ponto": "AD06.01",
+"assunto": "AD06"
+},
+"2026 - TJCE - Analista Judiciário|31": {
+"ponto": "AD11.01",
+"assunto": "AD11"
+},
+"2026 - TJCE - Analista Judiciário|32": {
+"ponto": "AD08.02",
+"assunto": "AD08"
+},
+"2026 - TJCE - Analista Judiciário|33": {
+"ponto": "AD14.01",
+"assunto": "AD14"
+},
+"2026 - TJCE - Analista Judiciário|34": {
+"ponto": "AD03.02",
+"assunto": "AD14"
+},
+"2026 - TJCE - Analista Judiciário|35": {
+"ponto": "AD14.04",
+"assunto": "AD06"
+},
+"2026 - TJCE - Analista Judiciário|36": {
+"ponto": "PE14.10",
+"assunto": "PE14"
+},
+"2026 - TJCE - Analista Judiciário|37": {
+"ponto": "CV04.01",
+"assunto": "CV09"
+},
+"2026 - TJCE - Analista Judiciário|38": {
+"ponto": "CV09.04",
+"assunto": "CV09"
+},
+"2026 - TJCE - Analista Judiciário|39": {
+"ponto": "CV05.01",
+"assunto": "CV07"
+},
+"2026 - TJCE - Analista Judiciário|40": {
+"ponto": "CV10.06",
+"assunto": "CV09"
+},
+"2026 - TJCE - Analista Judiciário|41": {
+"ponto": "CV10.06",
+"assunto": "CV10"
+},
+"2026 - TJCE - Analista Judiciário|42": {
+"ponto": "CV11.02",
+"assunto": "CV10"
+},
+"2026 - TJCE - Analista Judiciário|43": {
+"ponto": "CV09.03",
+"assunto": "CV09"
+},
+"2026 - TJCE - Analista Judiciário|44": {
+"ponto": "PC04.01",
+"assunto": "PC06"
+},
+"2026 - TJCE - Analista Judiciário|45": {
+"ponto": "PC10.01",
+"assunto": "PC08"
+},
+"2026 - TJCE - Analista Judiciário|46": {
+"ponto": "PC03.01",
+"assunto": "PC03"
+},
+"2026 - TJCE - Analista Judiciário|47": {
+"ponto": "PC06.02",
+"assunto": "PC06"
+},
+"2026 - TJCE - Analista Judiciário|48": {
+"ponto": "PC02.01",
+"assunto": "PC06"
+},
+"2026 - TJCE - Analista Judiciário|49": {
+"ponto": "PC07.01",
+"assunto": "PC07"
+},
+"2026 - TJCE - Analista Judiciário|50": {
+"ponto": "PC03.03",
+"assunto": "PC03"
+},
+"2026 - TJCE - Analista Judiciário|51": {
+"ponto": "PE12.02",
+"assunto": "PE12"
+},
+"2026 - TJCE - Analista Judiciário|52": {
+"ponto": "PE09.02",
+"assunto": "PE09"
+},
+"2026 - TJCE - Analista Judiciário|53": {
+"ponto": "PE11.02",
+"assunto": "PE11"
+},
+"2026 - TJCE - Analista Judiciário|54": {
+"ponto": "PE12.02",
+"assunto": "PE12"
+},
+"2026 - TJCE - Analista Judiciário|55": {
+"ponto": "PE08.06",
+"assunto": "PE08"
+},
+"2026 - TJCE - Analista Judiciário|56": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2026 - TJCE - Analista Judiciário|57": {
+"ponto": "PP07.01",
+"assunto": "PP04"
+},
+"2026 - TJCE - Analista Judiciário|58": {
+"ponto": "PP07.03",
+"assunto": "PP07"
+},
+"2026 - TJCE - Analista Judiciário|59": {
+"ponto": "PP09.01",
+"assunto": "PP09"
+},
+"2026 - TJCE - Analista Judiciário|60": {
+"ponto": "PP07.02",
+"assunto": "PP07"
+}
+}
+}

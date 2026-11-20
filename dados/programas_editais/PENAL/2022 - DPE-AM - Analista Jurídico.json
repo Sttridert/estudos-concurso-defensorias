@@ -1,0 +1,123 @@
+{
+ "pasta": "2022 - DPE-AM - Analista Jurídico",
+ "banca": "FCC",
+ "disciplina": "PENAL",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PENAL",
+   "caracteres": 2043,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito penal: conceito, fontes, objetivos.",
+      "Princípios penais.",
+      "Direito penal e poder punitivo.",
+      "Genealogia do pensamento penal.",
+      "As escolas penais.",
+      "Modernas tendências do pensamento penal.",
+      "Evolução histórica do Direito Penal.",
+      "História do processo de criminalização no Brasil."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Política criminal e penitenciária no Brasil.",
+      "As escolas criminológicas.",
+      "Sistema penal e controle social.",
+      "Processo de criminalização.",
+      "Vitimologia e vitimização.",
+      "Polícia e Sistema Penal.",
+      "O encarceramento no Brasil: dados e perspectivas.",
+      "O sistema penal brasileiro.",
+      "Modernas tendências do pensamento criminológico e de política criminal.",
+      "Mídia e sistema penal.",
+      "Prisão: prisonização e relações de poder penitenciárias.",
+      "Análises criminológicas concretas."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Constituição e Direito Penal.",
+      "O Direito Penal e o Estado Democrático de Direito.",
+      "Direito Penal e Direitos Humanos.",
+      "Direitos humanos e processo de criminalização.",
+      "Aplicação e interpretação da lei penal."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Teoria do delito: evolução histórica, elementos do crime.",
+      "Bem jurídico-penal.",
+      "Modernas tendências da teoria do delito."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Tipicidade: tipo penal, conduta (ação e omissão), nexo de causalidade, resultado.",
+      "Iter criminis.",
+      "Desistência voluntária e arrependimento eficaz.",
+      "Dolo.",
+      "Culpa.",
+      "Imputação objetiva."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Ilicitude: conceito.",
+      "O injusto penal.",
+      "Direito Penal e moral.",
+      "Excludentes da ilicitude."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Culpabilidade: conceito, evolução histórica, estrutura.",
+      "Princípio da culpabilidade.",
+      "Culpabilidade e liberdade.",
+      "Culpabilidade e periculosidade.",
+      "Culpabilidade e vulnerabilidade.",
+      "Direito Penal do fato e Direito Penal do autor.",
+      "Imputabilidade.",
+      "Inexigibilidade de conduta diversa.",
+      "Excludentes da culpabilidade."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Arrependimento posterior.",
+      "Crime impossível.",
+      "Concurso de agentes.",
+      "Erro no Direito Penal.",
+      "Punibilidade.",
+      "Concurso de crimes."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Pena: evolução histórica, espécies, aplicação.",
+      "Teorias da pena.",
+      "Modernas tendências das teorias da pena.",
+      "Circunstâncias Judiciais.",
+      "Agravantes e Atenuantes.",
+      "Causas de Aumento e de Diminuição.",
+      "Cálculo da Pena.",
+      "Extinção da punibilidade.",
+      "Suspensão condicional da pena.",
+      "Reabilitação."
+     ]
+    }
+   ]
+  }
+ ]
+}

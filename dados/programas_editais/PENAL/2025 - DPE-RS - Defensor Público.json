@@ -1,0 +1,514 @@
+{
+ "pasta": "2025 - DPE-RS - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PENAL",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PENAL E CRIMINOLOGIA",
+   "caracteres": 3137,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Missão e limites do direito penal."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Princípios de direito penal."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Ofensividade em direito penal e teoria do bem jurídico."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Lei penal."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Teoria e aplicação da lei penal no tempo e no espaço."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Interpretação da lei penal."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Lei penal e prerrogativas funcionais."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Concurso de normas penais."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "Revogação da lei penal."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Responsabilidade penal."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Autoria e participação."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Concurso de pessoas."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Circunstâncias incomunicáveis."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Casos de impunibilidade."
+     ]
+    },
+    {
+     "item": "3.5",
+     "frases": [
+      "Responsabilização penal de pessoas físicas e jurídicas."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Teoria geral e estrutura analítica do crime."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Conceitos, elementos e classificações dos crimes."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Conduta punível"
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Ação e omissão."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Relação de causalidade."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "Imputação objetiva."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Resultado."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Consumação e tentativa."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "Crime impossível."
+     ]
+    },
+    {
+     "item": "5.7",
+     "frases": [
+      "Desistência voluntária."
+     ]
+    },
+    {
+     "item": "5.8",
+     "frases": [
+      "Arrependimento eficaz."
+     ]
+    },
+    {
+     "item": "5.9",
+     "frases": [
+      "Arrependimento posterior."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Tipicidade."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Tipicidade e Excludentes da tipicidade."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Ilicitude."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Ilicitude e Excludentes da ilicitude."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Culpabilidade."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Culpabilidade e Excludentes da culpabilidade."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Estrutura jurídica do erro e aplicação em direito penal."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Erro de tipo."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Erro de proibição."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Descriminantes putativas."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Concurso de crimes."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Pena criminal."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Teorias da pena."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Espécies de pena: privativas de liberdade, restritivas de direitos e pecuniárias."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "Limite das penas."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Isenção de pena."
+     ]
+    },
+    {
+     "item": "11.5",
+     "frases": [
+      "Extinção da punibilidade."
+     ]
+    },
+    {
+     "item": "11.6",
+     "frases": [
+      "Cominação e aplicação."
+     ]
+    },
+    {
+     "item": "11.7",
+     "frases": [
+      "Cálculo da pena: definição da pena-base, circunstâncias agravantes e atenuantes, causas de aumento e diminuição."
+     ]
+    },
+    {
+     "item": "11.8",
+     "frases": [
+      "Fixação de regimes de execução da pena privativa de liberdade."
+     ]
+    },
+    {
+     "item": "11.9",
+     "frases": [
+      "Substituição da pena privativa de liberdade por penas restritivas de direitos."
+     ]
+    },
+    {
+     "item": "11.10",
+     "frases": [
+      "Fixação de valor mínimo para reparação dos danos causados pela infração."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Justiça penal negocial."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Direitos e benefícios penais."
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "Sanções premiais."
+     ]
+    },
+    {
+     "item": "12.4",
+     "frases": [
+      "Cominação e aplicação."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Suspensão condicional da pena."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Livramento condicional."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Medida de segurança."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Condenação."
+     ]
+    },
+    {
+     "item": "16.1",
+     "frases": [
+      "Efeitos da condenação."
+     ]
+    },
+    {
+     "item": "16.2",
+     "frases": [
+      "Reabilitação."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Ação penal."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Crimes contra a pessoa."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Crimes contra o patrimônio."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Crimes contra a propriedade imaterial."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Crimes contra o sentimento religioso e contra o respeito aos mortos."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Crimes contra a dignidade sexual."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Crimes contra a família."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Crimes contra a incolumidade pública."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Crimes contra a paz pública."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Crimes contra a fé pública."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Crimes contra a administração pública."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Legislação penal extravagante."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Jurisprudência sobre os temas de Direito Penal."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Evolução do Direito Penal."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Tratados Internacionais de Direitos Humanos e Direito Penal."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "O Direito Penal no Estado de Exceção e no Estado Democrático de Direito."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Criminologia."
+     ]
+    },
+    {
+     "item": "33.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "33.2",
+     "frases": [
+      "Escolas históricas."
+     ]
+    },
+    {
+     "item": "33.3",
+     "frases": [
+      "Causas, atores e efeitos do fenômeno criminal."
+     ]
+    },
+    {
+     "item": "33.4",
+     "frases": [
+      "Objeto e finalidade do estudo da ciência criminal."
+     ]
+    },
+    {
+     "item": "33.5",
+     "frases": [
+      "Espécies de ciências penais e suas distinções."
+     ]
+    },
+    {
+     "item": "33.6",
+     "frases": [
+      "Criminologia e política criminal.34.",
+      "Jurisprudência e Enunciados de Súmulas do Supremo Tribunal Federal, do Superior Tribunal de Justiça e do Tribunal de Justiça do Estado do Rio Grande do Sul."
+     ]
+    }
+   ]
+  }
+ ]
+}

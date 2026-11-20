@@ -1,0 +1,860 @@
+{
+ "pasta": "2025 - DPE-RS - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "DH",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITOS HUMANOS E GRUPOS VULNERABILIZADOS",
+   "caracteres": 12231,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito internacional dos direitos humanos."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Origem, sentido e evolução histórica dos direitos humanos."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Fundamentos filosóficos dos direitos humanos."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Dignidade da pessoa humana e princípio pro homine."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Fontes, classificação, princípios, características, gerações e dimensões dos direitos humanos."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Interpretação dos tratados internacionais e das regras de direitos humanos."
+     ]
+    },
+    {
+     "item": "1.6",
+     "frases": [
+      "Resolução de conflitos ante a colisão de direitos humanos."
+     ]
+    },
+    {
+     "item": "1.7",
+     "frases": [
+      "A responsabilidade internacional por violação dos direitos humanos: tratados internacionais de direitos humanos e as obrigações assumidas pelo Brasil, formas de reparação e sanções coletivas e unilaterais."
+     ]
+    },
+    {
+     "item": "1.8",
+     "frases": [
+      "A vigência e eficácia das normas do direito internacional dos direitos humanos.",
+      "1.8.1 – Soft law."
+     ]
+    },
+    {
+     "item": "1.9",
+     "frases": [
+      "Possibilidades de aposição de reservas e de oferecer denúncias relativas aos tratados internacionais de direitos humanos."
+     ]
+    },
+    {
+     "item": "1.10",
+     "frases": [
+      "A incorporação dos tratados internacionais de proteção de direitos humanos ao direito brasileiro.",
+      "Bloco de constitucionalidade."
+     ]
+    },
+    {
+     "item": "1.11",
+     "frases": [
+      "A posição hierárquica dos tratados internacionais de direitos humanos em face da Constituição brasileira."
+     ]
+    },
+    {
+     "item": "1.12",
+     "frases": [
+      "Controle de convencionalidade."
+     ]
+    },
+    {
+     "item": "1.12.1",
+     "frases": [
+      "Definição e Conceito.",
+      "Precedentes.",
+      "Controle externo (internacional e controle interamericano)."
+     ]
+    },
+    {
+     "item": "1.12.2",
+     "frases": [
+      "Fundamentos Jurídicos.",
+      "Práxis brasileira de controle de convencionalidade.",
+      "Modalidade de controles.",
+      "Estado de coisas inconvencional.",
+      "STF e controle de convencionalidade: jurisprudência.",
+      "Soft law.",
+      "Diálogo de Cortes.",
+      "Diálogo de Fontes."
+     ]
+    },
+    {
+     "item": "1.13",
+     "frases": [
+      "Execução de decisões oriundas de tribunais internacionais de direitos humanos no Brasil."
+     ]
+    },
+    {
+     "item": "1.14",
+     "frases": [
+      "Recomendação 123/2022 do CNJ."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "O sistema internacional de proteção e promoção dos direitos humanos: Organização das Nações Unidas (ONU).",
+      "Declarações, tratados, resoluções, comentários gerais, relatórios e normas de organização e funcionamento dos órgãos de supervisão, fiscalização e controle."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Órgãos convencionais e extraconvencionais."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Declaração Universal dos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Pacto Internacional dos Direitos Civis e Políticos (PIDCP)."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "Segundo Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos visando à abolição da pena de morte."
+     ]
+    },
+    {
+     "item": "2.6",
+     "frases": [
+      "Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (PIDESC)."
+     ]
+    },
+    {
+     "item": "2.7",
+     "frases": [
+      "Protocolo Facultativo ao Pacto Internacional de Direitos Econômicos, Sociais e Culturais."
+     ]
+    },
+    {
+     "item": "2.8",
+     "frases": [
+      "Convenção para a Prevenção e Punição ao Crime de Genocídio."
+     ]
+    },
+    {
+     "item": "2.9",
+     "frases": [
+      "Convenção Relativa ao Estatuto dos Refugiados."
+     ]
+    },
+    {
+     "item": "2.10",
+     "frases": [
+      "Protocolo sobre o Estatuto dos Refugiados."
+     ]
+    },
+    {
+     "item": "2.11",
+     "frases": [
+      "Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial."
+     ]
+    },
+    {
+     "item": "2.12",
+     "frases": [
+      "Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher."
+     ]
+    },
+    {
+     "item": "2.13",
+     "frases": [
+      "Protocolo Facultativo à Convenção sobre a Eliminação de todas as Formas de Discriminação contra a Mulher."
+     ]
+    },
+    {
+     "item": "2.14",
+     "frases": [
+      "Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes."
+     ]
+    },
+    {
+     "item": "2.15",
+     "frases": [
+      "Protocolo Facultativo à Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes."
+     ]
+    },
+    {
+     "item": "2.16",
+     "frases": [
+      "Estatuto de Roma sobre Tribunal Penal Internacional."
+     ]
+    },
+    {
+     "item": "2.17",
+     "frases": [
+      "Convenção sobre os Direitos da Pessoa com Deficiência."
+     ]
+    },
+    {
+     "item": "2.18",
+     "frases": [
+      "Protocolo Facultativo à Convenção sobre os Direitos da Pessoa com Deficiência."
+     ]
+    },
+    {
+     "item": "2.19",
+     "frases": [
+      "Convenção Internacional sobre a Proteção dos Direitos de Todos os Trabalhadores Migrantes e dos Membros das suas Famílias."
+     ]
+    },
+    {
+     "item": "2.20",
+     "frases": [
+      "Convenção Internacional para a Proteção de Todas as Pessoas Contra o Desaparecimento Forçado."
+     ]
+    },
+    {
+     "item": "2.21",
+     "frases": [
+      "Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Sistema Regional Interamericano de Proteção aos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Organização dos Estados Americanos (OEA): declarações, tratados, resoluções, relatórios, informes, pareceres, jurisprudência (contenciosa e consultiva da Corte Interamericana de Direitos Humanos), normas de organização e funcionamento dos órgãos de supervisão, fiscalização e controle."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Comissão Interamericana de Direitos Humanos: relatórios de casos, medidas cautelares, relatórios anuais e relatoria para a liberdade de expressão."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Corte Interamericana de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Declaração Americana dos Direitos e Deveres do Homem."
+     ]
+    },
+    {
+     "item": "3.5",
+     "frases": [
+      "Convenção Americana de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "3.6",
+     "frases": [
+      "Protocolo adicional à Convenção Americana sobre Direitos Humanos em matéria de direitos econômicos, sociais e culturais — “Protocolo de San Salvador”."
+     ]
+    },
+    {
+     "item": "3.7",
+     "frases": [
+      "Convenção Interamericana para Prevenir e Punir a Tortura."
+     ]
+    },
+    {
+     "item": "3.8",
+     "frases": [
+      "Protocolo à Convenção Americana sobre Direitos Humanos relativo à Abolição da Pena de Morte."
+     ]
+    },
+    {
+     "item": "3.9",
+     "frases": [
+      "Convenção Interamericana para Prevenir, Punir e Erradicar a Violência contra a Mulher."
+     ]
+    },
+    {
+     "item": "3.10",
+     "frases": [
+      "Convenção Interamericana sobre o Desaparecimento Forçado de Pessoas."
+     ]
+    },
+    {
+     "item": "3.11",
+     "frases": [
+      "Convenção Interamericana sobre a Eliminação de Todas as Formas de Discriminação contra Pessoas Portadoras de Deficiência."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Direitos humanos e acesso à justiça: o dever dos Estados de promover o acesso à justiça."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Regras de Brasília."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Desenvolvimentos no âmbito da Organização dos Estados Americanos relacionados à Defensoria Pública."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Padrões interamericanos para uma defesa eficaz e diligente."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "A responsabilidade internacional pelas deficiências da defesa pública."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Defensor Interamericano."
+     ]
+    },
+    {
+     "item": "4.6",
+     "frases": [
+      "Direitos Humanos no contexto pandêmico."
+     ]
+    },
+    {
+     "item": "4.7",
+     "frases": [
+      "Direitos humanos e direitos socioambientais."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Mecanismos de proteção aos direitos humanos na Constituição da República do Brasil."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Federalização de crimes contra os direitos humanos."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Ações constitucionais."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "A proteção penal dos direitos humanos."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Reflexos do direito internacional dos direitos humanos no direito brasileiro."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Programa Nacional de Direitos Humanos I, II e III."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "Comissão Nacional da Verdade: histórico, atribuições e legislação.",
+      "Justiça de transição, direito à verdade, à memória, à reparação e à reforma institucional."
+     ]
+    },
+    {
+     "item": "5.7",
+     "frases": [
+      "Direitos humanos e direito penal e processual Penal."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Direitos Humanos em espécie e grupos vulneráveis – Mulheres."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Lei Maria da Penha (Lei nº 11.340/2006)."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Gênero; violência de gênero; violência contra as mulheres."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Formas de violência doméstica e familiar contra a mulher."
+     ]
+    },
+    {
+     "item": "6.4",
+     "frases": [
+      "Medidas protetivas às vítimas de violência doméstica e familiar."
+     ]
+    },
+    {
+     "item": "6.5",
+     "frases": [
+      "Atendimento obrigatório e integral de pessoas em situação de violência sexual (Lei nº 12.845/2013)."
+     ]
+    },
+    {
+     "item": "6.6",
+     "frases": [
+      "Violência obstétrica."
+     ]
+    },
+    {
+     "item": "6.7",
+     "frases": [
+      "Diretrizes Nacionais para o Abrigamento de Mulheres em Situação de Risco e de Violência."
+     ]
+    },
+    {
+     "item": "6.8",
+     "frases": [
+      "Rede de Enfrentamento à Violência contra as Mulheres e Rede de Atendimento à Mulher em Situação de Violência."
+     ]
+    },
+    {
+     "item": "6.9",
+     "frases": [
+      "Política Nacional de Enfrentamento à Violência contra as Mulheres."
+     ]
+    },
+    {
+     "item": "6.10",
+     "frases": [
+      "Feminismos; teorias, história e divisão sexual do trabalho."
+     ]
+    },
+    {
+     "item": "6.11",
+     "frases": [
+      "Tratados internacionais e jurisprudência internacional de direitos humanos dos sistemas internacional e interamericano correlatos."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Direitos Humanos em espécie e grupos vulneráveis- População negra."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Estatuto da Igualdade Racial (Lei nº 12.288/2010)."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Crimes resultantes de raça ou de cor (Lei nº 7.716/1989)."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Sistema Nacional de Promoção da Igualdade Racial (Decreto nº 8.136/2013)."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Racismos individual, institucional e estrutural."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Ações afirmativas."
+     ]
+    },
+    {
+     "item": "7.6",
+     "frases": [
+      "Comunidades tradicionais."
+     ]
+    },
+    {
+     "item": "7.7",
+     "frases": [
+      "Comunidades quilombolas."
+     ]
+    },
+    {
+     "item": "7.8",
+     "frases": [
+      "Intolerância religiosa e religiões de matriz africana."
+     ]
+    },
+    {
+     "item": "7.9",
+     "frases": [
+      "Discriminação racial, raça, história, regime escravocrata, criminalização da população negra, letalidade policial, encarceramento, taxa de homicídios, biopolítica."
+     ]
+    },
+    {
+     "item": "7.10",
+     "frases": [
+      "Tratados internacionais e jurisprudência internacional de direitos humanos dos sistemas internacional e interamericano correlatos."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Direitos Humanos em espécie e grupos vulneráveis- Idoso."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Estatuto do Idoso (Lei nº 10.741/2003)."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Plano de Ação para o Enfrentamento da Violência Contra Pessoa Idosa."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Carta de São José sobre os Direitos dos Idosos da América Latina e Caribe."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Benefício de amparo social ao idoso."
+     ]
+    },
+    {
+     "item": "8.5",
+     "frases": [
+      "Tratados internacionais e jurisprudência internacional de direitos humanos dos sistemas internacional e interamericano correlatos."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Direitos Humanos em espécie e grupos vulneráveis- Pessoa com deficiência."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Estatuto da Pessoa com Deficiência (Lei 13.146/2015)."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Benefício de amparo social à pessoa com deficiência."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Passe livre às pessoas com deficiência no sistema de transporte coletivo interestadual (Lei nº 8.899/1994)."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Acessibilidade (Lei nº 10.098, de 19 de dezembro de 2000)."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista (Lei nº 12.764/2012)."
+     ]
+    },
+    {
+     "item": "9.6",
+     "frases": [
+      "Lei 10.216/2001."
+     ]
+    },
+    {
+     "item": "9.7",
+     "frases": [
+      "Resolução 487/2023 do CNJ."
+     ]
+    },
+    {
+     "item": "9.8",
+     "frases": [
+      "Tratados internacionais e jurisprudência internacional de direitos humanos dos sistemas internacional e interamericano correlatos."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Direitos Humanos em espécie e grupos vulneráveis- Pessoas em situação de rua"
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Política Nacional para a População em Situação de Rua (Decreto Federal nº 7.053/2009)."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Lei Orgânica de Assistência Social (Lei nº 8.742/1992)."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Registro tardio de nascimento (Lei nº 6.015/1973 e Provimento nº 28 do Conselho Nacional de Justiça)."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Internação voluntária, internação involuntária e internação compulsória."
+     ]
+    },
+    {
+     "item": "10.5",
+     "frases": [
+      "Lei 10.216/2001."
+     ]
+    },
+    {
+     "item": "10.6",
+     "frases": [
+      "Tratados internacionais e jurisprudência internacional de direitos humanos dos sistemas internacional e interamericano correlatos."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Direitos Humanos em espécie e grupos vulneráveis- LGBTQIA+ (lésbicas, gays, bissexuais, travestis, transexuais, transgêneros, pessoas intersexo, assexuais e demais orientações sexuais e identidades de gênero)."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Identidade de gênero."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Orientação sexual."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "Retificação de registro de nascimento quanto ao nome e sexo de transgênero."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Nome social e uso de banheiro nas escolas (Resolução nº 12/2015 — Conselho Nacional de Combate à Discriminação LGBT)."
+     ]
+    },
+    {
+     "item": "11.5",
+     "frases": [
+      "Violência contra a população LGBTQIA+ e responsabilidade penal."
+     ]
+    },
+    {
+     "item": "11.6",
+     "frases": [
+      "Princípios de Yogyakarta."
+     ]
+    },
+    {
+     "item": "11.7",
+     "frases": [
+      "Resolução 01/2014, do Conselho Nacional de Política Criminal e Penitenciária em Conjunto com o Conselho Nacional de Combate à Discriminação."
+     ]
+    },
+    {
+     "item": "11.8",
+     "frases": [
+      "ADI 4.275/STF."
+     ]
+    },
+    {
+     "item": "11.9",
+     "frases": [
+      "Resolução 348/2020, do Conselho Nacional de Justiça."
+     ]
+    },
+    {
+     "item": "11.10",
+     "frases": [
+      "Tratados internacionais e jurisprudência internacional de direitos humanos dos sistemas internacional e interamericano correlatos."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Direitos Humanos em espécie e grupos vulneráveis- pessoas em situação de rua, população sem-terra, povos indígenas, migrantes e refugiados."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Estatuto da Cidade (Lei nº 10.257/2001)."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Regularização Fundiária Urbana."
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "Provimento do CNJ nº 44, de 18 de março de 2015."
+     ]
+    },
+    {
+     "item": "12.4",
+     "frases": [
+      "Programa Minha Casa, Minha Vida (Lei nº 11.977/2009)."
+     ]
+    },
+    {
+     "item": "12.5",
+     "frases": [
+      "Prevenção e mediação de conflitos agrários."
+     ]
+    },
+    {
+     "item": "12.6",
+     "frases": [
+      "Plano Nacional de Combate à Violência no Campo."
+     ]
+    },
+    {
+     "item": "12.7",
+     "frases": [
+      "Diretrizes nacionais para execução de mandados judiciais de manutenção e reintegração de posse coletiva."
+     ]
+    },
+    {
+     "item": "12.8",
+     "frases": [
+      "Estatuto do Índio (Lei nº 6.001/73)."
+     ]
+    },
+    {
+     "item": "12.9",
+     "frases": [
+      "Convenção nº 169 da Organização Internacional do Trabalho (OIT) sobre povos indígenas e tribais."
+     ]
+    },
+    {
+     "item": "12.10",
+     "frases": [
+      "Violência contra indígenas."
+     ]
+    },
+    {
+     "item": "12.11",
+     "frases": [
+      "Refugiados (Lei nº 9.474, de 22 de julho de 1997)."
+     ]
+    },
+    {
+     "item": "12.12",
+     "frases": [
+      "Tratados internacionais e jurisprudência internacional de direitos humanos dos sistemas internacional e interamericano correlatos.13 Direitos Humanos em espécie e grupos vulneráveis – discriminação aos moradores de vilas e favelas e combate à tortura.",
+      "ADPF 635/STF.",
+      "Lei n° 9.455, de 7 de abril de 1997. 13.3 Combate à tortura (Lei nº 12.847, de 2 de agosto de 2013 e Decreto nº 8.154, de 16 de dezembro de 2013).",
+      "13.4 Tratados internacionais e jurisprudência internacional de direitos humanos dos sistemas internacional e interamericano correlatos.",
+      "14 Direito da Antidiscriminação 14.1.",
+      "Conceitos Fundamentais do Direito da Antidiscriminação.",
+      "Conceito jurídico de discriminação.",
+      "14.2 Discriminação múltipla.",
+      "Discriminação institucional.",
+      "Discriminação estrutural.",
+      "Critérios proibidos e modalidades direta e indireta de discriminação.",
+      "Legislação antidiscriminatória nacional e internacional.",
+      "Conceitos Fundamentais do Racismo, Sexismo, Intolerância Religiosa, LGBTQIA+fobia.",
+      "Capacitismo.",
+      "Ações Afirmativas.",
+      "Direitos dos Povos indígenas e das comunidades tradicionais.",
+      "Jurisprudência e Enunciados de Súmulas do Supremo Tribunal Federal, do Superior Tribunal de Justiça e do Tribunal de Justiça do Estado do Rio Grande do Sul."
+     ]
+    }
+   ]
+  }
+ ]
+}

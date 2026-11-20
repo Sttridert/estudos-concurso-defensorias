@@ -1,0 +1,289 @@
+{
+ "pasta": "2022 - DPE-PB - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 5704,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Constituição.",
+      "Conceito, acepções, objeto e elementos.",
+      "Classificações."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Teoria da Constituição.",
+      "Constitucionalismo e Neoconstitucionalismo.",
+      "Supremacia da Constituição.",
+      "Hermenêutica Constitucional.",
+      "Interpretação das normas constitucionais: métodos e princípios.",
+      "Aplicabilidade e eficácia das normas constitucionais.",
+      "Normas Constitucionais no tempo e no espaço.",
+      "Direito Internacional e Direito Constitucional.",
+      "Bloco de Constitucionalidade."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Poder Constituinte.",
+      "Perspectivas históricas.",
+      "Espécies e características.",
+      "Reforma Constitucional e Mutação Constitucional.",
+      "Poder de Reforma Constitucional: emendas e revisões.",
+      "Emendas na Constituição Federal de 1988.",
+      "Cláusulas pétreas.",
+      "Poder Constituinte Supranacional."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Controle de Constitucionalidade.",
+      "Histórico do controle de constitucionalidade.",
+      "Espécies de controle de constitucionalidade.",
+      "Controle de Constitucionalidade no Brasil.",
+      "Inconstitucionalidade e Recepção no sistema jurídico brasileiro.",
+      "O controle difuso: características, efeitos, natureza.",
+      "O controle concentrado: características, efeitos, natureza.",
+      "Ações do controle concentrado: Ação Direta de Inconstitucionalidade, Ação Direta de Inconstitucionalidade por Omissão, Ação Declaratória de Constitucionalidade, Arguição de Descumprimento de Preceito Fundamental.",
+      "O controle de constitucionalidade de normas estaduais e municipais."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Princípios Fundamentais.",
+      "Fundamentos da República Federativa do Brasil.",
+      "Objetivos da República Federativa do Brasil.",
+      "Princípios adotados pelo Brasil nas relações internacionais.",
+      "Preâmbulo Constitucional: conteúdo e natureza jurídica."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Direitos Fundamentais.",
+      "Direitos e Garantias Fundamentais.",
+      "Direitos e Deveres Individuais e Coletivos.",
+      "Direitos Individuais: conceito, evolução, classificação, destinatários, características e espécies.",
+      "Dimensões ou Gerações de Direitos Fundamentais.",
+      "Colisão de Direitos Fundamentais e teoria da ponderação de valores.",
+      "Limitação aos Direitos Fundamentais.",
+      "Proporcionalidade e razoabilidade.",
+      "Direitos Fundamentais e Relações Privadas.",
+      "Direitos individuais em espécie.",
+      "Garantias Constitucionais.",
+      "Ações constitucionais: habeas corpus, habeas data, mandado de segurança, mandado de segurança coletivo, ação popular, mandado de injunção, ação civil pública."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Direitos Sociais.",
+      "Teoria dos Direitos Sociais.",
+      "Teoria do Mínimo Existencial.",
+      "Princípio da Reserva do Possível.",
+      "Princípio do não retrocesso social.",
+      "Intervenção do Poder Judiciário na implementação de direitos sociais.",
+      "Direitos Sociais em Espécie."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Direitos de Nacionalidade.",
+      "Direitos Políticos.",
+      "Partidos Políticos."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Organização do Estado.",
+      "Teoria do Estado.",
+      "Elementos do Estado.",
+      "Formação, evolução e desenvolvimento do Estado.",
+      "Organização do Estado brasileiro.",
+      "Federalismo brasileiro.",
+      "Autonomia dos entes.",
+      "Da Organização Política – Administrativa.",
+      "União.",
+      "Estados-membros.",
+      "Distrito Federal.",
+      "Municípios.",
+      "Territórios.",
+      "Repartição de Competências na Constituição Federal de 1988.",
+      "Intervenção federal.",
+      "Intervenção estadual."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Administração Pública.",
+      "Disposições gerais.",
+      "Servidores Públicos.",
+      "Dos militares.",
+      "Das regiões."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Organização dos Poderes.",
+      "Princípio da Separação dos Poderes.",
+      "Evolução do Princípio da separação dos poderes.",
+      "Mecanismo de freios e contrapesos."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Poder Legislativo.",
+      "Estrutura, atribuições, funções, funcionamento.",
+      "Congresso Nacional.",
+      "Câmara dos Deputados e Senado Federal.",
+      "Poder Legislativo estadual, municipal e distrital.",
+      "Reuniões, Comissões e Sessões.",
+      "Comissões Parlamentares de Inquérito.",
+      "Processo Legislativo.",
+      "Procedimento Legislativo.",
+      "Espécies Normativas.",
+      "Estatuto dos Congressistas.",
+      "Fiscalização contábil, financeira e orçamentária.",
+      "Tribunal de Contas."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Poder Executivo.",
+      "Composição, estrutura, atribuições, eleições, imunidades.",
+      "Presidente da República e Vice-Presidente da República.",
+      "Governadores e Prefeitos.",
+      "Responsabilidades do Chefe do Poder Executivo.",
+      "Ministros de Estado.",
+      "Conselho da República e Conselho de Defesa Nacional."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Poder Judiciário.",
+      "Disposições gerais.",
+      "Órgãos do Poder Judiciário Brasileiro.",
+      "Organização e competências.",
+      "Supremo Tribunal Federal.",
+      "Superior Tribunal de Justiça.",
+      "A Justiça Federal.",
+      "A Justiça do Trabalho.",
+      "A Justiça Militar.",
+      "A Justiça Eleitoral.",
+      "A Justiça Estadual.",
+      "O Conselho Nacional de Justiça.",
+      "Estatuto Constitucional da Magistratura.",
+      "Súmula Vinculante."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Funções Essenciais à Justiça.",
+      "Conceito e composição.",
+      "A Defensoria Pública.",
+      "A Defensoria Pública na Constituição Federal de 1988.",
+      "A Defensoria Pública na Constituição do Estado da Paraíba.",
+      "O Ministério Público: regime jurídico constitucional.",
+      "Conselho Nacional do Ministério Público.",
+      "Advocacia.",
+      "Advocacia Pública."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Da Defesa do Estado e das instituições democráticas.",
+      "Estado de Defesa.",
+      "Estado de Sítio.",
+      "Disposições gerais.",
+      "Forças Armadas.",
+      "Segurança Pública."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Da Tributação e do Orçamento.",
+      "Sistema Tributário Nacional.",
+      "Princípios Gerais.",
+      "Limitações ao Poder de Tributar.",
+      "Dos impostos da União, dos Estados-membros, do Distrito Federal e dos Municípios.",
+      "Repartição das Receitas Tributárias.",
+      "Finanças Públicas.",
+      "Normas gerais sobre finanças públicas.",
+      "Orçamentos."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Ordem econômica e financeira.",
+      "Princípios gerais da atividade econômica.",
+      "Política urbana.",
+      "Política agrícola e fundiária e reforma agrária.",
+      "Sistema financeiro nacional."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Ordem social.",
+      "Disposição Geral.",
+      "Seguridade social.",
+      "Saúde.",
+      "Previdência Social e Assistência Social.",
+      "Educação, Cultura e Desporto.",
+      "Ciência e Tecnologia.",
+      "Comunicação Social.",
+      "Meio Ambiente.",
+      "Família, Criança, Adolescente, Jovem, Idoso e pessoas com deficiência.",
+      "Índios."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Disposições constitucionais gerais."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Ato das disposições constitucionais transitórias."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Jurisprudência dos Tribunais Superiores na matéria constante do programa de Direito Constitucional."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Constituição do Estado da Paraíba."
+     ]
+    }
+   ]
+  }
+ ]
+}

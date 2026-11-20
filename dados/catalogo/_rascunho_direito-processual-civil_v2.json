@@ -1,0 +1,865 @@
+{
+ "slug": "direito-processual-civil",
+ "disciplina": "Direito Processual Civil",
+ "prefixo": "PC",
+ "versao_base": "v1",
+ "versao_alvo": "v2",
+ "criado_em": "2026-11-20T17:03:59",
+ "estado": "rascunho",
+ "assuntos": [
+  {
+   "uid": "v1:PC01",
+   "antigo": "PC01",
+   "nome": "Normas processuais e princípios",
+   "descricao": "Aplicação do CPC/2015 e princípios do processo civil.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC01.01",
+     "antigo": "PC01.01",
+     "texto": "Normas processuais e CPC/2015",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:06de42a2",
+     "antigo": null,
+     "texto": "Constitucionalização e efetividade do processo",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "v1:PC01.02",
+     "antigo": "PC01.02",
+     "texto": "Princípios processuais",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PC02",
+   "antigo": "PC02",
+   "nome": "Jurisdição, competência e ação",
+   "descricao": "Poder de julgar, direito de ação e requisitos do processo.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC02.01",
+     "antigo": "PC02.01",
+     "texto": "Jurisdição",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:7516d2f0",
+     "antigo": null,
+     "texto": "Competência",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "v1:PC02.02",
+     "antigo": "PC02.02",
+     "texto": "Ação: teorias e condições",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:ba9a2033",
+     "antigo": null,
+     "texto": "Elementos da ação e cumulação de ações",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:73165527",
+     "antigo": null,
+     "texto": "Pressupostos processuais",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:11cfef99",
+   "antigo": null,
+   "nome": "Solução consensual de conflitos",
+   "descricao": "Alternativas à decisão judicial.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC02.03",
+     "antigo": "PC02.03",
+     "texto": "Conciliação e mediação",
+     "descricao": "[Tema compartilhado com Direito Administrativo]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:88724cb5",
+     "antigo": null,
+     "texto": "Arbitragem",
+     "descricao": "[Tema compartilhado com Direito Administrativo]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PC03",
+   "antigo": "PC03",
+   "nome": "Sujeitos do processo",
+   "descricao": "Partes, terceiros e demais sujeitos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC03.01",
+     "antigo": "PC03.01",
+     "texto": "Partes e capacidade processual",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:2e65fde3",
+     "antigo": null,
+     "texto": "Litisconsórcio",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:f8621bb7",
+     "antigo": null,
+     "texto": "Intervenção de terceiros",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "v1:PC03.02",
+     "antigo": "PC03.02",
+     "texto": "Juiz e auxiliares da justiça",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:1ef32069",
+     "antigo": null,
+     "texto": "Ministério Público e Advocacia Pública",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "v1:PC03.03",
+     "antigo": "PC03.03",
+     "texto": "Defensoria Pública e assistência judiciária",
+     "descricao": "[Tema compartilhado com Princípios e Atribuições Institucionais da Defensoria]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:PC03.04",
+     "antigo": "PC03.04",
+     "texto": "Fazenda Pública em juízo",
+     "descricao": "[Tema compartilhado com Direito Administrativo]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PC04",
+   "antigo": "PC04",
+   "nome": "Atos processuais, prazos e nulidades",
+   "descricao": "Forma, tempo e comunicação dos atos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC04.01",
+     "antigo": "PC04.01",
+     "texto": "Atos processuais e prazos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:e129c68e",
+     "antigo": null,
+     "texto": "Comunicação dos atos e processo eletrônico",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:8b76bd68",
+     "antigo": null,
+     "texto": "Formação, suspensão e extinção do processo",
+     "descricao": "Confirmar o encaixe.",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "v1:PC04.02",
+     "antigo": "PC04.02",
+     "texto": "Nulidades",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:78a7a351",
+     "antigo": null,
+     "texto": "Preclusão",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PC05",
+   "antigo": "PC05",
+   "nome": "Tutela provisória",
+   "descricao": "Tutelas de urgência e de evidência.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC05.01",
+     "antigo": "PC05.01",
+     "texto": "Tutela de urgência",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:aea7cb2e",
+     "antigo": null,
+     "texto": "Tutela da evidência",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:f6021031",
+     "antigo": null,
+     "texto": "Tutela antecipada antecedente e estabilização",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PC06",
+   "antigo": "PC06",
+   "nome": "Procedimento comum: fase postulatória",
+   "descricao": "Da petição inicial à resposta do réu.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC06.01",
+     "antigo": "PC06.01",
+     "texto": "Petição inicial",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:f443dc83",
+     "antigo": null,
+     "texto": "Improcedência liminar",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "v1:PC06.02",
+     "antigo": "PC06.02",
+     "texto": "Contestação",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:3556411c",
+     "antigo": null,
+     "texto": "Reconvenção",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:476eb0a0",
+     "antigo": null,
+     "texto": "Revelia",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:9306494f",
+   "antigo": null,
+   "nome": "Procedimento comum: saneamento e provas",
+   "descricao": "Preparação e instrução do processo.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC06.03",
+     "antigo": "PC06.03",
+     "texto": "Providências preliminares",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:4e92a820",
+     "antigo": null,
+     "texto": "Saneamento e julgamento conforme o estado do processo",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "v1:PC06.04",
+     "antigo": "PC06.04",
+     "texto": "Provas",
+     "descricao": "[Tema compartilhado com Direito Civil]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:140191af",
+     "antigo": null,
+     "texto": "Audiência de instrução e julgamento",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:f06fee4a",
+   "antigo": null,
+   "nome": "Sentença e coisa julgada",
+   "descricao": "Decisão final e seus efeitos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC06.05",
+     "antigo": "PC06.05",
+     "texto": "Sentença",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:8cffafab",
+     "antigo": null,
+     "texto": "Coisa julgada",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:cc80deb7",
+     "antigo": null,
+     "texto": "Liquidação de sentença",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PC07",
+   "antigo": "PC07",
+   "nome": "Cumprimento de sentença e execução",
+   "descricao": "Efetivação das decisões e dos títulos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC07.01",
+     "antigo": "PC07.01",
+     "texto": "Cumprimento de sentença",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:PC07.02",
+     "antigo": "PC07.02",
+     "texto": "Execução: espécies e títulos executivos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:1aab14cc",
+     "antigo": null,
+     "texto": "Responsabilidade patrimonial e penhora",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "v1:PC07.03",
+     "antigo": "PC07.03",
+     "texto": "Impugnação e embargos do devedor",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:1d868cd0",
+     "antigo": null,
+     "texto": "Defesas de terceiros na execução",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:a8dcfd6f",
+     "antigo": null,
+     "texto": "Suspensão e extinção da execução",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "v1:PC07.04",
+     "antigo": "PC07.04",
+     "texto": "Execução de alimentos",
+     "descricao": "[Tema compartilhado com Direito Civil]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PC08",
+   "antigo": "PC08",
+   "nome": "Recursos",
+   "descricao": "Teoria geral e recursos em espécie.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC08.01",
+     "antigo": "PC08.01",
+     "texto": "Teoria geral dos recursos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:4ccfc9d8",
+     "antigo": null,
+     "texto": "Apelação",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:c9a2502f",
+     "antigo": null,
+     "texto": "Agravo",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:be12da33",
+     "antigo": null,
+     "texto": "Embargos de declaração",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:69288da1",
+     "antigo": null,
+     "texto": "Recursos extraordinário e especial",
+     "descricao": "Inclui a repercussão geral. [Tema compartilhado com Direito Processual Penal]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:56e0d581",
+   "antigo": null,
+   "nome": "Processos nos tribunais e precedentes",
+   "descricao": "Competência originária, incidentes e uniformização.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC08.02",
+     "antigo": "PC08.02",
+     "texto": "Processos nos tribunais",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:b052db01",
+     "antigo": null,
+     "texto": "Incidentes nos tribunais",
+     "descricao": "Incidente de resolução de demandas repetitivas e de assunção de competência (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "v1:PC08.03",
+     "antigo": "PC08.03",
+     "texto": "Precedentes e súmulas",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "n:1a5773a2",
+   "antigo": null,
+   "nome": "Ações autônomas de impugnação",
+   "descricao": "Meios de impugnar decisões fora dos recursos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "n:d05ce1cf",
+     "antigo": null,
+     "texto": "Ação rescisória",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:5c5a58fc",
+     "antigo": null,
+     "texto": "Reclamação",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PC09",
+   "antigo": "PC09",
+   "nome": "Procedimentos especiais",
+   "descricao": "Procedimentos especiais e jurisdição voluntária.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC09.01",
+     "antigo": "PC09.01",
+     "texto": "Procedimentos especiais: noções gerais",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:5d81d3bc",
+     "antigo": null,
+     "texto": "Jurisdição voluntária",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "v1:PC09.02",
+     "antigo": "PC09.02",
+     "texto": "Ações de família e de estado",
+     "descricao": "[Tema compartilhado com Direito Civil]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:PC09.03",
+     "antigo": "PC09.03",
+     "texto": "Ações possessórias",
+     "descricao": "[Tema compartilhado com Direito Civil]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:9e3367e1",
+     "antigo": null,
+     "texto": "Usucapião",
+     "descricao": "[Tema compartilhado com Direito Civil]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:0d51cff0",
+     "antigo": null,
+     "texto": "Ações da Lei do Inquilinato",
+     "descricao": "[Tema compartilhado com Direito Civil]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:36752e25",
+     "antigo": null,
+     "texto": "Inventário e partilha",
+     "descricao": "[Tema compartilhado com Direito Civil]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PC10",
+   "antigo": "PC10",
+   "nome": "Processo coletivo",
+   "descricao": "Tutela de direitos coletivos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC10.01",
+     "antigo": "PC10.01",
+     "texto": "Ação civil pública",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:1e5d4b40",
+     "antigo": null,
+     "texto": "Ação popular",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:4d5736e4",
+     "antigo": null,
+     "texto": "Microssistema do processo coletivo",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PC11",
+   "antigo": "PC11",
+   "nome": "Ações constitucionais",
+   "descricao": "Ações com base direta na Constituição.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC11.01",
+     "antigo": "PC11.01",
+     "texto": "Mandado de segurança",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:f2a05f76",
+     "antigo": null,
+     "texto": "Habeas corpus e habeas data",
+     "descricao": "[Tema compartilhado com Direito Constitucional, Direito Processual Penal e Direitos Humanos]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:b7e87570",
+     "antigo": null,
+     "texto": "Mandado de injunção",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    },
+    {
+     "uid": "n:cd21e16e",
+     "antigo": null,
+     "texto": "Ações do controle concentrado: ADI, ADC e ADPF",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PC12",
+   "antigo": "PC12",
+   "nome": "Juizados Especiais",
+   "descricao": "Juizados Especiais Cíveis e da Fazenda Pública.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PC12.01",
+     "antigo": "PC12.01",
+     "texto": "Juizados Especiais Cíveis",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:2925243e",
+     "antigo": null,
+     "texto": "Juizados Especiais da Fazenda Pública",
+     "descricao": "[Tema compartilhado com Direito Administrativo]",
+     "origem": "rascunho v2 (IA, esqueleto do CPC; confirmar)"
+    }
+   ]
+  }
+ ],
+ "lixeira": [],
+ "lixeira_assuntos": [],
+ "base_v1": {
+  "assuntos": {
+   "v1:PC01": {
+    "codigo": "PC01",
+    "nome": "Normas processuais e princípios"
+   },
+   "v1:PC02": {
+    "codigo": "PC02",
+    "nome": "Jurisdição, ação e solução de conflitos"
+   },
+   "v1:PC03": {
+    "codigo": "PC03",
+    "nome": "Sujeitos do processo"
+   },
+   "v1:PC04": {
+    "codigo": "PC04",
+    "nome": "Atos processuais, prazos e nulidades"
+   },
+   "v1:PC05": {
+    "codigo": "PC05",
+    "nome": "Tutela provisória"
+   },
+   "v1:PC06": {
+    "codigo": "PC06",
+    "nome": "Processo de conhecimento e procedimento comum"
+   },
+   "v1:PC07": {
+    "codigo": "PC07",
+    "nome": "Cumprimento de sentença e execução"
+   },
+   "v1:PC08": {
+    "codigo": "PC08",
+    "nome": "Recursos, tribunais e precedentes"
+   },
+   "v1:PC09": {
+    "codigo": "PC09",
+    "nome": "Procedimentos especiais"
+   },
+   "v1:PC10": {
+    "codigo": "PC10",
+    "nome": "Processo coletivo"
+   },
+   "v1:PC11": {
+    "codigo": "PC11",
+    "nome": "Ações constitucionais"
+   },
+   "v1:PC12": {
+    "codigo": "PC12",
+    "nome": "Juizados Especiais"
+   }
+  },
+  "pontos": {
+   "v1:PC01.01": {
+    "codigo": "PC01.01",
+    "texto": "Normas processuais, CPC/2015, constitucionalização e efetividade do processo",
+    "assunto_uid": "v1:PC01"
+   },
+   "v1:PC01.02": {
+    "codigo": "PC01.02",
+    "texto": "Princípios processuais e direitos fundamentais no processo",
+    "assunto_uid": "v1:PC01"
+   },
+   "v1:PC02.01": {
+    "codigo": "PC02.01",
+    "texto": "Jurisdição e competência",
+    "assunto_uid": "v1:PC02"
+   },
+   "v1:PC02.02": {
+    "codigo": "PC02.02",
+    "texto": "Ação: teorias, condições, elementos, cumulação; pressupostos processuais",
+    "assunto_uid": "v1:PC02"
+   },
+   "v1:PC02.03": {
+    "codigo": "PC02.03",
+    "texto": "Meios alternativos de solução de conflitos: conciliação, mediação e arbitragem",
+    "assunto_uid": "v1:PC02"
+   },
+   "v1:PC03.01": {
+    "codigo": "PC03.01",
+    "texto": "Partes, capacidade, litisconsórcio e intervenção de terceiros",
+    "assunto_uid": "v1:PC03"
+   },
+   "v1:PC03.02": {
+    "codigo": "PC03.02",
+    "texto": "Juiz e auxiliares da justiça",
+    "assunto_uid": "v1:PC03"
+   },
+   "v1:PC03.03": {
+    "codigo": "PC03.03",
+    "texto": "Ministério Público, Advocacia Pública, Defensoria Pública e assistência judiciária",
+    "assunto_uid": "v1:PC03"
+   },
+   "v1:PC03.04": {
+    "codigo": "PC03.04",
+    "texto": "Fazenda Pública em juízo",
+    "assunto_uid": "v1:PC03"
+   },
+   "v1:PC04.01": {
+    "codigo": "PC04.01",
+    "texto": "Atos processuais, prazos, comunicação e processo eletrônico",
+    "assunto_uid": "v1:PC04"
+   },
+   "v1:PC04.02": {
+    "codigo": "PC04.02",
+    "texto": "Nulidades e preclusão",
+    "assunto_uid": "v1:PC04"
+   },
+   "v1:PC05.01": {
+    "codigo": "PC05.01",
+    "texto": "Tutela provisória: urgência, evidência, antecedente e estabilização",
+    "assunto_uid": "v1:PC05"
+   },
+   "v1:PC06.01": {
+    "codigo": "PC06.01",
+    "texto": "Petição inicial, improcedência liminar e procedimento comum",
+    "assunto_uid": "v1:PC06"
+   },
+   "v1:PC06.02": {
+    "codigo": "PC06.02",
+    "texto": "Resposta do réu: contestação, reconvenção e revelia",
+    "assunto_uid": "v1:PC06"
+   },
+   "v1:PC06.03": {
+    "codigo": "PC06.03",
+    "texto": "Providências preliminares, saneamento e julgamento conforme o estado do processo",
+    "assunto_uid": "v1:PC06"
+   },
+   "v1:PC06.04": {
+    "codigo": "PC06.04",
+    "texto": "Provas e audiência de instrução e julgamento",
+    "assunto_uid": "v1:PC06"
+   },
+   "v1:PC06.05": {
+    "codigo": "PC06.05",
+    "texto": "Sentença, coisa julgada e liquidação",
+    "assunto_uid": "v1:PC06"
+   },
+   "v1:PC07.01": {
+    "codigo": "PC07.01",
+    "texto": "Cumprimento de sentença",
+    "assunto_uid": "v1:PC07"
+   },
+   "v1:PC07.02": {
+    "codigo": "PC07.02",
+    "texto": "Execução: espécies, títulos, responsabilidade patrimonial e penhora",
+    "assunto_uid": "v1:PC07"
+   },
+   "v1:PC07.03": {
+    "codigo": "PC07.03",
+    "texto": "Defesas do devedor e de terceiros: embargos, impugnação, suspensão e extinção",
+    "assunto_uid": "v1:PC07"
+   },
+   "v1:PC07.04": {
+    "codigo": "PC07.04",
+    "texto": "Execução de alimentos",
+    "assunto_uid": "v1:PC07"
+   },
+   "v1:PC08.01": {
+    "codigo": "PC08.01",
+    "texto": "Teoria geral dos recursos e recursos em espécie",
+    "assunto_uid": "v1:PC08"
+   },
+   "v1:PC08.02": {
+    "codigo": "PC08.02",
+    "texto": "Processos nos tribunais, incidentes, ação rescisória e reclamação",
+    "assunto_uid": "v1:PC08"
+   },
+   "v1:PC08.03": {
+    "codigo": "PC08.03",
+    "texto": "Tribunais superiores, repercussão geral, súmulas e precedentes",
+    "assunto_uid": "v1:PC08"
+   },
+   "v1:PC09.01": {
+    "codigo": "PC09.01",
+    "texto": "Procedimentos especiais e jurisdição voluntária",
+    "assunto_uid": "v1:PC09"
+   },
+   "v1:PC09.02": {
+    "codigo": "PC09.02",
+    "texto": "Ações de família e de estado",
+    "assunto_uid": "v1:PC09"
+   },
+   "v1:PC09.03": {
+    "codigo": "PC09.03",
+    "texto": "Ações possessórias, usucapião e ações da Lei do Inquilinato",
+    "assunto_uid": "v1:PC09"
+   },
+   "v1:PC10.01": {
+    "codigo": "PC10.01",
+    "texto": "Processo coletivo: ação civil pública, ação popular e microssistema",
+    "assunto_uid": "v1:PC10"
+   },
+   "v1:PC11.01": {
+    "codigo": "PC11.01",
+    "texto": "Ações constitucionais: mandado de segurança, habeas corpus, habeas data, mandado de injunção, ADI, ADC e ADPF",
+    "assunto_uid": "v1:PC11"
+   },
+   "v1:PC12.01": {
+    "codigo": "PC12.01",
+    "texto": "Juizados Especiais Cíveis e da Fazenda Pública",
+    "assunto_uid": "v1:PC12"
+   }
+  }
+ },
+ "historico": {
+  "passado": [],
+  "futuro": []
+ },
+ "atualizado_em": "2026-11-20T17:03:59"
+}

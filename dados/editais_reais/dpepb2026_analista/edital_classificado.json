@@ -1,0 +1,7878 @@
+{
+ "edital": {
+  "slug": "dpepb2026_analista",
+  "pasta": "2026 - DPE-PB - Analista e Técnico (edital, sem prova)",
+  "arquivo": "provas/2026 - DPE-PB - Analista e Técnico (edital, sem prova)/1. edital.pdf",
+  "banca": "FCC",
+  "orgao": "DPE-PB",
+  "cargo": "Analista e Técnico (servidores)",
+  "ano": 2026
+ },
+ "blocos_confirmados": [],
+ "fora_do_edital": [],
+ "sem_julgamento": [
+  "AD01.02",
+  "AD01.03",
+  "AD02.02",
+  "AD02.03",
+  "AD03.01",
+  "AD03.02",
+  "AD03.03",
+  "AD04.01",
+  "AD04.02",
+  "AD04.03",
+  "AD05.01",
+  "AD05.02",
+  "AD06.01",
+  "AD06.02",
+  "AD07.01",
+  "AD07.02",
+  "AD07.03",
+  "AD08.01",
+  "AD08.02",
+  "AD09.02",
+  "AD10.01",
+  "AD10.02",
+  "AD11.01",
+  "AD11.02",
+  "AD12.01",
+  "AD12.02",
+  "AD13.01",
+  "AD14.02",
+  "AD14.03",
+  "AD14.04",
+  "AD15.01",
+  "CA01.03",
+  "CA01.04",
+  "CO01.01",
+  "CO01.02",
+  "CO01.03",
+  "CO01.04",
+  "CO02.01",
+  "CO06.03",
+  "CO07.02",
+  "CO08.03",
+  "CO11.01",
+  "CO11.02",
+  "CO11.03",
+  "CO11.04",
+  "CO12.01",
+  "CO13.01",
+  "CO13.02",
+  "CO14.01",
+  "CO14.02",
+  "CV01.02",
+  "CV01.03",
+  "CV04.03",
+  "CV07.01",
+  "CV07.02",
+  "CV07.03",
+  "CV07.05",
+  "CV07.06",
+  "CV07.07",
+  "CV07.08",
+  "CV07.09",
+  "CV07.10",
+  "CV07.11",
+  "CV07.12",
+  "CV07.13",
+  "CV07.14",
+  "CV07.15",
+  "CV07.16",
+  "CV07.17",
+  "CV07.18",
+  "CV12.01",
+  "DH05.01",
+  "DH06.03",
+  "DH07.01",
+  "DH07.02",
+  "DH08.08",
+  "DH08.10",
+  "DH10.02",
+  "DH10.04",
+  "DH10.06",
+  "DH10.10",
+  "DH11.01",
+  "PE12.01",
+  "PE12.02",
+  "PE13.02",
+  "PE14.03",
+  "PE14.05",
+  "PE14.06",
+  "PE14.07",
+  "PE14.08",
+  "PE14.11"
+ ],
+ "estado": "rascunho da IA (a conferir pelo usuário)",
+ "gerado_em": "2026-11-15",
+ "gerado_por": "scripts/51_classificar_edital.py",
+ "disciplinas": [
+  {
+   "codigo": "CONST",
+   "disciplina_banco": "Direito Constitucional",
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "CONST-001",
+       "texto": "Direitos e garantias fundamentais: direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade, à segurança e à propriedade; direitos sociais; nacionalidade; cidadania e direitos políticos; partidos políticos; garantias constitucionais individuais; garantias dos direitos coletivos, sociais e políticos.",
+       "destinos": [
+        {
+         "p": "CO03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO03.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO03.05",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO03.06",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO05.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO03.02",
+         "papel": "principal",
+         "trecho": "direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade, à segurança e à propriedade",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO04.01",
+         "papel": "principal",
+         "trecho": "direitos sociais",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO04.02",
+         "papel": "secundario",
+         "trecho": "direitos sociais",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO05.01",
+         "papel": "principal",
+         "trecho": "nacionalidade",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO05.02",
+         "papel": "principal",
+         "trecho": "cidadania e direitos políticos; partidos políticos",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO03.03",
+         "papel": "principal",
+         "trecho": "garantias constitucionais individuais; garantias dos direitos coletivos, sociais e políticos",
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "CONST-002",
+       "texto": "Organização do Estado: organização político-administrativa, União, Estados, Municípios, Distrito Federal e Territórios.",
+       "destinos": [
+        {
+         "p": "CO06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO06.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "CONST-003",
+       "texto": "Administração Pública: servidores públicos.",
+       "destinos": [
+        {
+         "p": "CO07.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "CONST-004",
+       "texto": "Poder Legislativo: fundamento, atribuições e garantias de independência, processo legislativo.",
+       "destinos": [
+        {
+         "p": "CO08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO08.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "CONST-005",
+       "texto": "Poder Executivo: forma e sistema de governo; chefia de Estado e chefia de governo; atribuições e responsabilidades do Chefe do Poder Executivo dos entes federados.",
+       "destinos": [
+        {
+         "p": "CO01.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO06.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO09.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "CONST-006",
+       "texto": "Poder Judiciário: Disposições gerais, Tribunais Superiores, tribunais e juízes eleitorais.",
+       "destinos": [
+        {
+         "p": "CO02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO10.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "CONST-007",
+       "texto": "Funções essenciais à Justiça: da Defensoria Pública, do Ministério Público e da Advocacia Pública e não Pública",
+       "destinos": [
+        {
+         "p": "CO10.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO10.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "CONST-008",
+       "texto": "Ordem social: base e objetivos da ordem social; seguridade social; educação, cultura e desporto; ciência e tecnologia e inovação; comunicação social; meio ambiente; família, criança, adolescente, jovem e idoso; índios.",
+       "destinos": [
+        {
+         "p": "CO15.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO15.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CO15.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CONST-009",
+       "texto": "Ato das Disposições Constitucionais Transitórias.",
+       "destinos": [
+        {
+         "p": "CO02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "ADM",
+   "disciplina_banco": "Direito Administrativo",
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "ADM-001",
+       "texto": "Conceito.",
+       "destinos": [
+        {
+         "p": "AD01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-002",
+       "texto": "Campo de aplicação.",
+       "destinos": [
+        {
+         "p": "AD01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-003",
+       "texto": "Regime orçamentário e contábil (patrimonial).",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "ADM-004",
+       "texto": "Normas Brasileiras de Contabilidade Aplicadas ao Setor Público – NBC TSP.",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "ADM-005",
+       "texto": "Manual de Contabilidade Aplicada ao Setor Público, 11ª edição.",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "ADM-006",
+       "texto": "Demonstrações Contábeis Aplicadas ao Setor Público.",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "ADM-007",
+       "texto": "Plano de Contas Aplicado ao Setor Público.",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "ADM-008",
+       "texto": "Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal).",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "ADM-009",
+       "texto": "Lei nº 4.320/1964.",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "ADM-010",
+       "texto": "Instrução Normativa TCU nº 84-2020.",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "ADM-011",
+       "texto": "Decisão Normativa TCU nº 198/2022.",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 10,
+     "rotulo": "10",
+     "frases": [
+      {
+       "id": "ADM-012",
+       "texto": "Manual de Demonstrativos Fiscais, 15ª edição (Portaria STN/MF nº 1.948, de 2 de julho de 2026).",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 11,
+     "rotulo": "11",
+     "frases": [
+      {
+       "id": "ADM-013",
+       "texto": "Decreto-Lei nº 200/1967.",
+       "destinos": [
+        {
+         "p": "AD02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 12,
+     "rotulo": "12",
+     "frases": [
+      {
+       "id": "ADM-014",
+       "texto": "Constituição Federal de 1988, art. 70 a 74.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 13,
+     "rotulo": "13",
+     "frases": [
+      {
+       "id": "ADM-015",
+       "texto": "Lei Federal nº 10.180/2001.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "AD15.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 14,
+     "rotulo": "14",
+     "frases": [
+      {
+       "id": "ADM-016",
+       "texto": "Decreto nº 93.872/1986.",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 15,
+     "rotulo": "15",
+     "frases": [
+      {
+       "id": "ADM-017",
+       "texto": "Noções acerca do Sistema Integrado de Administração Financeira do Governo Federal (SIAFI): objetivo, vantagens e principais atribuições; estrutura do SIAFI; principais documentos de entrada e saída do SIAFI.",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "ADM-018",
+       "texto": "AUDITORIA GOVERNAMENTAL: 1.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-019",
+       "texto": "Normas aplicáveis à auditoria no setor público.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-020",
+       "texto": "1.1 Normas Brasileiras de Contabilidade aplicáveis à Auditoria de Informação Contábil Histórica no Setor Público — NBC TASP.",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "ADM-021",
+       "texto": "1.2 Resolução CFC nº 1.601/2020. 1.3 Normas Brasileiras de Auditoria do Setor Público — NBASP.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-022",
+       "texto": "Normas Brasileiras de Contabilidade Técnicas de Auditoria Interna - NBC TI.",
+       "destinos": [
+        {
+         "p": "AD15.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "ADM-023",
+       "texto": "Conceitos de auditoria interna e externa.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-024",
+       "texto": "Auditoria governamental: finalidades, objetivos, abrangência, princípios e tipos de auditoria.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-025",
+       "texto": "Planejamento de auditoria.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-026",
+       "texto": "Identificação e avaliação de riscos.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-027",
+       "texto": "Materialidade.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-028",
+       "texto": "Resposta do auditor aos riscos avaliados.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-029",
+       "texto": "Procedimentos de auditoria.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-030",
+       "texto": "Amostragem.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-031",
+       "texto": "Evidência de auditoria.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-032",
+       "texto": "Documentação de auditoria.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ADM-033",
+       "texto": "Relatórios de auditoria.",
+       "destinos": [
+        {
+         "p": "AD14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "CIV",
+   "disciplina_banco": "Direito Civil",
+   "titulo_no_edital": "DIREITO CIVIL",
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "CIV-001",
+       "texto": "Das Pessoas: naturais; personalidade e capacidade; direitos da personalidade; ausência.",
+       "destinos": [
+        {
+         "p": "CV02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV02.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "CIV-002",
+       "texto": "Da Pessoa Jurídica: disposições gerais, constituição, extinção, responsabilidade, desconsideração da personalidade jurídica.",
+       "destinos": [
+        {
+         "p": "CV02.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "CIV-003",
+       "texto": "Domicílio Civil.",
+       "destinos": [
+        {
+         "p": "CV02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "CIV-004",
+       "texto": "Dos Bens públicos: classificação, afetação e desafetação.",
+       "destinos": [
+        {
+         "p": "CV03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "AD09.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "CIV-005",
+       "texto": "Dos fatos Jurídicos.",
+       "destinos": [
+        {
+         "p": "CV04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "CIV-006",
+       "texto": "Do Negócio Jurídico: Conceito.",
+       "destinos": [
+        {
+         "p": "CV04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-007",
+       "texto": "Classificação.",
+       "destinos": [
+        {
+         "p": "CV04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-008",
+       "texto": "Elementos essenciais gerais.",
+       "destinos": [
+        {
+         "p": "CV04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-009",
+       "texto": "Elementos acidentais (condição, termo, encargo).",
+       "destinos": [
+        {
+         "p": "CV04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-010",
+       "texto": "Defeitos do negócio jurídico (erro ou ignorância, dolo, coação, estado de perigo, lesão, fraude contra credores), invalidade e ineficácia do negócio jurídico.",
+       "destinos": [
+        {
+         "p": "CV04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "CIV-011",
+       "texto": "Dos atos jurídicos lícitos.",
+       "destinos": [
+        {
+         "p": "CV04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "CIV-012",
+       "texto": "Dos atos ilícitos.",
+       "destinos": [
+        {
+         "p": "CV04.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "CIV-013",
+       "texto": "Do Direito das Obrigações.",
+       "destinos": [
+        {
+         "p": "CV05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV05.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV05.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "CIV-014",
+       "texto": "Dos contratos em geral.",
+       "destinos": [
+        {
+         "p": "CV01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "CIV-015",
+       "texto": "Disposições gerais: Princípios, requisitos, formação, interpretação, classificação.",
+       "destinos": [
+        {
+         "p": "CV06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "CIV-016",
+       "texto": "Dos efeitos.",
+       "destinos": [
+        {
+         "p": "CV05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-017",
+       "texto": "Vícios redibitórios e da Evicção.",
+       "destinos": [
+        {
+         "p": "CV06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "CIV-018",
+       "texto": "Da responsabilidade civil.",
+       "destinos": [
+        {
+         "p": "CV08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV04.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 10,
+     "rotulo": "10",
+     "frases": [
+      {
+       "id": "CIV-019",
+       "texto": "Direito das coisas.",
+       "destinos": [
+        {
+         "p": "CV09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-020",
+       "texto": "Posse.",
+       "destinos": [
+        {
+         "p": "CV09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-021",
+       "texto": "Teorias da posse.",
+       "destinos": [
+        {
+         "p": "CV09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-022",
+       "texto": "Conceito, classificação, aquisição, efeitos, proteção e perda da posse.",
+       "destinos": [
+        {
+         "p": "CV09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-023",
+       "texto": "Função social da posse.",
+       "destinos": [
+        {
+         "p": "CV09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-024",
+       "texto": "Teorias da função social da posse.",
+       "destinos": [
+        {
+         "p": "CV09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-025",
+       "texto": "Conceito, conteúdo e concretização da função social da posse.",
+       "destinos": [
+        {
+         "p": "CV09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-026",
+       "texto": "Função socioambiental da posse.",
+       "destinos": [
+        {
+         "p": "CV09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 11,
+     "rotulo": "11",
+     "frases": [
+      {
+       "id": "CIV-027",
+       "texto": "Direitos reais.",
+       "destinos": [
+        {
+         "p": "CV09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-028",
+       "texto": "Propriedade.",
+       "destinos": [
+        {
+         "p": "CV09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-029",
+       "texto": "Conceito, classificação, aquisição, proteção e perda da propriedade.",
+       "destinos": [
+        {
+         "p": "CV09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-030",
+       "texto": "Função social da propriedade: conceito, conteúdo e concretização da função social da propriedade.",
+       "destinos": [
+        {
+         "p": "CV09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 12,
+     "rotulo": "12",
+     "frases": [
+      {
+       "id": "CIV-031",
+       "texto": "Direitos de vizinhança.",
+       "destinos": [
+        {
+         "p": "CV09.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-032",
+       "texto": "Condomínio geral.",
+       "destinos": [
+        {
+         "p": "CV09.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-033",
+       "texto": "Condomínio edilício.",
+       "destinos": [
+        {
+         "p": "CV09.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-034",
+       "texto": "Propriedade resolúvel.",
+       "destinos": [
+        {
+         "p": "CV09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-035",
+       "texto": "Propriedade fiduciária.",
+       "destinos": [
+        {
+         "p": "CV09.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV09.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 13,
+     "rotulo": "13",
+     "frases": [
+      {
+       "id": "CIV-036",
+       "texto": "Direitos reais sobre coisa alheia.",
+       "destinos": [
+        {
+         "p": "CV09.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-037",
+       "texto": "Superfície.",
+       "destinos": [
+        {
+         "p": "CV09.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-038",
+       "texto": "Servidões.",
+       "destinos": [
+        {
+         "p": "CV09.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-039",
+       "texto": "Uso.",
+       "destinos": [
+        {
+         "p": "CV09.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-040",
+       "texto": "Usufruto.",
+       "destinos": [
+        {
+         "p": "CV09.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-041",
+       "texto": "Habitação.",
+       "destinos": [
+        {
+         "p": "CV09.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 14,
+     "rotulo": "14",
+     "frases": [
+      {
+       "id": "CIV-042",
+       "texto": "Direito real à aquisição.",
+       "destinos": [
+        {
+         "p": "CV09.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-043",
+       "texto": "Direito do promitente comprador.",
+       "destinos": [
+        {
+         "p": "CV09.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-044",
+       "texto": "Compromisso de venda e compra.",
+       "destinos": [
+        {
+         "p": "CV09.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-045",
+       "texto": "Adjudicação compulsória.",
+       "destinos": [
+        {
+         "p": "CV09.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 15,
+     "rotulo": "15",
+     "frases": [
+      {
+       "id": "CIV-046",
+       "texto": "Direitos reais em garantia.",
+       "destinos": [
+        {
+         "p": "CV09.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-047",
+       "texto": "Penhor.",
+       "destinos": [
+        {
+         "p": "CV09.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-048",
+       "texto": "Hipoteca.",
+       "destinos": [
+        {
+         "p": "CV09.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 16,
+     "rotulo": "16",
+     "frases": [
+      {
+       "id": "CIV-049",
+       "texto": "Entidades familiares.",
+       "destinos": [
+        {
+         "p": "CV10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-050",
+       "texto": "Origem e conceitos.",
+       "destinos": [
+        {
+         "p": "CV10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-051",
+       "texto": "Relações familiares plurais.",
+       "destinos": [
+        {
+         "p": "CV10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-052",
+       "texto": "Fundamentos da diversidade familiar e afetiva.",
+       "destinos": [
+        {
+         "p": "CV10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-053",
+       "texto": "Diversidade sexual.",
+       "destinos": [
+        {
+         "p": "CV10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-054",
+       "texto": "Família homoafetiva.",
+       "destinos": [
+        {
+         "p": "CV10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-055",
+       "texto": "Princípios constitucionais da família.",
+       "destinos": [
+        {
+         "p": "CV10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-056",
+       "texto": "Princípios constitucionais aplicáveis às relações familiares.",
+       "destinos": [
+        {
+         "p": "CV10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-057",
+       "texto": "Planejamento familiar.",
+       "destinos": [
+        {
+         "p": "CV10.07",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-058",
+       "texto": "Violência doméstica.",
+       "destinos": [
+        {
+         "p": "PE14.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH08.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV10.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 17,
+     "rotulo": "17",
+     "frases": [
+      {
+       "id": "CIV-059",
+       "texto": "Esponsais.",
+       "destinos": [
+        {
+         "p": "CV10.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-060",
+       "texto": "Casamento heteroafetivo e homoafetivo: capacidade, impedimentos, causas suspensivas, habilitação, celebração, eficácia, direitos e deveres.",
+       "destinos": [
+        {
+         "p": "CV10.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-061",
+       "texto": "Invalidade do casamento, separação e divórcio.",
+       "destinos": [
+        {
+         "p": "CV10.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-062",
+       "texto": "Direito patrimonial.",
+       "destinos": [
+        {
+         "p": "CV10.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-063",
+       "texto": "Regime de bens: espécies.",
+       "destinos": [
+        {
+         "p": "CV10.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-064",
+       "texto": "Pacto antenupcial.",
+       "destinos": [
+        {
+         "p": "CV10.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-065",
+       "texto": "Meação e sucessão do cônjuge.",
+       "destinos": [
+        {
+         "p": "CV10.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV11.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-066",
+       "texto": "Usufruto e administração de bens de filhos incapazes.",
+       "destinos": [
+        {
+         "p": "CV10.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV09.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-067",
+       "texto": "Bem de família.",
+       "destinos": [
+        {
+         "p": "CV03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 18,
+     "rotulo": "18",
+     "frases": [
+      {
+       "id": "CIV-068",
+       "texto": "Relações de parentesco.",
+       "destinos": [
+        {
+         "p": "CV10.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-069",
+       "texto": "Vínculos de parentesco.",
+       "destinos": [
+        {
+         "p": "CV10.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-070",
+       "texto": "Multiparentalidade.",
+       "destinos": [
+        {
+         "p": "CV10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-071",
+       "texto": "Homoparentalidade.",
+       "destinos": [
+        {
+         "p": "CV10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-072",
+       "texto": "Paternidade e maternidade.",
+       "destinos": [
+        {
+         "p": "CV10.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-073",
+       "texto": "Filiação.",
+       "destinos": [
+        {
+         "p": "CV10.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-074",
+       "texto": "Princípios relativos à filiação.",
+       "destinos": [
+        {
+         "p": "CV10.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-075",
+       "texto": "Espécies de filiação.",
+       "destinos": [
+        {
+         "p": "CV10.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-076",
+       "texto": "Reconhecimento de filhos.",
+       "destinos": [
+        {
+         "p": "CV10.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-077",
+       "texto": "Socioafetividade.",
+       "destinos": [
+        {
+         "p": "CV10.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV10.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-078",
+       "texto": "Adoção.",
+       "destinos": [
+        {
+         "p": "CV10.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 19,
+     "rotulo": "19",
+     "frases": [
+      {
+       "id": "CIV-079",
+       "texto": "Proteção da pessoa dos filhos.",
+       "destinos": [
+        {
+         "p": "CV10.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-080",
+       "texto": "Convivência familiar.",
+       "destinos": [
+        {
+         "p": "CV10.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-081",
+       "texto": "Poder familiar.",
+       "destinos": [
+        {
+         "p": "CV10.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-082",
+       "texto": "Guarda.",
+       "destinos": [
+        {
+         "p": "CV10.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-083",
+       "texto": "Direito de visitas.",
+       "destinos": [
+        {
+         "p": "CV10.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-084",
+       "texto": "Alienação Parental.",
+       "destinos": [
+        {
+         "p": "CV10.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 20,
+     "rotulo": "20",
+     "frases": [
+      {
+       "id": "CIV-085",
+       "texto": "União estável heteorafetiva e homoafetiva.",
+       "destinos": [
+        {
+         "p": "CV10.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-086",
+       "texto": "Aspectos constitucionais.",
+       "destinos": [
+        {
+         "p": "CV10.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-087",
+       "texto": "Características, estado, impedimentos, direitos, deveres e efeitos patrimoniais.",
+       "destinos": [
+        {
+         "p": "CV10.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-088",
+       "texto": "Regime de bens, meação e sucessão do companheiro.",
+       "destinos": [
+        {
+         "p": "CV10.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV10.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV11.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-089",
+       "texto": "Uniões estáveis concomitantes.",
+       "destinos": [
+        {
+         "p": "CV10.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-090",
+       "texto": "Concubinato.",
+       "destinos": [
+        {
+         "p": "CV10.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 21,
+     "rotulo": "21",
+     "frases": [
+      {
+       "id": "CIV-091",
+       "texto": "Alimentos.",
+       "destinos": [
+        {
+         "p": "CV10.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-092",
+       "texto": "Princípios informativos do direito alimentar.",
+       "destinos": [
+        {
+         "p": "CV10.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-093",
+       "texto": "Conceito.",
+       "destinos": [
+        {
+         "p": "CV10.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-094",
+       "texto": "Natureza.",
+       "destinos": [
+        {
+         "p": "CV10.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-095",
+       "texto": "Classificação dos alimentos.",
+       "destinos": [
+        {
+         "p": "CV10.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-096",
+       "texto": "Características do direito alimentar.",
+       "destinos": [
+        {
+         "p": "CV10.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-097",
+       "texto": "Características da obrigação alimentar.",
+       "destinos": [
+        {
+         "p": "CV10.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-098",
+       "texto": "Origens e sujeitos das obrigações alimentares.",
+       "destinos": [
+        {
+         "p": "CV10.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-099",
+       "texto": "Alimentos Gravídicos.",
+       "destinos": [
+        {
+         "p": "CV10.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-100",
+       "texto": "Tutela, curatela e tomada de decisão apoiada.",
+       "destinos": [
+        {
+         "p": "CV10.07",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV02.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 22,
+     "rotulo": "22",
+     "frases": [
+      {
+       "id": "CIV-101",
+       "texto": "Sucessão.",
+       "destinos": [
+        {
+         "p": "CV11.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-102",
+       "texto": "Disposições gerais.",
+       "destinos": [
+        {
+         "p": "CV11.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-103",
+       "texto": "Herança.",
+       "destinos": [
+        {
+         "p": "CV11.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-104",
+       "texto": "Vocação hereditária.",
+       "destinos": [
+        {
+         "p": "CV11.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-105",
+       "texto": "Aceitação e renúncia.",
+       "destinos": [
+        {
+         "p": "CV11.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-106",
+       "texto": "Exclusão da sucessão.",
+       "destinos": [
+        {
+         "p": "CV11.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-107",
+       "texto": "Herança jacente.",
+       "destinos": [
+        {
+         "p": "CV11.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-108",
+       "texto": "Herança vacante.",
+       "destinos": [
+        {
+         "p": "CV11.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-109",
+       "texto": "Sucessão legítima e sucessão testamentária.",
+       "destinos": [
+        {
+         "p": "CV11.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-110",
+       "texto": "Inventário e partilha.",
+       "destinos": [
+        {
+         "p": "CV11.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-111",
+       "texto": "Arrolamentos.",
+       "destinos": [
+        {
+         "p": "CV11.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-112",
+       "texto": "Alvarás judiciais.",
+       "destinos": [
+        {
+         "p": "CV11.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "CIV-113",
+       "texto": "Partilha de bens e direitos.",
+       "destinos": [
+        {
+         "p": "CV11.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "PCIV",
+   "disciplina_banco": "Direito Processual Civil",
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "PCIV-001",
+       "texto": "Normas Processuais Civis: normas (regras e princípios) fundamentais; interpretação e aplicação.",
+       "destinos": [
+        {
+         "p": "PC01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC01.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "PCIV-002",
+       "texto": "Constituição e Processo: a Constitucionalização do processo.",
+       "destinos": [
+        {
+         "p": "PC01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-003",
+       "texto": "Princípios constitucionais no processo civil; conteúdo jurídico do direito de acesso à tutela jurisdicional do Estado; conteúdo jurídico do direito de defesa; direitos fundamentais e processo; a busca pela efetividade do processo e as reformas processuais; o provimento jurisdicional como instrumento de transformação social.",
+       "destinos": [
+        {
+         "p": "PC01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC01.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "PCIV-004",
+       "texto": "Jurisdição: conceito, características, princípios e espécies.",
+       "destinos": [
+        {
+         "p": "PC02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC01.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "PCIV-005",
+       "texto": "Meios alternativos de solução de conflitos: autotutela, autocomposição (conciliação e mediação), arbitragem e tribunais administrativos.",
+       "destinos": [
+        {
+         "p": "PC02.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "PCIV-006",
+       "texto": "Competência e Capacidade Processual.",
+       "destinos": [
+        {
+         "p": "PC02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC03.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "PCIV-007",
+       "texto": "Ação: teorias, classificação, elementos e cumulação.",
+       "destinos": [
+        {
+         "p": "PC02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "PCIV-008",
+       "texto": "Processo: pressupostos processuais, atos processuais, vícios dos atos processuais, lugar, tempo e forma dos atos processuais, comunicação dos atos processuais.",
+       "destinos": [
+        {
+         "p": "PC04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC02.02",
+         "papel": "principal",
+         "trecho": "pressupostos processuais",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC04.02",
+         "papel": "principal",
+         "trecho": "vícios dos atos processuais",
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-009",
+       "texto": "Preclusão.",
+       "destinos": [
+        {
+         "p": "PC04.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "PCIV-010",
+       "texto": "Sujeitos do processo: partes, capacidade, deveres e responsabilidade por dano processual, substituição, sucessão.",
+       "destinos": [
+        {
+         "p": "PC03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-011",
+       "texto": "Litisconsórcio.",
+       "destinos": [
+        {
+         "p": "PC03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-012",
+       "texto": "Assistência.",
+       "destinos": [
+        {
+         "p": "PC03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-013",
+       "texto": "Intervenção de terceiros: típicas e atípicas.",
+       "destinos": [
+        {
+         "p": "PC03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-014",
+       "texto": "Amicus curiae.",
+       "destinos": [
+        {
+         "p": "PC03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-015",
+       "texto": "Juiz e auxiliares da justiça.",
+       "destinos": [
+        {
+         "p": "PC03.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-016",
+       "texto": "Ministério Público.",
+       "destinos": [
+        {
+         "p": "PC03.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-017",
+       "texto": "Advocacia Pública.",
+       "destinos": [
+        {
+         "p": "PC03.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-018",
+       "texto": "Defensoria Pública.",
+       "destinos": [
+        {
+         "p": "PC03.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "PCIV-019",
+       "texto": "Da tutela provisória.",
+       "destinos": [
+        {
+         "p": "PC05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-020",
+       "texto": "Tutela de urgência e tutela da evidência.",
+       "destinos": [
+        {
+         "p": "PC05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-021",
+       "texto": "Tutela antecedente e incidente.",
+       "destinos": [
+        {
+         "p": "PC05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-022",
+       "texto": "Estabilização da tutela provisória.10.",
+       "destinos": [
+        {
+         "p": "PC05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-023",
+       "texto": "Procedimento comum: petição inicial, indeferimento da petição inicial, improcedência liminar do pedido, conversão da ação individual em ação coletiva, audiência de conciliação ou mediação, respostas do réu, revelia, providências preliminares e saneamento, julgamento conforme o estado do processo, audiência de instrução e julgamento, provas, sentença e coisa julgada.",
+       "destinos": [
+        {
+         "p": "PC06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC10.01",
+         "papel": "principal",
+         "trecho": "conversão da ação individual em ação coletiva",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC06.01",
+         "papel": "principal",
+         "trecho": "audiência de conciliação ou mediação",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC02.03",
+         "papel": "secundario",
+         "trecho": "audiência de conciliação ou mediação",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC06.02",
+         "papel": "principal",
+         "trecho": "respostas do réu, revelia",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC06.03",
+         "papel": "principal",
+         "trecho": "providências preliminares e saneamento, julgamento conforme o estado do processo",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC06.04",
+         "papel": "principal",
+         "trecho": "audiência de instrução e julgamento, provas",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC06.05",
+         "papel": "principal",
+         "trecho": "sentença e coisa julgada",
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 10,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "PCIV-024",
+       "texto": "Do cumprimento de sentença.",
+       "destinos": [
+        {
+         "p": "PC07.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC06.05",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 11,
+     "rotulo": "11",
+     "frases": [
+      {
+       "id": "PCIV-025",
+       "texto": "Do procedimento.",
+       "destinos": [
+        {
+         "p": "PC06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-026",
+       "texto": "Teoria geral do procedimento.",
+       "destinos": [
+        {
+         "p": "PC06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-027",
+       "texto": "Procedimentos especiais e procedimentos de jurisdição voluntária.",
+       "destinos": [
+        {
+         "p": "PC09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 12,
+     "rotulo": "12",
+     "frases": [
+      {
+       "id": "PCIV-028",
+       "texto": "Provas.",
+       "destinos": [
+        {
+         "p": "PC06.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-029",
+       "texto": "Objeto, fonte e meios.",
+       "destinos": [
+        {
+         "p": "PC06.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-030",
+       "texto": "Admissibilidade.",
+       "destinos": [
+        {
+         "p": "PC06.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-031",
+       "texto": "Provas típicas e atípicas.",
+       "destinos": [
+        {
+         "p": "PC06.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-032",
+       "texto": "Provas ilícitas.",
+       "destinos": [
+        {
+         "p": "PC06.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-033",
+       "texto": "Ônus da prova.",
+       "destinos": [
+        {
+         "p": "PC06.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-034",
+       "texto": "Provas em espécie e sua produção.",
+       "destinos": [
+        {
+         "p": "PC06.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 13,
+     "rotulo": "13",
+     "frases": [
+      {
+       "id": "PCIV-035",
+       "texto": "Tutelas declaratórias, condenatórias, mandamentais, cominatórias e específicas.",
+       "destinos": [
+        {
+         "p": "PC05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 14,
+     "rotulo": "14",
+     "frases": [
+      {
+       "id": "PCIV-036",
+       "texto": "Processo de execução: espécies, procedimentos, execução provisória e definitiva.",
+       "destinos": [
+        {
+         "p": "PC07.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-037",
+       "texto": "Execução para entrega de coisa, execução de obrigações de fazer ou de não fazer, execução por quantia certa, execução contra a fazenda pública, execução de alimentos.",
+       "destinos": [
+        {
+         "p": "PC07.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC03.04",
+         "papel": "principal",
+         "trecho": "execução contra a fazenda pública",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC07.04",
+         "papel": "principal",
+         "trecho": "execução de alimentos",
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-038",
+       "texto": "Defesas do devedor e de terceiros na execução.",
+       "destinos": [
+        {
+         "p": "PC07.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-039",
+       "texto": "Ações prejudiciais à execução.",
+       "destinos": [
+        {
+         "p": "PC07.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-040",
+       "texto": "Embargos à execução.",
+       "destinos": [
+        {
+         "p": "PC07.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-041",
+       "texto": "Suspensão e extinção do processo de execução.",
+       "destinos": [
+        {
+         "p": "PC07.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC07.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 15,
+     "rotulo": "15",
+     "frases": [
+      {
+       "id": "PCIV-042",
+       "texto": "Processo nos tribunais e meios de impugnação das decisões judiciais: ordem dos processos nos tribunais e processos de competência originária dos tribunais: incidente de assunção de competência, homologação de decisão estrangeira e concessão do exequatur à carta rogatória, ação rescisória, incidente de resolução de demandas repetitivas e reclamação.",
+       "destinos": [
+        {
+         "p": "PC08.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 16,
+     "rotulo": "16",
+     "frases": [
+      {
+       "id": "PCIV-043",
+       "texto": "Recursos e meios de impugnação.",
+       "destinos": [
+        {
+         "p": "PC08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-044",
+       "texto": "Admissibilidade e efeitos.",
+       "destinos": [
+        {
+         "p": "PC08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-045",
+       "texto": "Princípios.",
+       "destinos": [
+        {
+         "p": "PC08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-046",
+       "texto": "Apelação, agravos, embargos de declaração, embargos de divergência, duplo grau obrigatório, ação rescisória, mandado de segurança contra ato judicial, ação declaratória de inexistência de ato processual e querela nullitatis.",
+       "destinos": [
+        {
+         "p": "PC08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC08.02",
+         "papel": "principal",
+         "trecho": "ação rescisória",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC11.01",
+         "papel": "principal",
+         "trecho": "mandado de segurança contra ato judicial",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC04.02",
+         "papel": "principal",
+         "trecho": "ação declaratória de inexistência de ato processual e querela nullitatis",
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-047",
+       "texto": "Recursos nos Tribunais Superiores.",
+       "destinos": [
+        {
+         "p": "PC08.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC08.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-048",
+       "texto": "Repercussão Geral.",
+       "destinos": [
+        {
+         "p": "PC08.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-049",
+       "texto": "Súmula.",
+       "destinos": [
+        {
+         "p": "PC08.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-050",
+       "texto": "Súmula Vinculante.",
+       "destinos": [
+        {
+         "p": "PC08.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-051",
+       "texto": "Precedentes: teoria geral, distinguishing e overrulling.",
+       "destinos": [
+        {
+         "p": "PC08.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 17,
+     "rotulo": "17",
+     "frases": [
+      {
+       "id": "PCIV-052",
+       "texto": "Prerrogativas processuais da Defensoria Pública.",
+       "destinos": [
+        {
+         "p": "PC03.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 18,
+     "rotulo": "18",
+     "frases": [
+      {
+       "id": "PCIV-053",
+       "texto": "A Fazenda Pública como parte no processo: polos: ativo e passivo.",
+       "destinos": [
+        {
+         "p": "PC03.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-054",
+       "texto": "Prerrogativas.",
+       "destinos": [
+        {
+         "p": "PC03.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-055",
+       "texto": "Tutela provisória e tutela específica.",
+       "destinos": [
+        {
+         "p": "PC03.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC05.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-056",
+       "texto": "Ação de conhecimento e execução.",
+       "destinos": [
+        {
+         "p": "PC03.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC07.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-057",
+       "texto": "A Fazenda nos procedimentos especiais.",
+       "destinos": [
+        {
+         "p": "PC03.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC09.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-058",
+       "texto": "Juizados Especiais da Fazenda Pública Estadual.",
+       "destinos": [
+        {
+         "p": "PC12.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC03.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 19,
+     "rotulo": "19",
+     "frases": [
+      {
+       "id": "PCIV-059",
+       "texto": "Ação de usucapião.",
+       "destinos": [
+        {
+         "p": "PC09.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-060",
+       "texto": "Usucapião como matéria de defesa.",
+       "destinos": [
+        {
+         "p": "PC09.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 20,
+     "rotulo": "20",
+     "frases": [
+      {
+       "id": "PCIV-061",
+       "texto": "Processo coletivo.",
+       "destinos": [
+        {
+         "p": "PC10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-062",
+       "texto": "Ação civil pública.",
+       "destinos": [
+        {
+         "p": "PC10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 21,
+     "rotulo": "21",
+     "frases": [
+      {
+       "id": "PCIV-063",
+       "texto": "Habeas Corpus, Habeas Data e Mandado de Injunção.",
+       "destinos": [
+        {
+         "p": "PC11.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 22,
+     "rotulo": "22",
+     "frases": [
+      {
+       "id": "PCIV-064",
+       "texto": "Reclamação.",
+       "destinos": [
+        {
+         "p": "PC08.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 23,
+     "rotulo": "23",
+     "frases": [
+      {
+       "id": "PCIV-065",
+       "texto": "Ação popular.",
+       "destinos": [
+        {
+         "p": "PC10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 24,
+     "rotulo": "24",
+     "frases": [
+      {
+       "id": "PCIV-066",
+       "texto": "Mandado de segurança individual e coletivo.",
+       "destinos": [
+        {
+         "p": "PC11.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 25,
+     "rotulo": "25",
+     "frases": [
+      {
+       "id": "PCIV-067",
+       "texto": "Ações da Lei de Locação dos Imóveis Urbanos: despejo, consignatória de aluguel e acessórios, renovatória e revisional.",
+       "destinos": [
+        {
+         "p": "PC09.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV07.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-068",
+       "texto": "Postulação e defesa.",
+       "destinos": [
+        {
+         "p": "PC09.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 26,
+     "rotulo": "26",
+     "frases": [
+      {
+       "id": "PCIV-069",
+       "texto": "Ações possessórias e petitórias.",
+       "destinos": [
+        {
+         "p": "PC09.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 27,
+     "rotulo": "27",
+     "frases": [
+      {
+       "id": "PCIV-070",
+       "texto": "Ações de alimentos.",
+       "destinos": [
+        {
+         "p": "PC09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-071",
+       "texto": "Execução de alimentos.",
+       "destinos": [
+        {
+         "p": "PC07.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC09.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-072",
+       "texto": "Lei de Alimentos e disposições do Código de Processo Civil.",
+       "destinos": [
+        {
+         "p": "PC09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PC07.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 28,
+     "rotulo": "28",
+     "frases": [
+      {
+       "id": "PCIV-073",
+       "texto": "Inventário judicial e extrajudicial.",
+       "destinos": [
+        {
+         "p": "PC09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV11.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-074",
+       "texto": "Arrolamento.",
+       "destinos": [
+        {
+         "p": "PC09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV11.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PCIV-075",
+       "texto": "Alvará.",
+       "destinos": [
+        {
+         "p": "PC09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV11.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 29,
+     "rotulo": "29",
+     "frases": [
+      {
+       "id": "PCIV-076",
+       "texto": "Juizados Especiais Cíveis.",
+       "destinos": [
+        {
+         "p": "PC12.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "PENAL",
+   "disciplina_banco": "Direito Penal",
+   "titulo_no_edital": "DIREITO PENAL",
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "PENAL-001",
+       "texto": "Direito penal: conceito, fontes, objetivos.",
+       "destinos": [
+        {
+         "p": "PE01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-002",
+       "texto": "Princípios penais.",
+       "destinos": [
+        {
+         "p": "PE01.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-003",
+       "texto": "Direito penal e poder punitivo.",
+       "destinos": [
+        {
+         "p": "PE01.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-004",
+       "texto": "Genealogia do pensamento penal.",
+       "destinos": [
+        {
+         "p": "PE01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-005",
+       "texto": "As escolas penais.",
+       "destinos": [
+        {
+         "p": "PE01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-006",
+       "texto": "Modernas tendências do pensamento penal.",
+       "destinos": [
+        {
+         "p": "PE01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-007",
+       "texto": "Evolução histórica do Direito Penal.",
+       "destinos": [
+        {
+         "p": "PE01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-008",
+       "texto": "História do processo de criminalização no Brasil.",
+       "destinos": [
+        {
+         "p": "PE02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE01.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "PENAL-009",
+       "texto": "Política criminal e penitenciária no Brasil.",
+       "destinos": [
+        {
+         "p": "PE02.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-010",
+       "texto": "As escolas criminológicas.",
+       "destinos": [
+        {
+         "p": "PE02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-011",
+       "texto": "Sistema penal e controle social.",
+       "destinos": [
+        {
+         "p": "PE02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-012",
+       "texto": "Processo de criminalização.",
+       "destinos": [
+        {
+         "p": "PE02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-013",
+       "texto": "Vitimologia e vitimização.",
+       "destinos": [
+        {
+         "p": "PE02.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-014",
+       "texto": "Polícia e Sistema Penal.",
+       "destinos": [
+        {
+         "p": "PE02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-015",
+       "texto": "O encarceramento no Brasil: dados e perspectivas.",
+       "destinos": [
+        {
+         "p": "PE02.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-016",
+       "texto": "O sistema penal brasileiro.",
+       "destinos": [
+        {
+         "p": "PE02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-017",
+       "texto": "Modernas tendências do pensamento criminológico e de política criminal.",
+       "destinos": [
+        {
+         "p": "PE02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE02.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-018",
+       "texto": "Mídia e sistema penal.",
+       "destinos": [
+        {
+         "p": "PE02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-019",
+       "texto": "Prisão: prisonização e relações de poder penitenciárias.",
+       "destinos": [
+        {
+         "p": "PE02.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-020",
+       "texto": "Análises criminológicas concretas.",
+       "destinos": [
+        {
+         "p": "PE02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "PENAL-021",
+       "texto": "Constituição e Direito Penal.",
+       "destinos": [
+        {
+         "p": "PE01.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-022",
+       "texto": "O Direito Penal e o Estado Democrático de Direito.",
+       "destinos": [
+        {
+         "p": "PE01.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-023",
+       "texto": "Direito Penal e Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "PE01.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-024",
+       "texto": "Direitos humanos e processo de criminalização.",
+       "destinos": [
+        {
+         "p": "PE01.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE02.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-025",
+       "texto": "Aplicação e interpretação da lei penal.",
+       "destinos": [
+        {
+         "p": "PE03.01",
+         "papel": "principal",
+         "trecho": "Aplicação",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE03.02",
+         "papel": "secundario",
+         "trecho": "Aplicação",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE03.03",
+         "papel": "principal",
+         "trecho": "interpretação da lei penal",
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "PENAL-026",
+       "texto": "Teoria do delito: evolução histórica, elementos do crime.",
+       "destinos": [
+        {
+         "p": "PE04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-027",
+       "texto": "Bem jurídico-penal.",
+       "destinos": [
+        {
+         "p": "PE04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-028",
+       "texto": "Modernas tendências da teoria do delito.",
+       "destinos": [
+        {
+         "p": "PE04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "PENAL-029",
+       "texto": "Tipicidade: tipo penal, conduta (ação e omissão), nexo de causalidade, resultado.",
+       "destinos": [
+        {
+         "p": "PE04.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE04.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-030",
+       "texto": "Iter criminis.",
+       "destinos": [
+        {
+         "p": "PE04.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-031",
+       "texto": "Desistência voluntária e arrependimento eficaz.",
+       "destinos": [
+        {
+         "p": "PE04.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-032",
+       "texto": "Dolo.",
+       "destinos": [
+        {
+         "p": "PE04.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-033",
+       "texto": "Culpa.",
+       "destinos": [
+        {
+         "p": "PE04.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-034",
+       "texto": "Imputação objetiva.",
+       "destinos": [
+        {
+         "p": "PE04.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "PENAL-035",
+       "texto": "Ilicitude: conceito.",
+       "destinos": [
+        {
+         "p": "PE05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-036",
+       "texto": "O injusto penal.",
+       "destinos": [
+        {
+         "p": "PE05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-037",
+       "texto": "Direito Penal e moral.",
+       "destinos": [
+        {
+         "p": "PE05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-038",
+       "texto": "Excludentes da ilicitude.",
+       "destinos": [
+        {
+         "p": "PE05.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE05.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "PENAL-039",
+       "texto": "Culpabilidade: conceito, evolução histórica, estrutura.",
+       "destinos": [
+        {
+         "p": "PE06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-040",
+       "texto": "Princípio da culpabilidade.",
+       "destinos": [
+        {
+         "p": "PE06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-041",
+       "texto": "Culpabilidade e liberdade.",
+       "destinos": [
+        {
+         "p": "PE06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-042",
+       "texto": "Culpabilidade e periculosidade.",
+       "destinos": [
+        {
+         "p": "PE06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE06.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-043",
+       "texto": "Culpabilidade e vulnerabilidade.",
+       "destinos": [
+        {
+         "p": "PE06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-044",
+       "texto": "Direito Penal do fato e Direito Penal do autor.",
+       "destinos": [
+        {
+         "p": "PE06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-045",
+       "texto": "Imputabilidade.",
+       "destinos": [
+        {
+         "p": "PE06.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-046",
+       "texto": "Inexigibilidade de conduta diversa.",
+       "destinos": [
+        {
+         "p": "PE06.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-047",
+       "texto": "Excludentes da culpabilidade.",
+       "destinos": [
+        {
+         "p": "PE06.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE06.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "PENAL-048",
+       "texto": "Arrependimento posterior.",
+       "destinos": [
+        {
+         "p": "PE07.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-049",
+       "texto": "Crime impossível.",
+       "destinos": [
+        {
+         "p": "PE07.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-050",
+       "texto": "Concurso de agentes.",
+       "destinos": [
+        {
+         "p": "PE07.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-051",
+       "texto": "Erro no Direito Penal.",
+       "destinos": [
+        {
+         "p": "PE06.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-052",
+       "texto": "Punibilidade.",
+       "destinos": [
+        {
+         "p": "PE09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE09.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-053",
+       "texto": "Concurso de crimes.",
+       "destinos": [
+        {
+         "p": "PE07.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "PENAL-054",
+       "texto": "Pena: evolução histórica, espécies, aplicação.",
+       "destinos": [
+        {
+         "p": "PE08.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE08.05",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE08.07",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-055",
+       "texto": "Teorias da pena.",
+       "destinos": [
+        {
+         "p": "PE08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-056",
+       "texto": "Modernas tendências das teorias da pena.",
+       "destinos": [
+        {
+         "p": "PE08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-057",
+       "texto": "Circunstâncias Judiciais.",
+       "destinos": [
+        {
+         "p": "PE08.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-058",
+       "texto": "Agravantes e Atenuantes.",
+       "destinos": [
+        {
+         "p": "PE08.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE08.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-059",
+       "texto": "Causas de Aumento e de Diminuição.",
+       "destinos": [
+        {
+         "p": "PE08.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-060",
+       "texto": "Cálculo da Pena.",
+       "destinos": [
+        {
+         "p": "PE08.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-061",
+       "texto": "Extinção da punibilidade.",
+       "destinos": [
+        {
+         "p": "PE09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE09.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-062",
+       "texto": "Suspensão condicional da pena.",
+       "destinos": [
+        {
+         "p": "PE08.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-063",
+       "texto": "Reabilitação.",
+       "destinos": [
+        {
+         "p": "PE08.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 10,
+     "rotulo": "10",
+     "frases": [
+      {
+       "id": "PENAL-064",
+       "texto": "Dos crimes contra a pessoa.",
+       "destinos": [
+        {
+         "p": "PE10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE10.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-065",
+       "texto": "Dos crimes contra a vida.",
+       "destinos": [
+        {
+         "p": "PE10.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-066",
+       "texto": "Dos crimes contra o patrimônio.",
+       "destinos": [
+        {
+         "p": "PE11.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PE11.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-067",
+       "texto": "Dos crimes contra a fé pública.",
+       "destinos": [
+        {
+         "p": "PE13.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-068",
+       "texto": "Dos crimes contra a administração pública.",
+       "destinos": [
+        {
+         "p": "PE13.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 11,
+     "rotulo": "11",
+     "frases": [
+      {
+       "id": "PENAL-069",
+       "texto": "Crimes contra o consumidor.",
+       "destinos": [
+        {
+         "p": "PE14.12",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-070",
+       "texto": "Crimes referentes ao idoso.",
+       "destinos": [
+        {
+         "p": "PE14.12",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-071",
+       "texto": "Estatuto do Desarmamento.",
+       "destinos": [
+        {
+         "p": "PE14.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-072",
+       "texto": "Crimes referentes a drogas.",
+       "destinos": [
+        {
+         "p": "PE14.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-073",
+       "texto": "Crimes referentes ao abuso de autoridade.",
+       "destinos": [
+        {
+         "p": "PE14.10",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-074",
+       "texto": "Crimes resultantes de preconceito de raça, cor, observando-se ADO 26 e MI 4733.",
+       "destinos": [
+        {
+         "p": "PE14.09",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "PENAL-075",
+       "texto": "Lei de enfrentamento à violência doméstica (Lei nº 11.340/2006, alterada pela Lei n.º 13.641/2018).",
+       "destinos": [
+        {
+         "p": "PE14.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "PPEN",
+   "disciplina_banco": "Direito Processual Penal",
+   "titulo_no_edital": "DIREITO PROCESSUAL PENAL",
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "PPEN-001",
+       "texto": "Princípios que regem o processo penal.",
+       "destinos": [
+        {
+         "p": "PP01.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "PPEN-002",
+       "texto": "Direitos e garantias aplicáveis ao processo penal na Constituição Federal.",
+       "destinos": [
+        {
+         "p": "PP01.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "PPEN-003",
+       "texto": "Direitos e garantias aplicáveis ao processo penal nos tratados e convenções internacionais ratificados pelo Brasil.",
+       "destinos": [
+        {
+         "p": "PP01.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "PPEN-004",
+       "texto": "Conceito e características do devido processo penal.",
+       "destinos": [
+        {
+         "p": "PP01.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "PPEN-005",
+       "texto": "Conceito e características do processo penal inquisitório e acusatório.",
+       "destinos": [
+        {
+         "p": "PP01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "PPEN-006",
+       "texto": "Fontes do processo penal.",
+       "destinos": [
+        {
+         "p": "PP01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "PPEN-007",
+       "texto": "Lei processual penal no tempo e no espaço.",
+       "destinos": [
+        {
+         "p": "PP01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "PPEN-008",
+       "texto": "Interpretação da lei processual penal.",
+       "destinos": [
+        {
+         "p": "PP01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "PPEN-009",
+       "texto": "Sistemas de investigação preliminar.",
+       "destinos": [
+        {
+         "p": "PP02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-010",
+       "texto": "Inquérito policial.",
+       "destinos": [
+        {
+         "p": "PP02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-011",
+       "texto": "Identificação criminal.",
+       "destinos": [
+        {
+         "p": "PP02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 10,
+     "rotulo": "10",
+     "frases": [
+      {
+       "id": "PPEN-012",
+       "texto": "Meios de obtenção de prova na persecução criminal.",
+       "destinos": [
+        {
+         "p": "PP04.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-013",
+       "texto": "Busca e apreensão.",
+       "destinos": [
+        {
+         "p": "PP04.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-014",
+       "texto": "Interceptação telefônica.",
+       "destinos": [
+        {
+         "p": "PP04.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-015",
+       "texto": "Quebra de sigilo telefônico, bancário e fiscal.",
+       "destinos": [
+        {
+         "p": "PP04.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-016",
+       "texto": "Delação premiada.",
+       "destinos": [
+        {
+         "p": "PP04.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 11,
+     "rotulo": "11",
+     "frases": [
+      {
+       "id": "PPEN-017",
+       "texto": "Ação penal de iniciativa pública e privada.",
+       "destinos": [
+        {
+         "p": "PP03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-018",
+       "texto": "Condições da ação.",
+       "destinos": [
+        {
+         "p": "PP03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 12,
+     "rotulo": "12",
+     "frases": [
+      {
+       "id": "PPEN-019",
+       "texto": "Denúncia e Queixa-crime.",
+       "destinos": [
+        {
+         "p": "PP03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-020",
+       "texto": "Garantias do processo penal.",
+       "destinos": [
+        {
+         "p": "PP01.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 13,
+     "rotulo": "13",
+     "frases": [
+      {
+       "id": "PPEN-021",
+       "texto": "Ação civil ex delicto.",
+       "destinos": [
+        {
+         "p": "PP03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 14,
+     "rotulo": "14",
+     "frases": [
+      {
+       "id": "PPEN-022",
+       "texto": "O papel da vítima no processo penal.",
+       "destinos": [
+        {
+         "p": "PP03.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 15,
+     "rotulo": "15",
+     "frases": [
+      {
+       "id": "PPEN-023",
+       "texto": "Jurisdição e competência.",
+       "destinos": [
+        {
+         "p": "PP03.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 16,
+     "rotulo": "16",
+     "frases": [
+      {
+       "id": "PPEN-024",
+       "texto": "Sujeitos processuais.",
+       "destinos": [
+        {
+         "p": "PP03.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 17,
+     "rotulo": "17",
+     "frases": [
+      {
+       "id": "PPEN-025",
+       "texto": "O direito de defesa.",
+       "destinos": [
+        {
+         "p": "PP03.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-026",
+       "texto": "Autodefesa e defesa técnica.",
+       "destinos": [
+        {
+         "p": "PP03.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 18,
+     "rotulo": "18",
+     "frases": [
+      {
+       "id": "PPEN-027",
+       "texto": "Interrogatório.",
+       "destinos": [
+        {
+         "p": "PP04.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 19,
+     "rotulo": "19",
+     "frases": [
+      {
+       "id": "PPEN-028",
+       "texto": "Questões e processos incidentes.",
+       "destinos": [
+        {
+         "p": "PP06.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 20,
+     "rotulo": "20",
+     "frases": [
+      {
+       "id": "PPEN-029",
+       "texto": "Prova.",
+       "destinos": [
+        {
+         "p": "PP04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-030",
+       "texto": "Ônus da prova.",
+       "destinos": [
+        {
+         "p": "PP04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-031",
+       "texto": "Procedimento probatório.",
+       "destinos": [
+        {
+         "p": "PP04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-032",
+       "texto": "Garantias aplicáveis à proposição, produção e valoração da prova.",
+       "destinos": [
+        {
+         "p": "PP04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PP01.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-033",
+       "texto": "Meios de prova.",
+       "destinos": [
+        {
+         "p": "PP04.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PP04.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 21,
+     "rotulo": "21",
+     "frases": [
+      {
+       "id": "PPEN-034",
+       "texto": "Indícios no processo penal.",
+       "destinos": [
+        {
+         "p": "PP04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 22,
+     "rotulo": "22",
+     "frases": [
+      {
+       "id": "PPEN-035",
+       "texto": "Prisão em flagrante.",
+       "destinos": [
+        {
+         "p": "PP05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-036",
+       "texto": "Prisão preventiva.",
+       "destinos": [
+        {
+         "p": "PP05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-037",
+       "texto": "Prisão temporária.",
+       "destinos": [
+        {
+         "p": "PP05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-038",
+       "texto": "Prisão domiciliar.",
+       "destinos": [
+        {
+         "p": "PP05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-039",
+       "texto": "Relaxamento e liberdade provisória.",
+       "destinos": [
+        {
+         "p": "PP05.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-040",
+       "texto": "Medidas cautelares diversas da prisão.",
+       "destinos": [
+        {
+         "p": "PP05.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-041",
+       "texto": "A implantação das audiências de custódia.",
+       "destinos": [
+        {
+         "p": "PP05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 23,
+     "rotulo": "23",
+     "frases": [
+      {
+       "id": "PPEN-042",
+       "texto": "Medidas assecuratórias.",
+       "destinos": [
+        {
+         "p": "PP05.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 24,
+     "rotulo": "24",
+     "frases": [
+      {
+       "id": "PPEN-043",
+       "texto": "Citação, notificação e intimação.",
+       "destinos": [
+        {
+         "p": "PP06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 25,
+     "rotulo": "25",
+     "frases": [
+      {
+       "id": "PPEN-044",
+       "texto": "Revelia e suspensão condicional do processo.",
+       "destinos": [
+        {
+         "p": "PP06.01",
+         "papel": "principal",
+         "trecho": "Revelia",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PP07.03",
+         "papel": "principal",
+         "trecho": "suspensão condicional do processo",
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 26,
+     "rotulo": "26",
+     "frases": [
+      {
+       "id": "PPEN-045",
+       "texto": "Aplicação provisória de interdições e medida de segurança.",
+       "destinos": [
+        {
+         "p": "PP05.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 27,
+     "rotulo": "27",
+     "frases": [
+      {
+       "id": "PPEN-046",
+       "texto": "Sentença penal, motivação das decisões e coisa julgada.",
+       "destinos": [
+        {
+         "p": "PP08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 28,
+     "rotulo": "28",
+     "frases": [
+      {
+       "id": "PPEN-047",
+       "texto": "Emendatio libelli e mutatio libelli.",
+       "destinos": [
+        {
+         "p": "PP07.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 29,
+     "rotulo": "29",
+     "frases": [
+      {
+       "id": "PPEN-048",
+       "texto": "Processo e procedimento.",
+       "destinos": [
+        {
+         "p": "PP07.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-049",
+       "texto": "Pressupostos processuais.",
+       "destinos": [
+        {
+         "p": "PP07.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-050",
+       "texto": "Procedimento comum e especial.",
+       "destinos": [
+        {
+         "p": "PP07.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "PP07.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 30,
+     "rotulo": "30",
+     "frases": [
+      {
+       "id": "PPEN-051",
+       "texto": "Rito ordinário.",
+       "destinos": [
+        {
+         "p": "PP07.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-052",
+       "texto": "Rito sumário.",
+       "destinos": [
+        {
+         "p": "PP07.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-053",
+       "texto": "Rito sumaríssimo.",
+       "destinos": [
+        {
+         "p": "PP07.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 31,
+     "rotulo": "31",
+     "frases": [
+      {
+       "id": "PPEN-054",
+       "texto": "Juizados Especiais Criminais.",
+       "destinos": [
+        {
+         "p": "PP07.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 32,
+     "rotulo": "32",
+     "frases": [
+      {
+       "id": "PPEN-055",
+       "texto": "Procedimento relativo ao Tribunal do Júri.",
+       "destinos": [
+        {
+         "p": "PP07.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 33,
+     "rotulo": "33",
+     "frases": [
+      {
+       "id": "PPEN-056",
+       "texto": "Procedimentos especiais.",
+       "destinos": [
+        {
+         "p": "PP07.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 34,
+     "rotulo": "34",
+     "frases": [
+      {
+       "id": "PPEN-057",
+       "texto": "Nulidades.",
+       "destinos": [
+        {
+         "p": "PP06.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 35,
+     "rotulo": "35",
+     "frases": [
+      {
+       "id": "PPEN-058",
+       "texto": "Recursos.",
+       "destinos": [
+        {
+         "p": "PP09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 36,
+     "rotulo": "36",
+     "frases": [
+      {
+       "id": "PPEN-059",
+       "texto": "Ações de impugnação.",
+       "destinos": [
+        {
+         "p": "PP09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-060",
+       "texto": "Revisão criminal.",
+       "destinos": [
+        {
+         "p": "PP09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-061",
+       "texto": "Habeas corpus.",
+       "destinos": [
+        {
+         "p": "PP09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-062",
+       "texto": "Mandado de segurança contra ato jurisdicional penal.",
+       "destinos": [
+        {
+         "p": "PP09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 37,
+     "rotulo": "37",
+     "frases": [
+      {
+       "id": "PPEN-063",
+       "texto": "Execução penal.",
+       "destinos": [
+        {
+         "p": "EX01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX01.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX01.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX02.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX02.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX03.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX03.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX03.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX03.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX04.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX04.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX05.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX05.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX05.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX05.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX05.05",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX05.06",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX05.07",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX05.08",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX06.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX06.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX07.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX07.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX07.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX08.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX08.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX08.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX08.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX09.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX09.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX09.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX09.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX09.05",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "PPEN-064",
+       "texto": "Legislação federal e legislação estadual pertinente.",
+       "destinos": [
+        {
+         "p": "EX01.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "EX09.05",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 38,
+     "rotulo": "38",
+     "frases": [
+      {
+       "id": "PPEN-065",
+       "texto": "Aspectos processuais da legislação penal especial: abuso de autoridade; crimes hediondos; organização criminosa; tortura; crimes de menor potencial ofensivo; proteção a vítimas e a testemunhas; desarmamento; lei de drogas; violência doméstica e familiar contra a mulher; trânsito; meio ambiente; crimes de preconceito; crimes contra as relações de consumo; estatuto do idoso.",
+       "destinos": [
+        {
+         "p": "PP07.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 39,
+     "rotulo": "39",
+     "frases": [
+      {
+       "id": "PPEN-066",
+       "texto": "Prerrogativas e garantias dos defensores públicos relacionadas com o processo penal.",
+       "destinos": [
+        {
+         "p": "PP03.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 40,
+     "rotulo": "40",
+     "frases": [
+      {
+       "id": "PPEN-067",
+       "texto": "Assistência jurídica integral e gratuita: aspectos processuais.",
+       "destinos": [
+        {
+         "p": "PP03.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 41,
+     "rotulo": "41",
+     "frases": [
+      {
+       "id": "PPEN-068",
+       "texto": "Acordo de não persecução penal (ANPP)- artigo 28A do CPP.",
+       "destinos": [
+        {
+         "p": "PP07.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "DH",
+   "disciplina_banco": "Direitos Humanos",
+   "titulo_no_edital": "DIREITOS HUMANOS",
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "DH-001",
+       "texto": "Origem, sentido e evolução histórica dos Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "DH01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "DH-002",
+       "texto": "A sacralidade da pessoa e a dignidade humana.",
+       "destinos": [
+        {
+         "p": "DH01.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "DH-003",
+       "texto": "Os fundamentos filosóficos dos Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "DH01.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-004",
+       "texto": "Os direitos naturais do jusnaturalismo racional e do contratualismo moderno.",
+       "destinos": [
+        {
+         "p": "DH01.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-005",
+       "texto": "Os direitos fundamentais do juspositivismo.",
+       "destinos": [
+        {
+         "p": "DH01.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-006",
+       "texto": "Teoria crítica dos Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "DH01.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-007",
+       "texto": "A denúncia da mistificação ideológica dos direitos humanos abstratos.",
+       "destinos": [
+        {
+         "p": "DH01.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-008",
+       "texto": "A dificuldade de reconstrução dos direitos humanos na era da biopolítica: os limites da cidadania como direito a ter direitos, estado de exceção e campo de concentração como paradigmas políticos modernos.",
+       "destinos": [
+        {
+         "p": "DH01.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH01.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-009",
+       "texto": "Encantos e desencantos dos Direitos Humanos: entre dominação e emancipação.",
+       "destinos": [
+        {
+         "p": "DH01.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-010",
+       "texto": "Perspectivas pós-violatórias, estatais e monistas X pré-violatórias, existenciais e pluralistas para a proteção dos Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "DH01.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-011",
+       "texto": "Efeito encantatório e usos políticos dos Direitos Humanos: intervenções humanitárias e imperialismo dos Direitos Humanos (universalismo, relativismo e hermenêutica diatópica).",
+       "destinos": [
+        {
+         "p": "DH01.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH01.03",
+         "papel": "principal",
+         "trecho": "universalismo, relativismo e hermenêutica diatópica",
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-012",
+       "texto": "As tensões da Modernidade ocidental e as tensões dos Direitos Humanos: da colonialidade à descolonialidade.",
+       "destinos": [
+        {
+         "p": "DH01.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-013",
+       "texto": "Os Direitos Humanos na zona de contato entre globalizações rivais.",
+       "destinos": [
+        {
+         "p": "DH01.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-014",
+       "texto": "Os Direitos Humanos como bandeiras de lutas dos movimentos sociais.",
+       "destinos": [
+        {
+         "p": "DH01.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH07.05",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-015",
+       "texto": "A reconstrução contra-hegemônica dos Direitos Humanos: Direitos Humanos interculturais, pós-imperiais e descoloniais no horizonte pós-capitalista.",
+       "destinos": [
+        {
+         "p": "DH01.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "DH-016",
+       "texto": "Direito internacional dos Direitos Humanos: fontes, classificação, princípios, características e gerações de direitos humanos.",
+       "destinos": [
+        {
+         "p": "DH02.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH01.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-017",
+       "texto": "Normas de interpretação dos tratados de Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "DH02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-018",
+       "texto": "Resolução de conflitos ante a colisão de direitos humanos.",
+       "destinos": [
+        {
+         "p": "DH02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH02.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-019",
+       "texto": "A responsabilidade internacional por violação dos direitos humanos: tratados internacionais de direitos humanos e as obrigações assumidas pelo Brasil, formas de reparação e sanções coletivas e unilaterais.",
+       "destinos": [
+        {
+         "p": "DH02.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH02.06",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-020",
+       "texto": "A vigência e eficácia das normas do direito internacional dos Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "DH02.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH02.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-021",
+       "texto": "As possibilidades de aposição de reservas e de oferecer denúncia relativas aos tratados internacionais de Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "DH02.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-022",
+       "texto": "A incorporação dos tratados internacionais de proteção de direitos humanos ao direito brasileiro.",
+       "destinos": [
+        {
+         "p": "DH06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-023",
+       "texto": "A posição hierárquica dos tratados internacionais de Direitos Humanos em face da Constituição da República do Brasil.",
+       "destinos": [
+        {
+         "p": "DH06.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-024",
+       "texto": "O controle de convencionalidade.",
+       "destinos": [
+        {
+         "p": "DH06.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-025",
+       "texto": "O direito da autodiscriminação: discriminação direta e indireta e ações afirmativas.",
+       "destinos": [
+        {
+         "p": "DH08.11",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH08.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-026",
+       "texto": "A execução de decisões oriundas de tribunais internacionais de Direitos Humanos no Brasil.",
+       "destinos": [
+        {
+         "p": "DH06.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "DH-027",
+       "texto": "O sistema internacional de proteção e promoção dos Direitos Humanos: Organização das Nações Unidas (ONU).",
+       "destinos": [
+        {
+         "p": "DH03.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-028",
+       "texto": "Declarações, tratados, resoluções, comentários gerais, relatórios e normas de organização e funcionamento dos órgãos de supervisão, fiscalização e controle.",
+       "destinos": [
+        {
+         "p": "DH03.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH03.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-029",
+       "texto": "Órgãos convencionais e extraconvencionais.",
+       "destinos": [
+        {
+         "p": "DH03.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-030",
+       "texto": "Declaração Universal dos Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "DH03.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-031",
+       "texto": "Pacto Internacional dos Direitos Civis e Políticos (PIDCP).",
+       "destinos": [
+        {
+         "p": "DH03.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH09.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-032",
+       "texto": "Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos.",
+       "destinos": [
+        {
+         "p": "DH03.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH03.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-033",
+       "texto": "Segundo Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos visando à abolição da pena de morte.",
+       "destinos": [
+        {
+         "p": "DH03.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-034",
+       "texto": "Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (PIDESC).",
+       "destinos": [
+        {
+         "p": "DH03.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH10.11",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH10.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-035",
+       "texto": "Protocolo Facultativo ao Pacto Internacional de Direitos Econômicos, Sociais e Culturais.",
+       "destinos": [
+        {
+         "p": "DH03.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH03.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-036",
+       "texto": "Convenção para a Prevenção e Punição ao crime de genocídio.",
+       "destinos": [
+        {
+         "p": "DH05.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-037",
+       "texto": "Convenção Relativa ao Estatuto dos Refugiados.",
+       "destinos": [
+        {
+         "p": "DH05.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-038",
+       "texto": "Protocolo sobre o Estatuto dos Refugiados.",
+       "destinos": [
+        {
+         "p": "DH05.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-039",
+       "texto": "Convenção sobre a eliminação de todas as formas de discriminação racial.",
+       "destinos": [
+        {
+         "p": "DH08.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH08.11",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-040",
+       "texto": "Convenção sobre a eliminação de todas as formas de discriminação contra a mulher.",
+       "destinos": [
+        {
+         "p": "DH08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH08.11",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-041",
+       "texto": "Protocolo Facultativo à Convenção sobre a Eliminação de todas as Formas de Discriminação contra a Mulher.",
+       "destinos": [
+        {
+         "p": "DH08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH03.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-042",
+       "texto": "Convenção contra a tortura e outros tratamentos ou penas cruéis, desumanos ou degradantes.",
+       "destinos": [
+        {
+         "p": "DH09.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-043",
+       "texto": "Protocolo Facultativo à Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes.",
+       "destinos": [
+        {
+         "p": "DH09.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH09.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-044",
+       "texto": "Convenção sobre os direitos da criança.",
+       "destinos": [
+        {
+         "p": "DH08.07",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA01.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-045",
+       "texto": "Protocolos Opcionais à Convenção dos Direitos da Criança.",
+       "destinos": [
+        {
+         "p": "DH08.07",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA01.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-046",
+       "texto": "Estatuto de Roma sobre Tribunal Penal Internacional.",
+       "destinos": [
+        {
+         "p": "DH05.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-047",
+       "texto": "Convenção sobre os direitos da pessoa com deficiência.",
+       "destinos": [
+        {
+         "p": "DH08.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-048",
+       "texto": "Protocolo Facultativo à Convenção sobre os Direitos da Pessoa com Deficiência.",
+       "destinos": [
+        {
+         "p": "DH08.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH03.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-049",
+       "texto": "Convenção Internacional sobre a Proteção dos Direitos de Todos os Trabalhadores Migrantes e dos Membros das suas Famílias.",
+       "destinos": [
+        {
+         "p": "DH08.09",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-050",
+       "texto": "Convenção Internacional para a Proteção de Todas as Pessoas Contra o Desaparecimento Forçado.",
+       "destinos": [
+        {
+         "p": "DH10.08",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-051",
+       "texto": "Convenção relativa à proteção do patrimônio mundial, cultural e natural – “Declaração de Estocolmo”.",
+       "destinos": [
+        {
+         "p": "DH10.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-052",
+       "texto": "Carta Africana de Direitos Humanos e dos povos.",
+       "destinos": [
+        {
+         "p": "DH04.09",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-053",
+       "texto": "Declaração das Nações Unidas sobre os direitos dos povos indígenas.",
+       "destinos": [
+        {
+         "p": "DH08.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-054",
+       "texto": "Convenção sobre a diversidade biológica.",
+       "destinos": [
+        {
+         "p": "DH10.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH10.09",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "DH-055",
+       "texto": "Sistema Regional Interamericano de Proteção aos Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "DH04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-056",
+       "texto": "Organização dos Estados Americanos (OEA): declarações, tratados, resoluções, relatórios, informes, pareceres, jurisprudência (contenciosa e consultiva da Corte Interamericana de Direitos Humanos), normas de organização e funcionamento dos órgãos de supervisão, fiscalização e controle.",
+       "destinos": [
+        {
+         "p": "DH04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH04.08",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH04.06",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH04.07",
+         "papel": "principal",
+         "trecho": "jurisprudência (contenciosa e consultiva da Corte Interamericana de Direitos Humanos)",
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-057",
+       "texto": "Comissão Interamericana de Direitos Humanos: relatórios de casos, medidas cautelares, relatórios anuais e relatoria para a liberdade de expressão.",
+       "destinos": [
+        {
+         "p": "DH04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH04.02",
+         "papel": "principal",
+         "trecho": "relatórios de casos",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH04.03",
+         "papel": "principal",
+         "trecho": "medidas cautelares",
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH10.07",
+         "papel": "principal",
+         "trecho": "relatoria para a liberdade de expressão",
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-058",
+       "texto": "Corte Interamericana de Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "DH04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-059",
+       "texto": "Declaração Americana dos Direitos e Deveres do Homem.",
+       "destinos": [
+        {
+         "p": "DH04.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-060",
+       "texto": "Convenção Americana de Direitos Humanos.",
+       "destinos": [
+        {
+         "p": "DH04.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH09.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-061",
+       "texto": "Protocolo adicional à Convenção Americana sobre Direitos Humanos em matéria de direitos econômicos, sociais e culturais – “Protocolo de San Salvador”.",
+       "destinos": [
+        {
+         "p": "DH04.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH10.11",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-062",
+       "texto": "Convenção Interamericana para prevenir e punir a tortura.",
+       "destinos": [
+        {
+         "p": "DH04.08",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH09.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-063",
+       "texto": "Protocolo à Convenção Americana sobre direitos humanos relativo à abolição da pena de morte.",
+       "destinos": [
+        {
+         "p": "DH04.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-064",
+       "texto": "Convenção Interamericana para prevenir, punir e erradicar a violência contra mulher.",
+       "destinos": [
+        {
+         "p": "DH04.08",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH08.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-065",
+       "texto": "Convenção Interamericana sobre o desaparecimento forçado de pessoas.",
+       "destinos": [
+        {
+         "p": "DH04.08",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH10.08",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "DH-066",
+       "texto": "Convenção Interamericana sobre a eliminação de todas as formas de discriminação contra pessoas com deficiência.",
+       "destinos": [
+        {
+         "p": "DH04.08",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH08.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "DH-067",
+       "texto": "Direitos Humanos e acesso à justiça: o dever dos Estados de promover o acesso à justiça, 100 Regras de Brasília e desenvolvimentos no âmbito da Organização dos Estados Americanos relacionados à Defensoria Pública.",
+       "destinos": [
+        {
+         "p": "DH07.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH04.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "DH-068",
+       "texto": "Mecanismos de proteção aos direitos humanos na Constituição da República do Brasil.",
+       "destinos": [
+        {
+         "p": "DH07.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH06.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "DH-069",
+       "texto": "SUSAN- Sistema Único de Segurança Alimentar e Nutricional.",
+       "destinos": [
+        {
+         "p": "DH10.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "ECA",
+   "disciplina_banco": "Direito da Criança e do Adolescente",
+   "titulo_no_edital": "DIREITO DA CRIANCA E DO ADOLESCENTE, DO IDOSO, DA PESSOA COM DEFICIENCIA, DA",
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "ECA-001",
+       "texto": "Criança e Adolescente.",
+       "destinos": [
+        {
+         "p": "CA01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-002",
+       "texto": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990).",
+       "destinos": [
+        {
+         "p": "CA01.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA02.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA02.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA02.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA02.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA02.05",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA03.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA03.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA03.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA03.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA03.05",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA04.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA04.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA04.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA04.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA05.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA05.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA06.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA06.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA06.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA06.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA07.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA07.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA07.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA08.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-003",
+       "texto": "Lei do SINASE (Lei nº 12.594/1912).",
+       "destinos": [
+        {
+         "p": "CA06.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "ECA-004",
+       "texto": "Sistema de garantia de direitos da criança e do adolescente vítima ou testemunha de violência (Lei nº 13.431/2017 e Lei nº 14.344/2022).",
+       "destinos": [
+        {
+         "p": "CA02.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA04.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA05.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "ECA-005",
+       "texto": "Idoso.",
+       "destinos": [
+        {
+         "p": "DH08.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-006",
+       "texto": "Política Nacional do Idoso.",
+       "destinos": [
+        {
+         "p": "DH08.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-007",
+       "texto": "Estatuto do Idoso.",
+       "destinos": [
+        {
+         "p": "DH08.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV12.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-008",
+       "texto": "Lei nº 10.741, de 1º de outubro de 2003.",
+       "destinos": [
+        {
+         "p": "DH08.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CV12.02",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-009",
+       "texto": "Legislação e princípios institucionais da Defensoria Pública aplicáveis ao direito do idoso.",
+       "destinos": [
+        {
+         "p": "DH08.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-010",
+       "texto": "Legislação estadual de proteção ao idoso.",
+       "destinos": [
+        {
+         "p": "DH08.06",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "ECA-011",
+       "texto": "Pessoa com deficiência.",
+       "destinos": [
+        {
+         "p": "DH08.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-012",
+       "texto": "Convenção dos direitos das pessoas com deficiência e Lei Federal nº 7.853, de 24 de outubro de 1989.",
+       "destinos": [
+        {
+         "p": "DH08.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-013",
+       "texto": "Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015).",
+       "destinos": [
+        {
+         "p": "DH08.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-014",
+       "texto": "Inclusão social.",
+       "destinos": [
+        {
+         "p": "DH08.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-015",
+       "texto": "Saúde Pública.",
+       "destinos": [
+        {
+         "p": "DH08.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH10.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-016",
+       "texto": "Assistência Social.",
+       "destinos": [
+        {
+         "p": "DH08.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA04.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-017",
+       "texto": "Educação.",
+       "destinos": [
+        {
+         "p": "DH08.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA02.03",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-018",
+       "texto": "Serviços de relevância pública.",
+       "destinos": [
+        {
+         "p": "DH08.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-019",
+       "texto": "Acessibilidade.",
+       "destinos": [
+        {
+         "p": "DH08.04",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-020",
+       "texto": "Pessoas portadoras de transtornos mentais.",
+       "destinos": [
+        {
+         "p": "DH08.05",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH08.04",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-021",
+       "texto": "Mulher.",
+       "destinos": [
+        {
+         "p": "DH08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "ECA-022",
+       "texto": "Lei Maria da Penha (Lei nº 11.340/2006).",
+       "destinos": [
+        {
+         "p": "PE14.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH08.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-023",
+       "texto": "Gênero; violência de gênero; violência contra as mulheres.",
+       "destinos": [
+        {
+         "p": "DH08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-024",
+       "texto": "Formas de violência doméstica e familiar contra a mulher.",
+       "destinos": [
+        {
+         "p": "PE14.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH08.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-025",
+       "texto": "Medidas protetivas às vítimas de violência doméstica e familiar.",
+       "destinos": [
+        {
+         "p": "PE14.02",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH08.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-026",
+       "texto": "Atendimento obrigatório e integral de pessoas em situação de violência sexual (Lei nº 12.845/2013).",
+       "destinos": [
+        {
+         "p": "DH08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-027",
+       "texto": "Violência Obstétrica.",
+       "destinos": [
+        {
+         "p": "DH08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "DH08.12",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-028",
+       "texto": "Diretrizes Nacionais para o Abrigamento de Mulheres em Situação de Risco e de Violência.",
+       "destinos": [
+        {
+         "p": "DH08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-029",
+       "texto": "Rede de Enfrentamento à Violência contra as Mulheres e Rede de Atendimento à Mulher em Situação de Violência.",
+       "destinos": [
+        {
+         "p": "DH08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-030",
+       "texto": "Política Nacional de Enfrentamento à Violência contra as Mulheres.",
+       "destinos": [
+        {
+         "p": "DH08.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "ECA-031",
+       "texto": "Política Nacional para a População em Situação de Rua e seu Comitê Intersetorial de Acompanhamento e Monitoramento.",
+       "destinos": [
+        {
+         "p": "CA04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        },
+        {
+         "p": "CA05.01",
+         "papel": "secundario",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      },
+      {
+       "id": "ECA-032",
+       "texto": "Plano de Ação e Monitoramento para Efetivação da Política Nacional para a População em Situação de Rua.",
+       "destinos": [
+        {
+         "p": "CA05.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "ECA-033",
+       "texto": "ADPF 976 do STF.",
+       "destinos": [
+        {
+         "p": "CA07.03",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "herdado do edital geral v1"
+        }
+       ]
+      },
+      {
+       "id": "ECA-034",
+       "texto": "C03 - Analista da Defensoria – Auditor Interno",
+       "destinos": [
+        {
+         "p": "CA04.01",
+         "papel": "principal",
+         "trecho": null,
+         "origem": "decisao IA (rascunho)"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "topicos_propostos": []
+}

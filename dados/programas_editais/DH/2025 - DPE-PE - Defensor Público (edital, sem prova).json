@@ -1,0 +1,614 @@
+{
+ "pasta": "2025 - DPE-PE - Defensor Público (edital, sem prova)",
+ "banca": "FGV",
+ "disciplina": "DH",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITOS HUMANOS",
+   "caracteres": 8093,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Teoria geral dos direitos humanos."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Conceito, terminologia, estrutura normativa, fundamentação."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Teoria crítica dos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Afirmação histórica dos direitos humanos."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Origem, sentido e evolução histórica dos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Fundamentos filosóficos dos direitos humanos"
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Globalização e direitos humanos."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "A proteção internacional dos direitos humanos"
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Características dos direitos humanos no direito internacional."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Interpretação e aplicação dos tratados internacionais de proteção aos direitos humanos."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "As três vertentes da proteção internacional da pessoa humana."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Direitos humanos, direito humanitário e direito dos refugiados."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "A interligação entre o direito internacional e o direito interno na proteção dos direitos humanos."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Direitos humanos e a responsabilidade do Estado."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Direitos humanos na Constituição Federal."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Mecanismos de proteção aos direitos humanos na Constituição da República do Brasil."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Federalização de crimes contra os Direitos Humanos."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Remédios constitucionais."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Documentos históricos brasileiros."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "A Constituição brasileira e os tratados internacionais de direitos humanos."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Institucionalização dos direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "A incorporação dos tratados internacionais de proteção de direitos humanos ao direito brasileiro."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "A posição hierárquica dos tratados internacionais de Direitos Humanos em face da Constituição da República do Brasil."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Reflexos do Direito Internacional dos Direitos Humanos no direito brasileiro."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Política nacional de direitos humanos."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Programas nacionais de direitos humanos."
+     ]
+    },
+    {
+     "item": "17.1",
+     "frases": [
+      "Programa Nacional de Direitos Humanos I, II e III."
+     ]
+    },
+    {
+     "item": "17.2",
+     "frases": [
+      "Comissão Nacional da Verdade: histórico, atribuições, legislação, audiências públicas e relatórios."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Sistema internacional de proteção dos direitos humanos."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Universalismo, relativismo cultural e hermenêutica diatópica."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "O sistema da liga das nações."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "A Organização Internacional do Trabalho (OIT)."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Instrumentos internacionais de direitos humanos."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Os limites dos direitos humanos na ordem internacional."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Mecanismos de proteção contra as violações de direitos humanos."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Responsabilidade internacional em matéria de direitos humanos."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Regra do esgotamento dos recursos internos na proteção dos direitos humanos."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Mecanismo unilateral e mecanismo institucional ou coletivo."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "O sistema internacional de proteção e promoção dos Direitos Humanos: Organização das Nações Unidas (ONU).",
+      "Assembleia Geral.",
+      "DEFENSORIA PÚBLICA DO ESTADO DE PERNAMBUCO 41 Conselho de Segurança.",
+      "Conselho Econômico Social.",
+      "Conselho de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "28.1",
+     "frases": [
+      "Sistemas convencional e extraconvencional da ONU."
+     ]
+    },
+    {
+     "item": "28.2",
+     "frases": [
+      "Órgãos convencionais e extraconvencionais."
+     ]
+    },
+    {
+     "item": "28.3",
+     "frases": [
+      "Exame Periódico Universal."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "O núcleo de direito internacional dos direitos humanos."
+     ]
+    },
+    {
+     "item": "29.1",
+     "frases": [
+      "Carta das Nações Unidas."
+     ]
+    },
+    {
+     "item": "29.2",
+     "frases": [
+      "Declaração universal de direitos humanos."
+     ]
+    },
+    {
+     "item": "29.3",
+     "frases": [
+      "Pacto internacional de direitos civis e políticos (PIDCP)"
+     ]
+    },
+    {
+     "item": "29.4",
+     "frases": [
+      "Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos."
+     ]
+    },
+    {
+     "item": "29.5",
+     "frases": [
+      "Segundo Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos visando à abolição da pena de morte."
+     ]
+    },
+    {
+     "item": "29.6",
+     "frases": [
+      "Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (PIDESC)."
+     ]
+    },
+    {
+     "item": "29.7",
+     "frases": [
+      "Protocolo Facultativo ao Pacto Internacional de Direitos Econômicos, Sociais."
+     ]
+    },
+    {
+     "item": "29.8",
+     "frases": [
+      "Convenção para a Prevenção e Punição ao crime de genocídio."
+     ]
+    },
+    {
+     "item": "29.9",
+     "frases": [
+      "Convenção Relativa ao Estatuto dos Refugiados."
+     ]
+    },
+    {
+     "item": "29.10",
+     "frases": [
+      "Protocolo sobre o Estatuto dos Refugiados."
+     ]
+    },
+    {
+     "item": "29.11",
+     "frases": [
+      "Convenção sobre a eliminação de todas as formas de discriminação racial."
+     ]
+    },
+    {
+     "item": "29.12",
+     "frases": [
+      "Convenção sobre a eliminação de todas as formas de discriminação contra a mulher."
+     ]
+    },
+    {
+     "item": "29.13",
+     "frases": [
+      "Protocolo Facultativo à Convenção sobre a Eliminação de todas as Formas de Discriminação contra a Mulher."
+     ]
+    },
+    {
+     "item": "29.14",
+     "frases": [
+      "Convenção contra a tortura e outros tratamentos ou penas cruéis, desumanos ou degradantes."
+     ]
+    },
+    {
+     "item": "29.15",
+     "frases": [
+      "Protocolo Facultativo à Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes."
+     ]
+    },
+    {
+     "item": "29.16",
+     "frases": [
+      "Convenção sobre os direitos da criança."
+     ]
+    },
+    {
+     "item": "29.17",
+     "frases": [
+      "Protocolos Opcionais à Convenção dos Direitos da Criança."
+     ]
+    },
+    {
+     "item": "29.18",
+     "frases": [
+      "Estatuto de Roma sobre Tribunal Penal Internacional."
+     ]
+    },
+    {
+     "item": "29.19",
+     "frases": [
+      "Convenção sobre os direitos da pessoa com deficiência."
+     ]
+    },
+    {
+     "item": "29.20",
+     "frases": [
+      "Protocolo Facultativo à Convenção sobre os Direitos da Pessoa com Deficiência."
+     ]
+    },
+    {
+     "item": "29.21",
+     "frases": [
+      "Convenção Internacional sobre a Proteção dos Direitos de Todos os Trabalhadores Migrantes e dos Membros das suas Famílias."
+     ]
+    },
+    {
+     "item": "29.22",
+     "frases": [
+      "Convenção Internacional para a Proteção de Todas as Pessoas Contra o Desaparecimento Forçado."
+     ]
+    },
+    {
+     "item": "29.23",
+     "frases": [
+      "Convenção relativa à proteção do patrimônio mundial, cultural e natural – “Declaração de Estocolmo”."
+     ]
+    },
+    {
+     "item": "29.24",
+     "frases": [
+      "Declaração das Nações Unidas sobre os direitos dos povos indígenas."
+     ]
+    },
+    {
+     "item": "29.25",
+     "frases": [
+      "Convenção sobre a diversidade biológica."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Sistema Regional Africano de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Sistema Europeu de direitos humanos."
+     ]
+    },
+    {
+     "item": "31.1",
+     "frases": [
+      "Teoria da Margem de Apreciação Nacional."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Sistema Regional Interamericano de Proteção aos Direitos Humanos.",
+      "Organização dos Estados Americanos (OEA): declarações, tratados, resoluções, relatórios, informes, pareceres, jurisprudência (contenciosa e consultiva da Corte Interamericana de Direitos Humanos), normas de organização e funcionamento dos órgãos de supervisão, fiscalização e controle."
+     ]
+    },
+    {
+     "item": "32.1",
+     "frases": [
+      "Comissão Interamericana de Direitos Humanos: relatórios de casos, medidas cautelares, relatórios anuais e relatoria para a liberdade de expressão."
+     ]
+    },
+    {
+     "item": "32.2",
+     "frases": [
+      "Corte Interamericana de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "32.3",
+     "frases": [
+      "Teoria da Quarta Instância."
+     ]
+    },
+    {
+     "item": "32.4",
+     "frases": [
+      "Declaração Americana dos Direitos e Deveres do Homem."
+     ]
+    },
+    {
+     "item": "32.5",
+     "frases": [
+      "Convenção Americana de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "32.6",
+     "frases": [
+      "Protocolo adicional à Convenção Americana sobre Direitos Humanos em matéria de direitos econômicos, sociais e culturais – “Protocolo de San Salvador”."
+     ]
+    },
+    {
+     "item": "32.7",
+     "frases": [
+      "Convenção Interamericana para prevenir e punir a tortura."
+     ]
+    },
+    {
+     "item": "32.8",
+     "frases": [
+      "Protocolo à Convenção Americana sobre direitos humanos relativo à abolição da pena de morte."
+     ]
+    },
+    {
+     "item": "32.9",
+     "frases": [
+      "Convenção Interamericana para prevenir, punir e erradicar a violência contra mulher."
+     ]
+    },
+    {
+     "item": "32.10",
+     "frases": [
+      "Convenção Interamericana sobre o desaparecimento forçado de pessoas."
+     ]
+    },
+    {
+     "item": "32.11",
+     "frases": [
+      "Convenção Interamericana sobre a eliminação de todas as formas de discriminação contra pessoas portadoras de deficiência."
+     ]
+    },
+    {
+     "item": "32.12",
+     "frases": [
+      "Proteção dos direitos humanos no Mercosul."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Responsabilidade internacional dos estados por violações de direitos sociais, econômicos e culturais."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Mecanismos coletivos e afirmação do indivíduo como sujeito de direito internacional."
+     ]
+    },
+    {
+     "item": "35",
+     "frases": [
+      "Implementação das decisões de responsabilização internacional do Estado por violação de direitos humanos."
+     ]
+    },
+    {
+     "item": "35.1",
+     "frases": [
+      "O controle de convencionalidade."
+     ]
+    },
+    {
+     "item": "35.2",
+     "frases": [
+      "A execução de decisões oriundas de tribunais internacionais de Direitos Humanos no Brasil."
+     ]
+    },
+    {
+     "item": "36",
+     "frases": [
+      "Direito internacional dos Direitos Humanos: fontes, classificação, princípios, características e gerações de direitos humanos."
+     ]
+    },
+    {
+     "item": "36.1",
+     "frases": [
+      "Normas de interpretação dos tratados de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "36.2",
+     "frases": [
+      "Resolução de conflitos ante a colisão de direitos humanos."
+     ]
+    },
+    {
+     "item": "36.3",
+     "frases": [
+      "A responsabilidade internacional por violação dos direitos humanos: tratados internacionais de direitos humanos e as obrigações assumidas pelo Brasil, formas de reparação e sanções coletivas e unilaterais."
+     ]
+    },
+    {
+     "item": "36.4",
+     "frases": [
+      "A vigência e eficácia das normas do direito internacional dos Direitos Humanos."
+     ]
+    },
+    {
+     "item": "36.5",
+     "frases": [
+      "As possibilidades de aposição de reservas e de oferecer denúncia relativas aos tratados internacionais de Direitos Humanos."
+     ]
+    },
+    {
+     "item": "37",
+     "frases": [
+      "Direitos Humanos e acesso à justiça: o dever dos Estados de promover o acesso à justiça, 100 Regras de Brasília e desenvolvimentos no âmbito da Organização dos Estados Americanos relacionados à Defensoria Pública."
+     ]
+    },
+    {
+     "item": "38",
+     "frases": [
+      "Direitos Humanos em espécie e grupos vulneráveis."
+     ]
+    },
+    {
+     "item": "38.1",
+     "frases": [
+      "Direitos Humanos das minorias e de vítimas de injustiças históricas: Mulher, Negro, Criança e Adolescente, Idoso, Pessoa com Deficiência, Pessoas em situação de rua, Povos Indígenas, LGBT DEFENSORIA PÚBLICA DO ESTADO DE PERNAMBUCO 42 (lésbicas, gays, bissexuais, travestis, transexuais e transgêneros), Quilombolas, Sem-teto, Sem-terra, Imigrantes e Refugiados."
+     ]
+    },
+    {
+     "item": "39",
+     "frases": [
+      "Racismo estrutural e das relações étnico-raciais."
+     ]
+    }
+   ]
+  }
+ ]
+}

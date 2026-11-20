@@ -1,0 +1,448 @@
+{
+ "slug": "lingua-portuguesa",
+ "disciplina": "Língua Portuguesa",
+ "prefixo": "LP",
+ "versao_base": "v1",
+ "versao_alvo": "v2",
+ "criado_em": "2026-11-20T17:08:03",
+ "estado": "rascunho",
+ "assuntos": [
+  {
+   "uid": "v1:LP01",
+   "antigo": "LP01",
+   "nome": "Compreensão e interpretação de textos",
+   "descricao": "Leitura, contexto e discurso.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:LP01.01",
+     "antigo": "LP01.01",
+     "texto": "Compreensão e interpretação de textos de gêneros variados",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:LP01.02",
+     "antigo": "LP01.02",
+     "texto": "Contexto histórico e intertextualidade",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:LP01.04",
+     "antigo": "LP01.04",
+     "texto": "Discurso direto, discurso indireto e discurso indireto livre",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:LP02",
+   "antigo": "LP02",
+   "nome": "Semântica e figuras de linguagem",
+   "descricao": "Sentido das palavras e recursos expressivos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:LP01.03",
+     "antigo": "LP01.03",
+     "texto": "Denotação, conotação e sentido no contexto",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:LP01.05",
+     "antigo": "LP01.05",
+     "texto": "Sinonímia, antonímia e relações de sentido",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:LP02.01",
+     "antigo": "LP02.01",
+     "texto": "Figuras de linguagem",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:LP03",
+   "antigo": "LP03",
+   "nome": "Ortografia, acentuação e crase",
+   "descricao": "Grafia e acentuação das palavras.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:LP03.01",
+     "antigo": "LP03.01",
+     "texto": "Ortografia",
+     "descricao": "Inclui as regras do Acordo Ortográfico (confirmar).",
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "n:cf2c4efd",
+     "antigo": null,
+     "texto": "Acentuação gráfica",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto gramatical; confirmar)"
+    },
+    {
+     "uid": "v1:LP03.02",
+     "antigo": "LP03.02",
+     "texto": "Emprego do sinal indicativo de crase",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:LP04",
+   "antigo": "LP04",
+   "nome": "Morfologia",
+   "descricao": "Estrutura, classes e flexão das palavras.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:LP04.01",
+     "antigo": "LP04.01",
+     "texto": "Estrutura e formação de palavras",
+     "descricao": "Elementos estruturais e processos de formação.",
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "n:db42ccf8",
+     "antigo": null,
+     "texto": "Classes de palavras",
+     "descricao": "Substantivo, adjetivo, advérbio, preposição e demais classes (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto gramatical; confirmar)"
+    },
+    {
+     "uid": "v1:LP04.02",
+     "antigo": "LP04.02",
+     "texto": "Pronomes",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:LP04.03",
+     "antigo": "LP04.03",
+     "texto": "Flexão nominal",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "n:42f5b841",
+     "antigo": null,
+     "texto": "Flexão verbal",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto gramatical; confirmar)"
+    },
+    {
+     "uid": "v1:LP04.04",
+     "antigo": "LP04.04",
+     "texto": "Vozes do verbo",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:LP04.05",
+     "antigo": "LP04.05",
+     "texto": "Correlação de tempos e modos verbais",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:LP05",
+   "antigo": "LP05",
+   "nome": "Sintaxe e pontuação",
+   "descricao": "Estrutura das orações e dos períodos e seus sinais.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:LP05.01",
+     "antigo": "LP05.01",
+     "texto": "Morfossintaxe e funções sintáticas",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:LP05.02",
+     "antigo": "LP05.02",
+     "texto": "Coordenação e subordinação",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:LP05.03",
+     "antigo": "LP05.03",
+     "texto": "Conectivos",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:LP08.01",
+     "antigo": "LP08.01",
+     "texto": "Pontuação",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:LP06",
+   "antigo": "LP06",
+   "nome": "Concordância e regência",
+   "descricao": "Relações entre os termos da oração.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:LP06.01",
+     "antigo": "LP06.01",
+     "texto": "Concordância nominal",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "n:72f79f1b",
+     "antigo": null,
+     "texto": "Concordância verbal",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto gramatical; confirmar)"
+    },
+    {
+     "uid": "v1:LP07.01",
+     "antigo": "LP07.01",
+     "texto": "Regência nominal",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "n:7fc88142",
+     "antigo": null,
+     "texto": "Regência verbal",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto gramatical; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:LP09",
+   "antigo": "LP09",
+   "nome": "Redação e reescrita",
+   "descricao": "Clareza, coesão e reescrita de frases.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:LP09.01",
+     "antigo": "LP09.01",
+     "texto": "Reescrita, equivalência e transformação de estruturas",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:LP09.02",
+     "antigo": "LP09.02",
+     "texto": "Correção, clareza e coesão",
+     "descricao": "Reconhecimento de frases corretas e incorretas; substituição de repetições.",
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:LP09.03",
+     "antigo": "LP09.03",
+     "texto": "Organização e reorganização de orações e períodos",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "n:83a11bf5",
+     "antigo": null,
+     "texto": "Redação oficial",
+     "descricao": "Confirmar se é cobrado.",
+     "origem": "rascunho v2 (IA, esqueleto gramatical; confirmar)"
+    }
+   ]
+  }
+ ],
+ "lixeira": [],
+ "lixeira_assuntos": [
+  {
+   "uid": "v1:LP07",
+   "antigo": "LP07",
+   "nome": "Regência",
+   "descricao": null,
+   "apagado_em": "2026-11-20T17:08:03",
+   "rebaixado_para": "v1:LP07.01",
+   "nota": null
+  },
+  {
+   "uid": "v1:LP08",
+   "antigo": "LP08",
+   "nome": "Pontuação",
+   "descricao": null,
+   "apagado_em": "2026-11-20T17:08:03",
+   "rebaixado_para": "v1:LP08.01",
+   "nota": null
+  }
+ ],
+ "base_v1": {
+  "assuntos": {
+   "v1:LP01": {
+    "codigo": "LP01",
+    "nome": "Compreensão e interpretação de textos"
+   },
+   "v1:LP02": {
+    "codigo": "LP02",
+    "nome": "Figuras de linguagem"
+   },
+   "v1:LP03": {
+    "codigo": "LP03",
+    "nome": "Ortografia, acentuação e crase"
+   },
+   "v1:LP04": {
+    "codigo": "LP04",
+    "nome": "Morfologia e formação de palavras"
+   },
+   "v1:LP05": {
+    "codigo": "LP05",
+    "nome": "Sintaxe"
+   },
+   "v1:LP06": {
+    "codigo": "LP06",
+    "nome": "Concordância"
+   },
+   "v1:LP07": {
+    "codigo": "LP07",
+    "nome": "Regência"
+   },
+   "v1:LP08": {
+    "codigo": "LP08",
+    "nome": "Pontuação"
+   },
+   "v1:LP09": {
+    "codigo": "LP09",
+    "nome": "Redação e reescrita"
+   }
+  },
+  "pontos": {
+   "v1:LP01.01": {
+    "codigo": "LP01.01",
+    "texto": "Compreensão e interpretação de textos de gêneros variados",
+    "assunto_uid": "v1:LP01"
+   },
+   "v1:LP01.02": {
+    "codigo": "LP01.02",
+    "texto": "Relação do texto com seu contexto histórico e intertextualidade",
+    "assunto_uid": "v1:LP01"
+   },
+   "v1:LP01.03": {
+    "codigo": "LP01.03",
+    "texto": "Denotação, conotação e sentido de palavras e expressões no contexto",
+    "assunto_uid": "v1:LP01"
+   },
+   "v1:LP01.04": {
+    "codigo": "LP01.04",
+    "texto": "Discurso direto, discurso indireto e discurso indireto livre",
+    "assunto_uid": "v1:LP01"
+   },
+   "v1:LP01.05": {
+    "codigo": "LP01.05",
+    "texto": "Sinonímia, antonímia e relações de sentido",
+    "assunto_uid": "v1:LP01"
+   },
+   "v1:LP02.01": {
+    "codigo": "LP02.01",
+    "texto": "Figuras de linguagem",
+    "assunto_uid": "v1:LP02"
+   },
+   "v1:LP03.01": {
+    "codigo": "LP03.01",
+    "texto": "Ortografia e acentuação",
+    "assunto_uid": "v1:LP03"
+   },
+   "v1:LP03.02": {
+    "codigo": "LP03.02",
+    "texto": "Emprego do sinal indicativo de crase",
+    "assunto_uid": "v1:LP03"
+   },
+   "v1:LP04.01": {
+    "codigo": "LP04.01",
+    "texto": "Elementos estruturais e processos de formação de palavras",
+    "assunto_uid": "v1:LP04"
+   },
+   "v1:LP04.02": {
+    "codigo": "LP04.02",
+    "texto": "Pronomes",
+    "assunto_uid": "v1:LP04"
+   },
+   "v1:LP04.03": {
+    "codigo": "LP04.03",
+    "texto": "Flexão nominal e flexão verbal",
+    "assunto_uid": "v1:LP04"
+   },
+   "v1:LP04.04": {
+    "codigo": "LP04.04",
+    "texto": "Vozes do verbo",
+    "assunto_uid": "v1:LP04"
+   },
+   "v1:LP04.05": {
+    "codigo": "LP04.05",
+    "texto": "Correlação de tempos e modos verbais",
+    "assunto_uid": "v1:LP04"
+   },
+   "v1:LP05.01": {
+    "codigo": "LP05.01",
+    "texto": "Morfossintaxe e funções sintáticas",
+    "assunto_uid": "v1:LP05"
+   },
+   "v1:LP05.02": {
+    "codigo": "LP05.02",
+    "texto": "Coordenação e subordinação",
+    "assunto_uid": "v1:LP05"
+   },
+   "v1:LP05.03": {
+    "codigo": "LP05.03",
+    "texto": "Conectivos",
+    "assunto_uid": "v1:LP05"
+   },
+   "v1:LP06.01": {
+    "codigo": "LP06.01",
+    "texto": "Concordância nominal e concordância verbal",
+    "assunto_uid": "v1:LP06"
+   },
+   "v1:LP07.01": {
+    "codigo": "LP07.01",
+    "texto": "Regência nominal e regência verbal",
+    "assunto_uid": "v1:LP07"
+   },
+   "v1:LP08.01": {
+    "codigo": "LP08.01",
+    "texto": "Pontuação",
+    "assunto_uid": "v1:LP08"
+   },
+   "v1:LP09.01": {
+    "codigo": "LP09.01",
+    "texto": "Reescrita, equivalência e transformação de estruturas",
+    "assunto_uid": "v1:LP09"
+   },
+   "v1:LP09.02": {
+    "codigo": "LP09.02",
+    "texto": "Reconhecimento de frases corretas e incorretas; clareza, coesão e substituição de repetições",
+    "assunto_uid": "v1:LP09"
+   },
+   "v1:LP09.03": {
+    "codigo": "LP09.03",
+    "texto": "Organização e reorganização de orações e períodos",
+    "assunto_uid": "v1:LP09"
+   }
+  }
+ },
+ "historico": {
+  "passado": [],
+  "futuro": []
+ },
+ "atualizado_em": "2026-11-20T17:08:03"
+}

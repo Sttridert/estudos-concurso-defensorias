@@ -1,0 +1,501 @@
+{
+ "pasta": "2021 - DPE-TO - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 2951,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Constituição."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Conceito, objeto, elementos e classificações."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Supremacia da Constituição."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Aplicabilidade das normas constitucionais."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Interpretação das normas constitucionais."
+     ]
+    },
+    {
+     "item": "1.4.1",
+     "frases": [
+      "Métodos, princípios e limites."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Poder constituinte."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Poder constituinte originário."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Poder constituinte derivado."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Princípios fundamentais."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Direitos e deveres individuais e coletivos."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Habeas corpus, mandado de segurança, mandado de injunção e habeas data."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Direitos sociais."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Nacionalidade."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Direitos políticos."
+     ]
+    },
+    {
+     "item": "4.6",
+     "frases": [
+      "Partidos políticos."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Organização do Estado."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Organização político-administrativa."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Estado federal brasileiro."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "A União."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Estados federados."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Municípios."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "O Distrito Federal."
+     ]
+    },
+    {
+     "item": "5.7",
+     "frases": [
+      "Territórios."
+     ]
+    },
+    {
+     "item": "5.8",
+     "frases": [
+      "Intervenção federal."
+     ]
+    },
+    {
+     "item": "5.9",
+     "frases": [
+      "Intervenção dos estados nos municípios."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Administração pública."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Servidores públicos."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Militares dos estados, do Distrito Federal e dos territórios."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Organização dos poderes no Estado."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Mecanismos de freios e contrapesos."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Poder Legislativo."
+     ]
+    },
+    {
+     "item": "7.2.1",
+     "frases": [
+      "Estrutura, funcionamento e atribuições."
+     ]
+    },
+    {
+     "item": "7.2.2",
+     "frases": [
+      "Comissões parlamentares de inquérito."
+     ]
+    },
+    {
+     "item": "7.2.3",
+     "frases": [
+      "Fiscalização contábil, financeira e orçamentária."
+     ]
+    },
+    {
+     "item": "7.2.4",
+     "frases": [
+      "Tribunal de Contas da União (TCU)."
+     ]
+    },
+    {
+     "item": "7.2.5",
+     "frases": [
+      "Processo legislativo."
+     ]
+    },
+    {
+     "item": "7.2.6",
+     "frases": [
+      "Prerrogativas parlamentares."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Poder Executivo."
+     ]
+    },
+    {
+     "item": "7.3.1",
+     "frases": [
+      "Presidente da República."
+     ]
+    },
+    {
+     "item": "7.3.1.1",
+     "frases": [
+      "Atribuições, prerrogativas e responsabilidades."
+     ]
+    },
+    {
+     "item": "7.3.2",
+     "frases": [
+      "Ministros de Estado."
+     ]
+    },
+    {
+     "item": "7.3.3",
+     "frases": [
+      "Conselho da República e de Defesa Nacional."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Poder Judiciário."
+     ]
+    },
+    {
+     "item": "7.4.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "7.4.2",
+     "frases": [
+      "Órgãos do Poder Judiciário."
+     ]
+    },
+    {
+     "item": "7.4.2.1",
+     "frases": [
+      "Organização e competências."
+     ]
+    },
+    {
+     "item": "7.4.3",
+     "frases": [
+      "Conselho Nacional de Justiça (CNJ)."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Funções essenciais à justiça."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Ministério Público."
+     ]
+    },
+    {
+     "item": "8.1.1",
+     "frases": [
+      "Princípios, garantias, vedações, organização e competências."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Advocacia pública."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Advocacia e Defensoria Pública."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Controle da constitucionalidade."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Sistemas gerais e sistema brasileiro."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Controle incidental ou concreto."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Controle abstrato de constitucionalidade."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Exame in abstractu da constitucionalidade de proposições legislativas."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Ação declaratória de constitucionalidade."
+     ]
+    },
+    {
+     "item": "9.6",
+     "frases": [
+      "Ação direta de inconstitucionalidade."
+     ]
+    },
+    {
+     "item": "9.7",
+     "frases": [
+      "Arguição de descumprimento de preceito fundamental."
+     ]
+    },
+    {
+     "item": "9.8",
+     "frases": [
+      "Ação direta de inconstitucionalidade por omissão."
+     ]
+    },
+    {
+     "item": "9.9",
+     "frases": [
+      "Ação direta de inconstitucionalidade interventiva."
+     ]
+    },
+    {
+     "item": "9.10",
+     "frases": [
+      "Controle concreto e abstrato de constitucionalidade do direito municipal."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Defesa do Estado e das instituições democráticas."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Sistema Tributário Nacional."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Princípios gerais."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Limitações do poder de tributar."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "Impostos da União, dos estados e dos municípios."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Repartição das receitas tributárias."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Finanças públicas."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Normas gerais."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Orçamentos."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Ordem econômica e financeira."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Princípios gerais da atividade econômica."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Política urbana, agrícola e fundiária e reforma agrária."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Sistema Financeiro Nacional."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Ordem social."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "disciplina": "Direito Processual Penal",
+ "sem_acento": true,
+ "herdar_do_pai": true,
+ "temas": [
+  {
+   "codigo": "PP01",
+   "nome": "Noções gerais, sistemas e princípios do processo penal"
+  },
+  {
+   "codigo": "PP02",
+   "nome": "Investigação criminal"
+  },
+  {
+   "codigo": "PP03",
+   "nome": "Ação penal, jurisdição e sujeitos do processo"
+  },
+  {
+   "codigo": "PP04",
+   "nome": "Provas"
+  },
+  {
+   "codigo": "PP05",
+   "nome": "Prisões, medidas cautelares e liberdade"
+  },
+  {
+   "codigo": "PP06",
+   "nome": "Atos processuais, comunicação, prazos e nulidades"
+  },
+  {
+   "codigo": "PP07",
+   "nome": "Procedimentos"
+  },
+  {
+   "codigo": "PP08",
+   "nome": "Sentença e coisa julgada"
+  },
+  {
+   "codigo": "PP09",
+   "nome": "Recursos e ações autônomas de impugnação"
+  }
+ ],
+ "topicos": [
+  {
+   "codigo": "PP01.01",
+   "tema": "PP01",
+   "nome": "Sistemas processuais, fontes e aplicação da lei processual penal",
+   "regex": "sistemas processuais|inquisitorio e acusatorio|inquisitorio|acusatorio|fontes|interpretacao|integracao|lei processual penal|aplicacao da lei processual|disposicoes (gerais|preliminares)|relacoes jurisdicionais|autoridade estrangeira|natureza|processo penal: conceito|disposicoes gerais do codigo|13\\.964|pacote anticrime|processo, procedimento e relacao|tipos de processo penal|processo penal brasileiro|processo penal constitucional|pretensao punitiva|fundamentos do direito de punir|relacoes entre jurisdicao civil|resolucoes e manuais do conselho nacional de justica|legislacao federal e legislacao estadual"
+  },
+  {
+   "codigo": "PP01.02",
+   "tema": "PP01",
+   "nome": "Princípios e garantias constitucionais e convencionais do processo penal",
+   "regex": "principios|garantias|devido processo|direitos e garantias aplicaveis|constituicao federal|tratados e convencoes|presuncao de inocencia|contraditorio|ampla defesa|disposicoes constitucionais aplicaveis|violencia policial|racismo estrutural|verdade|garantismo|processo penal feminista|perspectivas de genero|racismo algoritmico|atuacao interdisciplinar|defesa dos direitos humanos|decreto n.{0,3}678|convencao americana"
+  },
+  {
+   "codigo": "PP02.01",
+   "tema": "PP02",
+   "nome": "Inquérito policial, investigação preliminar e juiz das garantias",
+   "regex": "inquerito|investigacao preliminar|sistemas de investigacao|juiz de garantias|identificacao criminal|perfil genetico|termo circunstanciado|investigacao criminal|arquivamento|policia judiciaria|investigacao|fase pre-processual"
+  },
+  {
+   "codigo": "PP03.01",
+   "tema": "PP03",
+   "nome": "Ação penal: espécies, condições, denúncia, queixa e ação civil ex delicto",
+   "regex": "acao penal|condicoes da acao|denuncia|queixa|acao civil ex delicto|pressupostos processuais|representacao|justa causa|aditamento|elementos identificadores da relacao processual|relacao processual"
+  },
+  {
+   "codigo": "PP03.02",
+   "tema": "PP03",
+   "nome": "Jurisdição e competência",
+   "regex": "jurisdicao e competencia|^jurisdicao|competencia|conexao|continencia|prevencao|desaforamento|foro"
+  },
+  {
+   "codigo": "PP03.03",
+   "tema": "PP03",
+   "nome": "Sujeitos processuais, vítima, Ministério Público e Defensoria",
+   "regex": "sujeitos|^juiz|ministerio publico|assistente|auxiliares da justica|papel da vitima|vitima|defensores publicos|prerrogativas|custos vulnerabilis|assistencia juridica|acusado|defensoria|do juiz"
+  },
+  {
+   "codigo": "PP03.04",
+   "tema": "PP03",
+   "nome": "Direito de defesa: autodefesa e defesa técnica",
+   "regex": "autodefesa|defesa tecnica|direito de defesa|a defesa no processo penal"
+  },
+  {
+   "codigo": "PP04.01",
+   "tema": "PP04",
+   "nome": "Teoria geral da prova: ônus, indícios, provas ilícitas e cadeia de custódia",
+   "regex": "^provas?\\.?$|^prova\\b|procedimento probatorio|onus da prova|indicios|provas ilicitas|cadeia de custodia|valoracao|garantias aplicaveis a proposicao|admissibilidade, producao|prova no processo penal|prova e verdade|sistemas de apreciacao|prova emprestada|meios de prova\\.?$"
+  },
+  {
+   "codigo": "PP04.02",
+   "tema": "PP04",
+   "nome": "Meios de prova: interrogatório, confissão, testemunhas, perícia e reconhecimento",
+   "regex": "interrogatorio|confissao|testemunhas?|reconhecimento de pessoas|pericia|exame de corpo|documentos|acareacao|declaracoes do ofendido|prova pericial|prova testemunhal|prova documental|meios de prova"
+  },
+  {
+   "codigo": "PP04.03",
+   "tema": "PP04",
+   "nome": "Meios de obtenção de prova: busca, interceptação, sigilo e colaboração premiada",
+   "regex": "meios de obtencao|busca e apreensao|interceptacao|9\\.296|quebra de sigilo|delacao|colaboracao premiada|prova digital|captacao ambiental|acao controlada|infiltracao|novas tecnologias|tecnologia"
+  },
+  {
+   "codigo": "PP05.01",
+   "tema": "PP05",
+   "nome": "Prisões: flagrante, preventiva, temporária, domiciliar e audiência de custódia",
+   "regex": "prisao em flagrante|prisao preventiva|prisao temporaria|prisao domiciliar|audiencias? de custodia|prisao e liberdade|prisao, medidas cautelares|^prisao|gestantes|recomendacoes n.{0,4}62|68/2020|405/2021"
+  },
+  {
+   "codigo": "PP05.02",
+   "tema": "PP05",
+   "nome": "Medidas cautelares, liberdade provisória, fiança e medidas assecuratórias",
+   "regex": "medidas cautelares|relaxamento|liberdade provisoria|fianca|medidas assecuratorias|sequestro|hipoteca legal|arresto|aplicacao provisoria de interdicoes|aplicacao provisoria|medidas de seguranca"
+  },
+  {
+   "codigo": "PP06.01",
+   "tema": "PP06",
+   "nome": "Atos processuais, citação, intimação, prazos e revelia",
+   "regex": "atos processuais|citacao|citacoes|notificacao|intimacao|intimacoes|prazos|revelia|comunicacao de atos|atos judiciais|tempo e lugar|caracteristicas, principios e contagem|11\\.419|informatizacao do processo"
+  },
+  {
+   "codigo": "PP06.02",
+   "tema": "PP06",
+   "nome": "Nulidades e preclusão",
+   "regex": "nulidades|nulidade|preclusao|irregularidades"
+  },
+  {
+   "codigo": "PP06.03",
+   "tema": "PP06",
+   "nome": "Questões e processos incidentes",
+   "regex": "questoes e processos incidentes|questoes prejudiciais|excecoes|incompatibilidades|restituicao das coisas apreendidas|incidente de insanidade|incidentes"
+  },
+  {
+   "codigo": "PP07.01",
+   "tema": "PP07",
+   "nome": "Procedimento comum: ordinário, sumário e sumaríssimo",
+   "regex": "procedimento comum|rito ordinario|rito sumario|rito sumarissimo|processo e procedimento|emendatio|mutatio|resposta a acusacao|absolvicao sumaria|audiencia de instrucao|^procedimentos\\.?$|processo comum|formas do procedimento"
+  },
+  {
+   "codigo": "PP07.02",
+   "tema": "PP07",
+   "nome": "Tribunal do Júri",
+   "regex": "\\bjuri\\b|tribunal do juri|jurados|pronuncia|plenario|quesitos|desaforamento"
+  },
+  {
+   "codigo": "PP07.03",
+   "tema": "PP07",
+   "nome": "Procedimentos especiais, Juizados Criminais, ANPP e suspensão condicional do processo",
+   "regex": "procedimentos especiais|juizados especiais criminais|9\\.099|acordo de nao persecucao|nao persecucao|suspensao condicional do processo|transacao penal|composicao dos danos|justica penal negocial|restauracao de autos"
+  },
+  {
+   "codigo": "PP07.04",
+   "tema": "PP07",
+   "nome": "Aspectos processuais da legislação penal especial",
+   "regex": "aspectos processuais da legislacao penal especial|abuso de autoridade|crimes hediondos|lei de drogas|maria da penha|crime organizado|legislacao penal especial|11\\.340|13\\.260|12\\.850|13\\.344|9\\.503|codigo de transito|14\\.069|antiterrorismo|trafico de pessoas|12\\.681|sinesp|12\\.594|sinase|crimes de responsabilidade dos funcionarios"
+  },
+  {
+   "codigo": "PP08.01",
+   "tema": "PP08",
+   "nome": "Sentença penal, motivação, efeitos e coisa julgada",
+   "regex": "senten|coisa julgada|efeitos da sentenca|motivacao das decisoes|fundamentacao das decisoes|^efeitos\\.?$"
+  },
+  {
+   "codigo": "PP09.01",
+   "tema": "PP09",
+   "nome": "Teoria geral dos recursos e recursos em espécie",
+   "regex": "recursos|apelacao|recurso em sentido estrito|embargos|agravo|carta testemunhavel|recurso especial|recurso extraordinario|correicao parcial|11\\.417|11\\.418|sumula vinculante|repercussao geral"
+  },
+  {
+   "codigo": "PP09.02",
+   "tema": "PP09",
+   "nome": "Habeas corpus, revisão criminal e mandado de segurança criminal",
+   "regex": "habeas corpus|revisao criminal|mandado de seguranca|acoes de impugnacao|reclamacao|acoes autonomas"
+  }
+ ],
+ "outra_disciplina": {
+  "Execução Penal": "execucao penal|7\\.210|lei de execucao|remicao|livramento condicional|autorizacoes de saida|regras de mandela|jurisdicionalizacao da execucao|sistema progressivo|cadeia publica|estabelecimentos penais|resolucao n.{0,4}113|execucao das medidas de seguranca|execucao da pena|execucao de penas|reforma psiquiatrica|indeterminacao da pena|direitos dos familiares de pessoas presas|progressao de regime|faltas disciplinares|saidas temporarias|regime disciplinar diferenciado|sanc?oes disciplinares|inspecao de presidios|monitoramento e inspecao|regras minimas|convencao interamericana para prevenir|10\\.216|presidios|tortura|superlotacao prisional|revista intima|revista vexatoria|condenado e do internado",
+  "Direito Penal": "crimes? contra|codigo penal|teoria do crime|lei penal",
+  "Constituição estadual e leis locais (conteúdo local)": "constituicao do estado|lei estadual|lei municipal|regimento interno do tj",
+  "Direito Militar": "processo penal militar|codigo de processo penal militar",
+  "Texto do edital (não é conteúdo)": "diario oficial eletronico|diario oficial|pagina \\d+|publicado no diario|edital n.{0,4}\\d|0800|defensoria publica do estado de|concurso publico \\d+",
+  "Criminologia": "minimalismo penal|criminalizacao (primaria|secundaria)|pensamento criminologico|politica criminal|positivismo criminologico|encarceramento|sistema penal e controle social|prisionizacao|abolicionismo|criminologia|relacoes de poder penitenciarias|selet?ividade penal|teoria do etiquetamento|labeling"
+ },
+ "congelada": "v1 em 14/11/2026",
+ "fragmentos_genericos": "^(disposicoes (gerais|comuns|finais)|classificacoes?|conceito|conceitos|principios|caracteristicas|natureza|requisitos|efeitos|especies|elementos|fontes|objeto|fases|forma|audiencias|aspectos processuais|estrutura|competencia|procedimento|generalidades|noções|nocoes|jurisprudencia.*|enunciados.*|legislacao (pertinente|especial|federal.*)|demais aspectos.*)\\.?$"
+}

@@ -1,0 +1,813 @@
+{
+ "nome": "DPE-AM 2026 · VI Concurso · Analista Jurídico (Ciência Jurídica) · Direito Penal",
+ "tipo": "real",
+ "banca": "FCC",
+ "carreira": "Defensoria Pública",
+ "cargo": "Analista Jurídico",
+ "ano": 2026,
+ "disciplina": "Direito Penal",
+ "arquivo": "provas/2026 - DPE-AM - Analista Jurídico (edital, sem prova)/1. edital.pdf",
+ "descricao": "Edital 01/2026 (VI Concurso de Servidores Auxiliares da DPE-AM, FCC), cargo R, Analista Jurídico de Defensoria · Ciência Jurídica; 20 questões de Conhecimentos Gerais (peso 1) e 40 de Específicos (peso 2). Programa de Direito Penal (Anexo II) = itens 1 a 9 (71 frases). Mapeamento dos itens para pontos feito pela IA (rascunho). Erros do próprio edital mantidos ipsis litteris: 'Lei de Drogas (Lei nº 15.343/06)' (a lei é a 11.343/06) e 'Abuso de Autoridade (Lei nº 16.869/2019)' (a lei é a 13.869/2019).",
+ "observacao_bloco": "Lei 10.216/2001 (saúde mental) não consta do programa de Penal; está no bloco 'Direito da Criança e do Adolescente, do Idoso, da Pessoa com Deficiência e da Mulher'. Aqui foi ligada a 'Culpabilidade e periculosidade' e 'Imputabilidade'.",
+ "programa": [
+  {
+   "item": "1",
+   "topicos": [
+    "Direito penal: conceito, fontes, objetivos.",
+    "Princípios penais.",
+    "Direito penal e poder punitivo.",
+    "Genealogia do pensamento penal.",
+    "As escolas penais.",
+    "Modernas tendências do pensamento penal.",
+    "Evolução histórica do Direito Penal.",
+    "História do processo de criminalização no Brasil."
+   ]
+  },
+  {
+   "item": "2",
+   "topicos": [
+    "Política criminal e penitenciária no Brasil.",
+    "As escolas criminológicas.",
+    "Sistema penal e controle social.",
+    "Processo de criminalização.",
+    "Vitimologia e vitimização.",
+    "Polícia e Sistema Penal.",
+    "O encarceramento no Brasil: dados e perspectivas.",
+    "O sistema penal brasileiro.",
+    "Modernas tendências do pensamento criminológico e de política criminal.",
+    "Mídia e sistema penal.",
+    "Prisão: prisonização e relações de poder penitenciárias.",
+    "Análises criminológicas concretas."
+   ]
+  },
+  {
+   "item": "3",
+   "topicos": [
+    "Constituição e Direito Penal.",
+    "O Direito Penal e o Estado Democrático de Direito.",
+    "Direito Penal e Direitos Humanos.",
+    "Direitos humanos e processo de criminalização.",
+    "Aplicação e interpretação da lei penal."
+   ]
+  },
+  {
+   "item": "4",
+   "topicos": [
+    "Teoria do delito: evolução histórica, elementos do crime.",
+    "Bem jurídico-penal.",
+    "Modernas tendências da teoria do delito."
+   ]
+  },
+  {
+   "item": "5",
+   "topicos": [
+    "Tipicidade: tipo penal, conduta (ação e omissão), nexo de causalidade, resultado.",
+    "Iter criminis.",
+    "Desistência voluntária e arrependimento eficaz.",
+    "Dolo.",
+    "Culpa.",
+    "Imputação objetiva."
+   ]
+  },
+  {
+   "item": "6",
+   "topicos": [
+    "Ilicitude: conceito.",
+    "O injusto penal.",
+    "Direito Penal e moral.",
+    "Excludentes da ilicitude."
+   ]
+  },
+  {
+   "item": "7",
+   "topicos": [
+    "Culpabilidade: conceito, evolução histórica, estrutura.",
+    "Princípio da culpabilidade.",
+    "Culpabilidade e liberdade.",
+    "Culpabilidade e periculosidade.",
+    "Culpabilidade e vulnerabilidade.",
+    "Direito Penal do fato e Direito Penal do autor.",
+    "Imputabilidade.",
+    "Inexigibilidade de conduta diversa.",
+    "Excludentes da culpabilidade."
+   ]
+  },
+  {
+   "item": "8",
+   "topicos": [
+    "Arrependimento posterior.",
+    "Crime impossível.",
+    "Concurso de agentes.",
+    "Erro no Direito Penal.",
+    "Punibilidade.",
+    "Concurso de crimes."
+   ]
+  },
+  {
+   "item": "9",
+   "topicos": [
+    "Pena: evolução histórica, espécies, aplicação.",
+    "Teorias da pena.",
+    "Modernas tendências das teorias da pena.",
+    "Circunstâncias Judiciais.",
+    "Agravantes e Atenuantes.",
+    "Causas de Aumento e de Diminuição.",
+    "Cálculo da Pena.",
+    "Extinção da punibilidade.",
+    "Suspensão condicional da pena.",
+    "Reabilitação.",
+    "Crimes em espécie.",
+    "Crimes contra a pessoa.",
+    "Crimes contra o patrimônio.",
+    "Crimes contra a dignidade sexual.",
+    "Crimes contra a administração pública.",
+    "Crimes contra o Estado Democrático de Direito.",
+    "Legislação Penal Especial: Estatuto do Desarmamento (Lei nº 10.826/03 e Decreto n. 9.847/19), Crimes Hediondos (Lei nº 8.072/90), Lei de Drogas (Lei nº 15.343/06), Violência Doméstica (Lei nº 11.340/06), Crime Organizado (Lei nº 12.850/13), Crimes de Trânsito (Lei nº 9.503/97), Lei de Tortura (Lei nº 9.455/97), Crimes Ambientais (Lei nº 9.605/98), Crimes resultantes de Preconceito de Raça ou de Cor (Lei nº 7.716/89), Abuso de Autoridade (Lei nº 16.869/2019), e Lei das Contravenções Penais (Decreto-Lei nº 3688/41)."
+   ]
+  }
+ ],
+ "pontos": [
+  {
+   "p": "PE01.01",
+   "texto": "Conceito, fontes, objetivos, poder punitivo, escolas penais e evolução histórica",
+   "trechos": [
+    {
+     "i": "1",
+     "t": "Direito penal: conceito, fontes, objetivos."
+    },
+    {
+     "i": "1",
+     "t": "Direito penal e poder punitivo."
+    },
+    {
+     "i": "1",
+     "t": "Genealogia do pensamento penal."
+    },
+    {
+     "i": "1",
+     "t": "As escolas penais."
+    },
+    {
+     "i": "1",
+     "t": "Modernas tendências do pensamento penal."
+    },
+    {
+     "i": "1",
+     "t": "Evolução histórica do Direito Penal."
+    },
+    {
+     "i": "1",
+     "t": "História do processo de criminalização no Brasil."
+    }
+   ]
+  },
+  {
+   "p": "PE01.02",
+   "texto": "Princípios penais",
+   "trechos": [
+    {
+     "i": "1",
+     "t": "Princípios penais."
+    }
+   ]
+  },
+  {
+   "p": "PE01.03",
+   "texto": "Constituição, Estado Democrático de Direito e Direitos Humanos",
+   "trechos": [
+    {
+     "i": "3",
+     "t": "Constituição e Direito Penal."
+    },
+    {
+     "i": "3",
+     "t": "O Direito Penal e o Estado Democrático de Direito."
+    },
+    {
+     "i": "3",
+     "t": "Direito Penal e Direitos Humanos."
+    },
+    {
+     "i": "3",
+     "t": "Direitos humanos e processo de criminalização."
+    }
+   ]
+  },
+  {
+   "p": "PE02.04",
+   "texto": "Política criminal e penitenciária, encarceramento e prisonização",
+   "trechos": [
+    {
+     "i": "2",
+     "t": "Política criminal e penitenciária no Brasil."
+    },
+    {
+     "i": "2",
+     "t": "O encarceramento no Brasil: dados e perspectivas."
+    },
+    {
+     "i": "2",
+     "t": "Prisão: prisonização e relações de poder penitenciárias."
+    }
+   ]
+  },
+  {
+   "p": "PE02.01",
+   "texto": "Escolas criminológicas e modernas tendências",
+   "trechos": [
+    {
+     "i": "2",
+     "t": "As escolas criminológicas."
+    },
+    {
+     "i": "2",
+     "t": "Modernas tendências do pensamento criminológico e de política criminal."
+    },
+    {
+     "i": "2",
+     "t": "Análises criminológicas concretas."
+    }
+   ]
+  },
+  {
+   "p": "PE02.02",
+   "texto": "Sistema penal, controle social, criminalização, polícia e mídia",
+   "trechos": [
+    {
+     "i": "2",
+     "t": "Sistema penal e controle social."
+    },
+    {
+     "i": "2",
+     "t": "Processo de criminalização."
+    },
+    {
+     "i": "2",
+     "t": "Polícia e Sistema Penal."
+    },
+    {
+     "i": "2",
+     "t": "O sistema penal brasileiro."
+    },
+    {
+     "i": "2",
+     "t": "Mídia e sistema penal."
+    }
+   ]
+  },
+  {
+   "p": "PE02.03",
+   "texto": "Vitimologia e vitimização",
+   "trechos": [
+    {
+     "i": "2",
+     "t": "Vitimologia e vitimização."
+    }
+   ]
+  },
+  {
+   "p": "PE03.01",
+   "texto": "Aplicação da lei penal (no tempo)",
+   "trechos": [
+    {
+     "i": "3",
+     "t": "Aplicação e interpretação da lei penal."
+    }
+   ]
+  },
+  {
+   "p": "PE03.02",
+   "texto": "Aplicação da lei penal (tempo e lugar do crime; espaço)",
+   "trechos": [
+    {
+     "i": "3",
+     "t": "Aplicação e interpretação da lei penal."
+    }
+   ]
+  },
+  {
+   "p": "PE03.03",
+   "texto": "Interpretação da lei penal",
+   "trechos": [
+    {
+     "i": "3",
+     "t": "Aplicação e interpretação da lei penal."
+    }
+   ]
+  },
+  {
+   "p": "PE04.01",
+   "texto": "Teoria do delito, elementos do crime e bem jurídico",
+   "trechos": [
+    {
+     "i": "4",
+     "t": "Teoria do delito: evolução histórica, elementos do crime."
+    },
+    {
+     "i": "4",
+     "t": "Bem jurídico-penal."
+    },
+    {
+     "i": "4",
+     "t": "Modernas tendências da teoria do delito."
+    }
+   ]
+  },
+  {
+   "p": "PE04.02",
+   "texto": "Tipo penal, conduta, nexo, resultado e imputação objetiva",
+   "trechos": [
+    {
+     "i": "5",
+     "t": "Tipicidade: tipo penal, conduta (ação e omissão), nexo de causalidade, resultado."
+    },
+    {
+     "i": "5",
+     "t": "Imputação objetiva."
+    }
+   ]
+  },
+  {
+   "p": "PE04.04",
+   "texto": "Iter criminis",
+   "trechos": [
+    {
+     "i": "5",
+     "t": "Iter criminis."
+    }
+   ]
+  },
+  {
+   "p": "PE04.05",
+   "texto": "Desistência voluntária e arrependimento eficaz",
+   "trechos": [
+    {
+     "i": "5",
+     "t": "Desistência voluntária e arrependimento eficaz."
+    }
+   ]
+  },
+  {
+   "p": "PE04.03",
+   "texto": "Dolo e culpa",
+   "trechos": [
+    {
+     "i": "5",
+     "t": "Dolo."
+    },
+    {
+     "i": "5",
+     "t": "Culpa."
+    }
+   ]
+  },
+  {
+   "p": "PE05.01",
+   "texto": "Ilicitude: conceito, injusto penal, Direito Penal e moral",
+   "trechos": [
+    {
+     "i": "6",
+     "t": "Ilicitude: conceito."
+    },
+    {
+     "i": "6",
+     "t": "O injusto penal."
+    },
+    {
+     "i": "6",
+     "t": "Direito Penal e moral."
+    }
+   ]
+  },
+  {
+   "p": "PE05.02",
+   "texto": "Excludentes da ilicitude",
+   "trechos": [
+    {
+     "i": "6",
+     "t": "Excludentes da ilicitude."
+    }
+   ]
+  },
+  {
+   "p": "PE06.01",
+   "texto": "Culpabilidade: conceito, princípio, liberdade, vulnerabilidade; Direito Penal do fato e do autor",
+   "trechos": [
+    {
+     "i": "7",
+     "t": "Culpabilidade: conceito, evolução histórica, estrutura."
+    },
+    {
+     "i": "7",
+     "t": "Princípio da culpabilidade."
+    },
+    {
+     "i": "7",
+     "t": "Culpabilidade e liberdade."
+    },
+    {
+     "i": "7",
+     "t": "Culpabilidade e vulnerabilidade."
+    },
+    {
+     "i": "7",
+     "t": "Direito Penal do fato e Direito Penal do autor."
+    }
+   ]
+  },
+  {
+   "p": "PE06.02",
+   "texto": "Imputabilidade; culpabilidade e periculosidade",
+   "trechos": [
+    {
+     "i": "7",
+     "t": "Culpabilidade e periculosidade."
+    },
+    {
+     "i": "7",
+     "t": "Imputabilidade."
+    }
+   ]
+  },
+  {
+   "p": "PE06.03",
+   "texto": "Inexigibilidade de conduta diversa e excludentes da culpabilidade",
+   "trechos": [
+    {
+     "i": "7",
+     "t": "Inexigibilidade de conduta diversa."
+    },
+    {
+     "i": "7",
+     "t": "Excludentes da culpabilidade."
+    }
+   ]
+  },
+  {
+   "p": "PE07.01",
+   "texto": "Arrependimento posterior",
+   "trechos": [
+    {
+     "i": "8",
+     "t": "Arrependimento posterior."
+    }
+   ]
+  },
+  {
+   "p": "PE07.02",
+   "texto": "Crime impossível",
+   "trechos": [
+    {
+     "i": "8",
+     "t": "Crime impossível."
+    }
+   ]
+  },
+  {
+   "p": "PE07.03",
+   "texto": "Concurso de agentes",
+   "trechos": [
+    {
+     "i": "8",
+     "t": "Concurso de agentes."
+    }
+   ]
+  },
+  {
+   "p": "PE06.04",
+   "texto": "Erro no Direito Penal",
+   "trechos": [
+    {
+     "i": "8",
+     "t": "Erro no Direito Penal."
+    }
+   ]
+  },
+  {
+   "p": "PE09.01",
+   "texto": "Punibilidade e extinção da punibilidade",
+   "trechos": [
+    {
+     "i": "8",
+     "t": "Punibilidade."
+    },
+    {
+     "i": "9",
+     "t": "Extinção da punibilidade."
+    }
+   ]
+  },
+  {
+   "p": "PE07.04",
+   "texto": "Concurso de crimes",
+   "trechos": [
+    {
+     "i": "8",
+     "t": "Concurso de crimes."
+    }
+   ]
+  },
+  {
+   "p": "PE08.01",
+   "texto": "Evolução histórica e teorias da pena",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Pena: evolução histórica"
+    },
+    {
+     "i": "9",
+     "t": "Teorias da pena."
+    },
+    {
+     "i": "9",
+     "t": "Modernas tendências das teorias da pena."
+    }
+   ]
+  },
+  {
+   "p": "PE08.02",
+   "texto": "Espécies de pena (regimes)",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "espécies"
+    }
+   ]
+  },
+  {
+   "p": "PE08.05",
+   "texto": "Espécies de pena (restritivas e multa)",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "espécies"
+    }
+   ]
+  },
+  {
+   "p": "PE08.03",
+   "texto": "Aplicação e cálculo da pena",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "aplicação"
+    },
+    {
+     "i": "9",
+     "t": "Circunstâncias Judiciais."
+    },
+    {
+     "i": "9",
+     "t": "Agravantes e Atenuantes."
+    },
+    {
+     "i": "9",
+     "t": "Causas de Aumento e de Diminuição."
+    },
+    {
+     "i": "9",
+     "t": "Cálculo da Pena."
+    }
+   ]
+  },
+  {
+   "p": "PE08.04",
+   "texto": "Circunstâncias judiciais e agravantes (antecedentes e reincidência)",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Circunstâncias Judiciais."
+    },
+    {
+     "i": "9",
+     "t": "Agravantes e Atenuantes."
+    }
+   ]
+  },
+  {
+   "p": "PE09.02",
+   "texto": "Extinção da punibilidade (prescrição)",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Extinção da punibilidade."
+    }
+   ]
+  },
+  {
+   "p": "PE08.06",
+   "texto": "Suspensão condicional da pena e reabilitação",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Suspensão condicional da pena."
+    },
+    {
+     "i": "9",
+     "t": "Reabilitação."
+    }
+   ]
+  },
+  {
+   "p": "PE13.03",
+   "texto": "Crimes em espécie (outros títulos do CP)",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes em espécie."
+    }
+   ]
+  },
+  {
+   "p": "PE10.01",
+   "texto": "Crimes contra a pessoa (vida)",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes contra a pessoa."
+    }
+   ]
+  },
+  {
+   "p": "PE10.02",
+   "texto": "Crimes contra a pessoa (demais)",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes contra a pessoa."
+    }
+   ]
+  },
+  {
+   "p": "PE11.01",
+   "texto": "Crimes contra o patrimônio (furto e roubo)",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes contra o patrimônio."
+    }
+   ]
+  },
+  {
+   "p": "PE11.02",
+   "texto": "Crimes contra o patrimônio (demais)",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes contra o patrimônio."
+    }
+   ]
+  },
+  {
+   "p": "PE12.01",
+   "texto": "Crimes contra a dignidade sexual (estupro)",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes contra a dignidade sexual."
+    }
+   ]
+  },
+  {
+   "p": "PE12.02",
+   "texto": "Crimes contra a dignidade sexual (demais)",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes contra a dignidade sexual."
+    }
+   ]
+  },
+  {
+   "p": "PE13.01",
+   "texto": "Crimes contra a administração pública",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes contra a administração pública."
+    }
+   ]
+  },
+  {
+   "p": "PE13.02",
+   "texto": "Crimes contra o Estado Democrático de Direito",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes contra o Estado Democrático de Direito."
+    }
+   ]
+  },
+  {
+   "p": "PE14.04",
+   "texto": "Legislação Penal Especial: Estatuto do Desarmamento",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Estatuto do Desarmamento (Lei nº 10.826/03 e Decreto n. 9.847/19)"
+    }
+   ]
+  },
+  {
+   "p": "PE14.03",
+   "texto": "Legislação Penal Especial: Crimes Hediondos",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes Hediondos (Lei nº 8.072/90)"
+    }
+   ]
+  },
+  {
+   "p": "PE14.01",
+   "texto": "Legislação Penal Especial: Lei de Drogas",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Lei de Drogas (Lei nº 15.343/06)"
+    }
+   ]
+  },
+  {
+   "p": "PE14.02",
+   "texto": "Legislação Penal Especial: Violência Doméstica",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Violência Doméstica (Lei nº 11.340/06)"
+    }
+   ]
+  },
+  {
+   "p": "PE14.05",
+   "texto": "Legislação Penal Especial: Crime Organizado",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crime Organizado (Lei nº 12.850/13)"
+    }
+   ]
+  },
+  {
+   "p": "PE14.06",
+   "texto": "Legislação Penal Especial: Crimes de Trânsito",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes de Trânsito (Lei nº 9.503/97)"
+    }
+   ]
+  },
+  {
+   "p": "PE14.07",
+   "texto": "Legislação Penal Especial: Lei de Tortura",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Lei de Tortura (Lei nº 9.455/97)"
+    }
+   ]
+  },
+  {
+   "p": "PE14.08",
+   "texto": "Legislação Penal Especial: Crimes Ambientais",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes Ambientais (Lei nº 9.605/98)"
+    }
+   ]
+  },
+  {
+   "p": "PE14.09",
+   "texto": "Legislação Penal Especial: Crimes resultantes de Preconceito de Raça ou de Cor",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Crimes resultantes de Preconceito de Raça ou de Cor (Lei nº 7.716/89)"
+    }
+   ]
+  },
+  {
+   "p": "PE14.10",
+   "texto": "Legislação Penal Especial: Abuso de Autoridade",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Abuso de Autoridade (Lei nº 16.869/2019)"
+    }
+   ]
+  },
+  {
+   "p": "PE14.11",
+   "texto": "Legislação Penal Especial: Lei das Contravenções Penais",
+   "trechos": [
+    {
+     "i": "9",
+     "t": "Lei das Contravenções Penais (Decreto-Lei nº 3688/41)"
+    }
+   ]
+  }
+ ]
+}

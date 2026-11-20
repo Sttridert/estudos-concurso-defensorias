@@ -1,0 +1,380 @@
+{
+ "pasta": "2023 - DPE-PR - Analista Direito (edital, sem prova)",
+ "banca": "Consulplan",
+ "disciplina": "CIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 2103,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Lei de introdução às normas do direito brasileiro."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Vigência, aplicação, obrigatoriedade, interpretação e integração das leis."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Conflito das leis no tempo."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Eficácia das leis no espaço."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Pessoas naturais."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Início da pessoa natural."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Personalidade."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Capacidade."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "Direitos da personalidade."
+     ]
+    },
+    {
+     "item": "2.6",
+     "frases": [
+      "Nome civil."
+     ]
+    },
+    {
+     "item": "2.7",
+     "frases": [
+      "Estado civil."
+     ]
+    },
+    {
+     "item": "2.8",
+     "frases": [
+      "Domicílio."
+     ]
+    },
+    {
+     "item": "2.9",
+     "frases": [
+      "Ausência."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Pessoas jurídicas."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Disposições Gerais."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Conceito e Elementos Caracterizadores."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Constituição."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Extinção."
+     ]
+    },
+    {
+     "item": "3.5",
+     "frases": [
+      "Capacidade e direitos da personalidade."
+     ]
+    },
+    {
+     "item": "3.6",
+     "frases": [
+      "Sociedades de fato."
+     ]
+    },
+    {
+     "item": "3.7",
+     "frases": [
+      "Associações."
+     ]
+    },
+    {
+     "item": "3.8",
+     "frases": [
+      "Sociedades."
+     ]
+    },
+    {
+     "item": "3.9",
+     "frases": [
+      "Fundações."
+     ]
+    },
+    {
+     "item": "3.10",
+     "frases": [
+      "Grupos despersonalizados."
+     ]
+    },
+    {
+     "item": "3.11",
+     "frases": [
+      "Desconsideração da personalidade jurídica."
+     ]
+    },
+    {
+     "item": "3.12",
+     "frases": [
+      "Responsabilidade da pessoa jurídica e dos sócios."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Bens."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Diferentes classes."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Bens Corpóreos e incorpóreos."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Bens no comércio e fora do comércio."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Fato jurídico."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Negócio jurídico."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Classificação e interpretação."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Elementos."
+     ]
+    },
+    {
+     "item": "6.4",
+     "frases": [
+      "Representação."
+     ]
+    },
+    {
+     "item": "6.5",
+     "frases": [
+      "Condição, termo e encargo."
+     ]
+    },
+    {
+     "item": "6.6",
+     "frases": [
+      "Defeitos do negócio jurídico."
+     ]
+    },
+    {
+     "item": "6.7",
+     "frases": [
+      "Existência, eficácia, validade, invalidade e nulidade do negócio jurídico."
+     ]
+    },
+    {
+     "item": "6.8",
+     "frases": [
+      "Simulação."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Atos jurídicos lícitos e ilícitos."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Prescrição e decadência."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Prova do fato jurídico."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Do direito das obrigações: modalidades das obrigações.",
+      "Transmissão. adimplemento e extinção.",
+      "Inadimplemento."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Contratos."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "Contratos em geral."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "11.5",
+     "frases": [
+      "Interpretação."
+     ]
+    },
+    {
+     "item": "11.6",
+     "frases": [
+      "Extinção."
+     ]
+    },
+    {
+     "item": "11.7",
+     "frases": [
+      "Espécies de contratos regulados no Código Civil."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Direitos reais."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Do Direito de Família: direito pessoal, casamento, relações de parentesco, da dissolução da sociedade e do vínculo conjugal; da proteção da pessoa dos filhos; do poder familiar; dos Alimentos; da Tutela, Curatela, e da Tomada de Decisão Apoiada."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Do direito das Sucessões: sucessão em geral.",
+      "Sucessão legítima.",
+      "Sucessão testamentária.",
+      "Inventário e partilha."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Lei nº 8.069/1990 (Estatuto da Criança e do Adolescente)."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Lei nº 10.741/2003 (Estatuto do Idoso)."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Lei nº 8.078/1990 (Código de Defesa do Consumidor);"
+     ]
+    }
+   ]
+  }
+ ]
+}

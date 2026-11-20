@@ -1,0 +1,195 @@
+{
+ "pasta": "2026 - DPE-MA - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PENAL",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PENAL E CRIMINOLOGIA",
+   "caracteres": 5198,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito Penal: conceito, evolução histórica, fontes, objetivos.",
+      "Fontes do direito penal; princípios aplicáveis ao direito penal."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Aplicação da lei penal: princípios da legalidade e da anterioridade; a lei penal no tempo e no espaço; tempo e lugar do crime; lei penal excepcional, especial e temporária; territorialidade e extraterritorialidade da lei penal; pena cumprida no estrangeiro; eficácia da sentença estrangeira; contagem de prazo; frações não computáveis da pena; interpretação da lei penal; analogia; irretroatividade da lei penal; conflito aparente de normas penais."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Imunidades penais."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Teoria do delito: evolução histórica, elementos do crime.",
+      "Bem jurídico-penal."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Tipicidade: tipo penal, conduta (ação e omissão), nexo de causalidade, resultado.",
+      "Iter criminis.",
+      "Desistência voluntária e arrependimento eficaz.",
+      "Dolo.",
+      "Culpa.",
+      "Imputação objetiva."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Ilicitude: conceito.",
+      "O injusto penal.",
+      "Direito Penal e moral.",
+      "Excludentes da ilicitude."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Culpabilidade: conceito, teorias, evolução histórica, estrutura.",
+      "Princípio da culpabilidade.",
+      "Culpabilidade e liberdade.",
+      "Culpabilidade e periculosidade.",
+      "Direito Penal do fato e Direito Penal do autor.",
+      "Imputabilidade.",
+      "Inexigibilidade de conduta diversa.",
+      "Excludentes da culpabilidade."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Arrependimento posterior.",
+      "Crime impossível.",
+      "Concurso de agentes.",
+      "Erro no Direito Penal: erro sobre elementos do tipo; descriminantes putativas; erro determinado por terceiro; erro sobre a pessoa; erro sobre a ilicitude do fato (erro de proibição); Punibilidade e Causas de Extinção.",
+      "Concurso de crimes."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Pena: evolução histórica, espécies, função.",
+      "Das penas privativas de liberdade.",
+      "Das penas restritivas de direitos.",
+      "Multa.",
+      "Cominação das penas.",
+      "Aplicação da pena.",
+      "Teorias justificadoras da pena.",
+      "Extinção da punibilidade.",
+      "Livramento condicional.",
+      "Efeitos da Condenação.",
+      "Extinção da Punibilidade.",
+      "Suspensão condicional da pena.",
+      "Reabilitação."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Direito Penal e saúde mental.",
+      "Medidas de segurança: evolução histórica, conceito, espécies, execução.",
+      "Lei nº 10.216/01."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Ação Penal."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Crimes contra a pessoa.",
+      "Crimes contra o patrimônio.",
+      "Crimes contra a propriedade imaterial.",
+      "Crimes contra a organização do trabalho.",
+      "Crimes contra o sentimento religioso e contra o respeito aos mortos.",
+      "Crimes contra a dignidade sexual.",
+      "Crimes contra a família.",
+      "Crimes contra a incolumidade pública.",
+      "Crimes contra a paz pública.",
+      "Crimes contra a fé pública.",
+      "Crimes contra a administração pública."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Legislação penal especial: crime organizado (Lei nº 12.850/13), crimes de trânsito (Lei nº 9.503/97), crimes ambientais (Lei nº 9.605/98), Estatuto do desarmamento (Lei nº 10.826/03), crimes hediondos (Lei nº 8.072/90 e modificações posteriores), crimes falências (Lei nº 11.101/05), lei de tortura (Lei nº 9.455/97), lei de drogas (Lei nº 11.343/06), crimes contra o consumidor (Lei nº 8.078/90), crimes contra a economia popular (Lei nº 1.521/51), crimes contra a ordem tributária, lavagem de dinheiro (Lei nº 9.613/98), crimes resultantes de preconceito de raça ou de cor (Lei nº 7.716/89), abuso de autoridade (Lei nº 13.819/19), crimes de licitação (Lei nº 14.133/21), estatuto do idoso (Lei nº 10.741/03), crimes contra o parcelamento do solo urbano (Lei nº 6.766/79), Lei Maria da Penha (Lei nº 11.340/06), crimes previstos no Estatuto da Criança e do Adolescente (Lei nº 8.069/90), crimes previstos na Lei Henry Borel (Lei 14.344/2022).",
+      "Lei das contravenções penais (Decreto- Lei nº 3.688/41).",
+      "Crimes de responsabilidade dos prefeitos (Decreto-Lei n° 201/196714).",
+      "Crimes eleitorais; 14.1.",
+      "Tipos previstos na legislação eleitoral; 14.2.",
+      "Ação penal nos crimes eleitorais; 14.3.",
+      "Competência em matéria Criminal Eleitoral; 15.",
+      "Direito Penal Militar.",
+      "Jurisprudência aplicável dos Tribunais Superiores.",
+      "Conceito, objeto e método da Criminologia.",
+      "A relação entre a Dogmática Penal e Processual Penal, a Política Criminal e a Criminologia.",
+      "Criminologia, Saúde Mental e Direitos Humanos.",
+      "Criminologia.",
+      "Escolas criminológicas.",
+      "Criminologia Clássica.",
+      "Sistema penal e controle social.",
+      "Processo de criminalização.",
+      "Criminalização primária e secundária.",
+      "Vitimologia e vitimização.",
+      "Política criminal e penitenciária no Brasil.",
+      "Encarceramento no Brasil.",
+      "Crise do discurso jurídico-penal.",
+      "Modernas tendências do pensamento criminológico e de política criminal.",
+      "Mídia e sistema penal.",
+      "Prisão e capitalismo.",
+      "Economia política da pena.",
+      "Teorias do Consenso e Teorias do Conflito.",
+      "Positivismo criminológico.",
+      "Escola Liberal.",
+      "Escola de Chicago.",
+      "Teoria da Associação Diferencial.",
+      "Teoria da Anomia.",
+      "Funcionalismo na Criminologia.",
+      "Teoria da Subcultura Delinquente.",
+      "Teorias da reação social.",
+      "Labelling Approach.",
+      "Criminologia crítica.",
+      "Minimalismo e Garantismo Penal.",
+      "Marxismo e a questão criminal.",
+      "Realismo criminológico.",
+      "Esquerda punitiva.",
+      "Abolicionismo penal.",
+      "Vertentes do abolicionismo penal.",
+      "Privatização do controle penal.",
+      "Direito penal simbólico.",
+      "Movimento de Lei e Ordem.",
+      "Tolerância zero.",
+      "Autoritarismo e sistema penal.",
+      "Análises criminológicas concretas.",
+      "Racismo e sistema penal.",
+      "Gênero e sistema penal.",
+      "Criminologia feminista.",
+      "Criminologia cultural.",
+      "Criminologia verde.",
+      "Criminologia Queer.",
+      "Justiça restaurativa.",
+      "Justiça transformativa.",
+      "Criminologia e organização criminosa."
+     ]
+    }
+   ]
+  }
+ ]
+}

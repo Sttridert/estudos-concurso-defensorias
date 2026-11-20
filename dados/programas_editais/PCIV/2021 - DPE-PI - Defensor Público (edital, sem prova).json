@@ -1,0 +1,381 @@
+{
+ "pasta": "2021 - DPE-PI - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "PCIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 1942,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Lei nº 13.105/2015 (Código de Processo Civil)."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Normas processuais civis."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Função jurisdicional."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Ação."
+     ]
+    },
+    {
+     "item": "1.3.1",
+     "frases": [
+      "Conceito, natureza, elementos e características."
+     ]
+    },
+    {
+     "item": "1.3.2",
+     "frases": [
+      "Condições da ação."
+     ]
+    },
+    {
+     "item": "1.3.3",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Pressupostos processuais."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Preclusão."
+     ]
+    },
+    {
+     "item": "1.6",
+     "frases": [
+      "Sujeitos do processo."
+     ]
+    },
+    {
+     "item": "1.6.1",
+     "frases": [
+      "Capacidade processual e postulatória."
+     ]
+    },
+    {
+     "item": "1.6.2",
+     "frases": [
+      "Deveres das partes e procuradores."
+     ]
+    },
+    {
+     "item": "1.6.3",
+     "frases": [
+      "Procuradores."
+     ]
+    },
+    {
+     "item": "1.6.4",
+     "frases": [
+      "Sucessão das partes e dos procuradores."
+     ]
+    },
+    {
+     "item": "1.7",
+     "frases": [
+      "Litisconsórcio."
+     ]
+    },
+    {
+     "item": "1.8",
+     "frases": [
+      "Intervenção de terceiros."
+     ]
+    },
+    {
+     "item": "1.9",
+     "frases": [
+      "Poderes, deveres e responsabilidade do juiz."
+     ]
+    },
+    {
+     "item": "1.10",
+     "frases": [
+      "Ministério Público."
+     ]
+    },
+    {
+     "item": "1.11",
+     "frases": [
+      "Advocacia pública."
+     ]
+    },
+    {
+     "item": "1.12",
+     "frases": [
+      "Defensoria Pública."
+     ]
+    },
+    {
+     "item": "1.13",
+     "frases": [
+      "Atos processuais."
+     ]
+    },
+    {
+     "item": "1.13.1",
+     "frases": [
+      "Forma dos atos."
+     ]
+    },
+    {
+     "item": "1.13.2",
+     "frases": [
+      "Tempo e lugar."
+     ]
+    },
+    {
+     "item": "1.13.3",
+     "frases": [
+      "Prazos."
+     ]
+    },
+    {
+     "item": "1.13.4",
+     "frases": [
+      "Comunicação dos atos processuais."
+     ]
+    },
+    {
+     "item": "1.13.5",
+     "frases": [
+      "Nulidades."
+     ]
+    },
+    {
+     "item": "1.13.6",
+     "frases": [
+      "Distribuição e registro."
+     ]
+    },
+    {
+     "item": "1.13.7",
+     "frases": [
+      "Valor da causa."
+     ]
+    },
+    {
+     "item": "1.14",
+     "frases": [
+      "Tutela provisória."
+     ]
+    },
+    {
+     "item": "1.14.1",
+     "frases": [
+      "Tutela de urgência."
+     ]
+    },
+    {
+     "item": "1.14.2",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "1.15",
+     "frases": [
+      "Formação, suspensão e extinção do processo."
+     ]
+    },
+    {
+     "item": "1.16",
+     "frases": [
+      "Processo de conhecimento e do cumprimento de sentença."
+     ]
+    },
+    {
+     "item": "1.16.1",
+     "frases": [
+      "Procedimento comum."
+     ]
+    },
+    {
+     "item": "1.16.2",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "1.16.3",
+     "frases": [
+      "Petição inicial."
+     ]
+    },
+    {
+     "item": "1.16.4",
+     "frases": [
+      "Improcedência liminar do pedido."
+     ]
+    },
+    {
+     "item": "1.16.5",
+     "frases": [
+      "Audiência de conciliação ou de mediação."
+     ]
+    },
+    {
+     "item": "1.16.6",
+     "frases": [
+      "Contestação, reconvenção e revelia."
+     ]
+    },
+    {
+     "item": "1.16.7",
+     "frases": [
+      "Audiência de instrução e julgamento."
+     ]
+    },
+    {
+     "item": "1.16.8",
+     "frases": [
+      "Providências preliminares e do saneamento."
+     ]
+    },
+    {
+     "item": "1.16.9",
+     "frases": [
+      "Julgamento conforme o estado do processo."
+     ]
+    },
+    {
+     "item": "1.16.10",
+     "frases": [
+      "Provas."
+     ]
+    },
+    {
+     "item": "1.16.11",
+     "frases": [
+      "Sentença e coisa julgada."
+     ]
+    },
+    {
+     "item": "1.16.12",
+     "frases": [
+      "Cumprimento da sentença."
+     ]
+    },
+    {
+     "item": "1.16.13",
+     "frases": [
+      "Disposições gerais."
+     ]
+    },
+    {
+     "item": "1.16.14",
+     "frases": [
+      "Cumprimento."
+     ]
+    },
+    {
+     "item": "1.16.15",
+     "frases": [
+      "Liquidação."
+     ]
+    },
+    {
+     "item": "1.17",
+     "frases": [
+      "Procedimentos especiais."
+     ]
+    },
+    {
+     "item": "1.18",
+     "frases": [
+      "Procedimentos de jurisdição voluntária."
+     ]
+    },
+    {
+     "item": "1.19",
+     "frases": [
+      "Processos de execução."
+     ]
+    },
+    {
+     "item": "1.20",
+     "frases": [
+      "Processos nos tribunais e meios de impugnação das decisões judiciais."
+     ]
+    },
+    {
+     "item": "1.21",
+     "frases": [
+      "Livro complementar."
+     ]
+    },
+    {
+     "item": "1.21.1",
+     "frases": [
+      "Disposições finais e transitórias."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Mandado de segurança."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Ação popular."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Ação civil pública."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Ação de improbidade administrativa."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Reclamação constitucional."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Lei nº 8.245/1991 (locação de imóveis urbanos)."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Procedimentos."
+     ]
+    }
+   ]
+  }
+ ]
+}

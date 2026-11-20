@@ -1,0 +1,645 @@
+{
+ "disciplina": "Direito Processual Penal",
+ "assuntos": [
+  {
+   "codigo": "PP01",
+   "nome": "Fundamentos do processo penal",
+   "descricao": "Sistemas, fontes, aplicação da lei e princípios."
+  },
+  {
+   "codigo": "PP02",
+   "nome": "Investigação criminal",
+   "descricao": "Apuração antes da ação penal."
+  },
+  {
+   "codigo": "PP03",
+   "nome": "Ação penal",
+   "descricao": "Espécies, condições e peças de acusação."
+  },
+  {
+   "codigo": "PP04",
+   "nome": "Jurisdição e competência",
+   "descricao": "Quem julga e em que juízo."
+  },
+  {
+   "codigo": "PP05",
+   "nome": "Sujeitos do processo penal",
+   "descricao": "Quem atua no processo."
+  },
+  {
+   "codigo": "PP06",
+   "nome": "Provas: teoria geral",
+   "descricao": "Regras comuns a toda prova."
+  },
+  {
+   "codigo": "PP07",
+   "nome": "Provas: meios de prova",
+   "descricao": "Instrumentos de produção da prova."
+  },
+  {
+   "codigo": "PP08",
+   "nome": "Provas: meios de obtenção de prova",
+   "descricao": "Instrumentos de busca da prova."
+  },
+  {
+   "codigo": "PP09",
+   "nome": "Prisões, medidas cautelares e liberdade",
+   "descricao": "Restrições à liberdade antes do trânsito em julgado."
+  },
+  {
+   "codigo": "PP10",
+   "nome": "Atos processuais e comunicação",
+   "descricao": "Forma, prazos e comunicação dos atos."
+  },
+  {
+   "codigo": "PP11",
+   "nome": "Nulidades e incidentes processuais",
+   "descricao": "Vícios do processo e questões que o interrompem."
+  },
+  {
+   "codigo": "PP12",
+   "nome": "Procedimento comum",
+   "descricao": "Ordinário e sumário."
+  },
+  {
+   "codigo": "PP13",
+   "nome": "Tribunal do Júri",
+   "descricao": "Procedimento dos crimes dolosos contra a vida."
+  },
+  {
+   "codigo": "PP14",
+   "nome": "Procedimentos especiais e consensuais",
+   "descricao": "Ritos fora do comum e soluções negociadas."
+  },
+  {
+   "codigo": "PP15",
+   "nome": "Sentença e coisa julgada",
+   "descricao": "Decisão final e seus efeitos."
+  },
+  {
+   "codigo": "PP16",
+   "nome": "Recursos e ações autônomas de impugnação",
+   "descricao": "Meios de impugnar decisões."
+  }
+ ],
+ "pontos": [
+  {
+   "codigo": "PP01.01",
+   "assunto": "PP01",
+   "texto": "Sistemas processuais penais",
+   "descricao": "Acusatório, inquisitivo e misto.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP01.02",
+   "assunto": "PP01",
+   "texto": "Fontes e aplicação da lei processual penal",
+   "descricao": "Interpretação e aplicação no tempo e no espaço (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP01.03",
+   "assunto": "PP01",
+   "texto": "Princípios constitucionais do processo penal",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP01.04",
+   "assunto": "PP01",
+   "texto": "Garantias convencionais do processo penal",
+   "descricao": "Garantias judiciais da Convenção Americana (confirmar). [Tema compartilhado com Direitos Humanos]",
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP02.01",
+   "assunto": "PP02",
+   "texto": "Inquérito policial",
+   "descricao": "Investigação preliminar.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP02.02",
+   "assunto": "PP02",
+   "texto": "Investigação por outros órgãos e investigação defensiva",
+   "descricao": "Investigação pelo Ministério Público e pela defesa (confirmar: sem item de edital que cite o nome).",
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP02.03",
+   "assunto": "PP02",
+   "texto": "Juiz das garantias",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP03.01",
+   "assunto": "PP03",
+   "texto": "Ação penal: espécies e condições",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP03.02",
+   "assunto": "PP03",
+   "texto": "Denúncia, queixa e recebimento",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP03.03",
+   "assunto": "PP03",
+   "texto": "Ação civil ex delicto",
+   "descricao": "Reparação do dano decorrente do crime.",
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP04.01",
+   "assunto": "PP04",
+   "texto": "Jurisdição e seus princípios",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP04.02",
+   "assunto": "PP04",
+   "texto": "Competência: critérios de fixação",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP04.03",
+   "assunto": "PP04",
+   "texto": "Conexão e continência",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP04.04",
+   "assunto": "PP04",
+   "texto": "Competência por prerrogativa de função",
+   "descricao": "Foro por prerrogativa de função (confirmar: sem item de edital que cite o nome).",
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP05.01",
+   "assunto": "PP05",
+   "texto": "Juiz e auxiliares da justiça",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP05.02",
+   "assunto": "PP05",
+   "texto": "Ministério Público no processo penal",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP05.03",
+   "assunto": "PP05",
+   "texto": "Vítima e assistente de acusação",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP05.04",
+   "assunto": "PP05",
+   "texto": "Defensoria Pública no processo penal",
+   "descricao": "Sujeitos processuais, vítima, Ministério Público e Defensoria (conteúdo do v1 repartido nos tópicos vizinhos). [Tema compartilhado com Princípios e Atribuições Institucionais da Defensoria, Execução Penal]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP05.05",
+   "assunto": "PP05",
+   "texto": "Acusado, autodefesa e defesa técnica",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP06.01",
+   "assunto": "PP06",
+   "texto": "Teoria geral da prova e ônus da prova",
+   "descricao": "Ônus, indícios e valoração.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP06.02",
+   "assunto": "PP06",
+   "texto": "Provas ilícitas",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP06.03",
+   "assunto": "PP06",
+   "texto": "Cadeia de custódia",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP07.01",
+   "assunto": "PP07",
+   "texto": "Interrogatório e confissão",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP07.02",
+   "assunto": "PP07",
+   "texto": "Testemunhas e declarações da vítima",
+   "descricao": "Inclui o depoimento especial de crianças e adolescentes (confirmar). [Tema compartilhado com ECA]",
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP07.03",
+   "assunto": "PP07",
+   "texto": "Prova pericial",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP07.04",
+   "assunto": "PP07",
+   "texto": "Reconhecimento de pessoas e coisas",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP08.01",
+   "assunto": "PP08",
+   "texto": "Busca e apreensão",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP08.02",
+   "assunto": "PP08",
+   "texto": "Interceptação telefônica e sigilo",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP08.03",
+   "assunto": "PP08",
+   "texto": "Colaboração premiada",
+   "descricao": "[Tema compartilhado com Direito Penal (organização criminosa)]",
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP09.01",
+   "assunto": "PP09",
+   "texto": "Prisão em flagrante e audiência de custódia",
+   "descricao": "[Tema compartilhado com Direitos Humanos (audiência de custódia)]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP09.02",
+   "assunto": "PP09",
+   "texto": "Prisão preventiva",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP09.03",
+   "assunto": "PP09",
+   "texto": "Prisão temporária",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP09.04",
+   "assunto": "PP09",
+   "texto": "Prisão domiciliar",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP09.05",
+   "assunto": "PP09",
+   "texto": "Medidas cautelares diversas da prisão",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP09.06",
+   "assunto": "PP09",
+   "texto": "Liberdade provisória e fiança",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP09.07",
+   "assunto": "PP09",
+   "texto": "Medidas assecuratórias",
+   "descricao": "Sequestro, arresto e hipoteca legal (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP10.01",
+   "assunto": "PP10",
+   "texto": "Atos processuais e prazos",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP10.02",
+   "assunto": "PP10",
+   "texto": "Citação e intimação",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP10.03",
+   "assunto": "PP10",
+   "texto": "Revelia",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP11.01",
+   "assunto": "PP11",
+   "texto": "Nulidades",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP11.02",
+   "assunto": "PP11",
+   "texto": "Preclusão",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP11.03",
+   "assunto": "PP11",
+   "texto": "Questões e processos incidentes",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP12.01",
+   "assunto": "PP12",
+   "texto": "Procedimento comum ordinário",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP12.02",
+   "assunto": "PP12",
+   "texto": "Procedimento comum sumário",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP13.01",
+   "assunto": "PP13",
+   "texto": "Tribunal do Júri: fase de acusação",
+   "descricao": "Procedimento até a pronúncia.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP13.02",
+   "assunto": "PP13",
+   "texto": "Tribunal do Júri: plenário",
+   "descricao": "Julgamento em plenário.",
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP14.01",
+   "assunto": "PP14",
+   "texto": "Procedimentos especiais",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP14.02",
+   "assunto": "PP14",
+   "texto": "Juizados Especiais Criminais",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP14.03",
+   "assunto": "PP14",
+   "texto": "Acordo de não persecução penal",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP14.04",
+   "assunto": "PP14",
+   "texto": "Suspensão condicional do processo",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP14.05",
+   "assunto": "PP14",
+   "texto": "Aspectos processuais da legislação penal especial",
+   "descricao": "[Tema compartilhado com Direito Penal (legislação penal especial)]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP15.01",
+   "assunto": "PP15",
+   "texto": "Sentença penal",
+   "descricao": "Requisitos e motivação.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP15.02",
+   "assunto": "PP15",
+   "texto": "Efeitos da sentença penal",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP15.03",
+   "assunto": "PP15",
+   "texto": "Coisa julgada penal",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP16.01",
+   "assunto": "PP16",
+   "texto": "Teoria geral dos recursos",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP16.02",
+   "assunto": "PP16",
+   "texto": "Apelação",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP16.03",
+   "assunto": "PP16",
+   "texto": "Recurso em sentido estrito",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP16.04",
+   "assunto": "PP16",
+   "texto": "Embargos e agravos",
+   "descricao": "Embargos de declaração e infringentes e agravos (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP16.05",
+   "assunto": "PP16",
+   "texto": "Recursos extraordinário e especial",
+   "descricao": "[Tema compartilhado com Direito Processual Civil]",
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP16.06",
+   "assunto": "PP16",
+   "texto": "Habeas corpus",
+   "descricao": "[Tema compartilhado com Direito Constitucional e Direitos Humanos (remédios constitucionais), Direito Processual Civil]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "PP16.07",
+   "assunto": "PP16",
+   "texto": "Revisão criminal",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "PP16.08",
+   "assunto": "PP16",
+   "texto": "Mandado de segurança em matéria criminal",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do CPP; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  }
+ ]
+}

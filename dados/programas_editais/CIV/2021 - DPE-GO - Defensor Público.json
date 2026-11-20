@@ -1,0 +1,468 @@
+{
+ "pasta": "2021 - DPE-GO - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "CIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 8544,
+   "avisos": [
+    "hifen removido: ...rela-|ções",
+    "hifen removido: ...exce-|dentário.",
+    "hifen removido: ...Incapaci-|dade.",
+    "hifen removido: ...inca-|pazes.",
+    "hifen removido: ...Associ-|ações.",
+    "hifen removido: ...natu-|reza,",
+    "hifen removido: ...Prescri-|ção",
+    "hifen removido: ...soli-|dárias.",
+    "hifen removido: ...reso-|lução",
+    "hifen removido: ...Enriqueci-|mento",
+    "hifen removido: ...respon-|sabilidade",
+    "hifen removido: ...responsabili-|dade",
+    "hifen removido: ...respon-|sabilidade",
+    "hifen removido: ...Fun-|ção",
+    "hifen removido: ...Proprieda-|de",
+    "hifen removido: ...Direi-|to",
+    "hifen removido: ...rela-|ções",
+    "hifen removido: ...Di-|reito",
+    "hifen removido: ...Ori-|gem",
+    "hifen removido: ...Ca-|racterísticas"
+   ],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Ordenamento jurídico e conceito de sistemas.",
+      "Estrutura e função do Direito."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Evolução do Direito Privado no Brasil.",
+      "Dicotomia entre Direito Público e Direito Privado.",
+      "Princípios informativos do Código Civil de 1916.",
+      "Direitos subjetivos.",
+      "Codificação, completude e formalismo jurídico."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Constitucionalização do Direito Civil.",
+      "Princípios de interpretação constitucional.",
+      "Aplicação direta da Constituição nas relações privadas.",
+      "Proteção dos grupos sociais vulneráveis no âmbito do Direito Privado."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Histórico de tramitação e aprovação do Código Civil de 2002.",
+      "Base filosófica do Código Civil de 2002: O Culturalismo de Miguel Reale.",
+      "Teoria Tridimensional do Direito.",
+      "Fontes e modelos de Direito.",
+      "Princípios informativos do Código Civil de 2002."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Cláusulas gerais: conceito, características e funções.",
+      "Cláusulas gerais no Código Civil de 2002."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Boa-fé.",
+      "Conceito, espécies, funções e aplicabilidade nas relações privadas."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Função social.",
+      "Conceito, espécies e aplicabilidade nas relações privadas."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Lei de Introdução às normas do Direito Brasileiro."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Das pessoas.",
+      "Pessoa natural.",
+      "Aquisição e extinção da personalidade.",
+      "Direitos da personalidade.",
+      "Nascituro.",
+      "Embrião excedentário.",
+      "Nome.",
+      "Nome social.",
+      "Estado.",
+      "Registro das pessoas naturais.",
+      "Transexualidade.",
+      "Capacidade e emancipação.",
+      "Incapacidade.",
+      "Suprimento da incapacidade.",
+      "Internação psiquiátrica involuntária.",
+      "Ausência.",
+      "Administração de bens e direitos de incapazes.",
+      "Domicílio e residência.",
+      "Pessoas jurídicas.",
+      "Definição e natureza.",
+      "Classificações.",
+      "Registro.",
+      "Nome.",
+      "Domicílio.",
+      "Prova.",
+      "Teoria da desconsideração da personalidade jurídica.",
+      "Pessoas Jurídicas como titulares de direitos fundamentais.",
+      "Fundações.",
+      "Associações.",
+      "Organizações sociais."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Dos bens.",
+      "Bens considerados em si mesmos.",
+      "Bens imóveis.",
+      "Bens móveis.",
+      "Bens fungíveis e consumíveis.",
+      "Bens divisíveis.",
+      "Bens singulares e coletivos.",
+      "Bens reciprocamente considerados.",
+      "Bens públicos."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Dos fatos jurídicos.",
+      "Fatos e fatos juridicamente qualificados.",
+      "Classificação.",
+      "Aquisição, modificação e extinção de situações jurídicas.",
+      "Atos jurídicos.",
+      "Autonomia privada.",
+      "Conceito, elementos e modalidades.",
+      "Negócio jurídico.",
+      "Conceito e classificação.",
+      "Vontade e autonomia privada.",
+      "Existência, validade e eficácia.",
+      "Defeitos dos negócios jurídicos.",
+      "Modificação, conservação e extinção dos negócios jurídicos.",
+      "Ato ilícito extracontratual.",
+      "Causas excludentes de ilicitude.",
+      "Abuso do direito.",
+      "Conceito, natureza, requisitos e efeitos.",
+      "Modalidades de abuso do direito.",
+      "Aplicabilidade nas relações de Direito Público e Privado.",
+      "Prescrição e decadência.",
+      "Da prova."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Direito das obrigações.",
+      "Obrigação complexa.",
+      "Conceito, elementos, fontes e classificação.",
+      "Modalidades.",
+      "Obrigações solidárias.",
+      "Transmissão das obrigações: Cessão de crédito e assunção de dívida.",
+      "Adimplemento das obrigações: sujeitos, objeto, prova, lugar e tempo do pagamento.",
+      "Extinção das obrigações: Pagamento, pagamento em consignação, pagamento com sub-rogação, imputação do pagamento, dação em pagamento, novação, compensação; remissão; confusão.",
+      "Inadimplemento das Obrigações.",
+      "Inadimplemento absoluto e mora.",
+      "Perdas e danos.",
+      "Juros.",
+      "Correção monetária.",
+      "Cláusula penal.",
+      "Arras.",
+      "Prisão Civil."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Contratos.",
+      "Conceito, classificação e generalidades.",
+      "Funções e efeitos da boa-fé nas relações contratuais.",
+      "Função social dos contratos.",
+      "Princípio da equivalência material.",
+      "Formação dos contratos.",
+      "Estipulação em favor de terceiro.",
+      "Promessa de fato de terceiro.",
+      "Vícios redibitórios.",
+      "Evicção.",
+      "Contratos aleatórios.",
+      "Contrato preliminar.",
+      "Contrato com pessoa a declarar.",
+      "Ex-tinção dos contratos.",
+      "Distrato.",
+      "Cláusula resolutiva.",
+      "Exceção de contrato não cumprido.",
+      "Teoria da imprevisão.",
+      "Teoria da resolução por onerosidade excessiva.",
+      "Teoria da base objetiva do negócio jurídico.",
+      "Teoria do adimplemento substancial.",
+      "Contratos em espécie.",
+      "Compra e venda.",
+      "Troca.",
+      "Venda com reserva de domínio.",
+      "Doação.",
+      "Locação de coisas.",
+      "Empréstimo, comodato e mútuo.",
+      "Prestação de serviço.",
+      "Empreitada.",
+      "Depósito.",
+      "Mandato.",
+      "Comissão.",
+      "Agência e distribuição.",
+      "Corretagem.",
+      "Transporte.",
+      "Seguro.",
+      "Fiança.",
+      "Planos e seguros privados de assistência à saúde.",
+      "Empréstimo consignado em folha de pagamento.",
+      "Alienação fiduciária em garantia.",
+      "Dos atos unilaterais.",
+      "Promessa de recompensa.",
+      "Gestão de negócios.",
+      "Pagamento indevido.",
+      "Enriquecimento sem causa."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Responsabilidade civil.",
+      "Conceito e princípios.",
+      "Evolução da responsabilidade civil no Direito brasileiro.",
+      "Funções da responsabilidade civil contemporânea.",
+      "Responsabilidade civil extracontratual, pré-contratual e contratual.",
+      "Teorias da responsabilidade civil: conceito, espécies, requisitos e aplicabilidade.",
+      "Espécies de responsabilidade civil.",
+      "Causas excludentes da responsabilidade civil.",
+      "Obrigação de indenizar.",
+      "Indenização e compensação de danos.",
+      "Securitização.",
+      "DPVAT."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Preferências e privilégios creditórios."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Direito das coisas.",
+      "Posse.",
+      "Teorias da posse.",
+      "Conceito, classificação, aquisição, efeitos, proteção e perda da posse.",
+      "Função social da posse.",
+      "Teorias da função social da posse.",
+      "Conceito, conteúdo e concretização da função social da posse.",
+      "Função socioambiental da posse.",
+      "Direitos reais.",
+      "Propriedade.",
+      "Conceito, classificação, aquisição, proteção e perda da propriedade.",
+      "Evolução da propriedade no Direito brasileiro.",
+      "Lei de Terras (Lei nº 601/1850).",
+      "Disciplina constitucional da propriedade.",
+      "Função social da propriedade: conceito, conteúdo e concretização da função social da propriedade.",
+      "Função socioambiental da propriedade.",
+      "Parcelamento do solo urbano.",
+      "Regularização fundiária de assentamentos localizados em áreas urbanas.",
+      "Direitos de vizinhança.",
+      "Condomínio geral.",
+      "Condomínio edilício.",
+      "Condomínio em Multipropriedade.",
+      "Propriedade resolúvel.",
+      "Propriedade fiduciária.",
+      "Direitos reais sobre coisa alheia.",
+      "Superfície.",
+      "Direito de Sobrelevação.",
+      "Servidões.",
+      "Uso.",
+      "Usufruto.",
+      "Habitação.",
+      "Direito real à aquisição.",
+      "Direito do promitente comprador.",
+      "Compromisso de venda e compra.",
+      "Adjudicação compulsória.",
+      "Direitos reais em garantia.",
+      "Penhor.",
+      "Hipoteca."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Entidades familiares.",
+      "Origem e conceitos.",
+      "Relações familiares plurais.",
+      "Fundamentos da diversidade familiar e afetiva.",
+      "Diversidade sexual.",
+      "Família homoafetiva.",
+      "Princípios constitucionais da família.",
+      "Princípios constitucionais aplicáveis às relações familiares.",
+      "Planejamento familiar.",
+      "Esponsais.",
+      "Casamento heteroafetivo e homoafetivo: capacidade, impedimentos, causas suspensivas, habilitação, celebração, eficácia, direitos e deveres.",
+      "Invalidade do casamento, separação e divórcio.",
+      "Direito patrimonial.",
+      "Regime de bens: espécies.",
+      "Pacto antenupcial.",
+      "Meação e sucessão do cônjuge.",
+      "Usufruto e administração de bens de filhos incapazes.",
+      "Bem de família.",
+      "Relações de parentesco.",
+      "Vínculos de parentesco.",
+      "Multiparentalidade.",
+      "Ascendência genética.",
+      "Homoparentalidade.",
+      "Paternidade e maternidade.",
+      "Filiação.",
+      "Princípios relativos à filiação.",
+      "Espécies de filiação.",
+      "Origem genética.",
+      "Reprodução assistida.",
+      "Reconhecimento de filhos.",
+      "Socioafetividade.",
+      "Adoção.",
+      "Proteção da pessoa dos filhos.",
+      "Convivência familiar.",
+      "Poder familiar.",
+      "Guarda.",
+      "Direito de convivência familiar.",
+      "Alienação Parental.",
+      "União estável heteorafetiva e homoafetiva.",
+      "Aspectos constitucionais.",
+      "Características, estado, impedimentos, direitos, deveres e efeitos patrimoniais.",
+      "Regime de bens, meação e sucessão do companheiro.",
+      "Uniões estáveis concomitantes.",
+      "Concubinato.",
+      "Alimentos.",
+      "Princípios informativos do direito alimentar.",
+      "Conceito.",
+      "Natureza.",
+      "Classificação dos alimentos.",
+      "Características do direito alimentar.",
+      "Características da obrigação alimentar.",
+      "Origens e sujeitos das obrigações alimentares.",
+      "Alimentos Gravídicos.",
+      "Tutela, curatela e tomada de decisão apoiada."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Sucessão.",
+      "Disposições gerais.",
+      "Herança.",
+      "Vocação hereditária.",
+      "Aceitação e renúncia.",
+      "Exclusão da sucessão.",
+      "Herança jacente.",
+      "Herança vacante.",
+      "Sucessão legítima e sucessão testamentária.",
+      "Inventário e partilha.",
+      "Arrolamentos.",
+      "Alvarás judiciais.",
+      "Partilha de bens e direitos.",
+      "ITCMD."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Registros Públicos (Lei Federal nº 6.015/1973)."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Lei de Locações (Lei Federal nº 8.245/1991)."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Estatuto da Cidade (Lei Federal nº 10.257/2001)."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Estatuto do idoso (Lei Federal nº 10.741/2003)."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Bem de Família (Lei Federal nº 8.009/1990)."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Alimentos (Lei Federal nº 5.478/1968)."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Alimentos gravídicos (Lei nº 11.804/2008)."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Parcelamento do solo (Lei Federal nº 6.766/1979)."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Regularização Fundiária (Lei Federal nº 13.465/2017)."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei Federal nº 13.146/15)."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Resolução do CNJ nº 175/2013."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Provimento do CNJ nº 16/2012, nº 28/2013 e nº 73/2018."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Jurisprudência dos Tribunais Superiores na matéria constante do programa de Direito Civil"
+     ]
+    }
+   ]
+  }
+ ]
+}

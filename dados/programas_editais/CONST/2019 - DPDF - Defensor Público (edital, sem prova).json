@@ -1,0 +1,615 @@
+{
+ "pasta": "2019 - DPDF - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 5111,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Constituição."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Conceito, objeto, elementos e classificações."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Constitucionalismo e Neoconstitucionalismo."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Supremacia da Constituição."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Aplicabilidade das normas constitucionais."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Interpretação das normas constitucionais."
+     ]
+    },
+    {
+     "item": "1.6",
+     "frases": [
+      "A força normativa da Constituição."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Poder constituinte."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Poder constituinte originário."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Poder constituinte derivado."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Poder constituinte supranacional."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Princípios fundamentais da República Federativa do Brasil."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Fundamentos, objetivos e princípios."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Conceito, evolução, estrutura, características, funções, titularidade, destinatários, colisão e ponderação de valores."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Teoria geral das garantias."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Direitos fundamentais em espécie."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Conflito de direitos fundamentais."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Restrições a direitos fundamentais."
+     ]
+    },
+    {
+     "item": "4.6",
+     "frases": [
+      "Teoria interna e teoria externa."
+     ]
+    },
+    {
+     "item": "4.7",
+     "frases": [
+      "O princípio do respeito ao conteúdo essencial dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "4.8",
+     "frases": [
+      "Teoria objetiva e teoria subjetiva, teoria absoluta e teoria relativa."
+     ]
+    },
+    {
+     "item": "4.9",
+     "frases": [
+      "O princípio da proporcionalidade."
+     ]
+    },
+    {
+     "item": "4.9.1",
+     "frases": [
+      "Conceito, origem, conteúdo, elementos e subprincípios."
+     ]
+    },
+    {
+     "item": "4.10",
+     "frases": [
+      "O princípio da proibição do excesso."
+     ]
+    },
+    {
+     "item": "4.11",
+     "frases": [
+      "O princípio da proibição da proteção insuficiente."
+     ]
+    },
+    {
+     "item": "4.12",
+     "frases": [
+      "O princípio da razoabilidade."
+     ]
+    },
+    {
+     "item": "4.12.1",
+     "frases": [
+      "Conceito, origem e conteúdo."
+     ]
+    },
+    {
+     "item": "4.13",
+     "frases": [
+      "Eficácia vertical e horizontal dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "4.14",
+     "frases": [
+      "Orçamento e reserva do possível."
+     ]
+    },
+    {
+     "item": "4.15",
+     "frases": [
+      "O princípio da proibição do retrocesso social."
+     ]
+    },
+    {
+     "item": "4.16",
+     "frases": [
+      "Direitos e deveres individuais e coletivos."
+     ]
+    },
+    {
+     "item": "4.17",
+     "frases": [
+      "Habeas corpus, mandado de segurança, mandado de injunção e habeas data."
+     ]
+    },
+    {
+     "item": "4.18",
+     "frases": [
+      "Direitos sociais."
+     ]
+    },
+    {
+     "item": "4.18.1",
+     "frases": [
+      "Teoria geral dos direitos sociais."
+     ]
+    },
+    {
+     "item": "4.18.2",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "4.18.3",
+     "frases": [
+      "Efetivação."
+     ]
+    },
+    {
+     "item": "4.18.4",
+     "frases": [
+      "O direito ao mínimo existencial."
+     ]
+    },
+    {
+     "item": "4.18.4.1",
+     "frases": [
+      "Origem, conceito, fundamento e objeto."
+     ]
+    },
+    {
+     "item": "4.19",
+     "frases": [
+      "Direito de nacionalidade e condição jurídica do estrangeiro no Brasil."
+     ]
+    },
+    {
+     "item": "4.20",
+     "frases": [
+      "Direitos políticos."
+     ]
+    },
+    {
+     "item": "4.21",
+     "frases": [
+      "Partidos políticos."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Organização do Estado."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Formação, desenvolvimento, evolução, soberania, globalização e comunidades internacionais; cidadania, república e democracia."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Estado Federal."
+     ]
+    },
+    {
+     "item": "5.2.1",
+     "frases": [
+      "Conceito, surgimento, evolução, características e vedações."
+     ]
+    },
+    {
+     "item": "5.2.2",
+     "frases": [
+      "Federação brasileira: componentes e intervenção; competências e sua repartição; conflitos jurídicos no Estado Federal brasileiro.",
+      "Princípio da simetria e autonomia dos entes federativos."
+     ]
+    },
+    {
+     "item": "5.2.3",
+     "frases": [
+      "Federalismo cooperativo, princípio da solidariedade e igualação das condições sociais de vida; federalismo assimétrico."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "A União."
+     ]
+    },
+    {
+     "item": "5.3.1",
+     "frases": [
+      "Natureza jurídica, competências e bens."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Estados federados."
+     ]
+    },
+    {
+     "item": "5.4.1",
+     "frases": [
+      "Natureza jurídica, competências, autonomia, capacidade de auto‐organização e seus limites."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Municípios."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "O Distrito Federal.",
+      "Lei Orgânica do Distrito Federal: fundamentos da organização dos Poderes e do Distrito Federal; organização do Distrito Federal; organização administrativa do Distrito Federal."
+     ]
+    },
+    {
+     "item": "5.7",
+     "frases": [
+      "Territórios."
+     ]
+    },
+    {
+     "item": "5.8",
+     "frases": [
+      "Intervenção federal e intervenção dos estados nos municípios."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Organização funcional do Estado."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Princípio da separação dos poderes."
+     ]
+    },
+    {
+     "item": "6.1.1",
+     "frases": [
+      "Essência, evolução, significado e atualidade."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Controles interorgânicos e funções típicas e atípicas de cada poder."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Organização dos poderes no Estado."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Mecanismos de freios e contrapesos."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Poder Legislativo."
+     ]
+    },
+    {
+     "item": "7.2.1",
+     "frases": [
+      "Funções, organização e funcionamento."
+     ]
+    },
+    {
+     "item": "7.2.2",
+     "frases": [
+      "Atos parlamentares."
+     ]
+    },
+    {
+     "item": "7.2.3",
+     "frases": [
+      "Espécies normativas."
+     ]
+    },
+    {
+     "item": "7.2.4",
+     "frases": [
+      "Processo legislativo."
+     ]
+    },
+    {
+     "item": "7.2.5",
+     "frases": [
+      "Comissões."
+     ]
+    },
+    {
+     "item": "7.2.6",
+     "frases": [
+      "Tribunal de Contas."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Poder Executivo."
+     ]
+    },
+    {
+     "item": "7.3.1",
+     "frases": [
+      "Presidente da República, governadores e prefeitos: eleição, reeleição, perda do mandato, impedimento, substituição, sucessão, vacância, responsabilidade e atribuições."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Poder Judiciário."
+     ]
+    },
+    {
+     "item": "7.4.1",
+     "frases": [
+      "Funções, organização, competências e funcionamento; garantias institucionais da função judicial."
+     ]
+    },
+    {
+     "item": "7.4.2",
+     "frases": [
+      "Supremo Tribunal Federal."
+     ]
+    },
+    {
+     "item": "7.4.3",
+     "frases": [
+      "Conselho Nacional de Justiça.",
+      "7.4.4 responsabilidade do Estado por atos jurisdicionais.",
+      "7.4.5 O Poder Judiciário no Estado de Direitos.",
+      "7.4.6 Políticas públicas e controle jurisdicional.",
+      "7.4.7 Ativismo judicial."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Funções essenciais à justiça."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Ministério Público."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Defensoria Pública."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Advocacia Pública."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Advocacia."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Teoria geral do controle de constitucionalidade."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "O controle difuso de constitucionalidade."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "O controle concentrado de constitucionalidade (ADI, ADI por omissão, ADI interventiva, ADC, ADPF)."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Mutações constitucionais."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Técnicas de decisão dos tribunais constitucionais."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Decisões aditivas e substitutivas dos tribunais constitucionais."
+     ]
+    },
+    {
+     "item": "9.6",
+     "frases": [
+      "Controle de constitucionalidade do direito estadual."
+     ]
+    },
+    {
+     "item": "9.7",
+     "frases": [
+      "Bloco de constitucionalidade."
+     ]
+    },
+    {
+     "item": "9.8",
+     "frases": [
+      "Processos constitucionais."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Defesa do Estado e das instituições democráticas."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Ordem econômica e financeira."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Política urbana, agrícola e fundiária e reforma agrária."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Ordem social."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Fundamentos e objetivos."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Seguridade social, educação, cultura e desporto, comunicação social, meio ambiente, família, criança, adolescente, jovem e idoso, índios, pessoas com deficiência, justiça social."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "O acesso à justiça e as defensorias públicas."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Emendas Constitucionais nº 45/2009 e nº 80/2014 e Defensoria Pública."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Jurisprudência dos tribunais superiores."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,830 @@
+{
+ "disciplina": "Direito Civil",
+ "assuntos": [
+  {
+   "codigo": "CV01",
+   "nome": "Lei de Introdução e noções gerais",
+   "descricao": "LINDB, princípios e teoria geral do direito privado."
+  },
+  {
+   "codigo": "CV02",
+   "nome": "Pessoas",
+   "descricao": "Pessoa natural, direitos da personalidade e pessoa jurídica."
+  },
+  {
+   "codigo": "CV03",
+   "nome": "Bens",
+   "descricao": "Classificação e bem de família."
+  },
+  {
+   "codigo": "CV04",
+   "nome": "Fatos, atos e negócios jurídicos",
+   "descricao": "Negócio jurídico, atos ilícitos, prescrição e prova."
+  },
+  {
+   "codigo": "CV05",
+   "nome": "Obrigações",
+   "descricao": "Teoria geral das obrigações."
+  },
+  {
+   "codigo": "CV06",
+   "nome": "Contratos em geral",
+   "descricao": "Teoria geral dos contratos."
+  },
+  {
+   "codigo": "CV07",
+   "nome": "Contratos em espécie: transferência de propriedade",
+   "descricao": "Contratos que transmitem bens."
+  },
+  {
+   "codigo": "CV08",
+   "nome": "Contratos em espécie: uso e gozo",
+   "descricao": "Contratos que cedem o uso de coisas."
+  },
+  {
+   "codigo": "CV09",
+   "nome": "Contratos em espécie: prestação de atividade",
+   "descricao": "Contratos que têm por objeto uma atividade."
+  },
+  {
+   "codigo": "CV10",
+   "nome": "Contratos em espécie: garantia e risco",
+   "descricao": "Contratos de garantia e aleatórios."
+  },
+  {
+   "codigo": "CV11",
+   "nome": "Contratos em espécie: atípicos e demais contratos nomeados",
+   "descricao": "Contratos atípicos, modernos e demais nomeados."
+  },
+  {
+   "codigo": "CV12",
+   "nome": "Responsabilidade civil",
+   "descricao": "Pressupostos, espécies, excludentes e reparação."
+  },
+  {
+   "codigo": "CV13",
+   "nome": "Direito das coisas",
+   "descricao": "Posse, propriedade e direitos reais."
+  },
+  {
+   "codigo": "CV14",
+   "nome": "Direito de família: casamento e união estável",
+   "descricao": "Entidades familiares e vínculo conjugal."
+  },
+  {
+   "codigo": "CV15",
+   "nome": "Direito de família: parentesco e proteção",
+   "descricao": "Filiação, poder familiar, alimentos e proteção da pessoa."
+  },
+  {
+   "codigo": "CV16",
+   "nome": "Direito das sucessões",
+   "descricao": "Herança, sucessão legítima e testamentária e inventário."
+  },
+  {
+   "codigo": "CV17",
+   "nome": "Legislação civil especial e direito imobiliário",
+   "descricao": "Leis especiais de direito privado."
+  }
+ ],
+ "pontos": [
+  {
+   "codigo": "CV01.01",
+   "assunto": "CV01",
+   "texto": "Lei de Introdução às normas do Direito Brasileiro",
+   "descricao": "Vigência, aplicação e interpretação.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV01.02",
+   "assunto": "CV01",
+   "texto": "Direito civil constitucional, princípios e cláusulas gerais",
+   "descricao": "[Tema compartilhado com Direito Constitucional]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV01.03",
+   "assunto": "CV01",
+   "texto": "Norma jurídica, relação jurídica e direito subjetivo",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV02.01",
+   "assunto": "CV02",
+   "texto": "Personalidade e capacidade da pessoa natural",
+   "descricao": "Curatela: ver Direito de família.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV02.02",
+   "assunto": "CV02",
+   "texto": "Domicílio",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV02.03",
+   "assunto": "CV02",
+   "texto": "Direitos da personalidade",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV02.04",
+   "assunto": "CV02",
+   "texto": "Pessoa jurídica",
+   "descricao": "Associações e fundações.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV02.05",
+   "assunto": "CV02",
+   "texto": "Desconsideração da personalidade jurídica",
+   "descricao": "[Tema compartilhado com Direito Processual Civil]",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV03.01",
+   "assunto": "CV03",
+   "texto": "Bens: classificação",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV03.02",
+   "assunto": "CV03",
+   "texto": "Bem de família",
+   "descricao": "[Tema compartilhado com Direito Processual Civil]",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV04.01",
+   "assunto": "CV04",
+   "texto": "Negócio jurídico: existência e validade",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV04.02",
+   "assunto": "CV04",
+   "texto": "Eficácia do negócio jurídico",
+   "descricao": "Condição, termo e encargo.",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV04.03",
+   "assunto": "CV04",
+   "texto": "Defeitos do negócio jurídico",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV04.04",
+   "assunto": "CV04",
+   "texto": "Atos ilícitos e abuso do direito",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV04.05",
+   "assunto": "CV04",
+   "texto": "Prescrição e decadência",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV04.06",
+   "assunto": "CV04",
+   "texto": "Prova dos fatos jurídicos",
+   "descricao": "[Tema compartilhado com Direito Processual Civil]",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV05.01",
+   "assunto": "CV05",
+   "texto": "Modalidades das obrigações",
+   "descricao": "Inclui a solidariedade.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV05.02",
+   "assunto": "CV05",
+   "texto": "Transmissão das obrigações",
+   "descricao": "Cessão de crédito e assunção de dívida.",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV05.03",
+   "assunto": "CV05",
+   "texto": "Inadimplemento e mora",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV05.04",
+   "assunto": "CV05",
+   "texto": "Juros, cláusula penal e arras",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV05.05",
+   "assunto": "CV05",
+   "texto": "Extinção das obrigações",
+   "descricao": "Pagamento e demais formas de extinção.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV05.06",
+   "assunto": "CV05",
+   "texto": "Pagamento indevido e enriquecimento sem causa",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV05.07",
+   "assunto": "CV05",
+   "texto": "Atos unilaterais",
+   "descricao": "Promessa de recompensa, gestão de negócios e títulos de crédito (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV06.01",
+   "assunto": "CV06",
+   "texto": "Princípios contratuais",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV06.02",
+   "assunto": "CV06",
+   "texto": "Formação dos contratos",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV06.03",
+   "assunto": "CV06",
+   "texto": "Vícios redibitórios e evicção",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV06.04",
+   "assunto": "CV06",
+   "texto": "Extinção dos contratos",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV07.01",
+   "assunto": "CV07",
+   "texto": "Compra e venda",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV07.02",
+   "assunto": "CV07",
+   "texto": "Troca",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV07.03",
+   "assunto": "CV07",
+   "texto": "Doação",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV08.01",
+   "assunto": "CV08",
+   "texto": "Locação de coisas e Lei do Inquilinato",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV08.02",
+   "assunto": "CV08",
+   "texto": "Comodato",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV08.03",
+   "assunto": "CV08",
+   "texto": "Mútuo",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV09.01",
+   "assunto": "CV09",
+   "texto": "Prestação de serviços",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV09.02",
+   "assunto": "CV09",
+   "texto": "Empreitada",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV09.03",
+   "assunto": "CV09",
+   "texto": "Depósito",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV09.04",
+   "assunto": "CV09",
+   "texto": "Mandato",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV09.05",
+   "assunto": "CV09",
+   "texto": "Comissão",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV09.06",
+   "assunto": "CV09",
+   "texto": "Agência e distribuição",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV09.07",
+   "assunto": "CV09",
+   "texto": "Corretagem",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV09.08",
+   "assunto": "CV09",
+   "texto": "Transporte",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV10.01",
+   "assunto": "CV10",
+   "texto": "Seguro",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV10.02",
+   "assunto": "CV10",
+   "texto": "Fiança",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV11.01",
+   "assunto": "CV11",
+   "texto": "Visão geral, contratos atípicos e modernos",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV11.02",
+   "assunto": "CV11",
+   "texto": "Outros contratos nomeados",
+   "descricao": "Estimatório, constituição de renda, jogo e aposta, transação e compromisso.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV12.01",
+   "assunto": "CV12",
+   "texto": "Pressupostos da responsabilidade civil",
+   "descricao": "[Tema compartilhado com Direito Administrativo]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV12.02",
+   "assunto": "CV12",
+   "texto": "Espécies de responsabilidade civil",
+   "descricao": "Subjetiva, objetiva, contratual e extracontratual.",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV12.03",
+   "assunto": "CV12",
+   "texto": "Excludentes de responsabilidade civil",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV12.04",
+   "assunto": "CV12",
+   "texto": "Reparação do dano",
+   "descricao": "Dano moral e quantificação (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV13.01",
+   "assunto": "CV13",
+   "texto": "Posse",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV13.02",
+   "assunto": "CV13",
+   "texto": "Propriedade",
+   "descricao": "Aquisição, perda e função social.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV13.03",
+   "assunto": "CV13",
+   "texto": "Usucapião",
+   "descricao": "[Tema compartilhado com Direito Processual Civil]",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV13.04",
+   "assunto": "CV13",
+   "texto": "Condomínio e direitos de vizinhança",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV13.05",
+   "assunto": "CV13",
+   "texto": "Direitos reais de gozo",
+   "descricao": "Servidões, usufruto e superfície.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV13.06",
+   "assunto": "CV13",
+   "texto": "Direito do promitente comprador",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV13.07",
+   "assunto": "CV13",
+   "texto": "Direitos reais de garantia",
+   "descricao": "Penhor, hipoteca e anticrese.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV13.08",
+   "assunto": "CV13",
+   "texto": "Alienação fiduciária",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV14.01",
+   "assunto": "CV14",
+   "texto": "Princípios e entidades familiares",
+   "descricao": "Diversidade, multiparentalidade e planejamento familiar.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV14.02",
+   "assunto": "CV14",
+   "texto": "Casamento: habilitação, impedimentos e invalidade",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV14.03",
+   "assunto": "CV14",
+   "texto": "Regime de bens",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV14.04",
+   "assunto": "CV14",
+   "texto": "Dissolução da sociedade conjugal",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV14.05",
+   "assunto": "CV14",
+   "texto": "União estável e concubinato",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV15.01",
+   "assunto": "CV15",
+   "texto": "Parentesco e filiação",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV15.02",
+   "assunto": "CV15",
+   "texto": "Adoção",
+   "descricao": "[Tema compartilhado com ECA]",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV15.03",
+   "assunto": "CV15",
+   "texto": "Alienação parental",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV15.04",
+   "assunto": "CV15",
+   "texto": "Poder familiar",
+   "descricao": "[Tema compartilhado com ECA]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV15.05",
+   "assunto": "CV15",
+   "texto": "Guarda e convivência",
+   "descricao": "[Tema compartilhado com ECA]",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV15.06",
+   "assunto": "CV15",
+   "texto": "Alimentos",
+   "descricao": "[Tema compartilhado com Direito Processual Civil]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV15.07",
+   "assunto": "CV15",
+   "texto": "Tutela e curatela",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV15.08",
+   "assunto": "CV15",
+   "texto": "Tomada de decisão apoiada",
+   "descricao": "[Tema compartilhado com Direitos Humanos]",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV16.01",
+   "assunto": "CV16",
+   "texto": "Herança e vocação hereditária",
+   "descricao": "Aceitação e renúncia.",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV16.02",
+   "assunto": "CV16",
+   "texto": "Exclusão da sucessão",
+   "descricao": "Indignidade e deserdação.",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV16.03",
+   "assunto": "CV16",
+   "texto": "Sucessão legítima",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV16.04",
+   "assunto": "CV16",
+   "texto": "Sucessão testamentária",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV16.05",
+   "assunto": "CV16",
+   "texto": "Inventário e partilha",
+   "descricao": "[Tema compartilhado com Direito Processual Civil]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV16.06",
+   "assunto": "CV16",
+   "texto": "Arrolamento e alvarás",
+   "descricao": "[Tema compartilhado com Direito Processual Civil]",
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV17.01",
+   "assunto": "CV17",
+   "texto": "Registros públicos",
+   "descricao": null,
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV17.02",
+   "assunto": "CV17",
+   "texto": "Parcelamento do solo e Estatuto da Cidade",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV17.03",
+   "assunto": "CV17",
+   "texto": "Estatutos protetivos de direito privado",
+   "descricao": "ECA e Estatuto da Pessoa Idosa. [Tema compartilhado com ECA e Direitos Humanos]",
+   "origem": "edital geral v1 (14/11/2026)",
+   "ativo": 1,
+   "criado_em": "2026-11-14"
+  },
+  {
+   "codigo": "CV17.04",
+   "assunto": "CV17",
+   "texto": "Lei Geral de Proteção de Dados",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV17.05",
+   "assunto": "CV17",
+   "texto": "Planos de saúde",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CV17.06",
+   "assunto": "CV17",
+   "texto": "Declaração de direitos de liberdade econômica",
+   "descricao": null,
+   "origem": "rascunho v2 (IA, esqueleto do Código Civil; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  }
+ ]
+}

@@ -1,0 +1,368 @@
+{
+ "pasta": "2022 - DPE-MT - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PCIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 5544,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Código de Processo Civil (Lei nº 13.105, de 16 de março de 2015)."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Constituição e Processo:"
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "A Constitucionalização do processo.",
+      "Princípios constitucionais no processo civil."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Conteúdo jurídico do direito de acesso à tutela jurisdicional do Estado."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Conteúdo jurídico do direito de defesa."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Direitos fundamentais e processo."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "A busca pela efetividade do processo e as reformas processuais."
+     ]
+    },
+    {
+     "item": "2.6",
+     "frases": [
+      "O provimento jurisdicional como instrumento de transformação social."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Normas de Direito Processual Civil: natureza jurídica, fontes, princípios processuais civis, interpretação e Direito Processual intertemporal.",
+      "Princípios infraconstitucionais do processo civil."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Jurisdição: conceito, características, princípios e espécies."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Meios adequados de solução de conflitos: autotutela, autocomposição (conciliação e mediação), arbitragem e tribunais administrativos.",
+      "Resolução CNJ nº 125/2010.",
+      "Lei de Mediação (Lei nº 13.140/2015)."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Competência."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Ação: teorias, classificação, elementos e cumulação.",
+      "Teoria da asserção."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Processo: pressupostos processuais, atos processuais, vícios dos atos processuais, lugar, tempo e forma dos atos processuais, comunicação dos atos processuais.",
+      "Preclusão."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Sujeitos do processo: partes, capacidade, deveres e responsabilidade por dano processual, substituição, sucessão.",
+      "Litisconsórcio.",
+      "Assistência.",
+      "Intervenção de terceiros: típicas e atípicas.",
+      "Amicus curiae.",
+      "Juiz e auxiliares da justiça.",
+      "Ministério Público.",
+      "Advocacia Pública.",
+      "Defensoria Pública.",
+      "A intervenção da Defensoria Pública como custos vulnerabilis."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Da tutela provisória.",
+      "Tutela de urgência e tutela da evidência.",
+      "Tutela antecedente e incidente.",
+      "Estabilização da tutela provisória."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Do procedimento.",
+      "Teoria geral do procedimento.",
+      "Procedimentos especiais e procedimentos de jurisdição voluntária.",
+      "Procedimento comum: petição inicial, indeferimento da petição inicial, improcedência liminar do pedido, audiência de conciliação ou mediação, respostas do réu, revelia, providências preliminares e saneamento, julgamento conforme o estado do processo, audiência de instrução e julgamento, provas, sentença e coisa julgada."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Do cumprimento de sentença."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Provas.",
+      "Objeto, fonte e meios.",
+      "Admissibilidade.",
+      "Provas típicas e atípicas.",
+      "Provas ilícitas.",
+      "Ônus da prova.",
+      "Provas em espécie e sua produção."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Normas processuais civis e medidas tutelares:"
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "No Estatuto da Criança e Adolescente;"
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "No Estatuto do Idoso;"
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "No Estatuto das Cidades;"
+     ]
+    },
+    {
+     "item": "12.4",
+     "frases": [
+      "Na Lei de Proteção e Defesa às Pessoas com Deficiência;"
+     ]
+    },
+    {
+     "item": "12.5",
+     "frases": [
+      "No Código de Defesa aos Consumidores."
+     ]
+    },
+    {
+     "item": "12.6",
+     "frases": [
+      "Na Lei de violência doméstica."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Tutelas declaratórias, condenatórias, mandamentais, cominatórias e específicas."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Processo de execução: espécies, procedimentos, execução provisória e definitiva.",
+      "Execução para entrega de coisa, execução de obrigações de fazer ou de não fazer, execução por quantia certa, execução contra a fazenda pública, execução de alimentos.",
+      "Defesas do devedor e de terceiros na execução.",
+      "Ações prejudiciais à execução.",
+      "Embargos à execução.",
+      "Suspensão e extinção do processo de execução."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Processo nos tribunais e meios de impugnação das decisões judiciais: ordem dos processos nos tribunais e processos de competência originária dos tribunais: incidente de assunção de competência, incidente de arguição de inconstitucionalidade, conflito de competência, homologação de decisão estrangeira e concessão do exequatur à carta rogatória, ação rescisória, incidente de resolução de demandas repetitivas e reclamação."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Recursos e meios de impugnação.",
+      "Admissibilidade e efeitos.",
+      "Princípios.",
+      "Apelação, agravos, embargos de declaração, embargos de divergência, duplo grau obrigatório, ação rescisória, mandado de segurança contra ato judicial, ação declaratória de inexistência de ato processual e querela nullitatis.",
+      "Recursos nos Tribunais Superiores.",
+      "Incidente de resolução de recursos repetitivos.",
+      "Repercussão Geral.",
+      "Súmula.",
+      "Súmula Vinculante.",
+      "Lei Federal nº 11.417/06.",
+      "Precedentes: teoria geral, distinguishing e overhulling."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Prerrogativas processuais da Defensoria Pública."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "A Fazenda Pública como parte no processo: polos ativo e passivo.",
+      "Prerrogativas.",
+      "Tutela provisória e tutela específica.",
+      "Ação de conhecimento e execução.",
+      "A Fazenda nos procedimentos especiais.",
+      "Juizados Especiais da Fazenda Pública Estadual."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Ação de usucapião.",
+      "Usucapião como matéria de defesa."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Processo coletivo.",
+      "Microssistema de tutela coletiva.",
+      "Ação civil pública e demais instrumentos de proteção transindividual."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Ação direta de inconstitucionalidade e ação declaratória de constitucionalidade.",
+      "Ação de descumprimento de preceito constitucional."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Habeas Corpus, Habeas Data e Mandado de Injunção."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Reclamação."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Ação popular."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Mandado de segurança individual e coletivo."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Ações da Lei de Locação dos Imóveis Urbanos: despejo, consignatória de aluguel e acessórios, renovatória e revisional.",
+      "Postulação e defesa."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Ações possessórias e petitórias."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Ações de alimentos.",
+      "Execução de alimentos.",
+      "Lei de Alimentos e disposições do Código de Processo Civil."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Ações declaratória e negatória de vínculo parental (em vida e póstuma)."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Separação, divórcio direto e mediante conversão.",
+      "Declaratória de união estável (em vida e póstuma).",
+      "Separação e divórcio extrajudiciais."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Inventário judicial e extrajudicial.",
+      "Arrolamento.",
+      "Alvará."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Juizados Especiais Cíveis.",
+      "Enunciados."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Assistência Judiciária: aspectos processuais."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Processo eletrônico."
+     ]
+    },
+    {
+     "item": "34.1",
+     "frases": [
+      "Resolução CNJ nº 345/2020, nº 372/2021 e nº 385/2021."
+     ]
+    }
+   ]
+  }
+ ]
+}

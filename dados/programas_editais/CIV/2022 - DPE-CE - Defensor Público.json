@@ -1,0 +1,441 @@
+{
+ "pasta": "2022 - DPE-CE - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "CIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 7040,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Moral, religião, regras de trato social, justiça e direito.",
+      "Fontes do direito.",
+      "Lei de Introdução às normas do Direito Brasileiro.",
+      "Eficácia, conflito e interpretação das normas."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Pessoa natural.",
+      "Aquisição e extinção da personalidade.",
+      "Direitos da personalidade.",
+      "Nascituro.",
+      "Embrião excedentário.",
+      "Nome.",
+      "Estado.",
+      "Registro das pessoas naturais.",
+      "Domicílio e residência."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Pessoa natural: capacidade e emancipação.",
+      "Incapacidade.",
+      "Suprimento da incapacidade.",
+      "Tutela.",
+      "Curatela.",
+      "Tomada de decisão apoiada.",
+      "Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015).",
+      "Internação psiquiátrica involuntária.",
+      "Ausência.",
+      "Administração de bens e direitos de incapazes."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Pessoas jurídicas.",
+      "Definição e natureza.",
+      "Classificações.",
+      "Registro.",
+      "Nome.",
+      "Domicílio.",
+      "Prova.",
+      "Teoria da desconsideração da personalidade jurídica.",
+      "Pessoas Jurídicas como titulares de Direitos Fundamentais."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Pessoas jurídicas.",
+      "Fundações.",
+      "Associações.",
+      "Organizações sociais."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Fatos jurídicos: Conceito e Classificação.",
+      "Aquisição, modificação, defesa e extinção de direitos.",
+      "Negócio jurídico.",
+      "Situações jurídicas.",
+      "Atos jurídicos – elementos essenciais, classificação e modalidades.",
+      "Defeitos e invalidade dos atos."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Função social das relações jurídicas.",
+      "Prescrição e decadência."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Atos ilícitos.",
+      "Abuso do direito.",
+      "Enriquecimento ilícito.",
+      "Causas excludentes de ilicitude.",
+      "Prova."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Responsabilidade civil.",
+      "Da Indenização por Danos.",
+      "Liquidação dos danos.",
+      "Responsabilidade civil por perda de uma chance."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Bens jurídicos."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Do direito das coisas.",
+      "Posse e propriedade: classificação, aquisição, perda e proteção.",
+      "Função social e ambiental da posse e da propriedade."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Direito das coisas.",
+      "Direitos de vizinhança.",
+      "Condomínio geral.",
+      "Condomínio edilício (Código Civil, artigos 1.331 a 1.358; Lei nº 4.591/64).",
+      "Direitos sobre coisa alheia: uso, usufruto, habitação e servidão.",
+      "Direito de Superfície.",
+      "Direito de Sobrelevação."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Propriedade resolúvel.",
+      "Propriedade fiduciária.",
+      "Alienação fiduciária em garantia."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Compromisso de venda e compra."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Garantias de dívidas: penhor e hipoteca."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Direito das obrigações.",
+      "Definição, fontes e classificação.",
+      "Modalidades.",
+      "Obrigação e solidariedade."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Transmissão das obrigações.",
+      "Cessão de Crédito.",
+      "Assunção de dívida."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Extinção das obrigações.",
+      "Adimplemento: pagamento, pagamento em consignação; pagamento com sub-rogação; dação em pagamento, novação com sub-rogação, dação em pagamento; novação; compensação; remissão; confusão.",
+      "Pagamento indevido.",
+      "Inadimplemento das Obrigações.",
+      "Mora.",
+      "Juros.",
+      "Correção monetária.",
+      "Cláusula penal.",
+      "Arras.",
+      "Morte.",
+      "Incapacidade superveniente.",
+      "Prisão Civil."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Atos unilaterais.",
+      "Promessa de recompensa.",
+      "Gestão de negócios."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Contratos.",
+      "Generalidades.",
+      "A função social dos contratos.",
+      "Cláusulas Gerais dos Contratos e deveres anexos.",
+      "Princípio da equivalência.",
+      "Formação dos contratos: fases.",
+      "Contrato preliminar.",
+      "Classificações dos contratos.",
+      "Contratos atípicos.",
+      "Interpretação dos Contratos.",
+      "Vícios redibitórios.",
+      "Evicção."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Extinção dos contratos.",
+      "Exceção de contrato não cumprido.",
+      "Teoria da imprevisão.",
+      "Teoria da resolução por onerosidade excessiva.",
+      "Teoria da Base objetiva do Negócio Jurídico.",
+      "Adimplemento Substancial."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Contratos em espécie.",
+      "Compra e venda.",
+      "Troca.",
+      "Venda com reserva de domínio.",
+      "Doação.",
+      "Locação de coisas.",
+      "Empréstimo, comodato e mútuo.",
+      "Prestação de serviço.",
+      "Empreitada.",
+      "Depósito.",
+      "Mandato.",
+      "Corretagem.",
+      "Transporte.",
+      "Seguro.",
+      "Fiança.",
+      "Locação predial.",
+      "Contrato de prestação de serviço de assistência e contrato privado de seguro de assistência à saúde."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Entidades familiares.",
+      "Origem e conceitos.",
+      "Relações familiares plurais - fundamentos da diversidade.",
+      "Princípios constitucionais da família.",
+      "Princípios constitucionais aplicáveis às relações familiares."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Esponsais.",
+      "Casamento - habilitação, celebração, eficácia, direitos e deveres.",
+      "Dissolução de sociedade conjugal e do vínculo matrimonial.",
+      "Responsabilidade civil decorrente das relações familiares.",
+      "Regime de bens, meação e sucessão.",
+      "A teoria da desconsideração na partilha.",
+      "Posse do estado de casado."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "União estável.",
+      "Aspectos constitucionais e normas da legislação infraconstitucional.",
+      "Características, estado, impedimentos, direitos e deveres.",
+      "Meação e sucessão.",
+      "A teoria da desconsideração na partilha."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "União de pessoas do mesmo sexo ou Direito Homoafetivo."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Relações de parentesco."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Filiação.",
+      "Proteção das pessoas dos filhos.",
+      "Adoção.",
+      "Reconhecimento de filhos.",
+      "Denominações.",
+      "Estado de filiação e origem genética.",
+      "Princípio da afetividade.",
+      "Alienação Parental.",
+      "Princípio da paternidade responsável.",
+      "Usufruto e administração de bens de filhos incapazes."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "O Estatuto da Criança e do Adolescente (Lei nº 8.069/90)."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Poder familiar."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Direitos sexuais e reprodutivos.",
+      "Reprodução medicamente assistida.",
+      "Planejamento familiar."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Alimentos.",
+      "Conceito.",
+      "Natureza.",
+      "Classificação dos alimentos.",
+      "Características do direito alimentar.",
+      "Características da obrigação alimentar.",
+      "Origens e sujeitos das obrigações alimentares.",
+      "Alimentos Gravídicos."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Sucessão.",
+      "Sucessão Legítima e Sucessão testamentária.",
+      "Herança jacente.",
+      "Herança vacante.",
+      "Inventário.",
+      "Partilha de bens e direitos."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "O Direito de Empresa no Código Civil.",
+      "Da Empresa e Do Empresário.",
+      "Ato empresarial."
+     ]
+    },
+    {
+     "item": "35",
+     "frases": [
+      "Da Sociedade Empresarial.",
+      "Sociedade não personificada.",
+      "Sociedade Personificada.",
+      "Sociedade Simples.",
+      "Sociedade em nome coletivo.",
+      "Sociedade em comandita simples.",
+      "Sociedade Limitada.",
+      "Sociedade Cooperativa.",
+      "Sociedades Coligadas.",
+      "Registro das sociedades.",
+      "Transformação, incorporação, fusão e liquidação.",
+      "Do Estabelecimento.",
+      "Nome Empresarial.",
+      "Dos Prepostos.",
+      "Desconsideração da personalidade jurídica."
+     ]
+    },
+    {
+     "item": "36",
+     "frases": [
+      "Dos Títulos de Crédito: Disposições Gerais, Títulos ao Portador, Títulos à Ordem e Títulos Nominativos.",
+      "Títulos em Espécie: Da Letra de Câmbio.",
+      "Da Nota Promissória.",
+      "Da Duplicata de Compra e Venda Mercantil e de Prestação de Serviços.",
+      "Do Cheque."
+     ]
+    },
+    {
+     "item": "37",
+     "frases": [
+      "Contratos bancários: conceito, características, classificação, espécies e interpretação.",
+      "Dos Juros Remuneratórios e Moratórios.",
+      "Anatocismo.",
+      "Cartão de crédito.",
+      "Aplicação do Código de Defesa do Consumidor aos contratos bancários.",
+      "Comércio eletrônico."
+     ]
+    },
+    {
+     "item": "38",
+     "frases": [
+      "Arrendamento mercantil: evolução histórica, conceito, elementos do contrato, obrigações dos sujeitos, modalidades, revisão e cláusulas abusivas."
+     ]
+    },
+    {
+     "item": "39",
+     "frases": [
+      "Da alienação fiduciária em garantia."
+     ]
+    },
+    {
+     "item": "40",
+     "frases": [
+      "Da Falência e da Concordata: Lei Federal nº 11.101, de 2005.",
+      "Recuperação Judicial e Falência.",
+      "Disposições comuns.",
+      "As obrigações contratuais na recuperação judicial e na falência.",
+      "Administrador Judicial.",
+      "Comitê de Credores.",
+      "Assembleia Geral de Credores.",
+      "Plano e procedimento de recuperação judicial.",
+      "Convolação da recuperação judicial em falência.",
+      "Disposições gerais.",
+      "Procedimento de decretação.",
+      "Direitos e deveres do falido.",
+      "Habilitação e classificação dos créditos.",
+      "Atos anteriores à falência, ineficácia e revogação.",
+      "Arrecadação e realização do ativo.",
+      "Pagamento dos credores.",
+      "Encerramento da falência e extinção das obrigações do falido.",
+      "Recuperação extrajudicial.",
+      "O plano de recuperação.",
+      "Credores sujeitos ao plano.",
+      "A homologação judicial, requisitos e procedimento."
+     ]
+    }
+   ]
+  }
+ ]
+}

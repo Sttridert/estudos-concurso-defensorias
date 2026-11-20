@@ -1,0 +1,39 @@
+{
+ "2023 - DPE-AM - Analista Jurídico|51": {
+  "c": "Gabarito oficial: C. Pela jurisprudência do STF, os tratados de direitos humanos ratificados antes da EC 45/2004 (como a Convenção Americana) têm status supralegal: abaixo da Constituição e acima das leis (RE 466.343 e Súmula Vinculante 25). O status de emenda constitucional depende da aprovação pelo rito do art. 5º, §3º.",
+  "p": "Oferecer \"constitucional\" e \"supraconstitucional\" para quem confunde com o §3º.",
+  "d": [
+   "CF|art. 5º, §3º",
+   "STF|RE 466.343 e Súmula Vinculante 25"
+  ]
+ },
+ "2023 - DPE-AM - Analista Jurídico|52": {
+  "c": "Gabarito oficial: D. O requisito expresso na CF para o incidente de deslocamento de competência é assegurar o cumprimento de obrigações decorrentes de tratados internacionais de direitos humanos dos quais o Brasil seja parte (art. 109, §5º). Absolvição, conflito com a Justiça militar e esgotamento dos recursos locais não são requisitos expressos.",
+  "p": "Inventar requisitos (esgotamento dos recursos na Justiça estadual).",
+  "d": [
+   "CF|art. 109, V-A e §5º"
+  ]
+ },
+ "2023 - DPE-AM - Analista Jurídico|53": {
+  "c": "Gabarito oficial: B. Entre os protocolos facultativos ao PIDCP, o segundo (1989) trata da abolição da pena de morte; o primeiro cuida das comunicações individuais ao Comitê de Direitos Humanos. Tribunal Penal Internacional, penas cruéis, direitos econômicos e crianças em conflitos armados são objeto de outros instrumentos.",
+  "p": "Atribuir ao protocolo do PIDCP temas de outros tratados.",
+  "d": [
+   "2º Protocolo Facultativo ao PIDCP|1989, abolição da pena de morte"
+  ]
+ },
+ "2023 - DPE-AM - Analista Jurídico|54": {
+  "c": "Gabarito oficial: B. O sistema de visitas regulares a locais de privação de liberdade, por órgãos nacionais e internacionais independentes, foi criado pelo Protocolo Facultativo à Convenção contra a Tortura (OPCAT), e não pela Convenção contra a Tortura, pela Convenção Americana ou pela Convenção Interamericana.",
+  "p": "Escolher a Convenção em vez do Protocolo Facultativo.",
+  "d": [
+   "OPCAT|art. 1º"
+  ]
+ },
+ "2023 - DPE-AM - Analista Jurídico|55": {
+  "c": "Gabarito oficial: A. A petição individual da vítima é apresentada à Comissão Interamericana de Direitos Humanos (CADH, art. 44). Só a Comissão e os Estados levam casos à Corte; o \"Comitê Interamericano\" e a \"Relatoria de Defesa dos Direitos Humanos\" não existem como instâncias de petição, e a Secretaria-Geral da OEA não recebe petições.",
+  "p": "Mandar a petição direto à Corte ou citar órgãos inexistentes.",
+  "d": [
+   "CADH|art. 44",
+   "CADH|art. 61"
+  ]
+ }
+}

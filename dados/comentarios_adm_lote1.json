@@ -1,0 +1,112 @@
+{
+"2018 - DPE-AM - Analista Jurídico|26": {
+ "c": "Gabarito D, pela Lei 8.666/1993 vigente na época: é dispensável a licitação na compra ou locação de imóvel destinado às finalidades precípuas da Administração, cujas necessidades de instalação e localização condicionem a escolha, com preço compatível com a avaliação prévia (art. 24, X). A: a dispensa não se limita a imóveis de pessoas de direito público. B: não é inexigível só porque os imóveis são distintos. C e E: não há esse critério de julgamento. ATENÇÃO: na Lei 14.133/2021 essa hipótese passou a ser de INEXIGIBILIDADE (art. 74, V; confirmar no Planalto), o que muda a resposta se a questão for cobrada hoje.",
+ "p": "Estudar pela lei nova: a mesma situação (imóvel cuja localização condiciona a escolha) é dispensa na Lei 8.666 e inexigibilidade na Lei 14.133.",
+ "d": ["Lei 8.666/1993|art. 24, X", "Lei 14.133/2021|art. 74, V (confirmar)"],
+ "pend": 1},
+"2018 - DPE-AM - Analista Jurídico|27": {
+ "c": "Gabarito E. O serviço público funcionou mal (sistema fora do ar e ausência de delegado de plantão), o que prolongou a custódia sem depoimento: é a falta do serviço, que pode gerar responsabilização do Estado (CF, art. 37, § 6º), sem prejuízo de outras alegações, como a ilegalidade da detenção (CF, art. 5º, LXI e LXII). A e B: o poder de polícia é limitado pela lei e pelos direitos fundamentais; não é regular uma detenção sem justificativa. C: o dano pode ser imputado ao Estado, e não só ao policial. D: as normas de responsabilidade civil se aplicam à atuação policial.",
+ "p": "Achar que o poder de polícia permite limitar a liberdade sem base legal e afasta a responsabilidade do Estado.",
+ "d": ["CF|art. 37, § 6º", "CF|art. 5º, LXI e LXII"],
+ "pend": 0},
+"2018 - DPE-AM - Analista Jurídico|28": {
+ "c": "Gabarito D. Na concessão comum a remuneração é a tarifa paga pelo usuário (Lei 8.987/1995); na concessão patrocinada há tarifa e também contraprestação pecuniária do poder concedente, com garantias a cargo do poder público (Lei 11.079/2004, arts. 2º, § 1º, e 8º). A: as receitas alternativas podem ser previstas, mas não são obrigatórias (Lei 8.987, art. 11). B: a continuidade admite interrupção em situação de emergência ou, após aviso, por inadimplemento do usuário (art. 6º, § 3º). C: o raciocínio sobre investimentos está invertido e não há preferência legal pela PPP. E: a PPP patrocinada tem tarifa; só a administrativa é paga integralmente pelo poder público.",
+ "p": "Achar que PPP nunca tem tarifa e que serviço essencial nunca pode ser interrompido.",
+ "d": ["Lei 8.987/1995|art. 6º, § 3º", "Lei 8.987/1995|art. 11", "Lei 11.079/2004|art. 2º, §§ 1º e 2º", "Lei 11.079/2004|art. 8º"],
+ "pend": 0},
+"2018 - DPE-AM - Analista Jurídico|29": {
+ "c": "Gabarito E. Reduzir o ritmo da obra e adiar entregas é uma alteração unilateral permitida à Administração, uma de suas prerrogativas nos contratos administrativos (Lei 8.666/1993, arts. 58, I, e 65, I; Lei 14.133/2021, arts. 104 e 124, I), mas deve manter o equilíbrio econômico-financeiro do contrato (art. 65, § 6º; Lei 14.133, art. 130). A: a alteração unilateral não exige fato imprevisível. B: a teoria da imprevisão trata do reequilíbrio, e não de alteração unilateral por qualquer das partes. C: o limite de 25% é para acréscimos ou supressões de quantidade; aqui a mudança é de prazo. D: não há essa distinção entre obras iniciadas ou não.",
+ "p": "Confundir a alteração unilateral (prerrogativa da Administração) com a teoria da imprevisão (reequilíbrio).",
+ "d": ["Lei 8.666/1993|art. 58, I", "Lei 8.666/1993|art. 65, I e § 6º", "Lei 14.133/2021|art. 124, I", "Lei 14.133/2021|art. 130"],
+ "pend": 0},
+"2018 - DPE-AM - Analista Jurídico|30": {
+ "c": "Gabarito D. O vício de incompetência em ato que não é de competência exclusiva é sanável: a autoridade competente pode ratificar (convalidar) o ato, se ele estiver materialmente correto (Lei 9.784/1999, art. 55). A: revogação é para razões de conveniência, não para ilegalidade, que se anula. B: a anulação não exige reconduzir o servidor nem exonerar o comissionado nesses termos. C: a autoridade pode rever o ato (autotutela; Súmulas 346 e 473 do STF; Lei 9.784, art. 53). E: as provas colhidas podem ser aproveitadas na convalidação ou na renovação do ato.",
+ "p": "Tratar o vício de competência como insanável e ignorar a convalidação.",
+ "d": ["Lei 9.784/1999|art. 53", "Lei 9.784/1999|art. 55", "STF|Súmula 346", "STF|Súmula 473"],
+ "pend": 0},
+"2019 - DPE-AM - Analista Jurídico|26": {
+ "c": "Gabarito D. A Administração pode rescindir unilateralmente o contrato por razões de interesse público de alta relevância e amplo conhecimento, justificadas e determinadas pela máxima autoridade da esfera administrativa e exaradas no processo administrativo (Lei 8.666/1993, art. 78, XII; na Lei 14.133/2021, art. 137, VIII; confirmar o inciso). A absorção do órgão e a desativação da repartição são razões desse tipo. A: o contrato administrativo admite rescisão unilateral. B: não houve vício na contratação. C e E: não há 'princípio da antiguidade' nem cessão automática do contrato.",
+ "p": "Achar que o contrato firmado é intocável como ato jurídico perfeito.",
+ "d": ["Lei 8.666/1993|art. 78, XII", "Lei 8.666/1993|art. 79, § 2º", "Lei 14.133/2021|art. 137 (confirmar o inciso)"],
+ "pend": 1},
+"2019 - DPE-AM - Analista Jurídico|27": {
+ "c": "Gabarito B. A evolução histórica foi: teoria da irresponsabilidade do Estado (2), teoria civilista da culpa (3), teoria da culpa do serviço ou culpa anônima (4) e teoria do risco administrativo, que gera a responsabilidade objetiva (1). Sequência 2, 3, 4 e 1.",
+ "p": "Colocar o risco administrativo antes da culpa do serviço.",
+ "d": ["CF|art. 37, § 6º"],
+ "pend": 0},
+"2019 - DPE-AM - Analista Jurídico|28": {
+ "c": "Gabarito C. O aposentado em cargo público só pode voltar a receber remuneração do Estado nos cargos acumuláveis pela Constituição (como o de professor), nos cargos eletivos e nos cargos em comissão declarados em lei de livre nomeação e exoneração (CF, art. 37, XVI e § 10). A, B, D e E erram ao proibir tudo, ao limitar à área jurídica ou ao liberar qualquer cargo.",
+ "p": "Pensar que o aposentado pode assumir qualquer cargo, ou nenhum.",
+ "d": ["CF|art. 37, XVI", "CF|art. 37, § 10"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|26": {
+ "c": "Gabarito B. Os princípios expressos no caput do art. 37 da Constituição são legalidade, impessoalidade, moralidade, publicidade e eficiência (LIMPE). Supremacia do interesse público e impulso oficial são princípios do direito administrativo, mas não estão no caput do art. 37; eticidade, socialidade e operabilidade são do Código Civil.",
+ "p": "Confundir princípios constitucionais expressos com os implícitos ou os do Código Civil.",
+ "d": ["CF|art. 37, caput"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|27": {
+ "c": "Gabarito C. A responsabilidade do Estado por danos causados por seus agentes é objetiva em relação a terceiros, e o Estado tem direito de regresso contra o agente responsável nos casos de dolo ou culpa (CF, art. 37, § 6º). A e E erram ao dispensar o dolo ou a culpa ou ao negar o regresso. B e D tratam a responsabilidade perante terceiros como subjetiva.",
+ "p": "Misturar as duas relações: objetiva perante a vítima; subjetiva (dolo ou culpa) no regresso contra o agente.",
+ "d": ["CF|art. 37, § 6º"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|29": {
+ "c": "Gabarito E. Pela Lei 8.666/1993, a tomada de preços era a modalidade entre interessados devidamente cadastrados ou que atendessem a todas as condições exigidas para cadastramento até o terceiro dia anterior ao recebimento das propostas (art. 22, § 2º). A descreve o convite, B a concorrência, C o concurso e D o leilão. ATENÇÃO: a Lei 14.133/2021 extinguiu a tomada de preços e o convite; as modalidades hoje são concorrência, concurso, leilão, pregão e diálogo competitivo (art. 28).",
+ "p": "Cobrar modalidade que a lei nova extinguiu (tomada de preços e convite).",
+ "d": ["Lei 8.666/1993|art. 22, § 2º", "Lei 14.133/2021|art. 28"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|30": {
+ "c": "Gabarito A (II e III). A criação de autarquia depende de lei específica (CF, art. 37, XIX) e ela integra a Administração indireta. I está errado: autarquia é pessoa jurídica de direito público. IV está errado: as autarquias se sujeitam à licitação (CF, art. 37, XXI).",
+ "p": "Achar que a autarquia é de direito privado ou que não licita.",
+ "d": ["CF|art. 37, XIX e XXI", "Decreto-Lei 200/1967|art. 5º, I"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|26": {
+ "c": "Gabarito D. Autotutela, motivação e finalidade não estão no caput do art. 37 da Constituição: vêm da lei (Lei 9.784/1999, arts. 2º e 53) e da jurisprudência (Súmulas 346 e 473 do STF). Legalidade, impessoalidade, moralidade e publicidade são constitucionais, e por isso as alternativas A, B, C e E trazem pelo menos um princípio constitucional.",
+ "p": "Não separar os princípios do caput do art. 37 (constitucionais) dos que vêm da lei.",
+ "d": ["Lei 9.784/1999|art. 2º", "Lei 9.784/1999|art. 53", "STF|Súmula 473"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|27": {
+ "c": "Gabarito E. A Súmula Vinculante 13 proíbe a nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para cargo em comissão, de confiança ou função gratificada, incluindo o nepotismo cruzado. A, B, C e D erram o grau (quarto), excluem o companheiro ou os parentes por afinidade.",
+ "p": "Decorar o grau errado (terceiro, e não quarto) e esquecer o companheiro e os parentes por afinidade.",
+ "d": ["STF|Súmula Vinculante 13"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|28": {
+ "c": "Gabarito A. A autarquia é pessoa jurídica de direito público interno, criada por lei, integrante da Administração indireta. B erra ao dizer direito privado (isso é das empresas estatais). C erra ao colocá-la na Administração direta. D e E: autarquia é pessoa jurídica, não órgão.",
+ "p": "Confundir autarquia (pessoa jurídica de direito público) com órgão desconcentrado.",
+ "d": ["Decreto-Lei 200/1967|art. 5º, I"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|29": {
+ "c": "Gabarito C (objetiva e objetiva). A Constituição adota a responsabilidade objetiva tanto para as pessoas jurídicas de direito público quanto para as de direito privado prestadoras de serviços públicos (CF, art. 37, § 6º), pelos danos que seus agentes, nessa qualidade, causarem a terceiros.",
+ "p": "Achar que a prestadora privada de serviço público responde de forma subjetiva.",
+ "d": ["CF|art. 37, § 6º"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|30": {
+ "c": "Gabarito B. A desapropriação transforma, de forma definitiva e compulsória, bem privado em público mediante prévia e justa indenização (CF, art. 5º, XXIV). Afetação é destinação do bem público a uma finalidade; permissão de uso é uso privativo de bem público; confisco é perda do bem sem indenização; requisição é uso temporário por perigo público iminente (art. 5º, XXV).",
+ "p": "Confundir desapropriação (definitiva, com indenização prévia) com requisição (temporária, indenização posterior).",
+ "d": ["CF|art. 5º, XXIV e XXV", "Decreto-Lei 3.365/1941"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|26": {
+ "c": "Gabarito B. Uma Secretaria de Estado é um órgão público, criado pela divisão interna de competências dentro da mesma pessoa jurídica (o Estado), o que se chama desconcentração. Descentralização é a transferência de atividades para outra pessoa jurídica (autarquia, empresa, concessionária). Concentração e centralização são a ausência de divisão.",
+ "p": "Confundir desconcentração (dentro da mesma pessoa) com descentralização (para outra pessoa).",
+ "d": ["Lei 9.784/1999|art. 1º, § 2º, I"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|27": {
+ "c": "Gabarito C. O poder disciplinar é o que permite à Administração punir os agentes públicos e outras pessoas a ela ligadas por vínculo especial que cometam infrações funcionais. O poder de polícia atinge particulares em geral; o hierárquico organiza e fiscaliza; o vinculado é um atributo do ato, e não um poder.",
+ "p": "Confundir poder disciplinar (sobre quem tem vínculo com a Administração) com poder de polícia.",
+ "d": ["Lei 8.112/1990|art. 127"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|28": {
+ "c": "Gabarito E. O servidor da autarquia estava em serviço e dirigindo veículo oficial; a responsabilidade do Estado (aqui, da autarquia) é objetiva, independentemente de dolo ou culpa do servidor (CF, art. 37, § 6º). A e D tratam como subjetiva. C exige culpa para o Estado. B erra ao dizer que o servidor responde objetiva e solidariamente com o Estado: perante o terceiro responde o Estado, e o servidor só em regresso, com dolo ou culpa (STF, RE 1.027.633, Tema 940).",
+ "p": "Achar que a vítima pode processar direto o servidor ou que a culpa do servidor é necessária para o Estado responder.",
+ "d": ["CF|art. 37, § 6º", "STF|RE 1.027.633 (Tema 940)"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|29": {
+ "c": "Gabarito A, pela Lei 8.666/1993: é dispensável a licitação na contratação de instituição brasileira incumbida regimental ou estatutariamente da pesquisa, do ensino ou do desenvolvimento institucional, ou de instituição dedicada à recuperação social do preso (art. 24, XIII). B: a instituição de recuperação social do preso não pode ter fins lucrativos. C: a restauração de obras de arte é dispensável quando as atividades são compatíveis ou inerentes às finalidades do órgão (art. 24, XV), e a alternativa dispensa essa condição. D: serviços de publicidade e divulgação não têm dispensa específica; vão por licitação. E: contratar artista consagrado é caso de inexigibilidade (art. 25, III), e não de dispensa.",
+ "p": "Confundir dispensa (art. 24) com inexigibilidade (art. 25), como no caso do artista consagrado.",
+ "d": ["Lei 8.666/1993|art. 24, XIII e XV", "Lei 8.666/1993|art. 25, III"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|30": {
+ "c": "Gabarito D. O fechamento de rua para evento privado atende interesse predominantemente privado e é temporário: usa-se a autorização de uso de bem público, ato unilateral, discricionário e precário. A cessão é entre órgãos ou entidades públicas; a permissão serve para uso de interesse coletivo; a concessão é contrato para uso mais duradouro; e licitação na modalidade convite não é forma de uso de bem público.",
+ "p": "Confundir autorização (interesse privado, precária) com permissão (interesse coletivo).",
+ "d": ["CC|arts. 98 a 103 (bens públicos)"],
+ "pend": 0}
+}

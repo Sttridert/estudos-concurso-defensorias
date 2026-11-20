@@ -1,0 +1,26 @@
+# Requisitos para rodar o projeto do zero (Windows 11, testado em 20/11/2026).
+# Pacotes Python: python -m pip install -r requirements.txt
+# Rodar sempre os scripts com `python -I scripts/<nome>.py` (modo isolado; as bibliotecas locais são importadas por caminho).
+#
+# PROGRAMAS EXTERNOS (instalar à parte e deixar no PATH, exceto o LibreOffice, que o script procura no caminho padrão):
+#   Python 3.12 ou mais novo ....... usa tomllib (biblioteca padrão, a partir do 3.11); testado com 3.12.10
+#   Tesseract OCR 5.x .............. testado com 5.5.0. O Windows instala só `eng` e `osd`: é preciso acrescentar o idioma
+#                                    português (`por.traineddata`, da pasta tessdata do projeto oficial do Tesseract) na pasta
+#                                    `tessdata` da instalação. Conferir com `tesseract --list-langs` (deve listar `por`).
+#   Poppler (pdftotext e pdftoppm) . testado com Poppler 26.02 (build para Windows). `pdftotext -layout` e `pdftoppm -r 300`
+#                                    são usados para ler PDF de prova e edital; `pdftotext` e `pdftoppm` têm de estar no PATH.
+#   curl ........................... já vem no Windows 10 e 11; usado por `coletar_gabaritos.py baixar-fcc`.
+#   LibreOffice (opcional) ......... só para numerar as páginas do sumário da apostila (`24_gerar_apostila.py` procura
+#                                    `C:\Program Files\LibreOffice\program\soffice.exe`; sem ele a apostila sai sem os números).
+#   Git ............................ versionamento. Os PDFs de `provas/` ficam só locais (estão no .gitignore): ao clonar do zero,
+#                                    é preciso restaurá-los do acervo do usuário (Google Drive) para refazer extrações.
+#
+# OPCIONAIS DE FLUXO (não são pacotes):
+#   Claude in Chrome (extensão) .... usada para baixar provas do TEC Concursos com a conta do usuário (ver docs/01-METODO.md, seção 8).
+#   Conector PCI Concursos ......... servidor MCP em beta, https://mcp.pciconcursos.com.br/mcp; no Claude: Configurações,
+#                                    Conectores, Adicionar conector personalizado. Serve para localizar editais; não é fonte final.
+#
+# O banco `banco/estudos.db` NÃO é recriado a partir de nada: vem do repositório (ou de cópia em `banco/backup/`).
+
+python-docx==1.2.0        # gera as apostilas (24) e o documento do edital fictício (44); traz o lxml e o typing_extensions
+# openpyxl                # citado no método, mas nenhum script atual o importa; instalar só se voltar a ser usado

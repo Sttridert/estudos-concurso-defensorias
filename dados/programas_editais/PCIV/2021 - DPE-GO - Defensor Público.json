@@ -1,0 +1,284 @@
+{
+ "pasta": "2021 - DPE-GO - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PCIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 4979,
+   "avisos": [
+    "hifen removido: ...Fede-|ral",
+    "hifen removido: ...proces-|so.",
+    "hifen removido: ...proces-|suais,",
+    "hifen removido: ...Litis-|consórcio.",
+    "hifen removido: ...prelimina-|res,",
+    "hifen removido: ...em-|bargos",
+    "hifen removido: ...judici-|al,",
+    "hifen removido: ...es-|pécies,",
+    "hifen removido: ...divór-|cio"
+   ],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "A Defensoria Pública e o Código de Processo Civil de 2015: prerrogativas e aspectos processuais.",
+      "Lei Complementar Federal nº 80/94 e Lei Complementar Estadual nº 130/2017."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Código de Processo Civil (Lei Federal nº 13.105/2015)."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Constituição e Processo: A Constitucionalização do processo.",
+      "Princípios constitucionais no processo civil.",
+      "Conteúdo jurídico do direito de acesso à tutela jurisdicional do Estado.",
+      "Conteúdo jurídico do direito de defesa.",
+      "Direitos fundamentais e processo.",
+      "A busca pela efetividade do processo, as Reformas Processuais e as ondas renovatórias do acesso à Justiça.",
+      "O provimento jurisdicional como instrumento de transformação social."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Normas de Direito Processual Civil: natureza jurídica, fontes, princípios processuais civis, interpretação e direito processual intertemporal.",
+      "Princípios infraconstitucionais do processo civil."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Jurisdição: conceito, características, princípios e espécies.",
+      "Meios alternativos de solução de conflitos: autotutela, auto-composição (conciliação e mediação), arbitragem e tribunais administrativos.",
+      "Competência."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Ação: teorias, classificação, elementos, condições e cumulação."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Processo: pressupostos processuais, atos processuais, vícios dos atos processuais, lugar, tempo e forma dos atos processuais, comunicação dos atos processuais.",
+      "Preclusão."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Sujeitos do processo: partes, capacidade, deveres e responsabilidade por dano processual, substituição, sucessão.",
+      "Litisconsórcio.",
+      "Assistência.",
+      "Intervenção de terceiros: típicas e atípicas.",
+      "Amicus curiae."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Prerrogativas processuais da Defensoria Pública."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Procedimento comum ordinário: petição inicial, antecipação de tutela, respostas do réu, revelia, providências preliminares, julgamento conforme o estado do processo, provas, indícios e presunções, audiência, sentença e coisa julgada."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Outros procedimentos do processo de conhecimento: procedimento comum sumário e procedimentos especiais do CPC (jurisdição contenciosa e jurisdição voluntária)."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Provas.",
+      "Objeto, fonte e meios.",
+      "Admissibilidade.",
+      "Provas típicas e atípicas.",
+      "Provas ilícitas.",
+      "Ônus da prova.",
+      "Provas em espécie e sua produção."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Normas processuais civis e medidas tutelares: no Estatuto da Criança e Adolescente; no Estatuto do Idoso; no Estatuto das Cidades; na Lei Brasileira de Inclusão da Pessoa com Deficiência; no Código de Defesa aos Consumidores."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Tutelas declaratórias, condenatórias, mandamentais, cominatórias e específicas."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Processo nos tribunais: uniformização de jurisprudência, declaração de inconstitucionalidade e ordem do processo nos tribunais."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Recursos e meios de impugnação.",
+      "Admissibilidade e efeitos.",
+      "Princípios.",
+      "Apelação, agravos, embargos de declaração, embargos infringentes, embargos de divergência, reexame necessário, ação rescisória, mandado de segurança contra ato judicial, ação declaratória de inexistência de ato processual e querela nullitatis.",
+      "Recursos nos Tribunais Superiores.",
+      "Regimento Interno do TJ/GO, do STJ e STF.",
+      "Lei Federal nº 8.038/90.",
+      "Repercussão Geral.",
+      "Súmula.",
+      "Súmula Vinculante.",
+      "Lei Federal nº 11.417/06.",
+      "Precedentes: teoria geral, distinguishing e overruling."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Execução de título executivo judicial e extrajudicial.",
+      "Liquidação.",
+      "Cumprimento de sentença e processo de execução: espécies, procedimentos, execução provisória e definitiva.",
+      "Execuções especiais no CPC.",
+      "Defesas do devedor e de terceiros na execução.",
+      "Ações prejudiciais à execução."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Tutela de urgência e da evidência.",
+      "Tutela antecipada a tutela cautelar.",
+      "Processo cautelar: medidas cautelares nominadas e inominadas."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "A Fazenda Pública como parte no processo: polos ativo e passivo.",
+      "Prerrogativas.",
+      "Tutela antecipada, tutela específica.",
+      "Ação de conhecimento e execução.",
+      "A Fazenda nos procedimentos especiais.",
+      "Juizados Especiais da Fazenda Pública Estadual."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Ação de usucapião.",
+      "Usucapião como matéria de defesa."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Processo coletivo.",
+      "Ação civil pública."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Ação direta de inconstitucionalidade.",
+      "Ação declaratória de constitucionalidade.",
+      "Arguição de descumprimento de preceito fundamental."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Habeas Corpus, Habeas Data, Mandado de Injunção, Mandado de Segurança, Ação popular e Reclamação."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Ações da Lei de Locação dos Imóveis Urbanos: despejo, consignatória de aluguel e acessórios, renovatória e revisional.",
+      "Postulação e defesa."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Ações de alimentos.",
+      "Execução de alimentos.",
+      "Lei de Alimentos e disposições do Código de Processo Civil."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Ações declaratória e negatória de vínculo parental (em vida e póstuma)."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Separação, divórcio direto e mediante conversão.",
+      "Declaratória de união estável (em vida e póstuma).",
+      "Separação e divórcio extrajudiciais."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Inventário judicial e extrajudicial.",
+      "Arrolamento.",
+      "Alvará."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Juizados Especiais Cíveis."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Gratuidade da justiça: aspectos processuais."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Processo eletrônico."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "A Defensoria Pública e o exercício da curadoria especial."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "A Defensoria Pública enquanto custos vulnerabilis."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Jurisprudência dos Tribunais Superiores na matéria constante do programa de Direito Processual Civil."
+     ]
+    }
+   ]
+  }
+ ]
+}

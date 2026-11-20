@@ -1,0 +1,1101 @@
+{
+ "slug": "direito-constitucional",
+ "disciplina": "Direito Constitucional",
+ "prefixo": "CO",
+ "versao_base": "v1",
+ "versao_alvo": "v2",
+ "criado_em": "2026-11-20T16:54:47",
+ "estado": "rascunho",
+ "assuntos": [
+  {
+   "uid": "v1:CO01",
+   "antigo": "CO01",
+   "nome": "Teoria da Constituição",
+   "descricao": "Constitucionalismo, poder constituinte, eficácia das normas e interpretação.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO01.01",
+     "antigo": "CO01.01",
+     "texto": "Constitucionalismo e história das Constituições",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:8d466ccf",
+     "antigo": null,
+     "texto": "Conceito e classificação das Constituições",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO01.02",
+     "antigo": "CO01.02",
+     "texto": "Poder constituinte",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:0ba2979e",
+     "antigo": null,
+     "texto": "Reforma e mutação constitucional",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO01.03",
+     "antigo": "CO01.03",
+     "texto": "Eficácia e aplicabilidade das normas constitucionais",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:16a6778c",
+     "antigo": null,
+     "texto": "Recepção e direito intertemporal constitucional",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO01.04",
+     "antigo": "CO01.04",
+     "texto": "Hermenêutica e interpretação constitucional",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "n:dd22a6fe",
+   "antigo": null,
+   "nome": "Estado, democracia e separação dos poderes",
+   "descricao": "Fundamentos teóricos da organização do poder.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO01.05",
+     "antigo": "CO01.05",
+     "texto": "Teoria do Estado e democracia",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:1834626a",
+     "antigo": null,
+     "texto": "Separação dos poderes",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO02",
+   "antigo": "CO02",
+   "nome": "Princípios fundamentais e disposições gerais",
+   "descricao": "Arts. 1º a 4º, preâmbulo, disposições gerais e ADCT.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO02.01",
+     "antigo": "CO02.01",
+     "texto": "Princípios fundamentais da República",
+     "descricao": "Arts. 1º a 4º.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:dba7f021",
+     "antigo": null,
+     "texto": "Preâmbulo da Constituição",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO02.02",
+     "antigo": "CO02.02",
+     "texto": "Disposições constitucionais gerais",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:ccc2a3df",
+     "antigo": null,
+     "texto": "Ato das Disposições Constitucionais Transitórias",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO03",
+   "antigo": "CO03",
+   "nome": "Direitos fundamentais",
+   "descricao": "Teoria geral e direitos em espécie.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO03.01",
+     "antigo": "CO03.01",
+     "texto": "Teoria geral dos direitos fundamentais",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CO03.02",
+     "antigo": "CO03.02",
+     "texto": "Direitos e deveres individuais e coletivos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:17194e61",
+     "antigo": null,
+     "texto": "Igualdade e não discriminação",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:274bb70f",
+   "antigo": null,
+   "nome": "Garantias dos direitos fundamentais",
+   "descricao": "Instrumentos de proteção judicial e não judicial.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO03.03",
+     "antigo": "CO03.03",
+     "texto": "Remédios constitucionais",
+     "descricao": "Habeas corpus, habeas data, mandado de segurança, mandado de injunção e ação popular. [Tema compartilhado com Direito Processual Penal e Direitos Humanos]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CO03.04",
+     "antigo": "CO03.04",
+     "texto": "Proteção não judicial e participação social",
+     "descricao": "Controle social.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CO03.06",
+     "antigo": "CO03.06",
+     "texto": "Políticas públicas e controle judicial",
+     "descricao": "Controle judicial e extrajudicial de políticas públicas.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:c86f0bfa",
+     "antigo": null,
+     "texto": "Tutela coletiva",
+     "descricao": "[Tema compartilhado com Direito Processual Civil]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:6f53acee",
+   "antigo": null,
+   "nome": "Constituição e direitos humanos",
+   "descricao": "Relação entre a ordem constitucional e o direito internacional dos direitos humanos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO03.05",
+     "antigo": "CO03.05",
+     "texto": "Constituição e tratados de direitos humanos",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:58a41b1e",
+     "antigo": null,
+     "texto": "Justiça de transição, memória e verdade",
+     "descricao": "[Tema compartilhado com Direitos Humanos] (confirmar: sem item de edital que cite o nome)",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO04",
+   "antigo": "CO04",
+   "nome": "Direitos sociais",
+   "descricao": "Teoria geral e direitos em espécie.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO04.01",
+     "antigo": "CO04.01",
+     "texto": "Teoria geral dos direitos sociais",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CO04.02",
+     "antigo": "CO04.02",
+     "texto": "Direitos sociais em espécie",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:208da56e",
+     "antigo": null,
+     "texto": "Direitos dos trabalhadores",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO05",
+   "antigo": "CO05",
+   "nome": "Nacionalidade e direitos políticos",
+   "descricao": "Vínculo com o Estado e participação política.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO05.01",
+     "antigo": "CO05.01",
+     "texto": "Nacionalidade",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:34a0bc7b",
+     "antigo": null,
+     "texto": "Estrangeiros e migrantes",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO05.02",
+     "antigo": "CO05.02",
+     "texto": "Direitos políticos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:0f658fe0",
+     "antigo": null,
+     "texto": "Partidos políticos e sistemas eleitorais",
+     "descricao": "(confirmar: sem item de edital que cite o nome)",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO05.03",
+     "antigo": "CO05.03",
+     "texto": "Participação popular direta",
+     "descricao": "Plebiscito, referendo e iniciativa popular.",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO06",
+   "antigo": "CO06",
+   "nome": "Organização do Estado",
+   "descricao": "Federação, entes federativos e intervenção.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO06.01",
+     "antigo": "CO06.01",
+     "texto": "Federação brasileira",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:2f27ab1e",
+     "antigo": null,
+     "texto": "Repartição de competências",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO06.02",
+     "antigo": "CO06.02",
+     "texto": "União",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:918b9b3b",
+     "antigo": null,
+     "texto": "Estados",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:955e89c5",
+     "antigo": null,
+     "texto": "Municípios",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:5e172f33",
+     "antigo": null,
+     "texto": "Distrito Federal e Territórios",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO06.03",
+     "antigo": "CO06.03",
+     "texto": "Intervenção federal e estadual",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO07",
+   "antigo": "CO07",
+   "nome": "Administração pública e responsabilidade do Estado",
+   "descricao": "Regras constitucionais da Administração.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO07.01",
+     "antigo": "CO07.01",
+     "texto": "Administração pública: princípios e regras constitucionais",
+     "descricao": "[Tema compartilhado com Direito Administrativo]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:dd2a2229",
+     "antigo": null,
+     "texto": "Servidores públicos",
+     "descricao": "[Tema compartilhado com Direito Administrativo]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO07.02",
+     "antigo": "CO07.02",
+     "texto": "Responsabilidade civil do Estado",
+     "descricao": "[Tema compartilhado com Direito Administrativo]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:e6770fd9",
+     "antigo": null,
+     "texto": "Controles administrativos",
+     "descricao": "[Tema compartilhado com Direito Administrativo] (confirmar: sem item de edital que cite o nome)",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO08",
+   "antigo": "CO08",
+   "nome": "Poder Legislativo",
+   "descricao": "Congresso Nacional, processo legislativo e fiscalização.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO08.01",
+     "antigo": "CO08.01",
+     "texto": "Poder Legislativo e Congresso Nacional",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:8d4e8b8e",
+     "antigo": null,
+     "texto": "Estatuto dos parlamentares",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:587c290e",
+     "antigo": null,
+     "texto": "Comissões parlamentares de inquérito",
+     "descricao": "Confirmar se é cobrado.",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO08.02",
+     "antigo": "CO08.02",
+     "texto": "Processo legislativo",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:9ff1a44a",
+     "antigo": null,
+     "texto": "Espécies normativas",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO08.03",
+     "antigo": "CO08.03",
+     "texto": "Fiscalização contábil, financeira e orçamentária",
+     "descricao": "[Tema compartilhado com Direito Administrativo]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:1604e662",
+     "antigo": null,
+     "texto": "Tribunais de Contas",
+     "descricao": "[Tema compartilhado com Direito Administrativo]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO09",
+   "antigo": "CO09",
+   "nome": "Poder Executivo",
+   "descricao": "Chefia do Executivo.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO09.01",
+     "antigo": "CO09.01",
+     "texto": "Presidente da República: atribuições",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:b9abf8c5",
+     "antigo": null,
+     "texto": "Responsabilidade do Presidente da República",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:4631f012",
+     "antigo": null,
+     "texto": "Poder regulamentar",
+     "descricao": "[Tema compartilhado com Direito Administrativo]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO10",
+   "antigo": "CO10",
+   "nome": "Poder Judiciário",
+   "descricao": "Organização e competências.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO10.01",
+     "antigo": "CO10.01",
+     "texto": "Organização e competências do Poder Judiciário",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:8fa79429",
+     "antigo": null,
+     "texto": "Conselho Nacional de Justiça",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:76b07ddb",
+     "antigo": null,
+     "texto": "Súmula vinculante",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:7ab67521",
+   "antigo": null,
+   "nome": "Funções essenciais à Justiça",
+   "descricao": "Ministério Público, advocacia e Defensoria.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO10.02",
+     "antigo": "CO10.02",
+     "texto": "Ministério Público",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:f759cfc3",
+     "antigo": null,
+     "texto": "Advocacia e Advocacia Pública",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "v1:CO10.03",
+     "antigo": "CO10.03",
+     "texto": "Acesso à justiça e Defensoria Pública",
+     "descricao": "[Tema compartilhado com Princípios e Atribuições Institucionais da Defensoria]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO11",
+   "antigo": "CO11",
+   "nome": "Controle de constitucionalidade",
+   "descricao": "Teoria, vias e efeitos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO11.01",
+     "antigo": "CO11.01",
+     "texto": "Teoria do controle de constitucionalidade",
+     "descricao": "Inconstitucionalidade, supremacia e bloco de constitucionalidade.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CO11.02",
+     "antigo": "CO11.02",
+     "texto": "Controle difuso",
+     "descricao": "Repercussão geral e reclamação.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CO11.03",
+     "antigo": "CO11.03",
+     "texto": "Controle concentrado",
+     "descricao": "ADI, ADC, ADO e ADPF.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CO11.04",
+     "antigo": "CO11.04",
+     "texto": "Técnicas e efeitos das decisões",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:3fd583b1",
+     "antigo": null,
+     "texto": "Controle estadual de constitucionalidade",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:dae4a143",
+     "antigo": null,
+     "texto": "Controle de convencionalidade",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO12",
+   "antigo": "CO12",
+   "nome": "Defesa do Estado e segurança pública",
+   "descricao": "Situações de crise, Forças Armadas e segurança pública.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO12.01",
+     "antigo": "CO12.01",
+     "texto": "Estado de defesa e estado de sítio",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:89279af3",
+     "antigo": null,
+     "texto": "Forças Armadas",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:2b412322",
+     "antigo": null,
+     "texto": "Segurança pública",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO13",
+   "antigo": "CO13",
+   "nome": "Tributação, finanças públicas e orçamento",
+   "descricao": "Regras constitucionais tributárias e orçamentárias.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO13.01",
+     "antigo": "CO13.01",
+     "texto": "Sistema tributário nacional",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CO13.02",
+     "antigo": "CO13.02",
+     "texto": "Finanças públicas e orçamentos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:6ebed1df",
+     "antigo": null,
+     "texto": "Precatórios",
+     "descricao": "[Tema compartilhado com Direito Processual Civil]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO14",
+   "antigo": "CO14",
+   "nome": "Ordem econômica e financeira",
+   "descricao": "Princípios da ordem econômica e política urbana e agrícola.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO14.01",
+     "antigo": "CO14.01",
+     "texto": "Princípios da ordem econômica e atuação do Estado na economia",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CO14.02",
+     "antigo": "CO14.02",
+     "texto": "Sistema financeiro nacional",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:4b7fb6df",
+     "antigo": null,
+     "texto": "Política urbana",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:1ca1050a",
+     "antigo": null,
+     "texto": "Política agrícola e reforma agrária",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CO15",
+   "antigo": "CO15",
+   "nome": "Ordem social: seguridade social",
+   "descricao": "Saúde, previdência e assistência social.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO15.01",
+     "antigo": "CO15.01",
+     "texto": "Saúde",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:4c132209",
+     "antigo": null,
+     "texto": "Previdência social",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:a6967298",
+     "antigo": null,
+     "texto": "Assistência social",
+     "descricao": "[Tema compartilhado com Direitos Humanos e ECA]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:3b10bff7",
+   "antigo": null,
+   "nome": "Ordem social: educação, cultura e desporto",
+   "descricao": null,
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO15.02",
+     "antigo": "CO15.02",
+     "texto": "Educação",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:542b92f2",
+     "antigo": null,
+     "texto": "Cultura",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:acfdeca9",
+     "antigo": null,
+     "texto": "Desporto",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:b7b90084",
+   "antigo": null,
+   "nome": "Ordem social: ciência, comunicação e meio ambiente",
+   "descricao": null,
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "n:578acea3",
+     "antigo": null,
+     "texto": "Ciência e tecnologia",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:fb89c08b",
+     "antigo": null,
+     "texto": "Comunicação social",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:cc9b528a",
+     "antigo": null,
+     "texto": "Meio ambiente",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "n:7691ff51",
+   "antigo": null,
+   "nome": "Ordem social: família e grupos protegidos",
+   "descricao": null,
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CO15.03",
+     "antigo": "CO15.03",
+     "texto": "Família",
+     "descricao": "[Tema compartilhado com Direito Civil]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:504e2313",
+     "antigo": null,
+     "texto": "Criança e adolescente",
+     "descricao": "[Tema compartilhado com ECA]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:01db6bab",
+     "antigo": null,
+     "texto": "Idosos",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:3d25c7f7",
+     "antigo": null,
+     "texto": "Pessoas com deficiência",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    },
+    {
+     "uid": "n:126ac447",
+     "antigo": null,
+     "texto": "Povos indígenas e comunidades tradicionais",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "rascunho v2 (IA, esqueleto da CF; confirmar)"
+    }
+   ]
+  }
+ ],
+ "lixeira": [],
+ "lixeira_assuntos": [],
+ "base_v1": {
+  "assuntos": {
+   "v1:CO01": {
+    "codigo": "CO01",
+    "nome": "Teoria da Constituição e constitucionalismo"
+   },
+   "v1:CO02": {
+    "codigo": "CO02",
+    "nome": "Princípios fundamentais e disposições gerais"
+   },
+   "v1:CO03": {
+    "codigo": "CO03",
+    "nome": "Direitos e garantias fundamentais"
+   },
+   "v1:CO04": {
+    "codigo": "CO04",
+    "nome": "Direitos sociais"
+   },
+   "v1:CO05": {
+    "codigo": "CO05",
+    "nome": "Nacionalidade e direitos políticos"
+   },
+   "v1:CO06": {
+    "codigo": "CO06",
+    "nome": "Organização do Estado"
+   },
+   "v1:CO07": {
+    "codigo": "CO07",
+    "nome": "Administração pública e responsabilidade do Estado"
+   },
+   "v1:CO08": {
+    "codigo": "CO08",
+    "nome": "Poder Legislativo e processo legislativo"
+   },
+   "v1:CO09": {
+    "codigo": "CO09",
+    "nome": "Poder Executivo"
+   },
+   "v1:CO10": {
+    "codigo": "CO10",
+    "nome": "Poder Judiciário e funções essenciais à Justiça"
+   },
+   "v1:CO11": {
+    "codigo": "CO11",
+    "nome": "Controle de constitucionalidade"
+   },
+   "v1:CO12": {
+    "codigo": "CO12",
+    "nome": "Defesa do Estado e segurança pública"
+   },
+   "v1:CO13": {
+    "codigo": "CO13",
+    "nome": "Tributação, finanças públicas e orçamento"
+   },
+   "v1:CO14": {
+    "codigo": "CO14",
+    "nome": "Ordem econômica e financeira"
+   },
+   "v1:CO15": {
+    "codigo": "CO15",
+    "nome": "Ordem social"
+   }
+  },
+  "pontos": {
+   "v1:CO01.01": {
+    "codigo": "CO01.01",
+    "texto": "Constitucionalismo, história das Constituições e teoria da Constituição",
+    "assunto_uid": "v1:CO01"
+   },
+   "v1:CO01.02": {
+    "codigo": "CO01.02",
+    "texto": "Poder constituinte e mudança da Constituição",
+    "assunto_uid": "v1:CO01"
+   },
+   "v1:CO01.03": {
+    "codigo": "CO01.03",
+    "texto": "Normas constitucionais: eficácia, aplicabilidade e recepção",
+    "assunto_uid": "v1:CO01"
+   },
+   "v1:CO01.04": {
+    "codigo": "CO01.04",
+    "texto": "Hermenêutica e interpretação constitucional",
+    "assunto_uid": "v1:CO01"
+   },
+   "v1:CO01.05": {
+    "codigo": "CO01.05",
+    "texto": "Teoria do Estado, democracia e separação dos poderes",
+    "assunto_uid": "v1:CO01"
+   },
+   "v1:CO02.01": {
+    "codigo": "CO02.01",
+    "texto": "Princípios fundamentais da República (arts. 1º a 4º) e preâmbulo",
+    "assunto_uid": "v1:CO02"
+   },
+   "v1:CO02.02": {
+    "codigo": "CO02.02",
+    "texto": "Disposições constitucionais gerais e ADCT",
+    "assunto_uid": "v1:CO02"
+   },
+   "v1:CO03.01": {
+    "codigo": "CO03.01",
+    "texto": "Teoria geral dos direitos fundamentais",
+    "assunto_uid": "v1:CO03"
+   },
+   "v1:CO03.02": {
+    "codigo": "CO03.02",
+    "texto": "Direitos e deveres individuais e coletivos em espécie; igualdade",
+    "assunto_uid": "v1:CO03"
+   },
+   "v1:CO03.03": {
+    "codigo": "CO03.03",
+    "texto": "Proteção judicial: remédios e ações constitucionais",
+    "assunto_uid": "v1:CO03"
+   },
+   "v1:CO03.04": {
+    "codigo": "CO03.04",
+    "texto": "Proteção não judicial, participação social e controle social",
+    "assunto_uid": "v1:CO03"
+   },
+   "v1:CO03.05": {
+    "codigo": "CO03.05",
+    "texto": "Constituição e direitos humanos: tratados, justiça de transição, memória e verdade",
+    "assunto_uid": "v1:CO03"
+   },
+   "v1:CO03.06": {
+    "codigo": "CO03.06",
+    "texto": "Políticas públicas, controle judicial e extrajudicial e tutela coletiva",
+    "assunto_uid": "v1:CO03"
+   },
+   "v1:CO04.01": {
+    "codigo": "CO04.01",
+    "texto": "Teoria geral dos direitos sociais",
+    "assunto_uid": "v1:CO04"
+   },
+   "v1:CO04.02": {
+    "codigo": "CO04.02",
+    "texto": "Direitos sociais em espécie e direitos dos trabalhadores",
+    "assunto_uid": "v1:CO04"
+   },
+   "v1:CO05.01": {
+    "codigo": "CO05.01",
+    "texto": "Nacionalidade, estrangeiros e migrantes",
+    "assunto_uid": "v1:CO05"
+   },
+   "v1:CO05.02": {
+    "codigo": "CO05.02",
+    "texto": "Direitos políticos, partidos políticos e sistemas eleitorais",
+    "assunto_uid": "v1:CO05"
+   },
+   "v1:CO05.03": {
+    "codigo": "CO05.03",
+    "texto": "Participação popular direta: plebiscito, referendo e iniciativa popular",
+    "assunto_uid": "v1:CO05"
+   },
+   "v1:CO06.01": {
+    "codigo": "CO06.01",
+    "texto": "Federação brasileira e repartição de competências",
+    "assunto_uid": "v1:CO06"
+   },
+   "v1:CO06.02": {
+    "codigo": "CO06.02",
+    "texto": "União, Estados, Municípios, Distrito Federal e Territórios",
+    "assunto_uid": "v1:CO06"
+   },
+   "v1:CO06.03": {
+    "codigo": "CO06.03",
+    "texto": "Intervenção federal e estadual",
+    "assunto_uid": "v1:CO06"
+   },
+   "v1:CO07.01": {
+    "codigo": "CO07.01",
+    "texto": "Administração pública e servidores públicos",
+    "assunto_uid": "v1:CO07"
+   },
+   "v1:CO07.02": {
+    "codigo": "CO07.02",
+    "texto": "Responsabilidade do Estado e controles administrativos",
+    "assunto_uid": "v1:CO07"
+   },
+   "v1:CO08.01": {
+    "codigo": "CO08.01",
+    "texto": "Poder Legislativo, Congresso Nacional e estatuto dos parlamentares",
+    "assunto_uid": "v1:CO08"
+   },
+   "v1:CO08.02": {
+    "codigo": "CO08.02",
+    "texto": "Processo legislativo e espécies normativas",
+    "assunto_uid": "v1:CO08"
+   },
+   "v1:CO08.03": {
+    "codigo": "CO08.03",
+    "texto": "Fiscalização contábil, financeira e orçamentária; Tribunais de Contas",
+    "assunto_uid": "v1:CO08"
+   },
+   "v1:CO09.01": {
+    "codigo": "CO09.01",
+    "texto": "Poder Executivo: Presidente, ministros e poder regulamentar",
+    "assunto_uid": "v1:CO09"
+   },
+   "v1:CO10.01": {
+    "codigo": "CO10.01",
+    "texto": "Poder Judiciário: organização, competências, CNJ e súmula vinculante",
+    "assunto_uid": "v1:CO10"
+   },
+   "v1:CO10.02": {
+    "codigo": "CO10.02",
+    "texto": "Funções essenciais à Justiça: Ministério Público, Advocacia e Advocacia Pública",
+    "assunto_uid": "v1:CO10"
+   },
+   "v1:CO10.03": {
+    "codigo": "CO10.03",
+    "texto": "Acesso à justiça e Defensoria Pública",
+    "assunto_uid": "v1:CO10"
+   },
+   "v1:CO11.01": {
+    "codigo": "CO11.01",
+    "texto": "Teoria do controle: inconstitucionalidade, supremacia e bloco de constitucionalidade",
+    "assunto_uid": "v1:CO11"
+   },
+   "v1:CO11.02": {
+    "codigo": "CO11.02",
+    "texto": "Controle difuso, repercussão geral e reclamação",
+    "assunto_uid": "v1:CO11"
+   },
+   "v1:CO11.03": {
+    "codigo": "CO11.03",
+    "texto": "Controle concentrado: ADI, ADC, ADO e ADPF",
+    "assunto_uid": "v1:CO11"
+   },
+   "v1:CO11.04": {
+    "codigo": "CO11.04",
+    "texto": "Técnicas e efeitos das decisões; controle estadual; convencionalidade",
+    "assunto_uid": "v1:CO11"
+   },
+   "v1:CO12.01": {
+    "codigo": "CO12.01",
+    "texto": "Estado de defesa, estado de sítio, Forças Armadas e segurança pública",
+    "assunto_uid": "v1:CO12"
+   },
+   "v1:CO13.01": {
+    "codigo": "CO13.01",
+    "texto": "Sistema tributário nacional",
+    "assunto_uid": "v1:CO13"
+   },
+   "v1:CO13.02": {
+    "codigo": "CO13.02",
+    "texto": "Finanças públicas, orçamentos e precatórios",
+    "assunto_uid": "v1:CO13"
+   },
+   "v1:CO14.01": {
+    "codigo": "CO14.01",
+    "texto": "Ordem econômica: princípios e atuação do Estado na economia",
+    "assunto_uid": "v1:CO14"
+   },
+   "v1:CO14.02": {
+    "codigo": "CO14.02",
+    "texto": "Sistema financeiro nacional; política urbana, agrícola e reforma agrária",
+    "assunto_uid": "v1:CO14"
+   },
+   "v1:CO15.01": {
+    "codigo": "CO15.01",
+    "texto": "Seguridade social: saúde, previdência e assistência social",
+    "assunto_uid": "v1:CO15"
+   },
+   "v1:CO15.02": {
+    "codigo": "CO15.02",
+    "texto": "Educação, cultura, desporto, ciência, comunicação social e meio ambiente",
+    "assunto_uid": "v1:CO15"
+   },
+   "v1:CO15.03": {
+    "codigo": "CO15.03",
+    "texto": "Família, criança, adolescente, idoso, povos indígenas e tradicionais, pessoa com deficiência",
+    "assunto_uid": "v1:CO15"
+   }
+  }
+ },
+ "historico": {
+  "passado": [],
+  "futuro": []
+ },
+ "atualizado_em": "2026-11-20T16:58:11"
+}

@@ -1,0 +1,382 @@
+{
+ "slug": "principios-e-atribuicoes-institucionais-da-defensoria",
+ "disciplina": "Princípios e Atribuições Institucionais da Defensoria",
+ "prefixo": "PI",
+ "versao_base": "v1",
+ "versao_alvo": "v2",
+ "criado_em": "2026-11-20T17:10:03",
+ "estado": "rascunho",
+ "assuntos": [
+  {
+   "uid": "v1:PI01",
+   "antigo": "PI01",
+   "nome": "Fundamentos constitucionais da Defensoria Pública",
+   "descricao": "A Defensoria na Constituição Federal.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PI01.01",
+     "antigo": "PI01.01",
+     "texto": "Função essencial à Justiça e missão constitucional",
+     "descricao": "CF art. 134: missão e necessitados. [Tema compartilhado com Direito Constitucional]",
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:PI01.02",
+     "antigo": "PI01.02",
+     "texto": "Autonomia funcional, administrativa e orçamentária",
+     "descricao": "EC 45/2004, EC 80/2014 e outras.",
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:PI01.03",
+     "antigo": "PI01.03",
+     "texto": "Assistência jurídica integral e gratuita",
+     "descricao": "Direitos e garantias fundamentais (CF art. 5º). [Tema compartilhado com Direito Constitucional]",
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:PI01.04",
+     "antigo": "PI01.04",
+     "texto": "Administração Pública: princípios constitucionais",
+     "descricao": "CF art. 37. [Tema compartilhado com Direito Constitucional e Direito Administrativo]",
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PI02",
+   "antigo": "PI02",
+   "nome": "Lei Orgânica Nacional da Defensoria Pública",
+   "descricao": "LC 80/1994.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PI02.01",
+     "antigo": "PI02.01",
+     "texto": "Princípios, funções e objetivos institucionais",
+     "descricao": "[Tema compartilhado com Direito Processual Civil, Direito Processual Penal, ECA, Execução Penal]",
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:PI02.02",
+     "antigo": "PI02.02",
+     "texto": "Defensor Público-Geral e Administração Superior",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "n:c7e34b83",
+     "antigo": null,
+     "texto": "Conselho Superior e Corregedoria-Geral",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da LC 80/1994; confirmar)"
+    },
+    {
+     "uid": "v1:PI02.03",
+     "antigo": "PI02.03",
+     "texto": "Órgãos de atuação e de execução; núcleos",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:PI02.04",
+     "antigo": "PI02.04",
+     "texto": "Garantias e prerrogativas dos membros",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "n:1bc71049",
+     "antigo": null,
+     "texto": "Deveres, vedações e responsabilidade funcional dos membros",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto da LC 80/1994; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PI03",
+   "antigo": "PI03",
+   "nome": "Normas estaduais de organização da Defensoria",
+   "descricao": "Normas de cada Estado; as do Amazonas são exemplos nos itens (o catálogo é universal).",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PI03.01",
+     "antigo": "PI03.01",
+     "texto": "Constituição estadual e Defensoria Pública",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:PI03.02",
+     "antigo": "PI03.02",
+     "texto": "Lei orgânica estadual da Defensoria Pública",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:PI03.04",
+     "antigo": "PI03.04",
+     "texto": "Regime funcional dos servidores da Defensoria",
+     "descricao": "Estágio probatório e evolução funcional; inclui a lei estadual de servidores (confirmar o conteúdo).",
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:PI03.05",
+     "antigo": "PI03.05",
+     "texto": "Demais normas estaduais de organização da Defensoria",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PI04",
+   "antigo": "PI04",
+   "nome": "Atuação e ética institucional",
+   "descricao": "Atuação institucional, extrajudicial e deveres éticos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PI04.01",
+     "antigo": "PI04.01",
+     "texto": "Atuação institucional e direitos dos usuários",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:PI04.02",
+     "antigo": "PI04.02",
+     "texto": "Atuação extrajudicial",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:PI04.03",
+     "antigo": "PI04.03",
+     "texto": "Ética institucional",
+     "descricao": null,
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:PI05",
+   "antigo": "PI05",
+   "nome": "Antidiscriminatório e justiça social",
+   "descricao": "Igualdade, inclusão e participação.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:PI05.01",
+     "antigo": "PI05.01",
+     "texto": "Igualdade e proibição de discriminação; ações afirmativas",
+     "descricao": "[Tema compartilhado com Direitos Humanos]",
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    },
+    {
+     "uid": "v1:PI05.02",
+     "antigo": "PI05.02",
+     "texto": "Justiça social, inclusão e participação",
+     "descricao": "Raça, gênero, LGBTQIAPN+ e pessoas com deficiência. [Tema compartilhado com Direitos Humanos]",
+     "origem": "edital DPE-AM 2026, Anexo II (15/11/2026)"
+    }
+   ]
+  }
+ ],
+ "lixeira": [
+  {
+   "uid": "v1:PI03.03",
+   "antigo": "PI03.03",
+   "texto": "Lei estadual 1.762/1986",
+   "descricao": null,
+   "assunto_uid": "v1:PI03",
+   "apagado_em": "2026-11-20T17:10:03",
+   "destino": "v1:PI03.04",
+   "nota": null
+  },
+  {
+   "uid": "v1:PI06.01",
+   "antigo": "PI06.01",
+   "texto": "Crimes praticados por funcionário público contra a Administração (CP, arts. 312 a 327)",
+   "descricao": null,
+   "assunto_uid": "v1:PI06",
+   "apagado_em": "2026-11-20T17:10:03",
+   "destino": null,
+   "nota": "migra para Direito Penal (Crimes contra a administração pública); confirmar"
+  },
+  {
+   "uid": "v1:PI06.02",
+   "antigo": "PI06.02",
+   "texto": "Improbidade administrativa (Lei 8.429/1992, arts. 1º a 12)",
+   "descricao": null,
+   "assunto_uid": "v1:PI06",
+   "apagado_em": "2026-11-20T17:10:03",
+   "destino": null,
+   "nota": "migra para Direito Administrativo (Improbidade administrativa); confirmar"
+  },
+  {
+   "uid": "v1:PI06.03",
+   "antigo": "PI06.03",
+   "texto": "Outros temas da Constituição Federal fora dos arts. 5º, 37 e 134",
+   "descricao": null,
+   "assunto_uid": "v1:PI06",
+   "apagado_em": "2026-11-20T17:10:03",
+   "destino": null,
+   "nota": "migra para Direito Constitucional (demais temas da CF); confirmar"
+  }
+ ],
+ "lixeira_assuntos": [
+  {
+   "uid": "v1:PI06",
+   "antigo": "PI06",
+   "nome": "Cobrado em provas anteriores, fora do edital 2026",
+   "descricao": null,
+   "apagado_em": "2026-11-20T17:10:03",
+   "rebaixado_para": null,
+   "nota": "assunto ligado ao edital DPE-AM 2026; o conteúdo migra para as disciplinas de origem (catálogo universal)"
+  }
+ ],
+ "base_v1": {
+  "assuntos": {
+   "v1:PI01": {
+    "codigo": "PI01",
+    "nome": "Fundamentos constitucionais"
+   },
+   "v1:PI02": {
+    "codigo": "PI02",
+    "nome": "Lei Orgânica Nacional (LC 80/1994)"
+   },
+   "v1:PI03": {
+    "codigo": "PI03",
+    "nome": "Organização da DPE-AM e normas estaduais"
+   },
+   "v1:PI04": {
+    "codigo": "PI04",
+    "nome": "Atuação institucional, extrajudicial e ética"
+   },
+   "v1:PI05": {
+    "codigo": "PI05",
+    "nome": "Antidiscriminatório e justiça social"
+   },
+   "v1:PI06": {
+    "codigo": "PI06",
+    "nome": "Cobrado em provas anteriores, fora do edital 2026"
+   }
+  },
+  "pontos": {
+   "v1:PI01.01": {
+    "codigo": "PI01.01",
+    "texto": "CF art. 134: função essencial à Justiça, missão e necessitados",
+    "assunto_uid": "v1:PI01"
+   },
+   "v1:PI01.02": {
+    "codigo": "PI01.02",
+    "texto": "Autonomia funcional, administrativa e orçamentária (EC 45/2004, EC 80/2014 e outras)",
+    "assunto_uid": "v1:PI01"
+   },
+   "v1:PI01.03": {
+    "codigo": "PI01.03",
+    "texto": "Direitos e garantias fundamentais (CF art. 5º), inclusive assistência jurídica gratuita",
+    "assunto_uid": "v1:PI01"
+   },
+   "v1:PI01.04": {
+    "codigo": "PI01.04",
+    "texto": "Administração Pública (CF art. 37)",
+    "assunto_uid": "v1:PI01"
+   },
+   "v1:PI02.01": {
+    "codigo": "PI02.01",
+    "texto": "Princípios, funções e objetivos institucionais",
+    "assunto_uid": "v1:PI02"
+   },
+   "v1:PI02.02": {
+    "codigo": "PI02.02",
+    "texto": "Organização: Administração Superior, Conselho Superior, Corregedoria e Defensor Público-Geral",
+    "assunto_uid": "v1:PI02"
+   },
+   "v1:PI02.03": {
+    "codigo": "PI02.03",
+    "texto": "Órgãos de atuação e de execução; núcleos",
+    "assunto_uid": "v1:PI02"
+   },
+   "v1:PI02.04": {
+    "codigo": "PI02.04",
+    "texto": "Carreira: garantias, prerrogativas, deveres e vedações dos membros",
+    "assunto_uid": "v1:PI02"
+   },
+   "v1:PI03.01": {
+    "codigo": "PI03.01",
+    "texto": "Constituição do Estado do Amazonas (Defensoria Pública)",
+    "assunto_uid": "v1:PI03"
+   },
+   "v1:PI03.02": {
+    "codigo": "PI03.02",
+    "texto": "Lei Complementar estadual 01/1990 (Lei Orgânica da DPE-AM)",
+    "assunto_uid": "v1:PI03"
+   },
+   "v1:PI03.03": {
+    "codigo": "PI03.03",
+    "texto": "Lei estadual 1.762/1986",
+    "assunto_uid": "v1:PI03"
+   },
+   "v1:PI03.04": {
+    "codigo": "PI03.04",
+    "texto": "Lei estadual 4.077/2014 (servidores: estágio probatório e evolução funcional)",
+    "assunto_uid": "v1:PI03"
+   },
+   "v1:PI03.05": {
+    "codigo": "PI03.05",
+    "texto": "Demais normas estaduais da organização da DPE-AM",
+    "assunto_uid": "v1:PI03"
+   },
+   "v1:PI04.01": {
+    "codigo": "PI04.01",
+    "texto": "Atuação institucional e direitos dos usuários",
+    "assunto_uid": "v1:PI04"
+   },
+   "v1:PI04.02": {
+    "codigo": "PI04.02",
+    "texto": "Atuação extrajudicial",
+    "assunto_uid": "v1:PI04"
+   },
+   "v1:PI04.03": {
+    "codigo": "PI04.03",
+    "texto": "Ética institucional",
+    "assunto_uid": "v1:PI04"
+   },
+   "v1:PI05.01": {
+    "codigo": "PI05.01",
+    "texto": "Igualdade e proibição de discriminação; ações afirmativas",
+    "assunto_uid": "v1:PI05"
+   },
+   "v1:PI05.02": {
+    "codigo": "PI05.02",
+    "texto": "Justiça social, inclusão e participação (raça, gênero, LGBTQIAPN+ e pessoas com deficiência)",
+    "assunto_uid": "v1:PI05"
+   },
+   "v1:PI06.01": {
+    "codigo": "PI06.01",
+    "texto": "Crimes praticados por funcionário público contra a Administração (CP, arts. 312 a 327)",
+    "assunto_uid": "v1:PI06"
+   },
+   "v1:PI06.02": {
+    "codigo": "PI06.02",
+    "texto": "Improbidade administrativa (Lei 8.429/1992, arts. 1º a 12)",
+    "assunto_uid": "v1:PI06"
+   },
+   "v1:PI06.03": {
+    "codigo": "PI06.03",
+    "texto": "Outros temas da Constituição Federal fora dos arts. 5º, 37 e 134",
+    "assunto_uid": "v1:PI06"
+   }
+  }
+ },
+ "historico": {
+  "passado": [],
+  "futuro": []
+ },
+ "atualizado_em": "2026-11-20T17:16:36"
+}

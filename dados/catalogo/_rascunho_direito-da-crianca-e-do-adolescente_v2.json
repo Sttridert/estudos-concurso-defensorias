@@ -1,0 +1,513 @@
+{
+ "slug": "direito-da-crianca-e-do-adolescente",
+ "disciplina": "Direito da Criança e do Adolescente",
+ "prefixo": "CA",
+ "versao_base": "v1",
+ "versao_alvo": "v2",
+ "criado_em": "2026-11-20T16:14:14",
+ "estado": "rascunho",
+ "assuntos": [
+  {
+   "uid": "v1:CA01",
+   "antigo": "CA01",
+   "nome": "Fundamentos do direito da criança e do adolescente",
+   "descricao": "Paradigmas, história e normas internacionais.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CA01.01",
+     "antigo": "CA01.01",
+     "texto": "Doutrina da proteção integral e princípios",
+     "descricao": "Proteção integral, melhor interesse e prioridade absoluta; paradigmas. [Tema compartilhado com Direito Constitucional]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:e01316d5",
+     "antigo": null,
+     "texto": "Evolução histórica do direito da criança e do adolescente",
+     "descricao": "Da situação irregular à proteção integral (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto do Estatuto; confirmar)"
+    },
+    {
+     "uid": "v1:CA01.02",
+     "antigo": "CA01.02",
+     "texto": "Normativa internacional sobre crianças e adolescentes",
+     "descricao": "Convenção sobre os Direitos da Criança, declarações e convenções da OIT. [Tema compartilhado com Direitos Humanos]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA01.04",
+     "antigo": "CA01.04",
+     "texto": "Convenções de Haia sobre adoção e sequestro internacional de crianças",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CA02",
+   "antigo": "CA02",
+   "nome": "Direitos fundamentais da criança e do adolescente",
+   "descricao": "Direitos do Livro I do Estatuto.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CA02.01",
+     "antigo": "CA02.01",
+     "texto": "Direito à vida e à saúde",
+     "descricao": "Primeira infância, nascituro e saúde mental. [Tema compartilhado com Direitos Humanos (saúde)]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA02.02",
+     "antigo": "CA02.02",
+     "texto": "Direito à liberdade, ao respeito e à dignidade",
+     "descricao": "Nome, imagem, opinião e participação.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA02.03",
+     "antigo": "CA02.03",
+     "texto": "Direito à educação, cultura, esporte e lazer",
+     "descricao": "Inclui educação inclusiva. [Tema compartilhado com Direitos Humanos (pessoas com deficiência)]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA02.04",
+     "antigo": "CA02.04",
+     "texto": "Profissionalização e proteção no trabalho",
+     "descricao": "Trabalho infantil.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA02.05",
+     "antigo": "CA02.05",
+     "texto": "Prevenção, informação e publicidade infantil",
+     "descricao": "Informação, diversões, produtos e serviços.",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CA03",
+   "antigo": "CA03",
+   "nome": "Convivência familiar e comunitária",
+   "descricao": "Família natural, extensa e substituta.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CA03.01",
+     "antigo": "CA03.01",
+     "texto": "Direito à convivência familiar e comunitária",
+     "descricao": "Família natural e extensa; reconhecimento de filiação.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA03.02",
+     "antigo": "CA03.02",
+     "texto": "Poder familiar",
+     "descricao": "Exercício, suspensão, perda e destituição. [Tema compartilhado com Direito Civil]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA03.03",
+     "antigo": "CA03.03",
+     "texto": "Acolhimento institucional e familiar",
+     "descricao": "Reavaliação, apadrinhamento e audiência concentrada.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:b44e066b",
+     "antigo": null,
+     "texto": "Guarda e tutela",
+     "descricao": "Guarda e tutela como formas de colocação em família substituta. [Tema compartilhado com Direito Civil]",
+     "origem": "rascunho v2 (IA, esqueleto do Estatuto; confirmar)"
+    },
+    {
+     "uid": "v1:CA03.04",
+     "antigo": "CA03.04",
+     "texto": "Adoção",
+     "descricao": "Requisitos, procedimento e efeitos; adoção internacional (confirmar). [Tema compartilhado com Direito Civil]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA03.05",
+     "antigo": "CA03.05",
+     "texto": "Capacidade civil, emancipação e responsabilidade civil",
+     "descricao": "Casamento de adolescente (confirmar). [Tema compartilhado com Direito Civil]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CA04",
+   "antigo": "CA04",
+   "nome": "Política de atendimento e Sistema de Garantia de Direitos",
+   "descricao": "Quem presta o atendimento e como se organiza.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CA04.01",
+     "antigo": "CA04.01",
+     "texto": "Política de atendimento e Sistema de Garantia de Direitos",
+     "descricao": "Linhas de ação e municipalização.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA04.02",
+     "antigo": "CA04.02",
+     "texto": "Conselho Tutelar",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA04.03",
+     "antigo": "CA04.03",
+     "texto": "Entidades e programas de atendimento",
+     "descricao": "Registro, fiscalização e apuração de irregularidades.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA04.04",
+     "antigo": "CA04.04",
+     "texto": "Assistência social e socioassistencial",
+     "descricao": "LOAS, PNAS, SUAS e Tipificação dos Serviços Socioassistenciais. [Tema compartilhado com Direitos Humanos (vulnerabilidade social), Direito Constitucional]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CA05",
+   "antigo": "CA05",
+   "nome": "Medidas de proteção e enfrentamento da violência",
+   "descricao": "Resposta à ameaça ou violação de direitos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CA05.01",
+     "antigo": "CA05.01",
+     "texto": "Medidas de proteção e medidas específicas de proteção",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:3c940c4d",
+     "antigo": null,
+     "texto": "Medidas aplicáveis aos pais ou responsável",
+     "descricao": "Medidas do Estatuto para pais e responsáveis (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto do Estatuto; confirmar)"
+    },
+    {
+     "uid": "v1:CA05.02",
+     "antigo": "CA05.02",
+     "texto": "Violência, abuso e exploração sexual",
+     "descricao": "Violência contra crianças e adolescentes. [Tema compartilhado com Direito Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:0378e0f0",
+     "antigo": null,
+     "texto": "Escuta especializada e depoimento especial",
+     "descricao": "Procedimentos de escuta de crianças e adolescentes vítimas ou testemunhas. [Tema compartilhado com Direito Processual Penal]",
+     "origem": "rascunho v2 (IA, esqueleto do Estatuto; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CA06",
+   "antigo": "CA06",
+   "nome": "Ato infracional e medidas socioeducativas",
+   "descricao": "Responsabilização do adolescente.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CA01.03",
+     "antigo": "CA01.03",
+     "texto": "Justiça juvenil: modelos e regras da ONU",
+     "descricao": "Regras e diretrizes da ONU de justiça juvenil; modelos de justiça juvenil. [Tema compartilhado com Direitos Humanos]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA06.01",
+     "antigo": "CA06.01",
+     "texto": "Ato infracional e inimputabilidade",
+     "descricao": "Conceito, natureza da medida e justiça restaurativa.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA06.02",
+     "antigo": "CA06.02",
+     "texto": "Apuração do ato infracional",
+     "descricao": "Garantias processuais, remissão, oitiva informal e internação provisória. [Tema compartilhado com Direito Processual Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA06.03",
+     "antigo": "CA06.03",
+     "texto": "Medidas socioeducativas",
+     "descricao": "Espécies, aplicação, duração e requisitos.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:fecfcaae",
+     "antigo": null,
+     "texto": "SINASE: organização e competências",
+     "descricao": "Sistema Nacional de Atendimento Socioeducativo (confirmar).",
+     "origem": "rascunho v2 (IA, esqueleto do Estatuto; confirmar)"
+    },
+    {
+     "uid": "v1:CA06.04",
+     "antigo": "CA06.04",
+     "texto": "Execução das medidas socioeducativas",
+     "descricao": "PIA, regressão, extinção e saúde. [Tema compartilhado com Execução Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CA07",
+   "antigo": "CA07",
+   "nome": "Justiça da Infância e da Juventude e acesso à justiça",
+   "descricao": "Órgãos, procedimentos e atuação coletiva.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CA07.01",
+     "antigo": "CA07.01",
+     "texto": "Justiça da Infância e da Juventude",
+     "descricao": "Competência, serviços auxiliares, Ministério Público e advogado.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:CA07.02",
+     "antigo": "CA07.02",
+     "texto": "Procedimentos e recursos do Estatuto",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:a3055b12",
+     "antigo": null,
+     "texto": "Defensoria Pública e tutela coletiva",
+     "descricao": "Atuação individual e coletiva da Defensoria. [Tema compartilhado com Princípios e Atribuições Institucionais da Defensoria]",
+     "origem": "rascunho v2 (IA, esqueleto do Estatuto; confirmar)"
+    },
+    {
+     "uid": "v1:CA07.03",
+     "antigo": "CA07.03",
+     "texto": "Normas esparsas, normativas do CNJ, súmulas e jurisprudência",
+     "descricao": "Confirmar se esta jurisprudência deve ser distribuída pelos temas.",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:CA08",
+   "antigo": "CA08",
+   "nome": "Crimes e infrações administrativas",
+   "descricao": "Parte penal e administrativa do Estatuto.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:CA08.01",
+     "antigo": "CA08.01",
+     "texto": "Crimes previstos no Estatuto",
+     "descricao": "Crimes contra crianças e adolescentes. [Tema compartilhado com Direito Penal]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:aaf224ed",
+     "antigo": null,
+     "texto": "Infrações administrativas previstas no Estatuto",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto do Estatuto; confirmar)"
+    }
+   ]
+  }
+ ],
+ "lixeira": [],
+ "lixeira_assuntos": [],
+ "base_v1": {
+  "assuntos": {
+   "v1:CA01": {
+    "codigo": "CA01",
+    "nome": "Fundamentos, paradigmas e normativa internacional"
+   },
+   "v1:CA02": {
+    "codigo": "CA02",
+    "nome": "Direitos fundamentais da criança e do adolescente"
+   },
+   "v1:CA03": {
+    "codigo": "CA03",
+    "nome": "Convivência familiar e comunitária"
+   },
+   "v1:CA04": {
+    "codigo": "CA04",
+    "nome": "Política de atendimento e Sistema de Garantia de Direitos"
+   },
+   "v1:CA05": {
+    "codigo": "CA05",
+    "nome": "Medidas de proteção e enfrentamento da violência"
+   },
+   "v1:CA06": {
+    "codigo": "CA06",
+    "nome": "Ato infracional e medidas socioeducativas"
+   },
+   "v1:CA07": {
+    "codigo": "CA07",
+    "nome": "Justiça da Infância e da Juventude, acesso à justiça e tutela coletiva"
+   },
+   "v1:CA08": {
+    "codigo": "CA08",
+    "nome": "Crimes e infrações administrativas"
+   }
+  },
+  "pontos": {
+   "v1:CA01.01": {
+    "codigo": "CA01.01",
+    "texto": "Proteção integral, paradigmas e história do direito da criança e do adolescente",
+    "assunto_uid": "v1:CA01"
+   },
+   "v1:CA01.02": {
+    "codigo": "CA01.02",
+    "texto": "Normativa internacional: Convenção sobre os Direitos da Criança, declarações e OIT",
+    "assunto_uid": "v1:CA01"
+   },
+   "v1:CA01.03": {
+    "codigo": "CA01.03",
+    "texto": "Regras e diretrizes da ONU de justiça juvenil; modelos de justiça juvenil",
+    "assunto_uid": "v1:CA01"
+   },
+   "v1:CA01.04": {
+    "codigo": "CA01.04",
+    "texto": "Convenções de Haia: adoção internacional e sequestro internacional de crianças",
+    "assunto_uid": "v1:CA01"
+   },
+   "v1:CA02.01": {
+    "codigo": "CA02.01",
+    "texto": "Direito à vida e à saúde: primeira infância, nascituro e saúde mental",
+    "assunto_uid": "v1:CA02"
+   },
+   "v1:CA02.02": {
+    "codigo": "CA02.02",
+    "texto": "Direito à liberdade, ao respeito e à dignidade: nome, imagem, opinião e participação",
+    "assunto_uid": "v1:CA02"
+   },
+   "v1:CA02.03": {
+    "codigo": "CA02.03",
+    "texto": "Direito à educação, cultura, esporte e lazer; educação inclusiva",
+    "assunto_uid": "v1:CA02"
+   },
+   "v1:CA02.04": {
+    "codigo": "CA02.04",
+    "texto": "Profissionalização e proteção no trabalho; trabalho infantil",
+    "assunto_uid": "v1:CA02"
+   },
+   "v1:CA02.05": {
+    "codigo": "CA02.05",
+    "texto": "Prevenção, informação, diversões, publicidade infantil e produtos e serviços",
+    "assunto_uid": "v1:CA02"
+   },
+   "v1:CA03.01": {
+    "codigo": "CA03.01",
+    "texto": "Direito à convivência familiar e comunitária; família natural e extensa; reconhecimento de filiação",
+    "assunto_uid": "v1:CA03"
+   },
+   "v1:CA03.02": {
+    "codigo": "CA03.02",
+    "texto": "Poder familiar: exercício, suspensão, perda e destituição",
+    "assunto_uid": "v1:CA03"
+   },
+   "v1:CA03.03": {
+    "codigo": "CA03.03",
+    "texto": "Acolhimento institucional e familiar, reavaliação, apadrinhamento e audiência concentrada",
+    "assunto_uid": "v1:CA03"
+   },
+   "v1:CA03.04": {
+    "codigo": "CA03.04",
+    "texto": "Família substituta: guarda, tutela e adoção",
+    "assunto_uid": "v1:CA03"
+   },
+   "v1:CA03.05": {
+    "codigo": "CA03.05",
+    "texto": "Capacidade civil, emancipação, casamento e responsabilidade civil de crianças e adolescentes",
+    "assunto_uid": "v1:CA03"
+   },
+   "v1:CA04.01": {
+    "codigo": "CA04.01",
+    "texto": "Política de atendimento, linhas de ação, municipalização e Sistema de Garantia de Direitos",
+    "assunto_uid": "v1:CA04"
+   },
+   "v1:CA04.02": {
+    "codigo": "CA04.02",
+    "texto": "Conselho Tutelar",
+    "assunto_uid": "v1:CA04"
+   },
+   "v1:CA04.03": {
+    "codigo": "CA04.03",
+    "texto": "Entidades e programas de atendimento: registro, fiscalização e apuração de irregularidades",
+    "assunto_uid": "v1:CA04"
+   },
+   "v1:CA04.04": {
+    "codigo": "CA04.04",
+    "texto": "Assistência social: LOAS, PNAS, SUAS e Tipificação dos Serviços Socioassistenciais",
+    "assunto_uid": "v1:CA04"
+   },
+   "v1:CA05.01": {
+    "codigo": "CA05.01",
+    "texto": "Medidas de proteção e medidas específicas de proteção",
+    "assunto_uid": "v1:CA05"
+   },
+   "v1:CA05.02": {
+    "codigo": "CA05.02",
+    "texto": "Violência, abuso e exploração sexual; escuta especializada e depoimento especial",
+    "assunto_uid": "v1:CA05"
+   },
+   "v1:CA06.01": {
+    "codigo": "CA06.01",
+    "texto": "Ato infracional: conceito, inimputabilidade, natureza da medida e justiça restaurativa",
+    "assunto_uid": "v1:CA06"
+   },
+   "v1:CA06.02": {
+    "codigo": "CA06.02",
+    "texto": "Apuração do ato infracional: garantias processuais, remissão, oitiva informal e internação provisória",
+    "assunto_uid": "v1:CA06"
+   },
+   "v1:CA06.03": {
+    "codigo": "CA06.03",
+    "texto": "Medidas socioeducativas: espécies, aplicação, duração e requisitos",
+    "assunto_uid": "v1:CA06"
+   },
+   "v1:CA06.04": {
+    "codigo": "CA06.04",
+    "texto": "SINASE e execução das medidas socioeducativas: PIA, regressão, extinção e saúde",
+    "assunto_uid": "v1:CA06"
+   },
+   "v1:CA07.01": {
+    "codigo": "CA07.01",
+    "texto": "Justiça da Infância e da Juventude: competência, serviços auxiliares, Ministério Público e advogado",
+    "assunto_uid": "v1:CA07"
+   },
+   "v1:CA07.02": {
+    "codigo": "CA07.02",
+    "texto": "Procedimentos e recursos do Estatuto; Defensoria Pública e tutela coletiva",
+    "assunto_uid": "v1:CA07"
+   },
+   "v1:CA07.03": {
+    "codigo": "CA07.03",
+    "texto": "Normas esparsas, normativas do CNJ, súmulas e jurisprudência aplicáveis",
+    "assunto_uid": "v1:CA07"
+   },
+   "v1:CA08.01": {
+    "codigo": "CA08.01",
+    "texto": "Crimes e infrações administrativas previstos no Estatuto",
+    "assunto_uid": "v1:CA08"
+   }
+  }
+ },
+ "historico": {
+  "passado": [],
+  "futuro": []
+ },
+ "atualizado_em": "2026-11-20T17:16:36"
+}

@@ -1,0 +1,554 @@
+{
+ "perfil": {
+  "id": 5,
+  "nome": "Direito Constitucional — Analista Jurídico — FCC — DPE-AM 2026 (edital)",
+  "banca": "FCC",
+  "carreira": "Defensoria Pública",
+  "cargo": "Analista Jurídico",
+  "ano_referencia": 2026,
+  "meia_vida": 8,
+  "pesos": {
+   "A": 1,
+   "B": 0.5,
+   "C": 0.25
+  }
+ },
+ "modo": "pontos",
+ "universo": {
+  "id": 7,
+  "nome": "Analista FCC",
+  "filtro": {
+   "bancas": [
+    "FCC"
+   ],
+   "cargos_prefixo": [
+    "Analista"
+   ]
+  }
+ },
+ "n_total": 50,
+ "n_validas": 50,
+ "n_anuladas_ou_fora": 0,
+ "n_provas": 8,
+ "provas_por_grupo": {
+  "A": 5,
+  "B": 1,
+  "C": 2
+ },
+ "soma_pesos": 24.11,
+ "n_efetivo": 43.0,
+ "K_assuntos": 13,
+ "assuntos": {
+  "CO01": {
+   "nome": "Teoria da Constituição e constitucionalismo",
+   "n": 1.5,
+   "peso": 0.89,
+   "p": 3.7,
+   "lo": 0.9,
+   "hi": 14.1,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CO03": {
+   "nome": "Direitos e garantias fundamentais",
+   "n": 10.0,
+   "peso": 5.37,
+   "p": 22.3,
+   "lo": 12.4,
+   "hi": 36.7,
+   "provas": 8,
+   "grupo": "Cai muito"
+  },
+  "CO04": {
+   "nome": "Direitos sociais",
+   "n": 1.0,
+   "peso": 0.25,
+   "p": 1.0,
+   "lo": 0.1,
+   "hi": 10.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO05": {
+   "nome": "Nacionalidade e direitos políticos",
+   "n": 8.5,
+   "peso": 3.43,
+   "p": 14.2,
+   "lo": 6.7,
+   "hi": 27.6,
+   "provas": 5,
+   "grupo": "Cai às vezes"
+  },
+  "CO06": {
+   "nome": "Organização do Estado",
+   "n": 1.5,
+   "peso": 0.57,
+   "p": 2.4,
+   "lo": 0.4,
+   "hi": 12.1,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CO07": {
+   "nome": "Administração pública e responsabilidade do Estado",
+   "n": 2.5,
+   "peso": 0.59,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 12.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CO08": {
+   "nome": "Poder Legislativo e processo legislativo",
+   "n": 3.0,
+   "peso": 1.55,
+   "p": 6.4,
+   "lo": 2.1,
+   "hi": 17.9,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "CO09": {
+   "nome": "Poder Executivo",
+   "n": 1.0,
+   "peso": 0.55,
+   "p": 2.3,
+   "lo": 0.4,
+   "hi": 12.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO10": {
+   "nome": "Poder Judiciário e funções essenciais à Justiça",
+   "n": 8.0,
+   "peso": 4.25,
+   "p": 17.6,
+   "lo": 9.0,
+   "hi": 31.5,
+   "provas": 6,
+   "grupo": "Cai muito"
+  },
+  "CO11": {
+   "nome": "Controle de constitucionalidade",
+   "n": 2.0,
+   "peso": 0.82,
+   "p": 3.4,
+   "lo": 0.8,
+   "hi": 13.7,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "CO12": {
+   "nome": "Defesa do Estado e segurança pública",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 1.9,
+   "lo": 0.3,
+   "hi": 11.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO13": {
+   "nome": "Tributação, finanças públicas e orçamento",
+   "n": 1.0,
+   "peso": 0.23,
+   "p": 1.0,
+   "lo": 0.1,
+   "hi": 9.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO15": {
+   "nome": "Ordem social",
+   "n": 9.0,
+   "peso": 5.17,
+   "p": 21.4,
+   "lo": 11.8,
+   "hi": 35.8,
+   "provas": 6,
+   "grupo": "Cai muito"
+  }
+ },
+ "n_assuntos_80pct": 5,
+ "cobranca_pct": {
+  "lei_seca": 74.1,
+  "jurisprudencia": 23.6,
+  "doutrina": 2.3
+ },
+ "retro_assuntos": {
+  "k": 4,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 4.5,
+    "pct": 90.0
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 5.0,
+    "pct": 100.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 5.0,
+    "acertos": 5.0,
+    "pct": 100.0
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 82.0,
+  "acaso": 30.8
+ },
+ "K_pontos": 24,
+ "pontos": {
+  "CO01.02": {
+   "texto": "Poder constituinte e mudança da Constituição",
+   "assunto": "CO01",
+   "n": 1.0,
+   "peso": 0.77,
+   "p": 3.2,
+   "lo": 0.7,
+   "hi": 13.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO01.05": {
+   "texto": "Teoria do Estado, democracia e separação dos poderes",
+   "assunto": "CO01",
+   "n": 0.5,
+   "peso": 0.11,
+   "p": 0.5,
+   "lo": 0.0,
+   "hi": 9.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO03.01": {
+   "texto": "Teoria geral dos direitos fundamentais",
+   "assunto": "CO03",
+   "n": 0.5,
+   "peso": 0.35,
+   "p": 1.5,
+   "lo": 0.2,
+   "hi": 10.7,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO03.02": {
+   "texto": "Direitos e deveres individuais e coletivos em espécie; igualdade",
+   "assunto": "CO03",
+   "n": 7.5,
+   "peso": 3.85,
+   "p": 16.0,
+   "lo": 7.9,
+   "hi": 29.6,
+   "provas": 7,
+   "grupo": "Cai muito"
+  },
+  "CO03.03": {
+   "texto": "Proteção judicial: remédios e ações constitucionais",
+   "assunto": "CO03",
+   "n": 1.0,
+   "peso": 0.71,
+   "p": 2.9,
+   "lo": 0.6,
+   "hi": 13.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO03.04": {
+   "texto": "Proteção não judicial, participação social e controle social",
+   "assunto": "CO03",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 1.9,
+   "lo": 0.3,
+   "hi": 11.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO04.02": {
+   "texto": "Direitos sociais em espécie e direitos dos trabalhadores",
+   "assunto": "CO04",
+   "n": 1.0,
+   "peso": 0.25,
+   "p": 1.0,
+   "lo": 0.1,
+   "hi": 10.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO05.01": {
+   "texto": "Nacionalidade, estrangeiros e migrantes",
+   "assunto": "CO05",
+   "n": 4.0,
+   "peso": 1.64,
+   "p": 6.8,
+   "lo": 2.3,
+   "hi": 18.4,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "CO05.02": {
+   "texto": "Direitos políticos, partidos políticos e sistemas eleitorais",
+   "assunto": "CO05",
+   "n": 4.5,
+   "peso": 1.78,
+   "p": 7.4,
+   "lo": 2.6,
+   "hi": 19.1,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "CO06.01": {
+   "texto": "Federação brasileira e repartição de competências",
+   "assunto": "CO06",
+   "n": 0.5,
+   "peso": 0.11,
+   "p": 0.5,
+   "lo": 0.0,
+   "hi": 9.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO06.02": {
+   "texto": "União, Estados, Municípios, Distrito Federal e Territórios",
+   "assunto": "CO06",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 1.9,
+   "lo": 0.3,
+   "hi": 11.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO07.01": {
+   "texto": "Administração pública e servidores públicos",
+   "assunto": "CO07",
+   "n": 2.5,
+   "peso": 0.59,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 12.3,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CO08.01": {
+   "texto": "Poder Legislativo, Congresso Nacional e estatuto dos parlamentares",
+   "assunto": "CO08",
+   "n": 2.0,
+   "peso": 1.32,
+   "p": 5.5,
+   "lo": 1.7,
+   "hi": 16.6,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CO08.02": {
+   "texto": "Processo legislativo e espécies normativas",
+   "assunto": "CO08",
+   "n": 1.0,
+   "peso": 0.23,
+   "p": 1.0,
+   "lo": 0.1,
+   "hi": 9.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO09.01": {
+   "texto": "Poder Executivo: Presidente, ministros e poder regulamentar",
+   "assunto": "CO09",
+   "n": 1.0,
+   "peso": 0.55,
+   "p": 2.3,
+   "lo": 0.4,
+   "hi": 12.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO10.01": {
+   "texto": "Poder Judiciário: organização, competências, CNJ e súmula vinculante",
+   "assunto": "CO10",
+   "n": 3.5,
+   "peso": 1.44,
+   "p": 6.0,
+   "lo": 1.9,
+   "hi": 17.2,
+   "provas": 4,
+   "grupo": "Cai às vezes"
+  },
+  "CO10.03": {
+   "texto": "Acesso à justiça e Defensoria Pública",
+   "assunto": "CO10",
+   "n": 4.5,
+   "peso": 2.81,
+   "p": 11.7,
+   "lo": 5.1,
+   "hi": 24.5,
+   "provas": 4,
+   "grupo": "Cai muito"
+  },
+  "CO11.02": {
+   "texto": "Controle difuso, repercussão geral e reclamação",
+   "assunto": "CO11",
+   "n": 1.0,
+   "peso": 0.36,
+   "p": 1.5,
+   "lo": 0.2,
+   "hi": 10.8,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CO11.04": {
+   "texto": "Técnicas e efeitos das decisões; controle estadual; convencionalidade",
+   "assunto": "CO11",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 1.9,
+   "lo": 0.3,
+   "hi": 11.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO12.01": {
+   "texto": "Estado de defesa, estado de sítio, Forças Armadas e segurança pública",
+   "assunto": "CO12",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 1.9,
+   "lo": 0.3,
+   "hi": 11.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO13.02": {
+   "texto": "Finanças públicas, orçamentos e precatórios",
+   "assunto": "CO13",
+   "n": 1.0,
+   "peso": 0.23,
+   "p": 1.0,
+   "lo": 0.1,
+   "hi": 9.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CO15.01": {
+   "texto": "Seguridade social: saúde, previdência e assistência social",
+   "assunto": "CO15",
+   "n": 2.0,
+   "peso": 1.21,
+   "p": 5.0,
+   "lo": 1.4,
+   "hi": 15.9,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CO15.02": {
+   "texto": "Educação, cultura, desporto, ciência, comunicação social e meio ambiente",
+   "assunto": "CO15",
+   "n": 4.0,
+   "peso": 2.48,
+   "p": 10.3,
+   "lo": 4.3,
+   "hi": 22.8,
+   "provas": 4,
+   "grupo": "Cai muito"
+  },
+  "CO15.03": {
+   "texto": "Família, criança, adolescente, idoso, povos indígenas e tradicionais, pessoa com deficiência",
+   "assunto": "CO15",
+   "n": 3.0,
+   "peso": 1.48,
+   "p": 6.1,
+   "lo": 2.0,
+   "hi": 17.5,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "pontos_com_1_questao": 14,
+ "pontos_sem_questao": [
+  "CO01.01",
+  "CO01.03",
+  "CO01.04",
+  "CO02.01",
+  "CO02.02",
+  "CO03.05",
+  "CO03.06",
+  "CO04.01",
+  "CO05.03",
+  "CO06.03",
+  "CO07.02",
+  "CO08.03",
+  "CO10.02",
+  "CO11.01",
+  "CO11.03",
+  "CO13.01",
+  "CO14.01",
+  "CO14.02"
+ ],
+ "good_turing_pontos_pct": 28.0,
+ "retro_pontos": {
+  "k": 10,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.5,
+    "pct": 70.0
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 4.0,
+    "pct": 80.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.5,
+    "pct": 70.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 5.0,
+    "acertos": 4.0,
+    "pct": 80.0
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 72.0,
+  "acaso": 41.7
+ },
+ "avisos": [
+  "Número efetivo pequeno: faixas de Wilson largas."
+ ],
+ "grupos_desc": {
+  "A": "mesmo órgão (DPE-AM), carreira, banca e cargo",
+  "B": "mesma carreira e banca, de outro órgão ou cargo",
+  "C": "outra banca ou carreira"
+ }
+}

@@ -1,0 +1,297 @@
+{
+ "pasta": "2017 - DPU - Defensor Público Federal (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "CIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 1348,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Aplicação da lei no tempo e no espaço; interpretação da lei; analogia."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Princípios gerais do direito e equidade."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Pessoas naturais e jurídicas."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Capacidade, domicílio, registro."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Bens: conceito e classificação."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Fatos e atos jurídicos."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Forma, prova, modalidades, defeitos, nulidade, anulabilidade, inexistência, ineficácia e consequência."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Atos ilícitos."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Prescrição."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Modalidades contemporâneas de família."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "União estável."
+     ]
+    },
+    {
+     "item": "5.1.1",
+     "frases": [
+      "Caracterização, efeitos alimentícios e sucessórios, dissolução."
+     ]
+    },
+    {
+     "item": "5.1.2",
+     "frases": [
+      "Uniões homoafetivas."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Concubinato"
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Relações de parentesco."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Adoção."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "O menor sob guarda."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Alimentos: pressupostos."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Direitos reais."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Posse e propriedade."
+     ]
+    },
+    {
+     "item": "7.1.1",
+     "frases": [
+      "Conceito, classificação, aquisição, perda, proteção e efeitos."
+     ]
+    },
+    {
+     "item": "7.1.2",
+     "frases": [
+      "Condomínio."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Enfiteuse."
+     ]
+    },
+    {
+     "item": "7.2.1",
+     "frases": [
+      "Terrenos de Marinha."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Hipoteca."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Penhor."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Uso e usufruto."
+     ]
+    },
+    {
+     "item": "7.6",
+     "frases": [
+      "Servidões."
+     ]
+    },
+    {
+     "item": "7.7",
+     "frases": [
+      "Concessões especiais de uso."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Modalidades das obrigações."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Efeitos das obrigações."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Cessão de crédito."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Contratos: generalidades, elementos e efeitos dos contratos."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Teoria da imprevisão e revisão contratual."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Compra e venda."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Doação."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Locação."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Empréstimo."
+     ]
+    },
+    {
+     "item": "9.6",
+     "frases": [
+      "Depósito."
+     ]
+    },
+    {
+     "item": "9.7",
+     "frases": [
+      "Mandato."
+     ]
+    },
+    {
+     "item": "9.8",
+     "frases": [
+      "Fiança."
+     ]
+    },
+    {
+     "item": "9.9",
+     "frases": [
+      "Arrendamento mercantil."
+     ]
+    },
+    {
+     "item": "9.10",
+     "frases": [
+      "Alienação fiduciária."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Responsabilidade civil."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Sucessões."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Vocação hereditária."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Herdeiros."
+     ]
+    }
+   ]
+  }
+ ]
+}

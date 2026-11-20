@@ -1,0 +1,532 @@
+{
+ "Perspectivas pós-violatórias, estatais e monistas X pré-violatórias, existenciais e pluralistas para a proteção dos Direitos Humanos.": {
+  "pontos": [
+   "DH01.04"
+  ]
+ },
+ "Conceitos, terminologias, classificações, características, princípios.": {
+  "pontos": [
+   "DH01.02"
+  ]
+ },
+ "Construções, desconstruções e reconstruções históricas.": {
+  "pontos": [
+   "DH01.01"
+  ]
+ },
+ "Direitos Humanos e relações privadas.": {
+  "pontos": [
+   "DH02.06"
+  ]
+ },
+ "Vinculação de particulares a normas e standards internacionais.": {
+  "pontos": [
+   "DH02.06"
+  ]
+ },
+ "Direitos Humanos em Espécie.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Normas de organização e funcionamento.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Atribuições.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Estrutura.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Competência.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Funcionamento.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Regulamentos e estatutos.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Decisões.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Acordos internacionais.": {
+  "pontos": [
+   "DH02.01"
+  ]
+ },
+ "Relatorias Temáticas.": {
+  "pontos": [
+   "DH04.01"
+  ]
+ },
+ "Controladorias, Ouvidorias e Auditorias.": {
+  "pontos": [
+   "DH07.05"
+  ]
+ },
+ "Casos paradigmáticos.": {
+  "pontos": [
+   "DH04.07"
+  ]
+ },
+ "Impacto estrutural das decisões.": {
+  "pontos": [
+   "DH07.04"
+  ]
+ },
+ "Remédios estruturais.": {
+  "pontos": [
+   "DH07.04"
+  ]
+ },
+ "Pessoas desaparecidas.": {
+  "pontos": [
+   "DH04.08"
+  ]
+ },
+ "Assistência jurídica.": {
+  "pontos": [
+   "DH07.03"
+  ]
+ },
+ "Defensor Interamericano.": {
+  "pontos": [
+   "DH07.03"
+  ]
+ },
+ "Ações e políticas afirmativas.": {
+  "pontos": [
+   "DH08.02"
+  ]
+ },
+ "Segurança e Cidadania.": {
+  "pontos": [
+   "DH10.08"
+  ]
+ },
+ "Comunidade terapêutica.": {
+  "pontos": [
+   "DH08.05"
+  ]
+ },
+ "Residência inclusiva.": {
+  "pontos": [
+   "DH08.04"
+  ]
+ },
+ "ADC 41/DF-STF.": {
+  "pontos": [
+   "DH08.02"
+  ]
+ },
+ "Lei 14.519/2023.": {
+  "pontos": [],
+  "generico": true
+ },
+ "ADPF 976.": {
+  "pontos": [
+   "DH08.10"
+  ]
+ },
+ "ADPF 635.": {
+  "pontos": [
+   "DH10.08"
+  ]
+ },
+ "ADPF 442.": {
+  "pontos": [
+   "DH08.12"
+  ]
+ },
+ "Movimento Constitucional da América Latina.": {
+  "pontos": [
+   "DH01.04"
+  ]
+ },
+ "Defesa do Consumidor: bases, diretrizes e instrumentos constitucionais do direito consumerista.": {
+  "pontos": [],
+  "disciplina": "Direito do Consumidor"
+ },
+ "Visão geracional dos direitos humanos e suas críticas.": {
+  "pontos": [
+   "DH01.01"
+  ]
+ },
+ "Amici curiae.": {
+  "pontos": [
+   "DH07.04"
+  ]
+ },
+ "Privilégios.": {
+  "pontos": [
+   "DH01.04"
+  ]
+ },
+ "Custos emocionais.": {
+  "pontos": [
+   "DH01.04"
+  ]
+ },
+ "Vinculação de particulares a normas e standards internacionais de Direitos Humanos.": {
+  "pontos": [
+   "DH02.06"
+  ]
+ },
+ "Transversalidade.": {
+  "pontos": [
+   "DH07.01"
+  ]
+ },
+ "Direito não discriminatório: definições, origens, propósitos, fundamentos e princípios.": {
+  "pontos": [
+   "DH08.11"
+  ]
+ },
+ "Marco legal protetivo.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Recomendação 123/2022 do CNJ.": {
+  "pontos": [
+   "DH06.02"
+  ]
+ },
+ "ADPF 976. 24.": {
+  "pontos": [
+   "DH08.10"
+  ]
+ },
+ "ADPF 635. 25.": {
+  "pontos": [
+   "DH10.08"
+  ]
+ },
+ "ADPF 442. 32.": {
+  "pontos": [
+   "DH08.12"
+  ]
+ },
+ "Lei 7716/1989. 33.": {
+  "pontos": [
+   "DH08.02"
+  ]
+ },
+ "Coleta Seletiva Inclusiva.": {
+  "pontos": [
+   "DH08.10"
+  ]
+ },
+ "Lei Municipal nº 6.350 de 4 de Maio de 2018.": {
+  "pontos": [],
+  "disciplina": "Constituição estadual e leis locais (conteúdo local)"
+ },
+ "Lei nº 14.821/2024.": {
+  "pontos": [],
+  "generico": true
+ },
+ "ADPF 828.": {
+  "pontos": [
+   "DH10.02"
+  ]
+ },
+ "Perspectivas pós-violatórias X pré-violatórias para a proteção dos Direitos Humanos.": {
+  "pontos": [
+   "DH01.04"
+  ]
+ },
+ "Paradoxos, fragilidades e contradições dos Direitos Humanos.": {
+  "pontos": [
+   "DH01.04"
+  ]
+ },
+ "Função social do conhecimento dos direitos humanos.": {
+  "pontos": [
+   "DH11.01"
+  ]
+ },
+ "O marco pedagógico e de ação do “diamante ético”.": {
+  "pontos": [
+   "DH11.01"
+  ]
+ },
+ "Composição, competência.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Relatorias especiais e especialistas independentes.": {
+  "pontos": [
+   "DH03.04"
+  ]
+ },
+ "Letalidade policial.": {
+  "pontos": [
+   "DH10.08"
+  ]
+ },
+ "Inclusão digital.": {
+  "pontos": [
+   "DH10.07"
+  ]
+ },
+ "Vieses cognitivos.": {
+  "pontos": [
+   "DH01.04"
+  ]
+ },
+ "Imprescritibilidade.": {
+  "pontos": [
+   "DH05.02"
+  ]
+ },
+ "Justiça climática.": {
+  "pontos": [
+   "DH10.05"
+  ]
+ },
+ "Precedentes.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Fundamentos Jurídicos.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Modalidade de controles.": {
+  "pontos": [
+   "DH06.02"
+  ]
+ },
+ "Diálogo de Cortes.": {
+  "pontos": [
+   "DH06.02"
+  ]
+ },
+ "Ações constitucionais.": {
+  "pontos": [
+   "DH07.04"
+  ]
+ },
+ "Comunidades tradicionais.": {
+  "pontos": [
+   "DH08.03"
+  ]
+ },
+ "ADI 4.275/STF.": {
+  "pontos": [
+   "DH08.08"
+  ]
+ },
+ "Provimento do CNJ nº 44, de 18 de março de 2015.": {
+  "pontos": [],
+  "generico": true
+ },
+ "ADPF 635/STF.": {
+  "pontos": [
+   "DH10.08"
+  ]
+ },
+ "Construções, desconstruções e reconstruções históricas dos Direitos Humanos.": {
+  "pontos": [
+   "DH01.01"
+  ]
+ },
+ "O “humano” e o “inumano” no marco dos Direitos Humanos.": {
+  "pontos": [
+   "DH01.02"
+  ]
+ },
+ "Lei 10741, de 1º de outubro de 2003.": {
+  "pontos": [
+   "DH08.06"
+  ]
+ },
+ "Inclusão social.": {
+  "pontos": [
+   "DH08.10"
+  ]
+ },
+ "Serviços de relevância pública.": {
+  "pontos": [],
+  "generico": true
+ },
+ "A Constituição da República Federativa do Brasil.": {
+  "pontos": [
+   "DH06.01"
+  ]
+ },
+ "Os princípios constitucionais a reger o Brasil nas relações internacionais.": {
+  "pontos": [
+   "DH06.01"
+  ]
+ },
+ "O índio.": {
+  "pontos": [
+   "DH08.03"
+  ]
+ },
+ "O refúgio.": {
+  "pontos": [
+   "DH05.03"
+  ]
+ },
+ "Direitos Humanos no mundo contemporâneo: análise normativa.": {
+  "pontos": [
+   "DH02.01"
+  ]
+ },
+ "Direitos Fundamentais e a Constituição Federal de 1988 e os deveres dos cidadãos e do Estado.": {
+  "pontos": [
+   "DH01.02"
+  ]
+ },
+ "Lei 6015/1973.": {
+  "pontos": [],
+  "disciplina": "Direito Civil"
+ },
+ "Lei 9.982/2000.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Lei 15.142/2025.": {
+  "pontos": [],
+  "generico": true
+ },
+ "184, de 7 de dezembro de 2018. 8.": {
+  "pontos": [],
+  "disciplina": "Texto do edital (não é conteúdo)"
+ },
+ "Resolução CNJ 425/21": {
+  "pontos": [
+   "DH08.10"
+  ]
+ },
+ "Globalização e direitos humanos.": {
+  "pontos": [
+   "DH01.05"
+  ]
+ },
+ "A Constituição brasileira e os tratados internacionais de direitos humanos.": {
+  "pontos": [
+   "DH06.01"
+  ]
+ },
+ "Institucionalização dos direitos e garantias fundamentais.": {
+  "pontos": [
+   "DH06.01"
+  ]
+ },
+ "Mecanismo unilateral e mecanismo institucional ou coletivo.": {
+  "pontos": [
+   "DH02.05"
+  ]
+ },
+ "Mecanismos coletivos e afirmação do indivíduo como sujeito de direito internacional.": {
+  "pontos": [
+   "DH02.05"
+  ]
+ },
+ "Estrutura, Competência, funcionamento e instrumentos de proteção dos Direitos Humanos.": {
+  "pontos": [
+   "DH03.01"
+  ]
+ },
+ "Sistema da": {
+  "pontos": [],
+  "disciplina": "Texto do edital (não é conteúdo)"
+ },
+ "Normativa Internacional.": {
+  "pontos": [
+   "DH02.01"
+  ]
+ },
+ "SIDH.": {
+  "pontos": [
+   "DH04.01"
+  ]
+ },
+ "Reprodução Feminina.": {
+  "pontos": [
+   "DH08.12"
+  ]
+ },
+ "Lei 7716/1989.": {
+  "pontos": [
+   "DH08.02"
+  ]
+ },
+ "STF ADPF nº 442.": {
+  "pontos": [
+   "DH08.12"
+  ]
+ },
+ "Princípios.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Conceitos.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Precedentes históricos.": {
+  "pontos": [
+   "DH01.01"
+  ]
+ },
+ "Povos Tradicionais.": {
+  "pontos": [
+   "DH08.03"
+  ]
+ },
+ "Proselitismo.": {
+  "pontos": [
+   "DH08.12"
+  ]
+ },
+ "Caso Simone André Diniz.": {
+  "pontos": [
+   "DH08.02",
+   "DH04.07"
+  ]
+ },
+ "Caso Alyne Pimentel.": {
+  "pontos": [
+   "DH08.01",
+   "DH10.01"
+  ]
+ },
+ "Garantias.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Padrões Interamericanos de Exclusão da Prova obtida por meio ilícito.": {
+  "pontos": [
+   "DH09.04"
+  ]
+ },
+ "Funções e competência.": {
+  "pontos": [],
+  "generico": true
+ },
+ "Casos admitidos envolvendo o Brasil.": {
+  "pontos": [
+   "DH04.06"
+  ]
+ },
+ "Defensores Interamericanos.": {
+  "pontos": [
+   "DH07.03"
+  ]
+ },
+ "Decisões envolvendo o Brasil.": {
+  "pontos": [
+   "DH04.06"
+  ]
+ }
+}

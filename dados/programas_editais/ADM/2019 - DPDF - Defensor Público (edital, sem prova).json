@@ -1,0 +1,549 @@
+{
+ "pasta": "2019 - DPDF - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 3231,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Introdução ao direito administrativo."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Origem, natureza jurídica e objeto do direito administrativo."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Regime jurídico‐administrativo."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Supremacia do interesse público sobre o privado e indisponibilidade, pela Administração, dos interesses públicos."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Princípios expressos e implícitos da Administração Pública."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Organização administrativa."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Centralização, descentralização, concentração e desconcentração."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Administração direta."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Administração indireta."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Entidades paraestatais e terceiro setor."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Atos administrativos."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Fatos da administração, atos da administração e atos administrativos."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Requisitos ou elementos."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Atributos."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "4.6",
+     "frases": [
+      "Atos administrativos em espécie."
+     ]
+    },
+    {
+     "item": "4.7",
+     "frases": [
+      "O silêncio no direito administrativo."
+     ]
+    },
+    {
+     "item": "4.8",
+     "frases": [
+      "Extinção dos atos administrativos."
+     ]
+    },
+    {
+     "item": "4.8.1",
+     "frases": [
+      "Revogação, anulação e cassação."
+     ]
+    },
+    {
+     "item": "4.9",
+     "frases": [
+      "Convalidação."
+     ]
+    },
+    {
+     "item": "4.10",
+     "frases": [
+      "Vinculação e discricionariedade."
+     ]
+    },
+    {
+     "item": "4.11",
+     "frases": [
+      "Atos administrativos nulos, anuláveis e inexistentes."
+     ]
+    },
+    {
+     "item": "4.12",
+     "frases": [
+      "Prescrição e decadência administrativa."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Processo administrativo."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Lei nº 9.784/1999 e suas alterações."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Disposições doutrinárias aplicáveis."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Poderes e deveres da Administração Pública."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Poder regulamentar."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Poder hierárquico."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Poder disciplinar."
+     ]
+    },
+    {
+     "item": "6.4",
+     "frases": [
+      "Poder de polícia."
+     ]
+    },
+    {
+     "item": "6.5",
+     "frases": [
+      "Dever de agir."
+     ]
+    },
+    {
+     "item": "6.6",
+     "frases": [
+      "Dever de eficiência."
+     ]
+    },
+    {
+     "item": "6.7",
+     "frases": [
+      "Dever de probidade."
+     ]
+    },
+    {
+     "item": "6.8",
+     "frases": [
+      "Dever de prestação de contas."
+     ]
+    },
+    {
+     "item": "6.9",
+     "frases": [
+      "Uso e abuso do poder."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Serviços públicos."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Lei nº 13.460/2017 (Direitos dos Usuários)."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Intervenção do Estado na propriedade."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Fundamento."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Modalidades."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Controle da Administração Pública."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Classificação das formas de controle."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Controle exercido pela Administração Pública."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Controle legislativo."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Controle judicial."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Improbidade administrativa."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Lei nº 8.429/1992 e suas alterações."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Disposições doutrinárias aplicáveis."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Agentes públicos."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Disposições constitucionais aplicáveis."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Disposições doutrinárias."
+     ]
+    },
+    {
+     "item": "11.2.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "11.2.2",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "11.2.3",
+     "frases": [
+      "Cargo, emprego e função pública."
+     ]
+    },
+    {
+     "item": "11.2.4",
+     "frases": [
+      "Provimento."
+     ]
+    },
+    {
+     "item": "11.2.5",
+     "frases": [
+      "Vacância."
+     ]
+    },
+    {
+     "item": "11.2.6",
+     "frases": [
+      "Efetividade, estabilidade e vitaliciedade."
+     ]
+    },
+    {
+     "item": "11.2.7",
+     "frases": [
+      "Remuneração."
+     ]
+    },
+    {
+     "item": "11.2.8",
+     "frases": [
+      "Direitos e deveres."
+     ]
+    },
+    {
+     "item": "11.2.9",
+     "frases": [
+      "Responsabilidade."
+     ]
+    },
+    {
+     "item": "11.2.10",
+     "frases": [
+      "Processo Administrativo Disciplinar."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Bens públicos."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Classificação."
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "Características."
+     ]
+    },
+    {
+     "item": "12.4",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "12.5",
+     "frases": [
+      "Afetação e desafetação."
+     ]
+    },
+    {
+     "item": "12.6",
+     "frases": [
+      "Aquisição e alienação."
+     ]
+    },
+    {
+     "item": "12.7",
+     "frases": [
+      "Uso dos bens públicos por particular."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Responsabilidade civil do Estado."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Evolução histórica."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Teorias subjetivas e objetivas da responsabilidade patrimonial do Estado."
+     ]
+    },
+    {
+     "item": "13.3",
+     "frases": [
+      "Responsabilidade civil do Estado no direito brasileiro."
+     ]
+    },
+    {
+     "item": "13.3.1",
+     "frases": [
+      "Responsabilidade por ato comissivo do Estado."
+     ]
+    },
+    {
+     "item": "13.3.2",
+     "frases": [
+      "Responsabilidade por omissão do Estado."
+     ]
+    },
+    {
+     "item": "13.4",
+     "frases": [
+      "Requisitos para a demonstração da responsabilidade do Estado."
+     ]
+    },
+    {
+     "item": "13.5",
+     "frases": [
+      "Causas excludentes e atenuantes da responsabilidade do Estado."
+     ]
+    },
+    {
+     "item": "13.6",
+     "frases": [
+      "Reparação do dano."
+     ]
+    },
+    {
+     "item": "13.7",
+     "frases": [
+      "Direito de regresso."
+     ]
+    },
+    {
+     "item": "13.8",
+     "frases": [
+      "Responsabilidade primária e subsidiária."
+     ]
+    },
+    {
+     "item": "13.9",
+     "frases": [
+      "Responsabilidade do Estado por atos legislativos."
+     ]
+    },
+    {
+     "item": "13.10",
+     "frases": [
+      "Responsabilidade do Estado por atos judiciais."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Lei Complementar nº 840/2011 e suas alterações (Regime Jurídico dos Servidores Públicos Civis do Distrito Federal)."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Jurisprudência dos tribunais superiores."
+     ]
+    }
+   ]
+  }
+ ]
+}

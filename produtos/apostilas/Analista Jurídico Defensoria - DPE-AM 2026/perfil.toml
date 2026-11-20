@@ -1,0 +1,109 @@
+# perfil.toml: perfil do concurso (fonte do perfil; a tabela `perfis` do banco é só cópia). Plano 06, Etapa 2b.
+# ATENÇÃO: mudar banca, cargo, órgão, edital, universo, pesos, meia-vida, disciplina ou bloco invalida a confirmação
+# (o motor e o gerador recusam). Depois de mostrar ao usuário e ter o "sim" dele: scripts/72_perfil.py confirmar.
+
+nome = "Analista Jurídico Defensoria - DPE-AM 2026"
+banca = "FCC"
+carreira = "Defensoria Pública"
+cargo = "Analista Jurídico"
+orgao = "DPE-AM"
+ano_referencia = 2026
+edital_id = 4
+meia_vida = 8
+estudo_geral = false
+pesos = { A = 1, B = 0.5, C = 0.25 }
+
+[universo]
+nome = "Analista FCC"
+descricao = "Provas da FCC de qualquer cargo de Analista (Analista Jurídico, Analista de Defensoria, Analista Ministerial, Analista Judiciário...), de qualquer carreira."
+filtro = { bancas = ["FCC"], cargos_prefixo = ["Analista"] }
+
+[[apostila]]
+id = 2
+disciplina = "Direitos Humanos"
+bloco = "DH"
+nome = "Direitos Humanos · Analista Jurídico · FCC · DPE-AM 2026 (edital)"
+confirmado_em = "2026-11-12"
+confirmado_hash = "d532be6d1dc43d01"
+observacoes = "Pedido pelo usuário em 12/11/2026: apostila de DH para Analista Jurídico de Defensoria – Ciência Jurídica (FCC), edital 01/2026 da DPE-AM; universo: só provas de Analista da FCC. Órgão DPE-AM tirado do edital. Aguardando confirmação. Confirmado no chat em 12/11/2026 (universo: só Analista FCC, estatística e questões). Confirmação explícita de todos os campos no chat em 12/11/2026 (\"sim\"). Em 16/11/2026 o usuario aprovou no chat (\"sim\") passar o perfil ao edital 4 por bloco (Fase F, decisao 41)."
+
+[[apostila]]
+id = 3
+disciplina = "Direito Penal"
+bloco = "PENAL"
+nome = "Direito Penal · Analista Jurídico · FCC · DPE-AM 2026 (edital)"
+confirmado_em = "2026-11-13"
+confirmado_hash = "e07e71882174f029"
+observacoes = "Pedido pelo usuário em 13/11/2026: apostila de Direito Penal para Analista Jurídico · Ciências Jurídicas da DPE-AM, edital 2026; universo: provas de Analista da FCC. Aguardando confirmação. Confirmado pelo usuário no chat em 13/11/2026 (\"pode seguir\"), junto com o catálogo de 14 assuntos e 53 pontos. Em 16/11/2026 o usuario aprovou no chat (\"sim\") passar o perfil ao edital 4 por bloco (Fase F, decisao 41)."
+
+[[apostila]]
+id = 4
+disciplina = "Direito Civil"
+bloco = "CIV"
+nome = "Direito Civil — Analista Jurídico — FCC — DPE-AM 2026 (edital)"
+confirmado_em = "2026-11-14"
+confirmado_hash = "59647ffb36dbbd02"
+observacoes = "Pedido pelo usuário em 14/11/2026: caderno de Direito Civil para Analista Jurídico da DPE-AM, edital 2026; universo: provas de Analista da FCC. Perfil confirmado no chat em 14/11/2026 (\"Sim, confirmado\"). Modelo novo da apostila. Em 15/11/2026 o usuário confirmou no chat o perfil por bloco do edital (bloco CIV; decisão 41): entram também as questões de outras disciplinas classificadas em pontos tocados pelo bloco."
+
+[[apostila]]
+id = 5
+disciplina = "Direito Constitucional"
+bloco = "CONST"
+nome = "Direito Constitucional — Analista Jurídico — FCC — DPE-AM 2026 (edital)"
+confirmado_em = "2026-11-15"
+confirmado_hash = "217bb4ee81fa3e63"
+observacoes = "Pedido pelo usuário em 15/11/2026: apostila de Direito Constitucional para Analista Jurídico da DPE-AM, edital 2026; universo: provas de Analista da FCC. Perfil confirmado no chat em 15/11/2026 (\"confirmo\"). Modelo final da apostila. Em 16/11/2026 o usuario aprovou no chat (\"sim\") passar o perfil ao edital 4 por bloco (Fase F, decisao 41)."
+
+[[apostila]]
+id = 6
+disciplina = "Língua Portuguesa"
+bloco = "LP"
+nome = "Língua Portuguesa – Analista Jurídico – FCC – DPE-AM 2026 (edital)"
+confirmado_em = "2026-11-15"
+confirmado_hash = "9e742c46fe73208c"
+observacoes = "Pedido pelo usuário em 15/11/2026: apostila de Língua Portuguesa (Conhecimentos Gerais, Anexo II) para Analista Jurídico da DPE-AM, edital 2026; universo: provas de Analista da FCC. Perfil confirmado no chat em 15/11/2026 (\"confirmo o perfil, pode rodar e gerar\"). Modelo final; texto-base guardado. Em 16/11/2026 o usuario aprovou no chat (\"sim\") passar o perfil ao edital 4 por bloco (Fase F, decisao 41)."
+
+[[apostila]]
+id = 7
+disciplina = "Princípios e Atribuições Institucionais da Defensoria"
+bloco = "PINST"
+nome = "Legislação da Defensoria e Conhecimentos Jurídicos e Institucionais – Analista Jurídico – FCC – DPE-AM 2026 (edital)"
+confirmado_em = "2026-11-15"
+confirmado_hash = "4519305b75907657"
+observacoes = "Pedido pelo usuário em 15/11/2026: apostila de Princípios Institucionais (Legislação da Defensoria e Conhecimentos Jurídicos e Institucionais, Anexo II) com o mesmo perfil de LP: Analista Jurídico, FCC, DPE-AM 2026, universo Analista FCC (\"pode passar para princípios institucionais, com o mesmo perfil\"). Modelo final. Em 15/11/2026 o usuário pediu apostila unificada dos dois blocos (Legislação da Defensoria + Conhecimentos Jurídicos e Institucionais), mantendo as questões cobradas dentro deles (inclusive as 8 de Penal/Improbidade/CF, na seção fora do edital 2026). Em 16/11/2026 o usuario aprovou no chat (\"sim\") passar o perfil ao edital 4 por bloco (Fase F, decisao 41)."
+
+[[apostila]]
+id = 8
+disciplina = "Direito Processual Penal"
+bloco = "PPEN"
+nome = "Direito Processual Penal - Analista Juridico - FCC - DPE-AM 2026 (edital)"
+confirmado_em = "2026-11-16"
+confirmado_hash = "08845ade4f0db51b"
+observacoes = "Pedido em 15/11/2026 (Fase D, D1): apostila de Direito Processual Penal com Execucao Penal (item 37), bloco PPEN do edital 4, universo Analista FCC. Perfil confirmado pelo usuario no chat em 16/11/2026 (\"sim\")."
+
+[[apostila]]
+id = 9
+disciplina = "Direito da Criança e do Adolescente"
+bloco = "ECA"
+nome = "Crianca, Adolescente, Idoso, PcD e Mulher - Analista Juridico - FCC - DPE-AM 2026 (edital)"
+confirmado_em = "2026-11-16"
+confirmado_hash = "e89ff273909c522c"
+observacoes = "Pedido em 16/11/2026 (Fase D, D2): apostila unica do bloco ECA do edital 4 (Crianca e Adolescente, Idoso, PcD e Mulher), universo Analista FCC. Perfil confirmado pelo usuario no chat em 16/11/2026 (\"sim\")."
+
+[[apostila]]
+id = 10
+disciplina = "Direito Administrativo"
+bloco = "ADM"
+nome = "Direito Administrativo - Analista Juridico - FCC - DPE-AM 2026 (edital)"
+confirmado_em = "2026-11-16"
+confirmado_hash = "772e69a636f616bb"
+observacoes = "Pedido em 16/11/2026 (Fase D, D3): apostila de Direito Administrativo, bloco ADM do edital 4, universo Analista FCC. Perfil confirmado pelo usuario no chat em 16/11/2026 (\"sim\")."
+
+[[apostila]]
+id = 11
+disciplina = "Direito Processual Civil"
+bloco = "PCIV"
+nome = "Direito Processual Civil - Analista Juridico - FCC - DPE-AM 2026 (edital)"
+confirmado_em = "2026-11-16"
+confirmado_hash = "5c3fa2c67afb52a6"
+observacoes = "Pedido em 16/11/2026 (Fase D, D4): apostila de Direito Processual Civil, bloco PCIV do edital 4, universo Analista FCC. Perfil confirmado pelo usuario no chat em 16/11/2026 (\"sim\")."

@@ -1,0 +1,769 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="editor-token" content="__TOKEN__">
+<title>Editor do catálogo</title>
+<style>
+  :root {
+    --fundo:#f4f6f9; --painel:#ffffff; --texto:#1c2430; --suave:#5d6978; --linha:#d5dbe4;
+    --bloco:#e6efff; --bloco-borda:#8fb0ee; --acento:#2563eb; --aviso:#b45309; --aviso-fundo:#fef3c7; --erro:#b91c1c; --erro-fundo:#fee2e2; --ok:#15803d;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --fundo:#14181f; --painel:#1c222c; --texto:#e7eaf0; --suave:#9aa6b6; --linha:#333c4a; --bloco:#223357; --bloco-borda:#4a70c4;
+            --acento:#6c9bff; --aviso:#fbbf24; --aviso-fundo:#3a2f12; --erro:#f87171; --erro-fundo:#3b1a1a; --ok:#4ade80; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--fundo); color:var(--texto); font:15px/1.45 system-ui, "Segoe UI", sans-serif; }
+  button, select, input, textarea { font:inherit; color:inherit; }
+  .topo { position:sticky; top:0; z-index:30; background:var(--painel); border-bottom:1px solid var(--linha); padding:10px 16px; display:flex; flex-wrap:wrap; gap:10px 14px; align-items:center; }
+  .topo h1 { font-size:17px; margin:0 6px 0 0; }
+  .topo label { display:flex; gap:6px; align-items:center; color:var(--suave); }
+  .btn { border:1px solid var(--linha); background:var(--painel); border-radius:8px; padding:6px 12px; cursor:pointer; color:inherit; text-decoration:none; display:inline-block; }
+  .btn:hover:not([disabled]) { border-color:var(--acento); }
+  .btn[disabled] { opacity:.45; cursor:default; }
+  .btn.primario { background:var(--acento); border-color:var(--acento); color:#fff; }
+  .btn.perigo { background:var(--erro); border-color:var(--erro); color:#fff; }
+  #status { margin-left:auto; color:var(--suave); font-size:13px; }
+  .painel { padding:10px 16px; display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+  .chip { border:1px solid var(--linha); background:var(--painel); border-radius:999px; padding:2px 10px; font-size:13px; color:var(--suave); }
+  .chip.aviso { background:var(--aviso-fundo); border-color:var(--aviso); color:var(--aviso); }
+  .chip.erro { background:var(--erro-fundo); border-color:var(--erro); color:var(--erro); }
+  .dica { padding:0 16px 8px; color:var(--suave); font-size:13px; }
+  main { padding:0 16px 24px; }
+  table { border-collapse:collapse; width:100%; table-layout:fixed; background:var(--painel); }
+  th, td { border:1px solid var(--linha); vertical-align:top; padding:8px 10px; }
+  thead th { background:var(--fundo); text-align:left; font-size:13px; color:var(--suave); }
+  thead th:first-child { width:290px; }
+  tbody th { text-align:left; font-weight:600; background:rgba(127,127,127,.06); }
+  tr.vaga { opacity:.35; }
+  .ass { display:flex; gap:6px; align-items:flex-start; }
+  .ass .texto { flex:1; min-width:0; }
+  .alca { cursor:grab; user-select:none; touch-action:none; color:var(--suave); padding:2px 4px; border-radius:6px; line-height:1.2; }
+  .alca:hover { background:rgba(127,127,127,.2); }
+  .cod { font:12px ui-monospace, Consolas, monospace; color:var(--suave); }
+  .nome-ass { display:block; overflow-wrap:anywhere; }
+  .meta { display:flex; flex-wrap:wrap; gap:4px; margin-top:4px; font-weight:400; }
+  .zona { min-height:54px; display:flex; flex-wrap:wrap; gap:8px; align-items:flex-start; }
+  .zona.alvo { outline:2px dashed var(--acento); outline-offset:-4px; }
+  .vazio { color:var(--suave); font-size:13px; align-self:center; }
+  .bloco { display:flex; align-items:center; gap:6px; background:var(--bloco); border:2px solid var(--bloco-borda); border-radius:10px; padding:5px 4px 5px 10px;
+           cursor:grab; user-select:none; touch-action:none; max-width:340px; }
+  .bloco:focus-visible { outline:3px solid var(--acento); outline-offset:2px; }
+  .bloco.fraco { border-style:dashed; }
+  .bloco.novo { border-color:var(--ok); }
+  .bloco.vaga { opacity:.35; border-style:dashed; }
+  .bloco.fantasma, .fantasma-linha { position:fixed; z-index:60; pointer-events:none; box-shadow:0 8px 20px rgba(0,0,0,.35); opacity:.96; }
+  .fantasma-linha { background:var(--painel); border:2px solid var(--acento); border-radius:10px; padding:8px 12px; font-weight:600; }
+  .marcador { position:fixed; z-index:55; pointer-events:none; background:var(--acento); border-radius:3px; box-shadow:0 0 0 2px rgba(37,99,235,.25); }
+  .topo label.chk { cursor:pointer; user-select:none; }
+  .bloco.mud-movido { border-color:var(--aviso); background:var(--aviso-fundo); }
+  .bloco.mud-renomeado { border-color:#a855f7; }
+  .bloco .antes { display:block; font-size:12px; color:var(--suave); text-decoration:line-through; overflow-wrap:anywhere; }
+  tr.mud-assunto th { box-shadow:inset 4px 0 0 var(--aviso); }
+  table.comp { table-layout:auto; width:100%; }
+  table.comp th, table.comp td { font-size:13px; padding:5px 10px; }
+  table.comp td.num, table.comp th.num { text-align:right; font-variant-numeric:tabular-nums; }
+  .melhor { color:var(--ok); font-weight:600; }
+  .pior { color:var(--erro); font-weight:600; }
+  .v1lista h3 { margin:12px 0 4px; font-size:14px; }
+  .v1lista .chips { display:flex; flex-wrap:wrap; gap:6px; }
+  .v1lista .chip { font-size:12px; }
+  .bloco .corpo { min-width:0; }
+  .bloco .nome { display:block; overflow-wrap:anywhere; }
+  .badges { display:flex; flex-wrap:wrap; gap:4px; margin-top:2px; }
+  .badge { font:11px ui-monospace, Consolas, monospace; padding:0 6px; border-radius:999px; background:rgba(127,127,127,.18); color:var(--suave); }
+  .badge.ok { background:rgba(21,128,61,.18); color:var(--ok); }
+  .badge.aviso { background:var(--aviso-fundo); color:var(--aviso); }
+  .badge.erro { background:var(--erro-fundo); color:var(--erro); }
+  .menu { border:0; background:transparent; font-size:19px; line-height:1; padding:2px 7px; cursor:pointer; border-radius:6px; align-self:flex-start; }
+  .menu:hover, .menu:focus-visible { background:rgba(127,127,127,.25); }
+  .popup { position:fixed; z-index:70; background:var(--painel); border:1px solid var(--linha); border-radius:10px; padding:4px; min-width:190px; box-shadow:0 8px 22px rgba(0,0,0,.3); }
+  .popup button { display:block; width:100%; text-align:left; border:0; background:transparent; padding:7px 12px; border-radius:7px; cursor:pointer; }
+  .popup button:hover:not([disabled]), .popup button:focus-visible { background:rgba(127,127,127,.2); }
+  .popup button[disabled] { opacity:.45; cursor:default; }
+  .popup button.perigo { color:var(--erro); }
+  .vazio-geral { padding:48px 16px; text-align:center; color:var(--suave); }
+  section.lixeira { margin:18px 16px 0; background:var(--painel); border:1px solid var(--linha); border-radius:10px; padding:10px 14px; }
+  section.lixeira h2 { font-size:15px; margin:0 0 6px; }
+  .item-lixo { display:flex; gap:10px; align-items:center; padding:4px 0; border-top:1px solid var(--linha); }
+  .item-lixo:first-of-type { border-top:0; }
+  .item-lixo .texto { flex:1; overflow-wrap:anywhere; }
+  dialog { border:1px solid var(--linha); border-radius:12px; background:var(--painel); color:var(--texto); padding:0; width:min(560px, 94vw); }
+  dialog.largo { width:min(920px, 96vw); }
+  dialog::backdrop { background:rgba(0,0,0,.45); }
+  .dlg-corpo { padding:16px 18px; }
+  .dlg-corpo h2 { margin:0 0 10px; font-size:17px; }
+  .campo { display:block; margin:10px 0; }
+  .campo span { display:block; color:var(--suave); font-size:13px; margin-bottom:3px; }
+  .campo input, .campo textarea, .campo select { width:100%; padding:7px 9px; border:1px solid var(--linha); border-radius:8px; background:var(--fundo); }
+  .campo textarea { min-height:70px; resize:vertical; }
+  .dlg-acoes { display:flex; gap:8px; justify-content:flex-end; margin-top:14px; }
+  .dlg-texto { color:var(--suave); margin:6px 0; overflow-wrap:anywhere; }
+  .rolagem { max-height:60vh; overflow:auto; border:1px solid var(--linha); border-radius:8px; }
+  .rolagem table { table-layout:auto; }
+  .rolagem th, .rolagem td { font-size:13px; padding:5px 8px; }
+  .resumo { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:8px; }
+  #toast { position:fixed; left:50%; bottom:18px; transform:translateX(-50%); z-index:90; background:var(--texto); color:var(--fundo); padding:9px 16px; border-radius:10px; max-width:90vw; display:none; }
+  #toast.erro { background:var(--erro); color:#fff; }
+  .sr { position:absolute; left:-9999px; }
+</style>
+</head>
+<body>
+<header class="topo">
+  <h1>Editor do catálogo</h1>
+  <label>Disciplina <select id="sel-disc" aria-label="Disciplina"></select></label>
+  <button class="btn" id="btn-desfazer" type="button" title="Ctrl+Z" aria-label="Desfazer">&#8630; Desfazer</button>
+  <button class="btn" id="btn-refazer" type="button" title="Ctrl+Y" aria-label="Refazer">&#8631; Refazer</button>
+  <button class="btn" id="btn-novo-assunto" type="button">+ Assunto</button>
+  <button class="btn" id="btn-mapa" type="button">Mapa antigo&#8594;novo</button>
+  <button class="btn" id="btn-comparar" type="button">Comparar com o v1</button>
+  <label class="chk"><input type="checkbox" id="chk-mudancas"> Destacar mudanças</label>
+  <a class="btn" href="/revisao" title="Responder as questões do conjunto de referência (uma por tela)">Revisão da referência</a>
+  <span id="status" role="status" aria-live="polite"></span>
+</header>
+<div class="painel" id="painel"></div>
+<div class="dica" id="dica">Arraste os blocos entre os assuntos (ou use Alt+setas com o bloco selecionado). Enter edita, Delete apaga, Ctrl+Z desfaz. O código de cada bloco é recalculado pela posição; a identidade se mantém. Nada aqui altera o banco: é um rascunho do catálogo v2.</div>
+<main id="principal"></main>
+<section class="lixeira" id="lixeira" hidden></section>
+
+<dialog id="dlg"><form method="dialog" class="dlg-corpo" id="dlg-form"></form></dialog>
+<dialog id="dlg-info" class="largo"><div class="dlg-corpo" id="dlg-info-corpo"></div></dialog>
+<div id="toast" role="alert"></div>
+
+<script>
+"use strict";
+(function () {
+  var TOKEN = document.querySelector('meta[name="editor-token"]').content;
+  var estado = { slug: null, v: null, catalogos: [], destacar: false };
+  try { estado.destacar = localStorage.getItem("editor-catalogo-destacar") === "1"; } catch (e) { estado.destacar = false; }
+  var META_ORDEM = 0.6;                       // meta inicial do contrato para a correlação da ordem dos assuntos com a dos editais (hipótese)
+
+  // ---------------------------------------------------------------- utilitários
+  function $(s, r) { return (r || document).querySelector(s); }
+  function $$(s, r) { return Array.prototype.slice.call((r || document).querySelectorAll(s)); }
+  function el(tag, attrs, filhos) {
+    var e = document.createElement(tag);
+    Object.keys(attrs || {}).forEach(function (k) {
+      if (k === "texto") e.textContent = attrs[k];
+      else if (k === "classe") e.className = attrs[k];
+      else if (k.slice(0, 2) === "on") e.addEventListener(k.slice(2), attrs[k]);
+      else e.setAttribute(k, attrs[k]);
+    });
+    (filhos || []).forEach(function (f) { if (f) e.appendChild(typeof f === "string" ? document.createTextNode(f) : f); });
+    return e;
+  }
+  async function api(metodo, caminho, corpo) {
+    var r = await fetch(caminho, { method: metodo, headers: { "X-Editor-Token": TOKEN, "Content-Type": "application/json" },
+                                   body: corpo === undefined ? undefined : JSON.stringify(corpo) });
+    var j = await r.json();
+    if (!r.ok) throw new Error(j.erro || ("erro " + r.status));
+    return j;
+  }
+  var toastTimer = null;
+  function toast(msg, erro) {
+    var t = $("#toast");
+    t.textContent = msg; t.className = erro ? "erro" : ""; t.style.display = "block";
+    clearTimeout(toastTimer); toastTimer = setTimeout(function () { t.style.display = "none"; }, erro ? 6000 : 2800);
+  }
+  function hora() { return new Date().toLocaleTimeString("pt-BR"); }
+
+  // ---------------------------------------------------------------- carregar e executar
+  async function iniciar() {
+    try {
+      estado.catalogos = await api("GET", "/api/catalogos");
+    } catch (e) { toast(e.message, true); return; }
+    var sel = $("#sel-disc");
+    estado.catalogos.forEach(function (c) { sel.appendChild(el("option", { value: c.slug, texto: c.disciplina + (c.tem_rascunho ? "  (rascunho v2)" : "") })); });
+    var guardado = null;
+    try { guardado = localStorage.getItem("editor-catalogo-slug"); } catch (e) { guardado = null; }
+    var ini = estado.catalogos.some(function (c) { return c.slug === guardado; }) ? guardado : (estado.catalogos.find(function (c) { return c.tem_rascunho; }) || estado.catalogos[0] || {}).slug;
+    if (ini) { sel.value = ini; await selecionar(ini); } else render();
+    sel.addEventListener("change", function () { selecionar(sel.value); });
+  }
+
+  async function selecionar(slug) {
+    estado.slug = slug; estado.v = null;
+    try { localStorage.setItem("editor-catalogo-slug", slug); } catch (e) { /* sem armazenamento: segue sem lembrar */ }
+    var c = estado.catalogos.find(function (x) { return x.slug === slug; });
+    if (c && c.tem_rascunho) await recarregar(); else render();
+  }
+
+  async function recarregar() {
+    try { estado.v = await api("GET", "/api/rascunho/" + estado.slug); } catch (e) { toast(e.message, true); estado.v = null; }
+    render();
+  }
+
+  async function criarRascunho() {
+    try {
+      estado.v = await api("POST", "/api/rascunho/" + estado.slug + "/criar", {});
+      var c = estado.catalogos.find(function (x) { return x.slug === estado.slug; });
+      if (c) { c.tem_rascunho = true; atualizarOpcao(c); }
+      toast("Rascunho v2 criado a partir do catálogo atual."); render();
+    } catch (e) { toast(e.message, true); }
+  }
+  function atualizarOpcao(c) {
+    $$("#sel-disc option").forEach(function (o) { if (o.value === c.slug) o.textContent = c.disciplina + (c.tem_rascunho ? "  (rascunho v2)" : ""); });
+  }
+
+  async function executar(op, focoUid) {
+    try {
+      estado.v = await api("POST", "/api/rascunho/" + estado.slug + "/op", op);
+      $("#status").textContent = "Salvo às " + hora();
+      render(focoUid);
+      return true;
+    } catch (e) {
+      toast(e.message, true);
+      await recarregar();                       // a tela volta a refletir o que está salvo
+      return false;
+    }
+  }
+
+  // ---------------------------------------------------------------- desenho
+  function render(focoUid) {
+    var v = estado.v, p = $("#principal");
+    p.textContent = "";
+    $("#painel").textContent = "";
+    $("#lixeira").hidden = true;
+    var temV = !!v;
+    $("#btn-desfazer").disabled = !temV || !v.pode_desfazer;
+    $("#btn-refazer").disabled = !temV || !v.pode_refazer;
+    $("#btn-novo-assunto").disabled = !temV;
+    $("#btn-mapa").disabled = !temV;
+    $("#btn-comparar").disabled = !temV;
+    $("#chk-mudancas").checked = estado.destacar;
+    if (!temV) {
+      var c = estado.catalogos.find(function (x) { return x.slug === estado.slug; });
+      var box = el("div", { classe: "vazio-geral" }, [
+        el("p", { texto: c ? "Ainda não há rascunho v2 de " + c.disciplina + "." : "Nenhum catálogo encontrado." })]);
+      if (c) box.appendChild(el("button", { classe: "btn primario", type: "button", id: "btn-criar", texto: "Criar rascunho v2 a partir do catálogo atual", onclick: criarRascunho }));
+      p.appendChild(box);
+      return;
+    }
+    desenharPainel(v);
+    var tab = el("table", {}, [
+      el("thead", {}, [el("tr", {}, [el("th", { texto: "Assunto" }), el("th", { texto: "Pontos (blocos)" })])])]);
+    var tb = el("tbody", { id: "tbody" });
+    var porAss = {};
+    v.diagnostico.por_assunto.forEach(function (d) { porAss[d.uid] = d; });
+    v.assuntos.forEach(function (a) { tb.appendChild(linhaAssunto(a, porAss[a.uid], v)); });
+    tab.appendChild(tb);
+    p.appendChild(tab);
+    desenharLixeira(v);
+    if (focoUid) { var f = $('.bloco[data-uid="' + focoUid + '"]'); if (f) f.focus(); }
+  }
+
+  function desenharPainel(v) {
+    var d = v.diagnostico, p = $("#painel");
+    var faixa = d.avisos.length ? "aviso" : "";
+    p.appendChild(el("span", { classe: "chip " + faixa, texto: d.assuntos + " assuntos" }));
+    p.appendChild(el("span", { classe: "chip", texto: d.pontos + " pontos" }));
+    p.appendChild(el("span", { classe: "chip " + (d.pequenos ? "aviso" : ""), texto: d.pequenos + (d.pequenos === 1 ? " pequeno" : " pequenos"), title: "até 2 pontos, ou menos de 4% das questões e dos itens" }));
+    p.appendChild(el("span", { classe: "chip " + (d.grandes ? "erro" : ""), texto: d.grandes + (d.grandes === 1 ? " grande" : " grandes"), title: "mais de 8 pontos, ou mais de 25% das questões ou dos itens" }));
+    p.appendChild(el("span", { classe: "chip " + (d.pontos_sem_evidencia.length ? "aviso" : ""), texto: d.pontos_sem_evidencia.length + " com pouca evidência", title: "menos de 3 questões e menos de 5 itens: o contrato manda fundir ao vizinho" }));
+    var o = v.ordem;
+    if (o && o.rho !== null && o.rho !== undefined) {
+      p.appendChild(el("span", { classe: "chip " + (o.rho < META_ORDEM ? "aviso" : ""), texto: "ordem × editais ρ = " + o.rho,
+        title: "Correlação (Spearman) entre a ordem dos seus assuntos e a posição em que eles costumam aparecer nos editais (" + o.assuntos_com_dados +
+               " assuntos com dados). Meta inicial: " + META_ORDEM + ". É uma pista, não uma regra: a ordem didática é decisão sua." }));
+    } else p.appendChild(el("span", { classe: "chip", texto: "ordem × editais: sem dados", title: "Menos de 4 assuntos com itens de edital com posição" }));
+    d.avisos.forEach(function (a) { p.appendChild(el("span", { classe: "chip aviso", texto: a })); });
+    p.appendChild(el("span", { classe: "chip", texto: v.disciplina + " · " + v.versao_base + " → " + v.versao_alvo }));
+  }
+
+  function linhaAssunto(a, dg, v) {
+    var tr = el("tr", { "data-uid": a.uid });
+    var th = el("th", {});
+    var cab = el("div", { classe: "ass" });
+    cab.appendChild(el("span", { classe: "alca", title: "Arraste para reordenar o assunto", "aria-label": "Reordenar assunto " + a.nome, texto: "⠿" }));
+    var tx = el("div", { classe: "texto" });
+    tx.appendChild(el("span", { classe: "cod", texto: a.codigo + (a.antigo && a.antigo !== a.codigo ? "  (antes " + a.antigo + ")" : a.antigo ? "" : "  (novo)") }));
+    tx.appendChild(el("span", { classe: "nome-ass", texto: a.nome, title: a.descricao || "" }));
+    var meta = el("div", { classe: "meta" });
+    if (dg) {
+      meta.appendChild(el("span", { classe: "badge", texto: dg.pontos + " pontos", title: "contrato: de 3 a 8 pontos por assunto" }));
+      meta.appendChild(el("span", { classe: "badge", texto: "q " + dg.pct_questoes + "%", title: "parcela das questões classificadas da disciplina" }));
+      meta.appendChild(el("span", { classe: "badge", texto: "i " + dg.pct_itens + "%", title: "parcela dos itens de edital da disciplina" }));
+      dg.flags.forEach(function (f) { meta.appendChild(el("span", { classe: "badge " + (f === "grande" ? "erro" : "aviso"), texto: f })); });
+    }
+    if (a.pre_requisito) {
+      var pr = v.assuntos.find(function (x) { return x.uid === a.pre_requisito; });
+      if (pr) meta.appendChild(el("span", { classe: "badge", texto: "depois de " + pr.codigo, title: "pré-requisito: " + pr.nome }));
+    }
+    if (a.ordem) {                                            // posição típica do assunto nos editais, contra a posição dele aqui
+      var dif = a.ordem.pos_atual - a.ordem.pos_editais;
+      var txt = "editais: " + a.ordem.pos_editais + "º (aqui " + a.ordem.pos_atual + "º)";
+      meta.appendChild(el("span", { classe: "badge " + (Math.abs(dif) >= 3 ? "aviso" : ""), texto: txt,
+        title: "Nos editais este assunto costuma aparecer em " + Math.round(a.ordem.mediana * 100) + "% do caminho (mediana de " + a.ordem.n + " itens). " +
+               (dif <= -3 ? "Nos editais ele costuma vir DEPOIS." : dif >= 3 ? "Nos editais ele costuma vir ANTES." : "Posição parecida com a dos editais.") }));
+    }
+    if (estado.destacar && a.acao && (a.acao === "novo" || a.acao === "renomeado")) {
+      tr.classList.add("mud-assunto");
+      meta.appendChild(el("span", { classe: "badge aviso", texto: a.acao }));
+    }
+    tx.appendChild(meta);
+    cab.appendChild(tx);
+    cab.appendChild(el("button", { classe: "menu", type: "button", "aria-label": "Menu do assunto " + a.nome, title: "Mais ações", texto: "⋮",
+                                    onclick: function (ev) { abrirMenu(ev.currentTarget, menuAssunto(a, v)); } }));
+    th.appendChild(cab);
+    var td = el("td", {});
+    var zona = el("div", { classe: "zona", "data-uid": a.uid });
+    a.pontos.forEach(function (pt) { zona.appendChild(blocoDe(pt, v)); });
+    if (!a.pontos.length) zona.appendChild(el("span", { classe: "vazio", texto: "Sem blocos: arraste um bloco para cá." }));
+    td.appendChild(zona);
+    tr.appendChild(th); tr.appendChild(td);
+    return tr;
+  }
+
+  function blocoDe(pt, v) {
+    var fraco = v.diagnostico.pontos_sem_evidencia.indexOf(pt.uid) >= 0;
+    var b = el("div", { classe: "bloco" + (pt.novo ? " novo" : "") + (fraco ? " fraco" : ""), "data-uid": pt.uid, tabindex: "0", role: "group",
+                        "aria-label": pt.codigo + " " + pt.texto, title: (pt.descricao ? pt.descricao + "\n" : "") + (pt.antigo ? "Código antigo: " + pt.antigo : "Bloco novo") });
+    var corpo = el("div", { classe: "corpo" });
+    var mudou = estado.destacar && (pt.acao === "movido" || pt.acao === "renomeado" || pt.acao === "movido e renomeado");
+    if (mudou) b.classList.add(pt.acao === "renomeado" ? "mud-renomeado" : "mud-movido");
+    corpo.appendChild(el("span", { classe: "cod", texto: pt.codigo + (pt.antigo && pt.antigo !== pt.codigo ? "  (antes " + pt.antigo + ")" : "") }));
+    corpo.appendChild(el("span", { classe: "nome", texto: pt.texto }));
+    if (mudou && pt.texto_antigo) corpo.appendChild(el("span", { classe: "antes", texto: pt.texto_antigo, title: "nome no v1" }));
+    var bd = el("div", { classe: "badges" });
+    if (mudou) bd.appendChild(el("span", { classe: "badge aviso", texto: pt.acao }));
+    if (pt.novo) bd.appendChild(el("span", { classe: "badge ok", texto: "novo" }));
+    else {
+      bd.appendChild(el("span", { classe: "badge", texto: "q " + pt.questoes, title: "questões já classificadas neste ponto (v1), contando o que foi fundido nele" }));
+      bd.appendChild(el("span", { classe: "badge", texto: "i " + pt.itens, title: "itens de edital ligados a este ponto (v1)" }));
+    }
+    if (fraco) bd.appendChild(el("span", { classe: "badge aviso", texto: "pouca evidência", title: "menos de 3 questões e menos de 5 itens: o contrato manda fundir ao vizinho" }));
+    corpo.appendChild(bd);
+    b.appendChild(corpo);
+    b.appendChild(el("button", { classe: "menu", type: "button", "aria-label": "Menu do bloco " + pt.texto, title: "Mais ações", texto: "⋮",
+                                  onclick: function (ev) { abrirMenu(ev.currentTarget, menuBloco(pt, v)); } }));
+    return b;
+  }
+
+  function desenharLixeira(v) {
+    var sec = $("#lixeira");
+    sec.textContent = "";
+    if (!v.lixeira.length && !v.lixeira_assuntos.length) { sec.hidden = true; return; }
+    sec.hidden = false;
+    sec.appendChild(el("h2", { texto: "Lixeira (nada é apagado do banco)" }));
+    v.lixeira.forEach(function (p) {
+      var linha = el("div", { classe: "item-lixo" });
+      linha.appendChild(el("span", { classe: "texto", texto: "(antes " + (p.antigo || "novo") + ")  " + p.texto + (p.destino_codigo ? "   → fundido no bloco atual " + p.destino_codigo : "   → apagado") }));
+      linha.appendChild(el("button", { classe: "btn", type: "button", texto: "Restaurar", onclick: function () { restaurarPonto(p, v); } }));
+      sec.appendChild(linha);
+    });
+    v.lixeira_assuntos.forEach(function (a) {
+      var linha = el("div", { classe: "item-lixo" });
+      linha.appendChild(el("span", { classe: "texto", texto: "Assunto " + (a.antigo || "") + "  " + a.nome + (a.rebaixado_para ? "   (rebaixado a ponto)" : "") }));
+      if (!a.rebaixado_para) linha.appendChild(el("button", { classe: "btn", type: "button", texto: "Restaurar", onclick: function () { executar({ op: "restaurar_assunto", uid: a.uid }); } }));
+      sec.appendChild(linha);
+    });
+  }
+
+  // ---------------------------------------------------------------- menus
+  function fecharPopups() { $$(".popup").forEach(function (p) { p.remove(); }); }
+  function abrirMenu(btn, itens) {
+    var ja = $(".popup");
+    fecharPopups();
+    if (ja && ja._dono === btn) return;
+    var pop = el("div", { classe: "popup", role: "menu" });
+    pop._dono = btn;
+    itens.forEach(function (it) {
+      var b = el("button", { type: "button", role: "menuitem", classe: it.perigo ? "perigo" : "", texto: it.rotulo, title: it.titulo || "" });
+      if (it.desabilitado) b.disabled = true;
+      else b.addEventListener("click", function () { fecharPopups(); it.acao(); });
+      pop.appendChild(b);
+    });
+    document.body.appendChild(pop);
+    var r = btn.getBoundingClientRect(), w = pop.offsetWidth, h = pop.offsetHeight;
+    pop.style.left = Math.max(6, Math.min(innerWidth - w - 6, r.right - w)) + "px";
+    pop.style.top = (r.bottom + h + 8 > innerHeight ? Math.max(6, r.top - h - 4) : r.bottom + 4) + "px";
+    var primeiro = $("button:not([disabled])", pop); if (primeiro) primeiro.focus();
+  }
+
+  function menuBloco(pt, v) {
+    return [
+      { rotulo: "Editar", acao: function () { editarPonto(pt); } },
+      { rotulo: "Ver questões", acao: function () { verQuestoes(pt); }, desabilitado: pt.novo && pt.questoes === 0 },
+      { rotulo: "Apagar", perigo: true, acao: function () { apagarPonto(pt, v); } }];
+  }
+  function menuAssunto(a, v) {
+    var i = v.assuntos.indexOf(a);
+    return [
+      { rotulo: "Editar", acao: function () { editarAssunto(a, v); } },
+      { rotulo: "Adicionar bloco", acao: function () { novoPonto(a); } },
+      { rotulo: "Subir", acao: function () { executar({ op: "mover_assunto", uid: a.uid, indice: i - 1 }); }, desabilitado: i === 0 },
+      { rotulo: "Descer", acao: function () { executar({ op: "mover_assunto", uid: a.uid, indice: i + 1 }); }, desabilitado: i === v.assuntos.length - 1 },
+      { rotulo: "Rebaixar a ponto…", acao: function () { rebaixar(a, v); }, desabilitado: v.assuntos.length < 2,
+        titulo: "O assunto vira um bloco de outro assunto; os blocos dele são fundidos nesse novo bloco" },
+      { rotulo: "Apagar assunto", perigo: true, acao: function () { apagarAssunto(a); }, desabilitado: a.pontos.length > 0,
+        titulo: a.pontos.length ? "Esvazie o assunto antes (mova ou apague os blocos)" : "" }];
+  }
+
+  // ---------------------------------------------------------------- diálogos
+  function dialogo(cfg) {
+    return new Promise(function (resolve) {
+      var dlg = $("#dlg"), form = $("#dlg-form");
+      form.textContent = "";
+      form.appendChild(el("h2", { texto: cfg.titulo }));
+      if (cfg.texto) form.appendChild(el("p", { classe: "dlg-texto", texto: cfg.texto }));
+      var campos = {};
+      (cfg.campos || []).forEach(function (c) {
+        var ctl;
+        if (c.tipo === "select") {
+          ctl = el("select", { name: c.id });
+          if (c.obrigatorio) ctl.required = true;                    // opção vazia + required: o navegador não deixa confirmar sem escolher
+          c.opcoes.forEach(function (o) { ctl.appendChild(el("option", { value: o.valor, texto: o.rotulo })); });
+          ctl.value = c.opcoes.some(function (o) { return o.valor === c.valor; }) ? c.valor : c.opcoes[0].valor;   // valor inexistente cai na primeira opção
+        } else if (c.tipo === "area") { ctl = el("textarea", { name: c.id }); ctl.value = c.valor || ""; }
+        else { ctl = el("input", { name: c.id, type: "text", autocomplete: "off" }); ctl.value = c.valor || ""; }
+        campos[c.id] = ctl;
+        form.appendChild(el("label", { classe: "campo" }, [el("span", { texto: c.rotulo }), ctl]));
+      });
+      var acoes = el("div", { classe: "dlg-acoes" });
+      var cancelar = el("button", { classe: "btn", type: "button", texto: "Cancelar" });
+      var ok = el("button", { classe: "btn " + (cfg.perigo ? "perigo" : "primario"), type: "submit", texto: cfg.ok || "Salvar" });
+      acoes.appendChild(cancelar); acoes.appendChild(ok); form.appendChild(acoes);
+      var feito = false;
+      function fechar(valores) { if (feito) return; feito = true; dlg.close(); resolve(valores); }
+      cancelar.addEventListener("click", function () { fechar(null); });
+      form.onsubmit = function (e) {
+        e.preventDefault();
+        var vals = {};
+        Object.keys(campos).forEach(function (k) { vals[k] = campos[k].value; });
+        fechar(vals);
+      };
+      dlg.oncancel = function () { feito = true; resolve(null); };
+      dlg.showModal();
+      var primeiro = $("input, textarea, select", form); (primeiro || ok).focus();
+    });
+  }
+
+  async function editarPonto(pt) {
+    var r = await dialogo({ titulo: "Editar bloco " + pt.codigo, campos: [
+      { id: "texto", rotulo: "Nome do ponto", valor: pt.texto }, { id: "descricao", rotulo: "Descrição (uma linha, sem citar norma)", tipo: "area", valor: pt.descricao }] });
+    if (r) executar({ op: "editar_ponto", uid: pt.uid, texto: r.texto, descricao: r.descricao }, pt.uid);
+  }
+  async function editarAssunto(a, v) {
+    var opcoes = [{ valor: "", rotulo: "(nenhum)" }].concat(v.assuntos.filter(function (x) { return x.uid !== a.uid; }).map(function (x) { return { valor: x.uid, rotulo: x.codigo + "  " + x.nome }; }));
+    var r = await dialogo({ titulo: "Editar assunto " + a.codigo, campos: [
+      { id: "nome", rotulo: "Nome do assunto", valor: a.nome }, { id: "descricao", rotulo: "Descrição", tipo: "area", valor: a.descricao },
+      { id: "pre", rotulo: "Pré-requisito (estudar depois de)", tipo: "select", opcoes: opcoes, valor: a.pre_requisito || "" }] });
+    if (r) executar({ op: "editar_assunto", uid: a.uid, nome: r.nome, descricao: r.descricao, pre_requisito: r.pre });
+  }
+  async function novoPonto(a) {
+    var r = await dialogo({ titulo: "Novo bloco em " + a.codigo + "  " + a.nome, ok: "Criar", campos: [
+      { id: "texto", rotulo: "Nome do ponto" }, { id: "descricao", rotulo: "Descrição (opcional)", tipo: "area" }] });
+    if (r) executar({ op: "novo_ponto", assunto: a.uid, texto: r.texto, descricao: r.descricao });
+  }
+  async function novoAssunto() {
+    var r = await dialogo({ titulo: "Novo assunto (entra no fim da lista)", ok: "Criar", campos: [{ id: "nome", rotulo: "Nome do assunto" }] });
+    if (r) executar({ op: "novo_assunto", nome: r.nome });
+  }
+  async function apagarPonto(pt, v) {
+    var mesmo = [], outros = [];                                    // blocos do mesmo assunto primeiro; sem escolha pré-marcada
+    v.assuntos.forEach(function (a) {
+      a.pontos.forEach(function (x) {
+        if (x.uid === pt.uid) return;
+        var item = { valor: x.uid, rotulo: x.codigo + "  " + x.texto };
+        if (a.pontos.indexOf(pt) >= 0) mesmo.push(item); else outros.push(item);
+      });
+    });
+    if (pt.questoes > 0) {
+      var r = await dialogo({ titulo: "Apagar bloco " + pt.codigo, ok: "Apagar e enviar as questões", perigo: true,
+        texto: "Este ponto tem " + pt.questoes + " questões classificadas. Escolha o bloco que as recebe (elas serão fundidas nele). O bloco vai para a lixeira e pode ser restaurado.",
+        campos: [{ id: "destino", rotulo: "Enviar as questões para", tipo: "select", obrigatorio: true,
+                   opcoes: [{ valor: "", rotulo: "— escolha o bloco que recebe as questões —" }].concat(mesmo, outros), valor: "" }] });
+      if (r) executar({ op: "apagar_ponto", uid: pt.uid, destino: r.destino });
+    } else {
+      var ok = await dialogo({ titulo: "Apagar bloco " + pt.codigo, ok: "Apagar", perigo: true,
+        texto: "“" + pt.texto + "” vai para a lixeira (pode ser restaurado). Ele não tem questões classificadas." });
+      if (ok) executar({ op: "apagar_ponto", uid: pt.uid });
+    }
+  }
+  async function apagarAssunto(a) {
+    var ok = await dialogo({ titulo: "Apagar assunto " + a.codigo, ok: "Apagar", perigo: true, texto: "“" + a.nome + "” está vazio e vai para a lixeira (pode ser restaurado)." });
+    if (ok) executar({ op: "apagar_assunto", uid: a.uid });
+  }
+  async function rebaixar(a, v) {
+    var opcoes = v.assuntos.filter(function (x) { return x.uid !== a.uid; }).map(function (x) { return { valor: x.uid, rotulo: x.codigo + "  " + x.nome }; });
+    var r = await dialogo({ titulo: "Rebaixar " + a.codigo + " a ponto", ok: "Rebaixar",
+      texto: "“" + a.nome + "” vira um bloco do assunto escolhido; os " + a.pontos.length + " blocos dele são fundidos nesse novo bloco (e as questões vão junto).",
+      campos: [{ id: "para", rotulo: "Novo assunto do bloco", tipo: "select", opcoes: opcoes }] });
+    if (r) executar({ op: "rebaixar_assunto", uid: a.uid, para_assunto: r.para });
+  }
+  async function restaurarPonto(p, v) {
+    var opcoes = v.assuntos.map(function (a) { return { valor: a.uid, rotulo: a.codigo + "  " + a.nome }; });
+    if (!opcoes.length) { toast("Não há assunto para receber o bloco.", true); return; }
+    var r = await dialogo({ titulo: "Restaurar bloco", ok: "Restaurar", texto: "“" + p.texto + "”", campos: [{ id: "assunto", rotulo: "Colocar no assunto (padrão: o de origem)", tipo: "select", opcoes: opcoes, valor: p.assunto_uid }] });
+    if (r) executar({ op: "restaurar_ponto", uid: p.uid, assunto: r.assunto });
+  }
+
+  function mostrarInfo(titulo, conteudo) {
+    var corpo = $("#dlg-info-corpo");
+    corpo.textContent = "";
+    corpo.appendChild(el("h2", { texto: titulo }));
+    corpo.appendChild(conteudo);
+    var fechar = el("button", { classe: "btn primario", type: "button", texto: "Fechar", onclick: function () { $("#dlg-info").close(); } });
+    corpo.appendChild(el("div", { classe: "dlg-acoes" }, [fechar]));
+    $("#dlg-info").showModal();
+  }
+  async function verQuestoes(pt) {
+    try {
+      var qs = await api("GET", "/api/rascunho/" + estado.slug + "/questoes?uid=" + encodeURIComponent(pt.uid));
+      var cont = el("div", { classe: "rolagem" });
+      if (!qs.length) cont.appendChild(el("p", { classe: "dlg-texto", texto: "Nenhuma questão classificada neste ponto." }));
+      var t = el("table", {}, [el("tbody", {})]);
+      qs.forEach(function (q) { t.firstChild.appendChild(el("tr", {}, [el("td", { texto: q.prova + " · Q" + q.numero }), el("td", { texto: q.trecho })])); });
+      if (qs.length) cont.appendChild(t);
+      mostrarInfo(pt.codigo + "  " + pt.texto + "  (" + qs.length + " questões mostradas)", cont);
+    } catch (e) { toast(e.message, true); }
+  }
+  async function verMapa() {
+    try {
+      var linhas = await api("GET", "/api/rascunho/" + estado.slug + "/mapa");
+      var cont = el("div", {});
+      var contagem = {};
+      linhas.forEach(function (l) { contagem[l.acao] = (contagem[l.acao] || 0) + 1; });
+      var resumo = el("div", { classe: "resumo" });
+      Object.keys(contagem).forEach(function (k) { resumo.appendChild(el("span", { classe: "chip " + (k === "mantido" ? "" : "aviso"), texto: k + ": " + contagem[k] })); });
+      cont.appendChild(resumo);
+      var mudou = linhas.filter(function (l) { return l.acao !== "mantido"; });
+      var rol = el("div", { classe: "rolagem" });
+      if (!mudou.length) rol.appendChild(el("p", { classe: "dlg-texto", texto: "Nenhuma mudança em relação ao catálogo v1." }));
+      else {
+        var t = el("table", {}, [el("thead", {}, [el("tr", {}, ["Tipo", "Antes", "Depois", "Ação", "Fundido em", "Texto"].map(function (h) { return el("th", { texto: h }); }))]), el("tbody", {})]);
+        mudou.forEach(function (l) {
+          t.lastChild.appendChild(el("tr", {}, [l.tipo, l.antigo, l.novo, l.acao, l.destino, l.texto_novo || l.texto_antigo].map(function (x) { return el("td", { texto: x }); })));
+        });
+        rol.appendChild(t);
+      }
+      cont.appendChild(rol);
+      var exp = el("button", { classe: "btn", type: "button", texto: "Exportar mapa (CSV)", onclick: async function () {
+        try { var r = await api("POST", "/api/rascunho/" + estado.slug + "/mapa/exportar", {}); toast("Mapa gravado em " + r.arquivo); } catch (e) { toast(e.message, true); } } });
+      cont.appendChild(el("div", { classe: "dlg-acoes" }, [exp]));
+      mostrarInfo("Mapa antigo → novo (" + linhas.length + " linhas)", cont);
+      $("#dlg-info").classList.add("largo");
+    } catch (e) { toast(e.message, true); }
+  }
+
+  // ---------------------------------------------------------------- comparação v1 x v2 (M3)
+  function celula(txt, classe) { return el("td", { classe: classe || "", texto: txt === null || txt === undefined ? "—" : String(txt) }); }
+  function ganho(delta, melhorSe) {              // classe de cor da variação: "menos" = quanto menor melhor; "mais" = quanto maior melhor
+    if (!delta || !melhorSe) return "";             // sem direção melhor/pior (ex.: número de assuntos): sem cor
+    return (melhorSe === "menos" ? delta < 0 : delta > 0) ? "melhor" : "pior";
+  }
+
+  async function comparar() {
+    try {
+      var c = await api("GET", "/api/rascunho/" + estado.slug + "/comparacao");
+      var cont = el("div", {});
+      var resumo = el("div", { classe: "resumo" });
+      Object.keys(c.mudancas).forEach(function (k) { resumo.appendChild(el("span", { classe: "chip " + (k === "mantido" ? "" : "aviso"), texto: k + ": " + c.mudancas[k] })); });
+      cont.appendChild(resumo);
+      var defs = [["Assuntos", "assuntos", null, "contrato: de 8 a 15"], ["Pontos", "pontos", null, ""], ["Assuntos pequenos", "pequenos", "menos", "até 2 pontos, ou menos de 4% das questões e dos itens"],
+                  ["Assuntos grandes", "grandes", "menos", "mais de 8 pontos, ou mais de 25%"], ["Pontos com pouca evidência", "pouca_evidencia", "menos", "menos de 3 questões e menos de 5 itens"],
+                  ["Ordem × editais (ρ)", "ordem_rho", "mais", "correlação com a ordem dos editais; meta inicial " + META_ORDEM]];
+      var tb = el("tbody", {});
+      defs.forEach(function (d) {
+        var a = c.v1[d[1]], b = c.v2[d[1]];
+        var delta = (typeof a === "number" && typeof b === "number") ? Math.round((b - a) * 1000) / 1000 : null;
+        tb.appendChild(el("tr", {}, [el("td", { texto: d[0], title: d[3] }), celula(a, "num"), celula(b, "num"),
+          celula(delta === null ? "—" : (delta > 0 ? "+" : "") + delta, "num " + ganho(delta, d[2]))]));
+      });
+      var tab = el("table", { classe: "comp" }, [el("thead", {}, [el("tr", {}, [el("th", { texto: "Estrutura" }), el("th", { classe: "num", texto: "v1" }),
+        el("th", { classe: "num", texto: "v2 (rascunho)" }), el("th", { classe: "num", texto: "variação" })])]), tb]);
+      cont.appendChild(el("div", { classe: "rolagem" }, [tab]));
+      var area = el("div", { id: "area-metricas" });
+      var btM = el("button", { classe: "btn", type: "button", texto: "Medir classificação (v1 × v2)" });
+      btM.addEventListener("click", async function () {
+        btM.disabled = true; area.textContent = "Medindo com validação cruzada…";
+        try { desenharMetricas(area, await api("GET", "/api/rascunho/" + estado.slug + "/metricas")); } catch (e) { area.textContent = e.message; }
+        btM.disabled = false;
+      });
+      var btV = el("button", { classe: "btn", type: "button", texto: "Ver o catálogo v1 (somente leitura)", onclick: verV1 });
+      cont.appendChild(el("div", { classe: "dlg-acoes" }, [btV, btM]));
+      cont.appendChild(area);
+      mostrarInfo("Comparação com o catálogo v1", cont);
+    } catch (e) { toast(e.message, true); }
+  }
+
+  function desenharMetricas(area, m) {
+    area.textContent = "";
+    if (!m.v1) { area.appendChild(el("p", { classe: "dlg-texto", texto: m.aviso || "Sem dados para medir." })); return; }
+    area.appendChild(el("p", { classe: "dlg-texto", texto: "Classificador por código (TF-IDF, centroide mais próximo), validação cruzada de " + m.folds + " partes, sobre " + m.questoes +
+      " questões já classificadas, com os rótulos do v1 e com os mesmos rótulos migrados para o v2 pelo mapa." }));
+    var tb = el("tbody", {});
+    [["ponto", "Ponto"], ["assunto", "Assunto"]].forEach(function (nv) {
+      var a = m.v1[nv[0]], b = m.v2[nv[0]];
+      [["Classes", "classes", null], ["Acurácia", "acuracia", "mais"], ["Acerto de quem chuta a classe mais comum", "acaso_maioria", null],
+       ["Kappa (desconta o acaso; medida principal)", "kappa", "mais"], ["Macro-F1", "macro_f1", "mais"]].forEach(function (r) {
+        var delta = Math.round((b[r[1]] - a[r[1]]) * 1000) / 1000;
+        tb.appendChild(el("tr", {}, [el("td", { texto: nv[1] }), el("td", { texto: r[0] }), celula(a[r[1]], "num"), celula(b[r[1]], "num"),
+          celula((delta > 0 ? "+" : "") + delta, "num " + ganho(delta, r[2]))]));
+      });
+    });
+    var tab = el("table", { classe: "comp" }, [el("thead", {}, [el("tr", {}, [el("th", { texto: "Nível" }), el("th", { texto: "Medida" }), el("th", { classe: "num", texto: "v1" }),
+      el("th", { classe: "num", texto: "v2" }), el("th", { classe: "num", texto: "variação" })])]), tb]);
+    area.appendChild(el("div", { classe: "rolagem" }, [tab]));
+    area.appendChild(el("p", { classe: "dlg-texto", texto: "Atenção: " + m.aviso + " Se a acurácia sobe mas o kappa cai, a melhora é só de menos classes, não de estrutura melhor." }));
+  }
+
+  async function verV1() {
+    try {
+      var v1 = await api("GET", "/api/rascunho/" + estado.slug + "/v1");
+      var cont = el("div", { classe: "v1lista" });
+      v1.assuntos.forEach(function (a) {
+        cont.appendChild(el("h3", { texto: a.codigo + "  " + a.nome + "  (" + a.pontos.length + " pontos)" }));
+        var chips = el("div", { classe: "chips" });
+        a.pontos.forEach(function (p) { chips.appendChild(el("span", { classe: "chip", texto: p.codigo + "  " + p.texto + "  · q " + p.questoes + " · i " + p.itens })); });
+        cont.appendChild(chips);
+      });
+      var rol = el("div", { classe: "rolagem" }, [cont]);
+      mostrarInfo("Catálogo v1 (somente leitura): " + v1.disciplina, rol);
+    } catch (e) { toast(e.message, true); }
+  }
+
+  // ---------------------------------------------------------------- arrastar (eventos de ponteiro; lições do M0)
+  var arr = null;
+  document.addEventListener("pointerdown", function (e) {
+    if (e.target.closest(".popup") || e.target.closest("dialog")) return;     // clicar dentro do menu não o fecha antes do clique
+    fecharPopups();
+    if (e.target.closest(".menu") || e.button !== 0) return;
+    var alca = e.target.closest(".alca"), b = e.target.closest(".bloco");
+    if (alca) arr = { tipo: "assunto", el: alca.closest("tr"), x0: e.clientX, y0: e.clientY, ativo: false };
+    else if (b) arr = { tipo: "ponto", el: b, x0: e.clientX, y0: e.clientY, ativo: false };
+  });
+  document.addEventListener("pointermove", function (e) {
+    if (!arr) return;
+    if (!arr.ativo) {
+      if (Math.abs(e.clientX - arr.x0) + Math.abs(e.clientY - arr.y0) < 6) return;
+      iniciarArrasto(e);
+    }
+    arr.fantasma.style.left = (e.clientX - arr.dx) + "px";
+    arr.fantasma.style.top = (e.clientY - arr.dy) + "px";
+    if (arr.tipo === "ponto") posicionarBloco(e.clientX, e.clientY); else posicionarLinha(e.clientY);
+  });
+  document.addEventListener("pointerup", function () {
+    if (!arr) return;
+    var a = arr; arr = null;
+    if (a.ativo) terminarArrasto(a);
+  });
+  document.addEventListener("pointercancel", function () {
+    if (!arr) return;
+    var a = arr; arr = null;
+    if (a.ativo) { a.fantasma.remove(); limparAlvos(); render(); }
+  });
+
+  function iniciarArrasto(e) {
+    var r = arr.el.getBoundingClientRect();
+    arr.ativo = true; arr.dx = e.clientX - r.left; arr.dy = e.clientY - r.top;
+    arr.origem = arr.el.parentNode;
+    arr.origemIdx = Array.prototype.indexOf.call(arr.origem.children, arr.el);
+    var f;
+    if (arr.tipo === "ponto") { f = arr.el.cloneNode(true); f.classList.add("fantasma"); f.style.width = r.width + "px"; }
+    else { f = el("div", { classe: "fantasma-linha", texto: $(".nome-ass", arr.el).textContent }); }
+    document.body.appendChild(f);
+    arr.fantasma = f;
+    arr.dentro = true;
+    arr.el.classList.add("vaga");
+    fecharPopups();
+  }
+  // O bloco (ou a linha) arrastado FICA no lugar, esmaecido, durante o arrasto: se ele saísse da origem, o layout se reacomodaria e as posições
+  // mudariam no meio do gesto (defeito achado no teste do M2). A posição de soltura é mostrada por um marcador separado, que não mexe no layout.
+  function esconderMarcador() { $$(".marcador").forEach(function (m) { m.remove(); }); }
+  function limparAlvos() { $$(".zona.alvo").forEach(function (z) { z.classList.remove("alvo"); }); esconderMarcador(); }
+  function marcador(l, t, w, h) {
+    var m = $(".marcador") || document.body.appendChild(el("div", { classe: "marcador" }));
+    m.style.left = l + "px"; m.style.top = t + "px"; m.style.width = w + "px"; m.style.height = h + "px";
+  }
+
+  function posicionarBloco(x, y) {
+    var alvo = null, els = document.elementsFromPoint(x, y);
+    for (var i = 0; i < els.length && !alvo; i++) {
+      var z = els[i].closest && els[i].closest(".zona");
+      if (z) { alvo = z; break; }
+      var tr = els[i].closest && els[i].closest("#tbody > tr");
+      if (tr) alvo = $(".zona", tr);
+    }
+    $$(".zona.alvo").forEach(function (z) { z.classList.remove("alvo"); });
+    arr.dentro = !!alvo;
+    if (!alvo) { esconderMarcador(); return; }
+    alvo.classList.add("alvo");
+    var irmaos = Array.prototype.filter.call(alvo.children, function (c) { return c !== arr.el && c.classList.contains("bloco"); });
+    var idx = irmaos.length;
+    for (var k = 0; k < irmaos.length; k++) {
+      var r = irmaos[k].getBoundingClientRect();
+      var mesmaLinha = y >= r.top && y <= r.bottom;
+      if ((mesmaLinha && x < r.left + r.width / 2) || y < r.top) { idx = k; break; }
+    }
+    arr.zona = alvo; arr.indice = idx;
+    if (idx < irmaos.length) { var rr = irmaos[idx].getBoundingClientRect(); marcador(rr.left - 6, rr.top, 4, rr.height); }
+    else if (irmaos.length) { var ul = irmaos[irmaos.length - 1].getBoundingClientRect(); marcador(ul.right + 2, ul.top, 4, ul.height); }
+    else { var zr = alvo.getBoundingClientRect(); marcador(zr.left + 4, zr.top + 4, 4, 44); }
+  }
+
+  function posicionarLinha(y) {
+    var linhas = Array.prototype.filter.call($("#tbody").children, function (c) { return c !== arr.el; });
+    var idx = linhas.length;
+    for (var i = 0; i < linhas.length; i++) {
+      var r = linhas[i].getBoundingClientRect();
+      if (y < r.top + r.height / 2) { idx = i; break; }
+    }
+    arr.indice = idx; arr.dentro = true;
+    var t = $("table").getBoundingClientRect();
+    var yy = idx < linhas.length ? linhas[idx].getBoundingClientRect().top : linhas[linhas.length - 1].getBoundingClientRect().bottom;
+    marcador(t.left, yy - 2, t.width, 4);
+  }
+
+  function terminarArrasto(a) {
+    a.fantasma.remove(); limparAlvos();
+    if (a.tipo === "ponto") {
+      if (!a.dentro) { render(a.el.dataset.uid); return; }                     // soltou fora das zonas: cancela
+      if (a.zona === a.origem && a.indice === a.origemIdx) { render(a.el.dataset.uid); return; }   // não mudou de lugar
+      executar({ op: "mover_ponto", uid: a.el.dataset.uid, para_assunto: a.zona.dataset.uid, indice: a.indice }, a.el.dataset.uid);
+    } else {
+      if (a.indice === a.origemIdx) { render(); return; }
+      executar({ op: "mover_assunto", uid: a.el.dataset.uid, indice: a.indice });
+    }
+  }
+
+  // ---------------------------------------------------------------- teclado
+  document.addEventListener("keydown", function (e) {
+    var emCampo = e.target.closest("input, textarea, select, dialog");
+    if (e.key === "Escape") { fecharPopups(); return; }
+    if (emCampo) return;
+    if ((e.ctrlKey || e.metaKey) && (e.key === "z" || e.key === "Z")) { e.preventDefault(); if (estado.v && estado.v.pode_desfazer) executar({ op: "desfazer" }); return; }
+    if ((e.ctrlKey || e.metaKey) && (e.key === "y" || e.key === "Y")) { e.preventDefault(); if (estado.v && estado.v.pode_refazer) executar({ op: "refazer" }); return; }
+    var b = e.target.closest && e.target.closest(".bloco");
+    if (!b || !estado.v) return;
+    var uid = b.dataset.uid, v = estado.v, ai = -1, pi = -1;
+    v.assuntos.forEach(function (a, i) { a.pontos.forEach(function (p, j) { if (p.uid === uid) { ai = i; pi = j; } }); });
+    if (ai < 0) return;
+    var pt = v.assuntos[ai].pontos[pi];
+    if (e.key === "Enter") { e.preventDefault(); editarPonto(pt); }
+    else if (e.key === "Delete") { e.preventDefault(); apagarPonto(pt, v); }
+    else if (e.altKey && e.key === "ArrowLeft" && pi > 0) { e.preventDefault(); executar({ op: "mover_ponto", uid: uid, para_assunto: v.assuntos[ai].uid, indice: pi - 1 }, uid); }
+    else if (e.altKey && e.key === "ArrowRight" && pi < v.assuntos[ai].pontos.length - 1) { e.preventDefault(); executar({ op: "mover_ponto", uid: uid, para_assunto: v.assuntos[ai].uid, indice: pi + 1 }, uid); }
+    else if (e.altKey && e.key === "ArrowUp" && ai > 0) { e.preventDefault(); executar({ op: "mover_ponto", uid: uid, para_assunto: v.assuntos[ai - 1].uid, indice: v.assuntos[ai - 1].pontos.length }, uid); }
+    else if (e.altKey && e.key === "ArrowDown" && ai < v.assuntos.length - 1) { e.preventDefault(); executar({ op: "mover_ponto", uid: uid, para_assunto: v.assuntos[ai + 1].uid, indice: 0 }, uid); }
+  });
+
+  // ---------------------------------------------------------------- barra superior
+  $("#btn-desfazer").addEventListener("click", function () { executar({ op: "desfazer" }); });
+  $("#btn-refazer").addEventListener("click", function () { executar({ op: "refazer" }); });
+  $("#btn-novo-assunto").addEventListener("click", novoAssunto);
+  $("#btn-mapa").addEventListener("click", verMapa);
+  $("#btn-comparar").addEventListener("click", comparar);
+  $("#chk-mudancas").addEventListener("change", function (e) {
+    estado.destacar = e.target.checked;
+    try { localStorage.setItem("editor-catalogo-destacar", estado.destacar ? "1" : "0"); } catch (err) { /* sem armazenamento: vale só nesta sessão */ }
+    render();
+  });
+  window.__editor = { estado: estado, recarregar: recarregar };     // para os testes automáticos
+  iniciar();
+})();
+</script>
+</body>
+</html>

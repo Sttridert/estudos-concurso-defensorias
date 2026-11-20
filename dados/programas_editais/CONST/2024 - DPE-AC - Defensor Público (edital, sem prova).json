@@ -1,0 +1,497 @@
+{
+ "pasta": "2024 - DPE-AC - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 3449,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito constitucional."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Teoria geral, conceito, objeto, origem, formação, conteúdo, fontes e métodos de trabalho."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Força normativa da Constituição."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Constitucionalização simbólica: constitucionalização, texto constitucional e realidade constitucional."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Efetividade das normas constitucionais."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Sistema constitucional: a Constituição como um sistema de normas."
+     ]
+    },
+    {
+     "item": "1.6",
+     "frases": [
+      "Valores na Constituição."
+     ]
+    },
+    {
+     "item": "1.7",
+     "frases": [
+      "Preceitos constitucionais fundamentais."
+     ]
+    },
+    {
+     "item": "1.8",
+     "frases": [
+      "Fins e funções do Estado."
+     ]
+    },
+    {
+     "item": "1.9",
+     "frases": [
+      "Neoconstitucionalismo."
+     ]
+    },
+    {
+     "item": "1.10",
+     "frases": [
+      "Jurisdição constitucional."
+     ]
+    },
+    {
+     "item": "1.11",
+     "frases": [
+      "Direito de resistência."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Constituição."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Conceito de constituição."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Classificação das constituições."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Elementos das constituições."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Constitucionalismo: caracterização e desenvolvimento histórico."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "Histórico das constituições brasileiras."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Hermenêutica constitucional."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Aplicabilidade e interpretação das normas constitucionais."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Métodos, conceitos e princípios de interpretação constitucional."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Natureza e classificação das normas constitucionais."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Eficácia das normas constitucionais."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Poder Constituinte."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Perspectivas históricas."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Poder Constituinte Originário."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "Poder Constituinte Derivado."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Nova Constituição e ordem jurídica anterior: recepção, repristinação, desconstitucionalização, recepção material de normas constitucionais."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Princípios fundamentais."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Direitos individuais e coletivos."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Características gerais dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Destinatários dos direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Efetividade dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "8.5",
+     "frases": [
+      "Perspectiva subjetiva dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "8.6",
+     "frases": [
+      "Perspectiva objetiva dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "8.7",
+     "frases": [
+      "Catálogo dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "8.8",
+     "frases": [
+      "Funcionalidade dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "8.9",
+     "frases": [
+      "Limites e restrições aos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Tutelas constitucionais."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Habeas corpus."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Habeas data."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Mandado de segurança individual e coletivo."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Direito de petição e de certidão."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Mandado de injunção."
+     ]
+    },
+    {
+     "item": "9.6",
+     "frases": [
+      "Ação popular e ação civil pública."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Direitos Sociais."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Nacionalidade."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Direitos políticos."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Partidos políticos."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Organização do Estado."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Organização dos Poderes."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Funções essenciais à Justiça."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Controle de constitucionalidade."
+     ]
+    },
+    {
+     "item": "17.1",
+     "frases": [
+      "Supremacia da Constituição."
+     ]
+    },
+    {
+     "item": "17.2",
+     "frases": [
+      "Jurisdição constitucional."
+     ]
+    },
+    {
+     "item": "17.3",
+     "frases": [
+      "Processo constitucional objetivo."
+     ]
+    },
+    {
+     "item": "17.4",
+     "frases": [
+      "Espécies de inconstitucionalidade."
+     ]
+    },
+    {
+     "item": "17.5",
+     "frases": [
+      "Inconstitucionalidade por ação ou omissão."
+     ]
+    },
+    {
+     "item": "17.6",
+     "frases": [
+      "Inconstitucionalidade formal ou material."
+     ]
+    },
+    {
+     "item": "17.7",
+     "frases": [
+      "Inconstitucionalidade originária e derivada."
+     ]
+    },
+    {
+     "item": "17.8",
+     "frases": [
+      "Espécies de controle quanto ao momento e ao modo de realização."
+     ]
+    },
+    {
+     "item": "17.9",
+     "frases": [
+      "Controle preventivo e controle repressivo."
+     ]
+    },
+    {
+     "item": "17.10",
+     "frases": [
+      "Controle difuso de constitucionalidade."
+     ]
+    },
+    {
+     "item": "17.11",
+     "frases": [
+      "Controle concentrado de constitucionalidade."
+     ]
+    },
+    {
+     "item": "17.12",
+     "frases": [
+      "Ação direta de inconstitucionalidade."
+     ]
+    },
+    {
+     "item": "17.13",
+     "frases": [
+      "Ação declaratória de constitucionalidade."
+     ]
+    },
+    {
+     "item": "17.14",
+     "frases": [
+      "Ação de inconstitucionalidade por omissão."
+     ]
+    },
+    {
+     "item": "17.15",
+     "frases": [
+      "Ação interventiva."
+     ]
+    },
+    {
+     "item": "17.16",
+     "frases": [
+      "Arguição de descumprimento de preceito fundamental."
+     ]
+    },
+    {
+     "item": "17.17",
+     "frases": [
+      "Súmulas vinculantes."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Defesa do Estado e das Instituições Democráticas."
+     ]
+    },
+    {
+     "item": "18.1",
+     "frases": [
+      "Estado de defesa e estado de sítio."
+     ]
+    },
+    {
+     "item": "18.2",
+     "frases": [
+      "Forças armadas."
+     ]
+    },
+    {
+     "item": "18.3",
+     "frases": [
+      "Segurança Pública."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Administração pública."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Ordem Social."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Tratados Internacionais."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Preâmbulo e Ato das Disposições Constitucionais Transitórias (ADCT)."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "O acesso à justiça e as Defensorias Públicas.",
+      "18.1 Emendas Constitucionais nº 45/2009 e nº 80/2014 no que se refere à Defensoria Pública.",
+      "19 Constituição do Estado do Acre."
+     ]
+    }
+   ]
+  }
+ ]
+}

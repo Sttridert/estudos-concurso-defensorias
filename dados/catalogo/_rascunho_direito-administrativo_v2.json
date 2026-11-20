@@ -1,0 +1,849 @@
+{
+ "slug": "direito-administrativo",
+ "disciplina": "Direito Administrativo",
+ "prefixo": "AD",
+ "versao_base": "v1",
+ "versao_alvo": "v2",
+ "criado_em": "2026-11-20T16:58:51",
+ "estado": "rascunho",
+ "assuntos": [
+  {
+   "uid": "v1:AD01",
+   "antigo": "AD01",
+   "nome": "Noções gerais e regime jurídico administrativo",
+   "descricao": "Conceito, fontes, regime e princípios.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD01.01",
+     "antigo": "AD01.01",
+     "texto": "Conceito, objeto e fontes do direito administrativo",
+     "descricao": "Inclui a evolução do direito administrativo.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:AD01.02",
+     "antigo": "AD01.02",
+     "texto": "Regime jurídico administrativo",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:08f5234b",
+     "antigo": null,
+     "texto": "Princípios da Administração pública",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD01.03",
+     "antigo": "AD01.03",
+     "texto": "Administração pública: conceito e sentidos",
+     "descricao": "Sentidos e modelos de administração.",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD02",
+   "antigo": "AD02",
+   "nome": "Organização administrativa",
+   "descricao": "Estrutura da Administração direta e indireta.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD02.01",
+     "antigo": "AD02.01",
+     "texto": "Organização administrativa e órgãos públicos",
+     "descricao": "Centralização, descentralização e desconcentração.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:AD02.02",
+     "antigo": "AD02.02",
+     "texto": "Autarquias e fundações públicas",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:84bfe6b9",
+     "antigo": null,
+     "texto": "Empresas estatais",
+     "descricao": "Empresas públicas e sociedades de economia mista.",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:a0b4ee6c",
+     "antigo": null,
+     "texto": "Agências reguladoras e agências executivas",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD02.03",
+     "antigo": "AD02.03",
+     "texto": "Terceiro setor e entidades paraestatais",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD03",
+   "antigo": "AD03",
+   "nome": "Poderes e deveres da Administração",
+   "descricao": "Poderes administrativos e deveres dos agentes.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD03.01",
+     "antigo": "AD03.01",
+     "texto": "Poder hierárquico e poder disciplinar",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:bc181d6f",
+     "antigo": null,
+     "texto": "Poder regulamentar",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:9eb829a9",
+     "antigo": null,
+     "texto": "Uso e abuso do poder",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD03.02",
+     "antigo": "AD03.02",
+     "texto": "Poder de polícia",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:AD03.03",
+     "antigo": "AD03.03",
+     "texto": "Deveres dos administradores públicos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD04",
+   "antigo": "AD04",
+   "nome": "Atos administrativos",
+   "descricao": "Teoria do ato administrativo.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD04.01",
+     "antigo": "AD04.01",
+     "texto": "Conceito, elementos e atributos do ato administrativo",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:0f27d23c",
+     "antigo": null,
+     "texto": "Classificação dos atos administrativos",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD04.02",
+     "antigo": "AD04.02",
+     "texto": "Vinculação e discricionariedade",
+     "descricao": "Inclui o controle do mérito.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:AD04.03",
+     "antigo": "AD04.03",
+     "texto": "Extinção dos atos: revogação e anulação",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:c916b209",
+     "antigo": null,
+     "texto": "Convalidação e nulidades dos atos administrativos",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD05",
+   "antigo": "AD05",
+   "nome": "Processo administrativo",
+   "descricao": "Processo e procedimento.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD05.01",
+     "antigo": "AD05.01",
+     "texto": "Processo e procedimento administrativo",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:AD05.02",
+     "antigo": "AD05.02",
+     "texto": "Processo administrativo disciplinar e sindicância",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD06",
+   "antigo": "AD06",
+   "nome": "Licitações",
+   "descricao": "Regras de licitação e contratação direta (confirmar a lei vigente).",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD06.01",
+     "antigo": "AD06.01",
+     "texto": "Licitação: conceito e princípios",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:2287d112",
+     "antigo": null,
+     "texto": "Modalidades de licitação",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:271b56a5",
+     "antigo": null,
+     "texto": "Procedimento da licitação",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:2f58b256",
+     "antigo": null,
+     "texto": "Anulação, revogação e sanções na licitação",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD06.02",
+     "antigo": "AD06.02",
+     "texto": "Contratação direta: dispensa e inexigibilidade",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD07",
+   "antigo": "AD07",
+   "nome": "Contratos e ajustes administrativos",
+   "descricao": "Contratos, convênios e meios consensuais.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD07.01",
+     "antigo": "AD07.01",
+     "texto": "Contrato administrativo: conceito e características",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:fa233fed",
+     "antigo": null,
+     "texto": "Cláusulas exorbitantes",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD07.02",
+     "antigo": "AD07.02",
+     "texto": "Execução e alteração dos contratos administrativos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:56759a2d",
+     "antigo": null,
+     "texto": "Equilíbrio econômico-financeiro do contrato",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:248f2b02",
+     "antigo": null,
+     "texto": "Rescisão e extinção dos contratos administrativos",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD07.03",
+     "antigo": "AD07.03",
+     "texto": "Convênios, consórcios e ajustes administrativos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:8d8030a8",
+     "antigo": null,
+     "texto": "Meios consensuais na Administração: arbitragem e mediação",
+     "descricao": "[Tema compartilhado com Direito Processual Civil]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD08",
+   "antigo": "AD08",
+   "nome": "Serviços públicos e delegação",
+   "descricao": "Prestação e delegação de serviços públicos.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD08.01",
+     "antigo": "AD08.01",
+     "texto": "Serviços públicos: conceito, princípios e classificação",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:3dc825d4",
+     "antigo": null,
+     "texto": "Direitos dos usuários de serviços públicos",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD08.02",
+     "antigo": "AD08.02",
+     "texto": "Concessão e permissão de serviços públicos",
+     "descricao": "Inclui a autorização.",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:4e1d1980",
+     "antigo": null,
+     "texto": "Parcerias público-privadas",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD09",
+   "antigo": "AD09",
+   "nome": "Bens públicos",
+   "descricao": "Classificação, regime e gestão.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD09.01",
+     "antigo": "AD09.01",
+     "texto": "Bens públicos: conceito, classificação e regime jurídico",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:8249f715",
+     "antigo": null,
+     "texto": "Afetação e desafetação",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD09.02",
+     "antigo": "AD09.02",
+     "texto": "Uso e gestão de bens públicos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:9e511761",
+     "antigo": null,
+     "texto": "Alienação de bens públicos",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD10",
+   "antigo": "AD10",
+   "nome": "Agentes públicos",
+   "descricao": "Conceito, regime e responsabilidade.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD10.01",
+     "antigo": "AD10.01",
+     "texto": "Agentes públicos: conceito e classificação",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:e70715b9",
+     "antigo": null,
+     "texto": "Regime jurídico dos servidores públicos",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:23d88247",
+     "antigo": null,
+     "texto": "Responsabilidade dos agentes públicos",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD10.02",
+     "antigo": "AD10.02",
+     "texto": "Regime previdenciário dos servidores públicos",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD11",
+   "antigo": "AD11",
+   "nome": "Responsabilidade civil do Estado",
+   "descricao": "Teorias, reparação e excludentes.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD11.01",
+     "antigo": "AD11.01",
+     "texto": "Teorias e responsabilidade objetiva do Estado",
+     "descricao": "[Tema compartilhado com Direito Constitucional e Direito Civil]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:be2db002",
+     "antigo": null,
+     "texto": "Excludentes de responsabilidade do Estado",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD11.02",
+     "antigo": "AD11.02",
+     "texto": "Reparação do dano e direito de regresso",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD12",
+   "antigo": "AD12",
+   "nome": "Intervenção do Estado na propriedade",
+   "descricao": "Formas de intervenção.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD12.01",
+     "antigo": "AD12.01",
+     "texto": "Desapropriação",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:AD12.02",
+     "antigo": "AD12.02",
+     "texto": "Servidão administrativa",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:716f4b7a",
+     "antigo": null,
+     "texto": "Requisição e ocupação temporária",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:657f8073",
+     "antigo": null,
+     "texto": "Limitações administrativas",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "n:a0469b70",
+     "antigo": null,
+     "texto": "Tombamento",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD13",
+   "antigo": "AD13",
+   "nome": "Atuação do Estado no domínio econômico",
+   "descricao": "Intervenção e regulação da economia.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD13.01",
+     "antigo": "AD13.01",
+     "texto": "Atuação do Estado no domínio econômico",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:20e7f0b3",
+     "antigo": null,
+     "texto": "Estado regulador e regulação",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD14",
+   "antigo": "AD14",
+   "nome": "Controle da Administração",
+   "descricao": "Controles administrativo, legislativo e judicial.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD14.01",
+     "antigo": "AD14.01",
+     "texto": "Controle administrativo",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:162f9ac8",
+     "antigo": null,
+     "texto": "Controle legislativo e Tribunal de Contas",
+     "descricao": "[Tema compartilhado com Direito Constitucional]",
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    },
+    {
+     "uid": "v1:AD14.02",
+     "antigo": "AD14.02",
+     "texto": "Controle judicial e súmulas vinculantes",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  },
+  {
+   "uid": "n:fdbb81c5",
+   "antigo": null,
+   "nome": "Probidade e transparência",
+   "descricao": "Improbidade, acesso à informação e integridade.",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD14.03",
+     "antigo": "AD14.03",
+     "texto": "Improbidade administrativa",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:AD14.04",
+     "antigo": "AD14.04",
+     "texto": "Transparência e acesso à informação",
+     "descricao": null,
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "n:15ce19ed",
+     "antigo": null,
+     "texto": "Anticorrupção e integridade",
+     "descricao": null,
+     "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)"
+    }
+   ]
+  },
+  {
+   "uid": "v1:AD15",
+   "antigo": "AD15",
+   "nome": "Administração e finanças da Defensoria Pública",
+   "descricao": "Matérias administrativas próprias da instituição (confirmar o encaixe nesta disciplina).",
+   "pre_requisito": null,
+   "pontos": [
+    {
+     "uid": "v1:AD15.01",
+     "antigo": "AD15.01",
+     "texto": "Atribuições administrativas e atendimento ao público na Defensoria",
+     "descricao": "[Tema compartilhado com Princípios e Atribuições Institucionais da Defensoria]",
+     "origem": "edital geral v1 (14/11/2026)"
+    },
+    {
+     "uid": "v1:AD15.02",
+     "antigo": "AD15.02",
+     "texto": "Orçamento, responsabilidade fiscal e atividade financeira",
+     "descricao": "[Tema compartilhado com Princípios e Atribuições Institucionais da Defensoria]",
+     "origem": "edital geral v1 (14/11/2026)"
+    }
+   ]
+  }
+ ],
+ "lixeira": [],
+ "lixeira_assuntos": [],
+ "base_v1": {
+  "assuntos": {
+   "v1:AD01": {
+    "codigo": "AD01",
+    "nome": "Noções gerais e regime jurídico administrativo"
+   },
+   "v1:AD02": {
+    "codigo": "AD02",
+    "nome": "Organização administrativa"
+   },
+   "v1:AD03": {
+    "codigo": "AD03",
+    "nome": "Poderes e deveres da Administração"
+   },
+   "v1:AD04": {
+    "codigo": "AD04",
+    "nome": "Atos administrativos"
+   },
+   "v1:AD05": {
+    "codigo": "AD05",
+    "nome": "Processo administrativo"
+   },
+   "v1:AD06": {
+    "codigo": "AD06",
+    "nome": "Licitações"
+   },
+   "v1:AD07": {
+    "codigo": "AD07",
+    "nome": "Contratos e ajustes administrativos"
+   },
+   "v1:AD08": {
+    "codigo": "AD08",
+    "nome": "Serviços públicos e delegação"
+   },
+   "v1:AD09": {
+    "codigo": "AD09",
+    "nome": "Bens públicos"
+   },
+   "v1:AD10": {
+    "codigo": "AD10",
+    "nome": "Agentes públicos"
+   },
+   "v1:AD11": {
+    "codigo": "AD11",
+    "nome": "Responsabilidade civil do Estado"
+   },
+   "v1:AD12": {
+    "codigo": "AD12",
+    "nome": "Intervenção do Estado na propriedade"
+   },
+   "v1:AD13": {
+    "codigo": "AD13",
+    "nome": "Atuação do Estado no domínio econômico"
+   },
+   "v1:AD14": {
+    "codigo": "AD14",
+    "nome": "Controle da Administração, improbidade e transparência"
+   },
+   "v1:AD15": {
+    "codigo": "AD15",
+    "nome": "Gestão e finanças da Defensoria Pública"
+   }
+  },
+  "pontos": {
+   "v1:AD01.01": {
+    "codigo": "AD01.01",
+    "texto": "Conceito, objeto, fontes e evolução do direito administrativo",
+    "assunto_uid": "v1:AD01"
+   },
+   "v1:AD01.02": {
+    "codigo": "AD01.02",
+    "texto": "Regime jurídico administrativo e princípios da Administração",
+    "assunto_uid": "v1:AD01"
+   },
+   "v1:AD01.03": {
+    "codigo": "AD01.03",
+    "texto": "Administração pública: conceito, sentidos e modelos",
+    "assunto_uid": "v1:AD01"
+   },
+   "v1:AD02.01": {
+    "codigo": "AD02.01",
+    "texto": "Organização administrativa: centralização, descentralização e órgãos públicos",
+    "assunto_uid": "v1:AD02"
+   },
+   "v1:AD02.02": {
+    "codigo": "AD02.02",
+    "texto": "Administração indireta: autarquias, fundações, empresas estatais e agências",
+    "assunto_uid": "v1:AD02"
+   },
+   "v1:AD02.03": {
+    "codigo": "AD02.03",
+    "texto": "Terceiro setor e entidades paraestatais",
+    "assunto_uid": "v1:AD02"
+   },
+   "v1:AD03.01": {
+    "codigo": "AD03.01",
+    "texto": "Poderes administrativos: hierárquico, disciplinar e regulamentar; uso e abuso do poder",
+    "assunto_uid": "v1:AD03"
+   },
+   "v1:AD03.02": {
+    "codigo": "AD03.02",
+    "texto": "Poder de polícia",
+    "assunto_uid": "v1:AD03"
+   },
+   "v1:AD03.03": {
+    "codigo": "AD03.03",
+    "texto": "Deveres dos administradores públicos",
+    "assunto_uid": "v1:AD03"
+   },
+   "v1:AD04.01": {
+    "codigo": "AD04.01",
+    "texto": "Ato administrativo: conceito, elementos, atributos e classificação",
+    "assunto_uid": "v1:AD04"
+   },
+   "v1:AD04.02": {
+    "codigo": "AD04.02",
+    "texto": "Vinculação, discricionariedade e controle do mérito",
+    "assunto_uid": "v1:AD04"
+   },
+   "v1:AD04.03": {
+    "codigo": "AD04.03",
+    "texto": "Extinção dos atos: revogação, anulação, convalidação e nulidades",
+    "assunto_uid": "v1:AD04"
+   },
+   "v1:AD05.01": {
+    "codigo": "AD05.01",
+    "texto": "Processo e procedimento administrativo",
+    "assunto_uid": "v1:AD05"
+   },
+   "v1:AD05.02": {
+    "codigo": "AD05.02",
+    "texto": "Processo administrativo disciplinar e sindicância",
+    "assunto_uid": "v1:AD05"
+   },
+   "v1:AD06.01": {
+    "codigo": "AD06.01",
+    "texto": "Licitação: conceito, princípios, modalidades, procedimento, anulação e sanções",
+    "assunto_uid": "v1:AD06"
+   },
+   "v1:AD06.02": {
+    "codigo": "AD06.02",
+    "texto": "Contratação direta: dispensa e inexigibilidade",
+    "assunto_uid": "v1:AD06"
+   },
+   "v1:AD07.01": {
+    "codigo": "AD07.01",
+    "texto": "Contrato administrativo: conceito, características e cláusulas exorbitantes",
+    "assunto_uid": "v1:AD07"
+   },
+   "v1:AD07.02": {
+    "codigo": "AD07.02",
+    "texto": "Execução, alteração, equilíbrio econômico-financeiro, rescisão e extinção",
+    "assunto_uid": "v1:AD07"
+   },
+   "v1:AD07.03": {
+    "codigo": "AD07.03",
+    "texto": "Convênios, consórcios, ajustes e meios consensuais (arbitragem, mediação)",
+    "assunto_uid": "v1:AD07"
+   },
+   "v1:AD08.01": {
+    "codigo": "AD08.01",
+    "texto": "Serviços públicos: conceito, princípios, classificação e direitos dos usuários",
+    "assunto_uid": "v1:AD08"
+   },
+   "v1:AD08.02": {
+    "codigo": "AD08.02",
+    "texto": "Concessão, permissão, autorização e parcerias público-privadas",
+    "assunto_uid": "v1:AD08"
+   },
+   "v1:AD09.01": {
+    "codigo": "AD09.01",
+    "texto": "Bens públicos: conceito, classificação, afetação e regime jurídico",
+    "assunto_uid": "v1:AD09"
+   },
+   "v1:AD09.02": {
+    "codigo": "AD09.02",
+    "texto": "Uso, gestão e alienação de bens públicos",
+    "assunto_uid": "v1:AD09"
+   },
+   "v1:AD10.01": {
+    "codigo": "AD10.01",
+    "texto": "Agentes públicos: conceito, classificação, regime jurídico e responsabilidade",
+    "assunto_uid": "v1:AD10"
+   },
+   "v1:AD10.02": {
+    "codigo": "AD10.02",
+    "texto": "Regime previdenciário dos servidores públicos",
+    "assunto_uid": "v1:AD10"
+   },
+   "v1:AD11.01": {
+    "codigo": "AD11.01",
+    "texto": "Responsabilidade civil do Estado: teorias e responsabilidade objetiva",
+    "assunto_uid": "v1:AD11"
+   },
+   "v1:AD11.02": {
+    "codigo": "AD11.02",
+    "texto": "Reparação do dano, direito de regresso e excludentes",
+    "assunto_uid": "v1:AD11"
+   },
+   "v1:AD12.01": {
+    "codigo": "AD12.01",
+    "texto": "Desapropriação",
+    "assunto_uid": "v1:AD12"
+   },
+   "v1:AD12.02": {
+    "codigo": "AD12.02",
+    "texto": "Servidão, requisição, ocupação temporária, limitações administrativas e tombamento",
+    "assunto_uid": "v1:AD12"
+   },
+   "v1:AD13.01": {
+    "codigo": "AD13.01",
+    "texto": "Atuação do Estado no domínio econômico e Estado regulador",
+    "assunto_uid": "v1:AD13"
+   },
+   "v1:AD14.01": {
+    "codigo": "AD14.01",
+    "texto": "Controle da Administração: administrativo, legislativo e Tribunal de Contas",
+    "assunto_uid": "v1:AD14"
+   },
+   "v1:AD14.02": {
+    "codigo": "AD14.02",
+    "texto": "Controle judicial e súmulas vinculantes",
+    "assunto_uid": "v1:AD14"
+   },
+   "v1:AD14.03": {
+    "codigo": "AD14.03",
+    "texto": "Improbidade administrativa",
+    "assunto_uid": "v1:AD14"
+   },
+   "v1:AD14.04": {
+    "codigo": "AD14.04",
+    "texto": "Transparência, acesso à informação, anticorrupção e integridade",
+    "assunto_uid": "v1:AD14"
+   },
+   "v1:AD15.01": {
+    "codigo": "AD15.01",
+    "texto": "Atribuições administrativas e atendimento ao público na Defensoria",
+    "assunto_uid": "v1:AD15"
+   },
+   "v1:AD15.02": {
+    "codigo": "AD15.02",
+    "texto": "Orçamento, responsabilidade fiscal e atividade financeira",
+    "assunto_uid": "v1:AD15"
+   }
+  }
+ },
+ "historico": {
+  "passado": [],
+  "futuro": []
+ },
+ "atualizado_em": "2026-11-20T16:58:51"
+}

@@ -1,0 +1,216 @@
+{
+ "disciplina": "Direito da Criança e do Adolescente",
+ "sem_acento": true,
+ "herdar_do_pai": true,
+ "temas": [
+  {
+   "codigo": "CA01",
+   "nome": "Fundamentos, paradigmas e normativa internacional"
+  },
+  {
+   "codigo": "CA02",
+   "nome": "Direitos fundamentais da criança e do adolescente"
+  },
+  {
+   "codigo": "CA03",
+   "nome": "Convivência familiar e comunitária"
+  },
+  {
+   "codigo": "CA04",
+   "nome": "Política de atendimento e Sistema de Garantia de Direitos"
+  },
+  {
+   "codigo": "CA05",
+   "nome": "Medidas de proteção e enfrentamento da violência"
+  },
+  {
+   "codigo": "CA06",
+   "nome": "Ato infracional e medidas socioeducativas"
+  },
+  {
+   "codigo": "CA07",
+   "nome": "Justiça da Infância e da Juventude, acesso à justiça e tutela coletiva"
+  },
+  {
+   "codigo": "CA08",
+   "nome": "Crimes e infrações administrativas"
+  }
+ ],
+ "topicos": [
+  {
+   "codigo": "CA01.01",
+   "tema": "CA01",
+   "nome": "Proteção integral, paradigmas e história do direito da criança e do adolescente",
+   "regex": "paradigma|situacao irregular|protecao integral|historia|historic|evolucao|antecedentes|concepcao|principios (gerais|relativos|aplicados|norteadores do direito)|principios do direito da crianca|melhor interesse|prioridade absoluta|doutrina|conceito de crianca|especificidades decorrentes da condicao etaria|constitucionalizacao|competencia legislativa|conteudo integral do estatuto|estatuto da crianca e do adolescente \\(lei|^estatuto da crianca|parte geral, parte especial|disposicoes preliminares|abrangencia, concepcao|constituicao federal|insercao constitucional|art\\.? ?227|^direitos? da crianca e do adolescente\\.?$|^crianca e adolescente\\.?$|crianca(s)?,? (e )?adolescente(s)?,? (e )?(do )?jovem|estatuto da juventude|orfandade|migrantes"
+  },
+  {
+   "codigo": "CA01.02",
+   "tema": "CA01",
+   "nome": "Normativa internacional: Convenção sobre os Direitos da Criança, declarações e OIT",
+   "regex": "normativa internacional|convencao (internacional )?sobre (os )?direitos? da crianca|convencao sobre direito da crianca|declaracao universal (do|dos) direito|declaracao mundial|jomtien|comite sobre os direitos da crianca|unicef|convencao (oit|\\d)|convencao 182|convencao.{0,30}oit|oit\\)? ?138|sistema interamericano|protocolos facultativos|declaracao de genebra|tratados internacionais.{0,40}crianca|direitos humanos de criancas|sistema universal|corte interamericana|opiniao consultiva"
+  },
+  {
+   "codigo": "CA01.03",
+   "tema": "CA01",
+   "nome": "Regras e diretrizes da ONU de justiça juvenil; modelos de justiça juvenil",
+   "regex": "regras minimas|regras de beijing|regras de havana|diretrizes de riad|diretrizes das nacoes unidas|delinquencia juvenil|modelos de justica juvenil|direito penal juvenil|regras de toquio|justica juvenil|jovens privados de liberdade"
+  },
+  {
+   "codigo": "CA01.04",
+   "tema": "CA01",
+   "nome": "Convenções de Haia: adoção internacional e sequestro internacional de crianças",
+   "regex": "sequestro internacional|cooperacao em materia de adocao|convencao relativa a protecao das criancas|convencao de haia|subtracao internacional|adocao internacional|convencao.{0,40}aspectos civis"
+  },
+  {
+   "codigo": "CA02.01",
+   "tema": "CA02",
+   "nome": "Direito à vida e à saúde: primeira infância, nascituro e saúde mental",
+   "regex": "direito a vida|direito a saude|saude da crianca|saude de adolescentes|nascituro|primeira infancia|13\\.257|imunizacao|parto|pre-natal|aleitamento|gestante|transtorno mental|saude mental|rede de atencao psicossocial|caps|alcool e drogas|dependencia quimica|atencao integral a saude|pnaisc|sus\\b|interrupcao da gravidez|direitos sexuais e reprodutivos|alimentacao adequada|desaparecidas|tutela judicial do direito a saude|^saude|saude publica|violencia obstetrica|dependencia de alcool|usuarios de alcool|politica nacional de atencao integral"
+  },
+  {
+   "codigo": "CA02.02",
+   "tema": "CA02",
+   "nome": "Direito à liberdade, ao respeito e à dignidade: nome, imagem, opinião e participação",
+   "regex": "liberdade, respeito|liberdade e dignidade|respeito e a dignidade|direito (de crianca[s]? e adolescente[s]? )?a imagem|opiniao e participacao|direito de oitiva|oitiva e participacao|reuniao, associa|direito ao nome|nome social|nome etico|retificacao de nome|adolescentes trans|criancas e adolescentes trans|identidade de genero|bullying|13\\.185|castigo fisico|lei menino bernardo|13\\.010|14\\.344|henry borel|participacao de criancas|imagem, opiniao|protecao de dados pessoais|exposicao digital|sharenting|estatuto digital|15\\.211|ambiente digital|dignidade"
+  },
+  {
+   "codigo": "CA02.03",
+   "tema": "CA02",
+   "nome": "Direito à educação, cultura, esporte e lazer; educação inclusiva",
+   "regex": "educacao|ldb|9\\.394|plano nacional de educacao|pne\\b|13\\.005|ensino|escola|evasao|acesso a escola|cultura|esporte|lazer|10\\.639|11\\.645|atendimento educacional especializado|educacao inclusiva|financiamento da educacao|ataques violentos"
+  },
+  {
+   "codigo": "CA02.04",
+   "tema": "CA02",
+   "nome": "Profissionalização e proteção no trabalho; trabalho infantil",
+   "regex": "trabalho infantil|profissionalizacao|protecao (no|do) trabalho|trabalho (do )?adolescente|aprendiz|piores formas|6\\.481|trabalho educativo|trabalho domestico|trabalho artistico|trabalho urbano e rural"
+  },
+  {
+   "codigo": "CA02.05",
+   "tema": "CA02",
+   "nome": "Prevenção, informação, diversões, publicidade infantil e produtos e serviços",
+   "regex": "publicidade infantil|publicidade dirigida|^prevencao|principio da prevencao|prevencao especial|informacao, cultura, lazer|diversoes e espetaculos|produtos e servicos|autorizacao para viajar|viagem|classificacao indicativa|midia|algoritmos|plataformas digitais|jogos eletronicos"
+  },
+  {
+   "codigo": "CA03.01",
+   "tema": "CA03",
+   "nome": "Direito à convivência familiar e comunitária; família natural e extensa; reconhecimento de filiação",
+   "regex": "convivencia familiar|familia natural|familia extensa|reconhecimento (de|do estado de) filiacao|filiacao|socioafetiv|multiparental|parentalidade|direito de visita|direito a visita|convivencia comunitaria|reconhecimento de paternidade|registro civil|provimento.{0,10}(63|16|46|118)|provimento cnj|paternidade responsavel"
+  },
+  {
+   "codigo": "CA03.02",
+   "tema": "CA03",
+   "nome": "Poder familiar: exercício, suspensão, perda e destituição",
+   "regex": "poder familiar|perda e suspensao|destituicao do poder|deveres dos pais|autoridade parental|entrega voluntaria|perda, destituicao ou suspensao|medidas pertinentes aos pais"
+  },
+  {
+   "codigo": "CA03.03",
+   "tema": "CA03",
+   "nome": "Acolhimento institucional e familiar, reavaliação, apadrinhamento e audiência concentrada",
+   "regex": "acolhimento|reavaliacao|audiencia concentrada|apadrinhamento|abrigo|servicos de acolhimento|orientacoes tecnicas|institucionalizacao|familia acolhedora|plano individual de atendimento do acolhido|recomendacao.{0,15}(cnj|87)|provimento.{0,20}32|32/13|resolucao.{0,6}(113|117)"
+  },
+  {
+   "codigo": "CA03.04",
+   "tema": "CA03",
+   "nome": "Família substituta: guarda, tutela e adoção",
+   "regex": "familia substituta|adocao|guarda|^tutela|tutela\\.?$|destituicao da tutela|colocacao em familia|intuitu personae|cadastro (nacional|de adocao)|habilitacao|adotantes|estagio de convivencia|adocao tardia|adocao por casal|cadastro de pessoas interessadas"
+  },
+  {
+   "codigo": "CA03.05",
+   "tema": "CA03",
+   "nome": "Capacidade civil, emancipação, casamento e responsabilidade civil de crianças e adolescentes",
+   "regex": "incapacidade civil|capacidade civil|emancipacao|casamento de adolescentes|responsabilidade civil|responsabilidade dos pais|^orfandade|ato ilicito praticado por crianca|incapacidade|alimentos|guarda de filhos"
+  },
+  {
+   "codigo": "CA04.01",
+   "tema": "CA04",
+   "nome": "Política de atendimento, linhas de ação, municipalização e Sistema de Garantia de Direitos",
+   "regex": "politica de atendimento|linhas de acao|municipalizacao|descentralizacao|sistema de garantia|sgd|eixos fundamentais|politica e organizacao do atendimento|conselho(s)? (de|dos) direitos|conselhos e fundos|fundo (dos|da)|fundos dos direitos|conanda|participacao da cidadania|servicos de relevancia publica|plano nacional pela primeira infancia|plano decenal|financiamento|conselho estadual de defesa|rede de protecao|intersetorial|rede de atendimento"
+  },
+  {
+   "codigo": "CA04.02",
+   "tema": "CA04",
+   "nome": "Conselho Tutelar",
+   "regex": "conselho tutelar|conselhos tutelares|conselheiros|escolha dos conselheiros|processo de escolha|parametros para a criacao e funcionamento|impedimentos|atribuicoes do conselho"
+  },
+  {
+   "codigo": "CA04.03",
+   "tema": "CA04",
+   "nome": "Entidades e programas de atendimento: registro, fiscalização e apuração de irregularidades",
+   "regex": "entidades? (e programas )?de atendimento|entidades e programas|programas? de atendimento|fiscalizacao das entidades|apuracao de irregularidade|deveres dos dirigentes|gestor do programa|registro das entidades|objetivos, programa|medidas aplicaveis as entidades|responsabilidade dos dirigentes"
+  },
+  {
+   "codigo": "CA04.04",
+   "tema": "CA04",
+   "nome": "Assistência social: LOAS, PNAS, SUAS e Tipificação dos Serviços Socioassistenciais",
+   "regex": "assistencia social|loas|8\\.742|politica nacional de assistencia|tipificacao nacional|servicos socioassistenciais|suas\\b|bolsa familia|beneficio de prestacao continuada|bpc|cras|creas|protecao social|resolucao.{0,20}(109|145|cnas)|conselho nacional de assistencia|25/11/2009"
+  },
+  {
+   "codigo": "CA05.01",
+   "tema": "CA05",
+   "nome": "Medidas de proteção e medidas específicas de proteção",
+   "regex": "medidas? (especificas )?de protecao|medidas protetivas? (da|do|de|a) (crianca|estatuto)|aplicacao e execucao de medidas protetivas|medidas especificas|apuracao, aplicacao e execucao de medidas protetivas|criancas e adolescentes ameacados de morte|programa de protecao|ppcaam|cpdc|situacao de rua|criancas em situacao"
+  },
+  {
+   "codigo": "CA05.02",
+   "tema": "CA05",
+   "nome": "Violência, abuso e exploração sexual; escuta especializada e depoimento especial",
+   "regex": "violencia|abuso|exploracao sexual|exploracao|escuta especializada|depoimento especial|13\\.431|vitima ou testemunha|sistema de garantia de direitos da crianca e do adolescente vitima|trafico de|tortura|maus-tratos|maus tratos|negligencia|violacao de direitos|estupro|prostituicao|pornografia|violencia domestica e familiar contra a crianca|violencia institucional"
+  },
+  {
+   "codigo": "CA06.01",
+   "tema": "CA06",
+   "nome": "Ato infracional: conceito, inimputabilidade, natureza da medida e justiça restaurativa",
+   "regex": "ato infracional|inimputabilidade|imputabilidade|natureza juridica da medida|justica restaurativa|responsabilizacao|responsabilidade penal juvenil|conceito e tempo|pratica do ato|menoridade|maioridade penal|direito penal do menor|tempo do ato|criancas? que praticam ato"
+  },
+  {
+   "codigo": "CA06.02",
+   "tema": "CA06",
+   "nome": "Apuração do ato infracional: garantias processuais, remissão, oitiva informal e internação provisória",
+   "regex": "apuracao de ato infracional|apuracao do ato|garantias? processuais|devido processo legal ao adolescente|remissao|oitiva informal|internacao provisoria|defesa tecnica|direito de defesa|garantia do direito de defesa|videoconferencia|apreensao|flagrante|representacao|audiencia de apresentacao|prescricao|procedimento (de|para) apuracao|garantias materiais|papel da defesa|direitos individuais|processual penal juvenil|devido processo"
+  },
+  {
+   "codigo": "CA06.03",
+   "tema": "CA06",
+   "nome": "Medidas socioeducativas: espécies, aplicação, duração e requisitos",
+   "regex": "medidas? socioeducativ|advertencia|obrigacao de reparar|prestacao de servicos a comunidade|liberdade assistida|semiliberdade|internacao(?! provisoria)|regime de semiliberdade|requisitos objetivos e subjetivos|tipos, aplicacao|excepcionalidade|brevidade|prazo maximo|medida de internacao|aplicacao de medida|aplicacao das medidas|natureza, tipos"
+  },
+  {
+   "codigo": "CA06.04",
+   "tema": "CA06",
+   "nome": "SINASE e execução das medidas socioeducativas: PIA, regressão, extinção e saúde",
+   "regex": "sinase|12\\.594|execucao (de|das) medidas? socioeducativ|execucao antecipada|plano individual de atendimento|\\bpia\\b|regressao|substituicao|extincao das medidas|unificacao|detracao|^execucao\\.?$|competencia para executar|central de vagas|plano nacional de atendimento socioeducativo|principios (que regem|norteadores) (da )?execucao|saude na execucao|resolucao.{0,6}119|resolucao.{0,6}165|resolucao.{0,6}367|resolucao.{0,10}cnj.{0,4}(367|165)|socioeducativa\\b|politica nacional de atencao integral a saude de adolescentes em conflito|unidades? de internacao|atendimento socioeducativo|questao socioeducativa|visita intima"
+  },
+  {
+   "codigo": "CA07.01",
+   "tema": "CA07",
+   "nome": "Justiça da Infância e da Juventude: competência, serviços auxiliares, Ministério Público e advogado",
+   "regex": "justica da infancia|vara da infancia|competencia|servicos auxiliares|ministerio publico|do advogado|^advogado|o advogado|juiz da infancia|equipe interprofissional|comissarios|inspecao|alvara|acesso a justica|assistencia juridica|curadoria especial|curador especial"
+  },
+  {
+   "codigo": "CA07.02",
+   "tema": "CA07",
+   "nome": "Procedimentos e recursos do Estatuto; Defensoria Pública e tutela coletiva",
+   "regex": "^dos recursos|^recursos|recursos e outros meios|^procedimentos|^dos procedimentos|aspectos processuais|defensoria publica|protecao judicial|interesses individuais, difusos e coletivos|direitos individuais, difusos e coletivos|tutela dos interesses|acao civil publica|termos de ajustamento|tutela coletiva|tutela s[oó]cio|litigancia|mandado de seguranca|habeas corpus|interesses difusos|interesses coletivos|direitos difusos"
+  },
+  {
+   "codigo": "CA07.03",
+   "tema": "CA07",
+   "nome": "Normas esparsas, normativas do CNJ, súmulas e jurisprudência aplicáveis",
+   "regex": "cnj|conselho nacional de justica|jurisprudencia|sumulas|\bstj\b|\bstf\b|adpf|decreto 9\\.603|resolucao.{0,8}\\d|recomendacao.{0,12}\\d|provimentos? .{0,12}\\d|tribunais superiores"
+  },
+  {
+   "codigo": "CA08.01",
+   "tema": "CA08",
+   "nome": "Crimes e infrações administrativas previstos no Estatuto",
+   "regex": "crimes?\b|disposicoes penais|tipos penais|infracoes? administrativas?|apuracao de infracao|multa"
+  }
+ ],
+ "outra_disciplina": {
+  "Direitos Humanos": "idoso|10\\.741|pessoas? (com|portadora de) deficiencia|13\\.146|7\\.853|maria da penha|11\\.340|contra (a|as) mulher|mulheres|^mulher|^genero|violencia de genero|igualdade racial|racismo|populacoes? tradicionais|lgbt|pessoa idosa|politica nacional do idoso",
+  "Direito Processual Civil": "codigo de processo civil|13\\.105",
+  "Constituição estadual e leis locais (conteúdo local)": "constituicao do estado|lei estadual|legislacao estadual|lei municipal|conselho estadual",
+  "Texto do edital (não é conteúdo)": "assistente tecnico|cargo|especialidade|conhecimentos especificos"
+ },
+ "congelada": "v1 em 14/11/2026"
+}

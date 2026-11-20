@@ -1,0 +1,79 @@
+{
+ "pasta": "2025 - DPE-AM - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "EXEC",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "EXECUCAO PENAL",
+   "caracteres": 1253,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Execução penal: evolução histórica, crise e alternativas.",
+      "Natureza da execução penal.",
+      "Lei de Execução Penal (Lei nº 7.210/84).",
+      "Objetivos da execução penal.",
+      "Execução penal e economia política da pena.",
+      "Execução penal, encarceramento em massa e dano social."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Direitos do sistema progressivo.",
+      "Progressão de regime.",
+      "Livramento condicional.",
+      "Remição.",
+      "Autorizações de saída.",
+      "Indulto e comutação.",
+      "Disciplina na execução penal."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Execução penal e Direitos Humanos.",
+      "Tutela individual e coletiva de direitos na execução penal.",
+      "Direitos sociais e execução penal.",
+      "Execução penal e realidade concreta: as penas ilícitas.",
+      "Superlotação prisional e consequências jurídicas.",
+      "A indeterminação da pena na execução penal.",
+      "Regras mínimas para o tratamento de pessoas presas: plano nacional e internacional de proteção.",
+      "As Regras de Mandela.",
+      "As Regras de Bangkok.",
+      "Monitoramento e inspeção de presídios."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Garantismo e execução penal.",
+      "Inquisição e sistema acusatório da execução penal.",
+      "Jurisdicionalização da execução penal."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Execução penal e saúde mental.",
+      "Medidas de segurança.",
+      "Lei nº 10.216/01.",
+      "Reforma psiquiátrica.",
+      "Lei nº 13.146/15."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Execução da pena de multa.",
+      "Execução de penas restritivas de direitos.",
+      "Execução penal e direitos dos familiares de pessoas presas."
+     ]
+    }
+   ]
+  }
+ ]
+}

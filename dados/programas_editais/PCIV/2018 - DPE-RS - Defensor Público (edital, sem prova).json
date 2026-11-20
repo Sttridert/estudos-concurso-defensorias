@@ -1,0 +1,398 @@
+{
+ "pasta": "2018 - DPE-RS - Defensor Público (edital, sem prova)",
+ "banca": "FCC",
+ "disciplina": "PCIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 7374,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Constituição e Processo.",
+      "Princípios Constitucionais no Processo Civil.",
+      "Conteúdo jurídico do direito de acesso à tutela jurisdicional do Estado.",
+      "Conteúdo jurídico do direito de defesa.",
+      "Direitos fundamentais e processo.",
+      "A busca pela efetividade do processo e as reformas processuais.",
+      "O provimento jurisdicional como instrumento de transformação social."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Normas de Direito Processual Civil: natureza jurídica, fontes, princípios processuais civis e interpretação.",
+      "Direito processual intertemporal.",
+      "Princípios infraconstitucionais do Processo Civil."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Jurisdição: conceito, características, princípios, limites e espécies.",
+      "Meios alternativos de solução de conflitos: autotutela, autocomposição (conciliação e mediação), arbitragem e tribunais administrativos."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Competência.",
+      "Critérios de determinação e de modificação.",
+      "Competência originária dos Tribunais Superiores.",
+      "Competência absoluta e competência relativa.",
+      "Conflitos de competência e de atribuição.",
+      "Conexão e continência."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Ação: teorias, classificação, elementos, condições e cumulação.",
+      "Direito subjetivo.",
+      "Pretensão.",
+      "Ação de direito material e de direito processual.",
+      "Direito de ação na perspectiva constitucional.",
+      "Direito à adequada tutela jurisdicional."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Sujeitos do processo: partes, capacidade, deveres e responsabilidade por dano processual, substituição, sucessão.",
+      "Litisconsórcio.",
+      "Assistência.",
+      "Intervenção de terceiros típica e atípica.",
+      "O Juiz e os auxiliares da justiça.",
+      "Ministério Público.",
+      "Advocacia Pública.",
+      "Defensoria Pública."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Defensoria Pública.",
+      "Prerrogativas processuais.",
+      "Exercício da Curadoria Especial."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Assistência Judiciária: aspectos processuais."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Processo: pressupostos processuais e atos processuais.",
+      "Forma, tempo e lugar dos atos processuais.",
+      "Atos processuais eletrônicos.",
+      "Prazos.",
+      "Comunicação dos atos processuais.",
+      "Citação.",
+      "Cartas.",
+      "Intimação.",
+      "Teoria das invalidades processuais.",
+      "Nulidades.",
+      "Preclusão.",
+      "Distribuição e registro.",
+      "Valor da causa."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Tutela Provisória.",
+      "Tutela de urgência e tutela evidência.",
+      "Tutela antecedente e tutela incidente.",
+      "Estabilização da tutela provisória."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Formação, suspensão e extinção do processo."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Procedimento comum.",
+      "Petição inicial.",
+      "Indeferimento da petição inicial.",
+      "Improcedência liminar do pedido.",
+      "Conversão da ação individual em ação coletiva.",
+      "Audiência de conciliação.",
+      "Audiência de mediação.",
+      "Respostas do réu.",
+      "Revelia.",
+      "Providências preliminares e saneamento.",
+      "Julgamento conforme o estado do processo.",
+      "Audiência de instrução e de julgamento."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Provas.",
+      "Objeto, fonte e meios.",
+      "Admissibilidade.",
+      "Provas típicas e atípicas.",
+      "Provas ilícitas.",
+      "Ônus da prova.",
+      "Provas em espécie e sua produção.",
+      "Fatos que independem de prova.",
+      "Exame da prova e sua valoração."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Sentença: conteúdo, vícios, efeitos e modalidades.",
+      "Liquidação de sentença.",
+      "Coisa Julgada: conceito, requisitos, vícios, efeitos e classificações.",
+      "Limites subjetivos, objetivos e temporais da coisa julgada.",
+      "Relativização da coisa julgada.",
+      "Remessa necessária."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Tutelas declaratórias, condenatórias, mandamentais, cominatórias e específicas."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Cumprimento de sentença.",
+      "Classificação.",
+      "Pressupostos.",
+      "Cumprimento da sentença que reconheça a obrigação de pagar quantia certa, de prestar alimentos, de fazer, de não fazer e de entregar coisa.",
+      "Defesas do devedor e de terceiros nos pedidos de cumprimento de sentença."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Execução.",
+      "Teoria geral.",
+      "Princípios que norteiam o processo de execução.",
+      "Execução em geral.",
+      "Pressupostos do processo de execução.",
+      "Características dos títulos executivos.",
+      "Títulos executivos judiciais e extrajudiciais.",
+      "Execução definitiva e execução provisória.",
+      "Legitimidade ativa e passiva no processo de execução.",
+      "Competência.",
+      "Responsabilidade patrimonial.",
+      "Das diversas espécies de execução.",
+      "Da suspensão e da extinção da execução.",
+      "Defesas do devedor e de terceiros na execução.",
+      "Exceção de pré-executividade.",
+      "Embargos do devedor.",
+      "Defesa heterotópica."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Processos nos tribunais.",
+      "Ordem dos processos nos tribunais e processos de competência originária dos tribunais.",
+      "Incidente de assunção de competência.",
+      "Incidente de arguição de inconstitucionalidade.",
+      "Conflito de competência.",
+      "Homologação de decisão estrangeira e concessão do exequatur à carta rogatória.",
+      "Ação rescisória.",
+      "Incidente de resolução de demandas repetitivas.",
+      "Reclamação."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Recursos e meios de impugnação das decisões judiciais.",
+      "Teoria geral dos recursos.",
+      "Admissibilidade e efeitos.",
+      "Princípios.",
+      "Apelação.",
+      "Agravo de instrumento.",
+      "Embargos de declaração.",
+      "Embargos de divergência.",
+      "Agravo interno.",
+      "Duplo grau obrigatório.",
+      "Mandado de segurança contra ato judicial.",
+      "Ação declaratória de inexistência de ato processual e querela nullitatis.",
+      "Recursos nos Tribunais Superiores.",
+      "Recurso ordinário.",
+      "Recurso especial.",
+      "Recurso extraordinário.",
+      "Repercussão geral.",
+      "Do julgamento dos recursos especial e extraordinários repetitivos.",
+      "Súmula.",
+      "Súmula vinculante.",
+      "Precedentes: Teoria Geral, distinguishing e overruling.",
+      "Pedidos de suspensão de liminares e sentenças."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Fazenda Pública como parte do processo: polos ativo e passivo.",
+      "Prerrogativas.",
+      "Tutela provisória e tutela específica.",
+      "Ação de conhecimento, cumprimento de sentença e execução.",
+      "A Fazenda nos procedimentos especiais."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Procedimentos especiais e procedimentos de jurisdição voluntária: conceito, espécies, características e peculiaridades."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Separação.",
+      "Divórcio direto.",
+      "Divórcio mediante conversão.",
+      "Declaratória de união estável (em vida e póstuma).",
+      "Separação extrajudicial.",
+      "Divórcio extrajudicial."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Ação de usucapião.",
+      "Conceito, procedimento e espécies.",
+      "Usucapião como matéria de defesa."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Ação direta de inconstitucionalidade.",
+      "Ação declaratória de constitucionalidade.",
+      "Arguição de descumprimento de preceito fundamental."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Ação popular."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Ações da Lei de locações de imóveis urbanos.",
+      "Despejo.",
+      "Consignatório de aluguel e acessórios.",
+      "Ação renovatória.",
+      "Ação revisional.",
+      "Postulação e defesa."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Ações de alimentos.",
+      "Lei de alimentos.",
+      "Lei de alimentos e o Código de Processo Civil."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Ações declaratória e negatória de vínculo parental (em vida e póstuma)."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Ações Possessórias.",
+      "Ações Petitórias."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Habeas Corpus.",
+      "Habeas Data.",
+      "Mandato de Injunção."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Inventário judicial e extrajudicial.",
+      "Arrolamentos.",
+      "Alvará."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Procedimento nos Juizados Especiais Cíveis e nos Juizados Especiais da Fazenda Pública.",
+      "Princípios, normas e especificidades.",
+      "Enunciados."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Mandado de segurança individual.",
+      "Mandado de segurança coletivo."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "Microssistema da Tutela dos Direitos Coletivos.",
+      "Teoria geral do Processo Civil coletivo.",
+      "Princípios gerais do Processo Civil coletivo.",
+      "Sistema de proteção coletiva.",
+      "Entes e instituições legitimadas.",
+      "Sistemas de legitimação.",
+      "Tutela de direitos coletivos e tutela coletiva de direitos.",
+      "Mecanismos processuais e respectivos procedimentos para tutela dos interesses transindividuais.",
+      "Direitos e interesses difusos, coletivos e individuais homogêneos.",
+      "Ação civil pública."
+     ]
+    },
+    {
+     "item": "35",
+     "frases": [
+      "Normas processuais civis no Estatuto da Criança e do Adolescente, no Estatuto do Idoso, no Estatuto das Cidades, na Lei de Proteção e Defesa aos Portadores de Deficiência, no Código de Defesa do Consumidor."
+     ]
+    },
+    {
+     "item": "36",
+     "frases": [
+      "Processo eletrônico.",
+      "Normas e especificidades.",
+      "Comunicação e prazos dos atos processuais eletrônicos."
+     ]
+    },
+    {
+     "item": "37",
+     "frases": [
+      "Jurisprudência e Enunciados de Súmulas do Supremo Tribunal Federal, do Superior Tribunal de Justiça e do Tribunal de Justiça do Estado do Rio Grande do Sul."
+     ]
+    },
+    {
+     "item": "38",
+     "frases": [
+      "Código de Processo Civil (Lei nº 13.105, de 16 de março de 2015, e alterações)."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+"2018 - DPE-AM - Analista Jurídico|31": {
+ "c": "Gabarito A. A prisão civil só alcança o débito das três prestações anteriores ao ajuizamento da execução e das que se vencerem no curso do processo (CPC, art. 528, § 7º; Súmula 309 do STJ). B: o cumprimento da pena não exime o devedor de pagar as prestações (art. 528, § 5º). C: o prazo para pagar, provar que pagou ou justificar é de 3 dias, e não de 5 (art. 528, caput). D: o desconto em folha é possível, e inclusive preferido (art. 529). E: a decisão que decreta a prisão é agravável, por ser interlocutória em cumprimento de sentença (art. 1.015, parágrafo único); o habeas corpus não é a via por falta de recurso.",
+ "p": "Trocar o prazo de 3 dias por 5 e achar que a prisão quita a dívida.",
+ "d": ["CPC|art. 528, caput, §§ 5º e 7º", "CPC|art. 529", "CPC|art. 1.015, parágrafo único", "STJ|Súmula 309"],
+ "pend": 0},
+"2018 - DPE-AM - Analista Jurídico|32": {
+ "c": "Gabarito C. Da sentença que indefere a petição inicial cabe apelação, e o juiz pode se retratar em 5 dias (CPC, art. 331). A, B e D: o recurso não é agravo de instrumento e há previsão de retratação. E: a retratação é no prazo de 5 dias, antes da citação; só se o juiz não se retratar é que o réu é citado para responder ao recurso.",
+ "p": "Confundir o prazo de retratação da apelação contra o indeferimento da inicial (5 dias) com outros prazos.",
+ "d": ["CPC|art. 330", "CPC|art. 331"],
+ "pend": 0},
+"2018 - DPE-AM - Analista Jurídico|33": {
+ "c": "Gabarito A (II e III). O incidente de assunção de competência (CPC, art. 947) é admissível quando o julgamento envolver relevante questão de DIREITO, com grande repercussão social, sem repetição em múltiplos processos; por isso I, que fala em questão de fato, está errado. II está certo (art. 947, § 1º): o relator propõe, de ofício ou a requerimento da parte, do Ministério Público ou da Defensoria Pública. III está certo: cabe reclamação para garantir a observância do acórdão (art. 988, IV). IV está errado: o acórdão vincula todos os juízes e órgãos fracionários, salvo revisão de tese (art. 947, § 3º).",
+ "p": "Dizer que o incidente trata de questão de fato e que o acórdão não vincula.",
+ "d": ["CPC|art. 947, §§ 1º e 3º", "CPC|art. 988, IV"],
+ "pend": 0},
+"2019 - DPE-AM - Analista Jurídico|34": {
+ "c": "Gabarito D (I e III). A estabilização dos efeitos da tutela provisória (CPC, art. 304) se aplica à tutela de urgência antecipada requerida em caráter antecedente: se o réu não recorre, a decisão se estabiliza. Por isso apenas as modalidades da urgência (I) e a antecedente (III) são ligadas à estabilização. A tutela da evidência (II) e a incidental (IV) não se estabilizam.",
+ "p": "Achar que a tutela de evidência também se estabiliza.",
+ "d": ["CPC|art. 294", "CPC|art. 303", "CPC|art. 304"],
+ "pend": 0},
+"2019 - DPE-AM - Analista Jurídico|35": {
+ "c": "Gabarito C. Nas causas que dispensem a fase instrutória, o juiz, independentemente da citação do réu, julgará liminarmente improcedente o pedido que contrariar enunciado de súmula do STF ou do STJ (CPC, art. 332, I). Não é caso de emenda, de indeferimento da inicial, nem de extinção sem mérito: a improcedência liminar resolve o mérito.",
+ "p": "Confundir improcedência liminar (julga o mérito) com indeferimento da inicial (não julga).",
+ "d": ["CPC|art. 332, I"],
+ "pend": 0},
+"2019 - DPE-AM - Analista Jurídico|36": {
+ "c": "Gabarito E (I, II, III e V). Há resolução do mérito, com formação de coisa julgada material, na sentença de procedência total ou parcial (I), na homologação de transação (II), da renúncia à pretensão (III) e do reconhecimento da procedência do pedido (V) (CPC, art. 487, I e III). O item IV (ilegitimidade ativa) é hipótese de extinção sem resolução do mérito (art. 485, VI).",
+ "p": "Achar que a ilegitimidade ativa resolve o mérito.",
+ "d": ["CPC|art. 485, VI", "CPC|art. 487, I e III"],
+ "pend": 0},
+"2019 - DPE-AM - Analista Jurídico|37": {
+ "c": "Questão ANULADA (os candidatos receberam o ponto). O gabarito divulgado era A, que reproduz o art. 186, § 4º, do CPC: não se aplica a contagem em dobro quando a lei estabelecer prazo próprio para a Defensoria Pública. Mas a alternativa D também está correta: a prerrogativa do prazo em dobro se estende aos escritórios de prática jurídica das faculdades de Direito e às entidades de assistência jurídica gratuita conveniadas (art. 186, § 3º). Com duas respostas corretas, a questão foi anulada. B: o ônus da impugnação específica é dispensado também ao defensor público e ao advogado dativo, e não só ao curador especial (art. 341, parágrafo único). C: o custeio da perícia pela Defensoria não está previsto assim. E: os ocupantes encontrados no local devem ser citados pessoalmente e os demais, por edital; a intimação da Defensoria vem em acréscimo e não substitui a citação (art. 554, §§ 1º e 3º).",
+ "p": "Questão com dois itens corretos (A e D), motivo da anulação.",
+ "d": ["CPC|art. 186, §§ 3º e 4º", "CPC|art. 341, parágrafo único", "CPC|art. 554, § 1º"],
+ "pend": 0},
+"2019 - DPE-AM - Analista Jurídico|38": {
+ "c": "Gabarito B. O juiz decidiu parte do mérito, porque o pedido de danos morais estava maduro, e mandou prosseguir quanto aos danos materiais: é o julgamento antecipado parcial do mérito (CPC, art. 356, II). Ele é uma decisão interlocutória recorrível por agravo de instrumento (art. 356, § 5º) e, não havendo recurso, forma coisa julgada material. A: não é sentença, porque o processo continua. C: cabe recurso imediato. D e E: o mérito foi resolvido, e não se trata de tutela provisória.",
+ "p": "Chamar de sentença a decisão que julga só parte do mérito.",
+ "d": ["CPC|art. 356, II e § 5º", "CPC|art. 1.015, II"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|36": {
+ "c": "Gabarito C. Na ação de divórcio, o foro competente é o do domicílio do guardião de filho incapaz; se não houver filho incapaz, o do último domicílio do casal; e, se nenhuma das partes residir no antigo domicílio, o do domicílio do réu (CPC, art. 53, I, com a redação da Lei 13.894/2019). O casal não tem filhos e uma das partes ainda mora no último domicílio, que é competente. A, E: o domicílio de cada cônjuge só vale se ninguém mais reside no antigo domicílio do casal. B, D: o local do casamento e o dos bens não definem o foro.",
+ "p": "Esquecer que, sem filhos, o foro principal é o último domicílio do casal.",
+ "d": ["CPC|art. 53, I"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|37": {
+ "c": "Gabarito A. O contrato por escrito, com prazo de 30 meses ou mais, termina no fim do prazo, sem notificação. Se o locatário continua no imóvel por mais de 30 dias sem oposição, a locação se prorroga por prazo indeterminado (Lei 8.245/1991, art. 46, §§ 1º e 2º). Nesse caso, o locador pode denunciar o contrato a qualquer tempo, concedido o prazo de 30 dias para a desocupação (art. 46, § 2º). B e E: a prorrogação não cria direito de permanência. C: a ação renovatória é da locação não residencial (art. 51). D: a ação para reaver o imóvel locado é a de despejo, e não a reintegração de posse.",
+ "p": "Cobrar reintegração de posse no lugar de despejo e esquecer o prazo de 30 dias da denúncia.",
+ "d": ["Lei 8.245/1991|art. 46, §§ 1º e 2º", "Lei 8.245/1991|art. 51"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|38": {
+ "c": "Gabarito D. A citação é pressuposto de existência e de validade do processo; se o réu foi citado de modo nulo (mandado entregue a terceiro) e o processo correu à revelia, a nulidade é insanável e pode ser alegada mesmo depois do trânsito em julgado pela ação declaratória de nulidade, a querela nullitatis insanabilis. No cumprimento de sentença, a falta ou nulidade da citação também pode ser alegada na impugnação (CPC, art. 525, § 1º, I). Chamamento ao processo, denunciação da lide, oposição e embargos de terceiro são formas de intervenção ou de defesa de terceiros, que não servem a quem era réu.",
+ "p": "Confundir a defesa de quem era parte, mas não foi citado, com as intervenções de terceiros.",
+ "d": ["CPC|art. 239", "CPC|art. 525, § 1º, I", "CPC|art. 966"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|39": {
+ "c": "Gabarito C. Podem propor ação no Juizado Especial Cível as pessoas físicas capazes, os microempreendedores individuais, as microempresas, as empresas de pequeno porte, as OSCIPs e as sociedades de crédito ao microempreendedor (Lei 9.099/1995, art. 8º, § 1º). Estão excluídos o incapaz, o preso, as pessoas jurídicas de direito público, as empresas públicas da União, a massa falida e o insolvente civil (art. 8º, caput).",
+ "p": "Achar que o incapaz, a massa falida ou o Poder Público podem ser autores no Juizado.",
+ "d": ["Lei 9.099/1995|art. 8º, caput e § 1º"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico|40": {
+ "c": "Gabarito D. O inventário e a partilha podem ser feitos por escritura pública quando todos os interessados forem capazes e concordes, com a assistência de advogado ou de defensor público (CPC, art. 610, §§ 1º e 2º). Faltando a concordância (A), a assistência do advogado (C) ou a capacidade de todos (B e E), a via extrajudicial não é possível, pela regra do Código. Atenção: o CNJ pode ter ampliado, por resolução, o cartório para casos com incapaz; confirmar a Resolução CNJ 35/2007 atualizada.",
+ "p": "Esquecer a exigência de capacidade e de concordância de todos, e a assistência por advogado ou defensor.",
+ "d": ["CPC|art. 610, §§ 1º e 2º", "CNJ|Resolução 35/2007 (confirmar versão atual)"],
+ "pend": 1},
+"2022 - DPE-AM - Analista Jurídico (2)|36": {
+ "c": "Gabarito E. O cônjuge que defende a posse de bens próprios ou a sua meação em penhora de dívida só do outro cônjuge tem os embargos de terceiro (CPC, art. 674, § 2º, I). Chamamento ao processo e denunciação são intervenções, a reclamação é para garantir competência e decisões de tribunais, e a apelação cabe contra sentença.",
+ "p": "Pensar em intervenção de terceiros para quem não é parte e teve o bem penhorado.",
+ "d": ["CPC|art. 674, caput e § 2º, I"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|37": {
+ "c": "Gabarito A. A usucapião pode ser alegada como matéria de defesa, na própria contestação, em ação petitória, e a sentença que a reconhece vale como título (Súmula 237 do STF). Não é preciso reconvenção nem ação autônoma, e não há vedação para discutir domínio nessa ação.",
+ "p": "Achar que a usucapião só pode ser pedida em ação própria.",
+ "d": ["STF|Súmula 237"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|38": {
+ "c": "Gabarito D. Cabe reclamação para garantir a observância de acórdão proferido em incidente de resolução de demandas repetitivas ou em incidente de assunção de competência (CPC, art. 988, IV). A: a reclamação não serve para a competência territorial de primeiro grau. B: ela é cabível antes do trânsito em julgado da decisão reclamada (art. 988, § 5º, I). C: vale para a autoridade das decisões do tribunal em geral, não só do STJ. E: contra acórdão de recurso extraordinário com repercussão geral, só cabe reclamação depois de esgotadas as instâncias ordinárias (art. 988, § 5º, II).",
+ "p": "Esquecer que a reclamação não substitui recurso e não cabe depois do trânsito em julgado.",
+ "d": ["CPC|art. 988, I a IV e § 5º"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|39": {
+ "c": "Gabarito B (itens I e III). I está certo: podem ser réus os Estados, o Distrito Federal, os Territórios e os Municípios, e as autarquias, fundações e empresas públicas a eles vinculadas (Lei 12.153/2009, art. 5º, II). III está certo: nos foros em que estiver instalado, a competência é absoluta (art. 2º, § 4º). II está errado: não há reexame necessário nesses Juizados (art. 11). IV está errado: o limite é de 60 salários mínimos (art. 2º), e não de 40.",
+ "p": "Confundir o limite de 60 salários dos Juizados da Fazenda com os 40 do Juizado Especial Cível.",
+ "d": ["Lei 12.153/2009|art. 2º", "Lei 12.153/2009|art. 5º, II", "Lei 12.153/2009|art. 11"],
+ "pend": 0},
+"2022 - DPE-AM - Analista Jurídico (2)|40": {
+ "c": "Gabarito C. Nas ações com obrigação de prestações sucessivas, as prestações vincendas são consideradas incluídas no pedido, independentemente de declaração expressa do autor (CPC, art. 323). A: é permitida a cumulação de pedidos contra o mesmo réu (art. 327). B: os pedidos são interpretados conforme o conjunto da postulação e a boa-fé, e os juros legais estão incluídos no principal (art. 322). D: a situação descrita, em que o devedor pode cumprir de mais de um modo, é o pedido alternativo (art. 325), e não o subsidiário (art. 326). E: depois da citação, o autor só altera o pedido com o consentimento do réu (art. 329, II).",
+ "p": "Confundir pedido alternativo com pedido subsidiário.",
+ "d": ["CPC|art. 322", "CPC|art. 323", "CPC|art. 325", "CPC|art. 326", "CPC|art. 329"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|36": {
+ "c": "Gabarito C. Quando o recorrente pede ao presidente ou ao vice-presidente do tribunal de origem a exclusão do sobrestamento e a inadmissão do recurso extraordinário intempestivo, da decisão que indeferir o requerimento cabe agravo interno (CPC, art. 1.035, § 7º; art. 1.021). Não cabem mandado de segurança, reapreciação pelo Colegiado de ofício nem a ausência de qualquer recurso.",
+ "p": "Confundir agravo interno com agravo regimental e com o agravo em recurso extraordinário.",
+ "d": ["CPC|art. 1.035, §§ 6º e 7º", "CPC|art. 1.021"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|37": {
+ "c": "Gabarito A. Nas ações possessórias envolvendo litígio coletivo ou área rural ou urbana, os órgãos da política agrária e urbana podem ser intimados para manifestar interesse no processo (CPC, art. 565, § 4º), o que é uma intervenção de ente público mesmo em ação entre particulares. B e C: passado o prazo de ano e dia (força velha), segue-se o procedimento comum, mantido o caráter possessório (art. 558, parágrafo único), e a tutela provisória é possível, inclusive a de evidência. D: a competência é do foro da situação da coisa, se imóvel (art. 47, § 2º). E: a ação de força nova segue o procedimento especial.",
+ "p": "Pensar que a ação de força velha perde a possibilidade de tutela provisória.",
+ "d": ["CPC|art. 558, parágrafo único", "CPC|art. 565, § 4º", "CPC|art. 47, § 2º"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|38": {
+ "c": "Gabarito oficial D (chamamento ao processo e assistência), mas a classificação mais comum da doutrina divide a intervenção de terceiros em voluntária (como a assistência) e provocada (como a denunciação da lide e o chamamento ao processo), o que levaria à alternativa C. Como o gabarito dessa prova é preliminar e a questão traz uma classificação pouco usual 'conforme a inserção do terceiro', fica a dúvida; confirmar o gabarito definitivo. Fica anotado que as modalidades do CPC são: assistência (arts. 119 a 124), denunciação da lide (125 a 129), chamamento ao processo (130 a 132), incidente de desconsideração da personalidade jurídica (133 a 137) e amicus curiae (138).",
+ "p": "A questão usa um critério de classificação pouco comum; atenção ao gabarito definitivo.",
+ "d": ["CPC|arts. 119 a 138"],
+ "pend": 1},
+"2023 - DPE-AM - Analista Jurídico|39": {
+ "c": "Gabarito B. A prova técnica simplificada, no lugar da perícia, é admitida quando o ponto controvertido for de menor complexidade (CPC, art. 464, §§ 2º a 4º): consiste na inquirição do especialista, que pode se valer de recursos tecnológicos e deve ser admitida pelo juiz. A: o critério é a menor complexidade do ponto, e não o custo. C: ela existe no CPC de 2015. D: não é espécie de perícia, e sim uma substituição. E: admite a inquirição em audiência.",
+ "p": "Achar que a prova técnica simplificada é só documental.",
+ "d": ["CPC|art. 464, §§ 2º a 4º"],
+ "pend": 0},
+"2023 - DPE-AM - Analista Jurídico|40": {
+ "c": "Gabarito B. A usucapião pode ser alegada como defesa, não só na ação reivindicatória (Súmula 237 do STF). Não tem só efeito indenizatório, não se limita a imóvel rural e não se restringe à demarcatória.",
+ "p": "Achar que a usucapião só serve de defesa na reivindicatória.",
+ "d": ["STF|Súmula 237"],
+ "pend": 0}
+}

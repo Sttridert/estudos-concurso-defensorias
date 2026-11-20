@@ -1,0 +1,969 @@
+{
+ "pasta": "2021 - DPE-RS - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 6607,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito constitucional."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Teoria geral, conceito, objeto, origem, formação, conteúdo, fontes e métodos de trabalho."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "A força normativa da Constituição."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "A constitucionalização simbólica: a constitucionalização, texto constitucional e realidade constitucional."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Efetividade das normas constitucionais."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Do sistema constitucional: a Constituição como um sistema de normas."
+     ]
+    },
+    {
+     "item": "1.6",
+     "frases": [
+      "Os valores na Constituição."
+     ]
+    },
+    {
+     "item": "1.7",
+     "frases": [
+      "Os preceitos constitucionais fundamentais."
+     ]
+    },
+    {
+     "item": "1.8",
+     "frases": [
+      "Fins e funções do Estado."
+     ]
+    },
+    {
+     "item": "1.9",
+     "frases": [
+      "Neoconstitucionalismo."
+     ]
+    },
+    {
+     "item": "1.10",
+     "frases": [
+      "Jurisdição constitucional."
+     ]
+    },
+    {
+     "item": "1.11",
+     "frases": [
+      "Direito de resistência."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Constituição."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Conceito de constituição."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Classificação das constituições."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Elementos das constituições."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "O constitucionalismo: caracterização e desenvolvimento histórico."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "Histórico das constituições brasileiras."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Hermenêutica constitucional."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Aplicabilidade e interpretação das normas constitucionais."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Métodos, conceitos e princípios de interpretação constitucional."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Natureza e classificação das normas constitucionais."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Lacunas na Constituição, espécies e características, princípios jurídicos e regras de Direito."
+     ]
+    },
+    {
+     "item": "3.5",
+     "frases": [
+      "Aplicação da Constituição no tempo e no espaço."
+     ]
+    },
+    {
+     "item": "3.6",
+     "frases": [
+      "Eficácia das normas constitucionais e tutela das situações subjetivas."
+     ]
+    },
+    {
+     "item": "3.7",
+     "frases": [
+      "Orçamento e reserva do possível."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Poder Constituinte."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Perspectivas históricas."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Poder Constituinte Originário."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Poder Constituinte Derivado e Decorrente."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Poder Constituinte Supranacional."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Nova Constituição e ordem jurídica anterior: recepção, repristinação, desconstitucionalização, recepção material de normas constitucionais."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "República Federativa do Brasil."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Os objetivos fundamentais da República Federativa do Brasil."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Os princípios que regem as relações internacionais da República Federativa do Brasil."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "Os princípios fundamentais."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Os direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Direitos individuais e coletivos."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "Características gerais dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "5.7",
+     "frases": [
+      "Destinatários dos direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "5.8",
+     "frases": [
+      "Efetividade dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "5.9",
+     "frases": [
+      "Perspectiva subjetiva dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "5.10",
+     "frases": [
+      "Direitos a prestações negativas."
+     ]
+    },
+    {
+     "item": "5.11",
+     "frases": [
+      "Direitos a não-impedimentos."
+     ]
+    },
+    {
+     "item": "5.12",
+     "frases": [
+      "Direitos a não-afetação de propriedades e situações."
+     ]
+    },
+    {
+     "item": "5.13",
+     "frases": [
+      "Direitos a não-eliminação de posições jurídicas."
+     ]
+    },
+    {
+     "item": "5.14",
+     "frases": [
+      "Direitos a prestações positivas."
+     ]
+    },
+    {
+     "item": "5.15",
+     "frases": [
+      "Perspectiva objetiva dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "5.16",
+     "frases": [
+      "Catálogo dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "5.17",
+     "frases": [
+      "Sujeitos dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "5.18",
+     "frases": [
+      "Funcionalidade dos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "5.19",
+     "frases": [
+      "Limites e restrições aos direitos fundamentais."
+     ]
+    },
+    {
+     "item": "5.20",
+     "frases": [
+      "A proibição de retrocesso social."
+     ]
+    },
+    {
+     "item": "5.21",
+     "frases": [
+      "Cláusulas pétreas."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Tutelas constitucionais."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "Habeas corpus."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Habeas data."
+     ]
+    },
+    {
+     "item": "6.3",
+     "frases": [
+      "Mandado de segurança individual e coletivo."
+     ]
+    },
+    {
+     "item": "6.4",
+     "frases": [
+      "Direito de petição e de certidão."
+     ]
+    },
+    {
+     "item": "6.5",
+     "frases": [
+      "Mandado de injunção."
+     ]
+    },
+    {
+     "item": "6.6",
+     "frases": [
+      "Ação popular e ação civil pública."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Direitos Sociais e a Ordem Social."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Nacionalidade."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Definições."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Natureza jurídica."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Espécies."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Critérios e hipóteses constitucionais de reconhecimento da nacionalidade primária."
+     ]
+    },
+    {
+     "item": "8.5",
+     "frases": [
+      "Aquisição da nacionalidade secundária."
+     ]
+    },
+    {
+     "item": "8.6",
+     "frases": [
+      "Espécies de naturalização."
+     ]
+    },
+    {
+     "item": "8.7",
+     "frases": [
+      "Diferenças entre brasileiros natos e naturalizados."
+     ]
+    },
+    {
+     "item": "8.8",
+     "frases": [
+      "Perda da nacionalidade."
+     ]
+    },
+    {
+     "item": "8.9",
+     "frases": [
+      "Extradição, expulsão e deportação."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Direitos políticos."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Direitos políticos positivos."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Direito ao sufrágio, ao voto e ao escrutínio."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Plebiscito e referendo."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Elegibilidade."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Direitos políticos negativos."
+     ]
+    },
+    {
+     "item": "9.6",
+     "frases": [
+      "Inelegibilidades absolutas e inelegibilidades relativas."
+     ]
+    },
+    {
+     "item": "9.7",
+     "frases": [
+      "Perda e suspensão dos direitos políticos."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Partidos políticos."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Organização espacial do Estado e divisão espacial do poder."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Soberania."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Estado: cidadania, república, democracia e justiça social."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "A Federação e sua origem."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Federação por agregação e por desagregação."
+     ]
+    },
+    {
+     "item": "11.5",
+     "frases": [
+      "Da União, dos estados, do Distrito Federal e dos municípios."
+     ]
+    },
+    {
+     "item": "11.6",
+     "frases": [
+      "Repartição de competências."
+     ]
+    },
+    {
+     "item": "11.7",
+     "frases": [
+      "Competências exclusivas, privativas, comuns e concorrentes."
+     ]
+    },
+    {
+     "item": "11.8",
+     "frases": [
+      "Intervenção: fundamentos, espécies, competência, requisitos, controle político e jurisdicional, duração, interventor, legitimidade, hipóteses de intervenção federal e estadual."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Organização dos Poderes."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Fundamentos da separação dos poderes."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Legislativo."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Atribuições e composição."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Escolha dos membros do Legislativo."
+     ]
+    },
+    {
+     "item": "13.3",
+     "frases": [
+      "Garantias constitucionais dos parlamentares."
+     ]
+    },
+    {
+     "item": "13.4",
+     "frases": [
+      "Vedações e impedimentos."
+     ]
+    },
+    {
+     "item": "13.5",
+     "frases": [
+      "Estrutura e organização."
+     ]
+    },
+    {
+     "item": "13.6",
+     "frases": [
+      "Congresso Nacional."
+     ]
+    },
+    {
+     "item": "13.7",
+     "frases": [
+      "Competências privativas e exclusivas."
+     ]
+    },
+    {
+     "item": "13.8",
+     "frases": [
+      "A Mesa do Congresso Nacional."
+     ]
+    },
+    {
+     "item": "13.9",
+     "frases": [
+      "Sucessão da Mesa."
+     ]
+    },
+    {
+     "item": "13.10",
+     "frases": [
+      "Câmara dos Deputados e Senado Federal."
+     ]
+    },
+    {
+     "item": "13.11",
+     "frases": [
+      "Comissões Parlamentares de Inquérito."
+     ]
+    },
+    {
+     "item": "13.12",
+     "frases": [
+      "Legislativo dos estados."
+     ]
+    },
+    {
+     "item": "13.13",
+     "frases": [
+      "Legislativo dos municípios."
+     ]
+    },
+    {
+     "item": "13.14",
+     "frases": [
+      "Imunidades parlamentares."
+     ]
+    },
+    {
+     "item": "13.15",
+     "frases": [
+      "Tribunais de contas."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Executivo."
+     ]
+    },
+    {
+     "item": "14.1",
+     "frases": [
+      "Sistemas de governo."
+     ]
+    },
+    {
+     "item": "14.2",
+     "frases": [
+      "Eleição, reeleição, vacância."
+     ]
+    },
+    {
+     "item": "14.3",
+     "frases": [
+      "Presidente e vice-presidente da República."
+     ]
+    },
+    {
+     "item": "14.4",
+     "frases": [
+      "Crimes de responsabilidade e impeachment."
+     ]
+    },
+    {
+     "item": "14.5",
+     "frases": [
+      "Prerrogativas do presidente da República."
+     ]
+    },
+    {
+     "item": "14.6",
+     "frases": [
+      "Ministros de Estado."
+     ]
+    },
+    {
+     "item": "14.7",
+     "frases": [
+      "Conselho da República e Conselho de Defesa Nacional."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Judiciário."
+     ]
+    },
+    {
+     "item": "15.1",
+     "frases": [
+      "Funções."
+     ]
+    },
+    {
+     "item": "15.2",
+     "frases": [
+      "Princípios."
+     ]
+    },
+    {
+     "item": "15.3",
+     "frases": [
+      "Garantias."
+     ]
+    },
+    {
+     "item": "15.4",
+     "frases": [
+      "Vedações constitucionais."
+     ]
+    },
+    {
+     "item": "15.5",
+     "frases": [
+      "Estrutura e organização."
+     ]
+    },
+    {
+     "item": "15.6",
+     "frases": [
+      "Órgãos e competência."
+     ]
+    },
+    {
+     "item": "15.7",
+     "frases": [
+      "Escolha dos integrantes do Judiciário."
+     ]
+    },
+    {
+     "item": "15.8",
+     "frases": [
+      "Súmulas vinculantes."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "As funções essenciais à Justiça."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Processo Legislativo."
+     ]
+    },
+    {
+     "item": "17.1",
+     "frases": [
+      "Conceito, fases."
+     ]
+    },
+    {
+     "item": "17.2",
+     "frases": [
+      "Espécies normativas."
+     ]
+    },
+    {
+     "item": "17.3",
+     "frases": [
+      "Conceito e conteúdo do ato legislativo."
+     ]
+    },
+    {
+     "item": "17.4",
+     "frases": [
+      "Validade, vigência e eficácia das leis."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Controle de constitucionalidade."
+     ]
+    },
+    {
+     "item": "18.1",
+     "frases": [
+      "A supremacia constitucional."
+     ]
+    },
+    {
+     "item": "18.2",
+     "frases": [
+      "Jurisdição constitucional."
+     ]
+    },
+    {
+     "item": "18.3",
+     "frases": [
+      "Processo constitucional objetivo."
+     ]
+    },
+    {
+     "item": "18.4",
+     "frases": [
+      "Espécies de inconstitucionalidade."
+     ]
+    },
+    {
+     "item": "18.5",
+     "frases": [
+      "Inconstitucionalidade por ação ou omissão."
+     ]
+    },
+    {
+     "item": "18.6",
+     "frases": [
+      "Inconstitucionalidade formal ou material."
+     ]
+    },
+    {
+     "item": "18.7",
+     "frases": [
+      "Inconstitucionalidade originária e derivada."
+     ]
+    },
+    {
+     "item": "18.8",
+     "frases": [
+      "Espécies de controle quanto ao momento e ao modo de realização."
+     ]
+    },
+    {
+     "item": "18.9",
+     "frases": [
+      "Controle preventivo e controle repressivo."
+     ]
+    },
+    {
+     "item": "18.10",
+     "frases": [
+      "Controle difuso de constitucionalidade."
+     ]
+    },
+    {
+     "item": "18.11",
+     "frases": [
+      "Controle concentrado de constitucionalidade."
+     ]
+    },
+    {
+     "item": "18.12",
+     "frases": [
+      "Ação direta de inconstitucionalidade."
+     ]
+    },
+    {
+     "item": "18.13",
+     "frases": [
+      "Ação declaratória de constitucionalidade."
+     ]
+    },
+    {
+     "item": "18.14",
+     "frases": [
+      "Ação de inconstitucionalidade por omissão."
+     ]
+    },
+    {
+     "item": "18.15",
+     "frases": [
+      "Ação interventiva."
+     ]
+    },
+    {
+     "item": "18.16",
+     "frases": [
+      "Arguição de descumprimento de preceito fundamental."
+     ]
+    },
+    {
+     "item": "18.17",
+     "frases": [
+      "A súmula com efeito vinculante."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "A defesa do Estado e das instituições democráticas."
+     ]
+    },
+    {
+     "item": "19.1",
+     "frases": [
+      "Estado de defesa e estado de sítio."
+     ]
+    },
+    {
+     "item": "19.2",
+     "frases": [
+      "Forças armadas."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Administração pública."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Finanças públicas."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Segurança pública."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Direitos humanos."
+     ]
+    },
+    {
+     "item": "23.1",
+     "frases": [
+      "Conceito."
+     ]
+    },
+    {
+     "item": "23.2",
+     "frases": [
+      "Tratados Internacionais."
+     ]
+    },
+    {
+     "item": "23.3",
+     "frases": [
+      "Preâmbulo e Ato das Disposições Constitucionais Transitórias."
+     ]
+    }
+   ]
+  }
+ ]
+}

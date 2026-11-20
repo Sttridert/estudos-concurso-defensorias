@@ -1,0 +1,149 @@
+{
+ "disciplina": "Criminologia",
+ "assuntos": [
+  {
+   "codigo": "CR01",
+   "nome": "Fundamentos da Criminologia",
+   "descricao": "O que é a Criminologia e como se relaciona com outras ciências."
+  },
+  {
+   "codigo": "CR02",
+   "nome": "Escolas e teorias criminológicas",
+   "descricao": "Da escola clássica às tendências contemporâneas."
+  },
+  {
+   "codigo": "CR03",
+   "nome": "Controle social e sistema penal",
+   "descricao": "Como a sociedade e o Estado controlam o comportamento e selecionam quem é punido."
+  },
+  {
+   "codigo": "CR04",
+   "nome": "Vitimologia",
+   "descricao": "A vítima no estudo do crime."
+  },
+  {
+   "codigo": "CR05",
+   "nome": "Política criminal e sistema penitenciário",
+   "descricao": "Respostas do Estado ao crime e seus efeitos."
+  }
+ ],
+ "pontos": [
+  {
+   "codigo": "CR01.01",
+   "assunto": "CR01",
+   "texto": "Conceito, objeto e métodos da Criminologia",
+   "descricao": "Objeto (crime, criminoso, vítima e controle social) e métodos (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CR01.02",
+   "assunto": "CR01",
+   "texto": "Criminologia e ciências penais afins",
+   "descricao": "Relação com Direito Penal e Política Criminal (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CR02.01",
+   "assunto": "CR02",
+   "texto": "Escola clássica e positivismo",
+   "descricao": "Escola clássica e positivismo criminológico.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "CR02.02",
+   "assunto": "CR02",
+   "texto": "Teorias sociológicas do consenso",
+   "descricao": "Escola de Chicago e demais teorias sociológicas (confirmar quais cobrar).",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CR02.03",
+   "assunto": "CR02",
+   "texto": "Teorias do conflito e criminologia crítica",
+   "descricao": "Labelling approach e criminologia crítica.",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CR02.04",
+   "assunto": "CR02",
+   "texto": "Minimalismo penal e abolicionismo",
+   "descricao": "Tendências contemporâneas.",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CR03.01",
+   "assunto": "CR03",
+   "texto": "Controle social formal e informal",
+   "descricao": "Controle social formal e informal; polícia.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "CR03.02",
+   "assunto": "CR03",
+   "texto": "Criminalização e seletividade",
+   "descricao": "Criminalização primária e secundária; seletividade do sistema penal.",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CR03.03",
+   "assunto": "CR03",
+   "texto": "Mídia e punitivismo",
+   "descricao": "Papel da mídia no processo de criminalização (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CR04.01",
+   "assunto": "CR04",
+   "texto": "Conceito e evolução da vitimologia",
+   "descricao": "Papel da vítima e etapas históricas (confirmar).",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  },
+  {
+   "codigo": "CR04.02",
+   "assunto": "CR04",
+   "texto": "Vitimização primária, secundária e terciária",
+   "descricao": "Vitimização primária, secundária e terciária.",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CR05.01",
+   "assunto": "CR05",
+   "texto": "Política criminal",
+   "descricao": "Conceito e orientações de política criminal (confirmar).",
+   "origem": "rascunho v2 (IA, esqueleto doutrinário; confirmar)",
+   "ativo": 1,
+   "criado_em": "2026-11-20"
+  },
+  {
+   "codigo": "CR05.02",
+   "assunto": "CR05",
+   "texto": "Encarceramento e prisionização",
+   "descricao": "Dados do encarceramento, prisionização e relações de poder na prisão.",
+   "origem": "edital DPE-AM 2026 e provas FCC de Analista (IA, rascunho)",
+   "ativo": 1,
+   "criado_em": "2026-11-13"
+  }
+ ]
+}

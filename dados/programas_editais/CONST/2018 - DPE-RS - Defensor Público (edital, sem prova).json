@@ -1,0 +1,226 @@
+{
+ "pasta": "2018 - DPE-RS - Defensor Público (edital, sem prova)",
+ "banca": "FCC",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 3765,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Constituição: conceitos, classificações e elementos.",
+      "O constitucionalismo.",
+      "Evolução histórica das constituições brasileiras.",
+      "Constituição da República Federativa do Brasil de 1988."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Normas constitucionais: eficácia e aplicabilidade.",
+      "Hermenêutica Constitucional.",
+      "Métodos e princípios de interpretação constitucional."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Poder constituinte.",
+      "Origens da ideia.",
+      "Poder constituinte originário.",
+      "Poder constituinte derivado.",
+      "Natureza, titularidade, agente e veículo do poder constituinte.",
+      "Procedimentos e limites do poder de reforma da Constituição.",
+      "Nova Constituição e a ordem jurídica anterior.",
+      "Mutações constitucionais."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Estrutura da Constituição.",
+      "Preâmbulo da Constituição.",
+      "Ato das Disposições Constitucionais Transitórias."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Princípios Fundamentais da República Federativa do Brasil.",
+      "Objetivos fundamentais da República Federativa do Brasil.",
+      "Princípios que regem as relações internacionais da República Federativa do Brasil.",
+      "A democracia e seus tipos.",
+      "Estado Democrático de Direito.",
+      "Estado Social de Direito."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Direitos e garantias fundamentais.",
+      "Conceito, evolução, características, titularidade, destinatários, limites e restrições.",
+      "Direitos implícitos e explícitos.",
+      "Classificação dos direitos fundamentais.",
+      "Catálogo dos direitos fundamentais.",
+      "Direitos fundamentais em espécie.",
+      "Direitos e deveres individuais, coletivos e difusos.",
+      "Direitos fundamentais advenientes de tratados.",
+      "Princípios e regras.",
+      "A colisão entre princípios."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Direitos sociais.",
+      "Fundamentos constitucionais.",
+      "Espécies."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Nacionalidade.",
+      "Conceito.",
+      "Espécies.",
+      "Aquisição, perda e reaquisição da nacionalidade.",
+      "A quase nacionalidade.",
+      "Distinções entre brasileiro nato e naturalizado."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Direitos políticos e Partidos políticos."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Remédios constitucionais.",
+      "Habeas corpus.",
+      "Habeas data.",
+      "Mandado de segurança individual e coletivo.",
+      "Mandado de injunção.",
+      "Ação popular.",
+      "Ação Civil Pública."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Organização do Estado.",
+      "O Estado Unitário.",
+      "A Federação e suas características.",
+      "Tipologias do Federalismo.",
+      "A União Federal, os Estados-Membros e os Municípios.",
+      "O Distrito Federal e os Territórios Federais.",
+      "Modelos de repartição de competências.",
+      "Competências exclusivas, privativas, comuns e concorrentes.",
+      "Intervenção federal e intervenção estadual."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Separação de poderes.",
+      "Gênese histórica e teórica do princípio da separação de poderes."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Poder Legislativo.",
+      "Estrutura.",
+      "Organização, composição e atribuições do Congresso Nacional.",
+      "Câmara dos Deputados.",
+      "Senado Federal.",
+      "Comissões Parlamentares.",
+      "Imunidades parlamentares."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Processo legislativo no âmbito federal.",
+      "Fases e espécies normativas."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Poder Executivo.",
+      "Sistemas de governo.",
+      "Eleição e mandato do Presidente da República.",
+      "Substituição e sucessão do Presidente da República.",
+      "Perda do Mandato do Presidente da República.",
+      "Atribuições do Presidente da República.",
+      "Responsabilidade do Presidente da República."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Poder Judiciário.",
+      "Princípios.",
+      "Garantias.",
+      "Estrutura.",
+      "Competências."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Controle de Constitucionalidade.",
+      "A supremacia constitucional.",
+      "Jurisdição constitucional.",
+      "Natureza do ato inconstitucional.",
+      "Formas de controle de constitucionalidade.",
+      "Efeitos da decisão de inconstitucionalidade.",
+      "Espécies de inconstitucionalidade.",
+      "Controle difuso de constitucionalidade.",
+      "Controle concentrado de constitucionalidade.",
+      "Ação direta de inconstitucionalidade.",
+      "Ação declaratória de constitucionalidade.",
+      "Ação direta de inconstitucionalidade por omissão.",
+      "Ação direta de inconstitucionalidade interventiva.",
+      "Arguição de descumprimento de preceito fundamental.",
+      "Efeito vinculante.",
+      "Súmula vinculante.",
+      "Reclamação constitucional."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "As Funções Essenciais à Justiça."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "A defesa do Estado e das instituições democráticas.",
+      "Estado de defesa e estado de sítio.",
+      "Segurança pública."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Ordem social."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Jurisprudência do Supremo Tribunal Federal em matéria constitucional."
+     ]
+    }
+   ]
+  }
+ ]
+}

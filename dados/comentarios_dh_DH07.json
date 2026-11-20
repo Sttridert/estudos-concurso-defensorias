@@ -1,0 +1,55 @@
+{
+ "2021 - DPE-GO - Defensor Público|13": {
+  "c": "Gabarito oficial: C. A anistia de 1961 a 1979 foi concedida pela Lei 6.683/1979, que o STF considerou recepcionada pela Constituição na ADPF 153 (2010). A Corte IDH, em Gomes Lund (2010), decidiu em sentido contrário (incompatibilidade com a CADH), mas não \"homologada\" pelo STF.",
+  "p": "Misturar a decisão do STF com a da Corte IDH.",
+  "d": [
+   "Lei 6.683/1979",
+   "STF|ADPF 153",
+   "Corte IDH|Gomes Lund vs. Brasil"
+  ]
+ },
+ "2022 - DPE-PB - Defensor Público|90": {
+  "c": "O STJ julga mandado de segurança e habeas data contra ato de Ministro de Estado (CF, art. 105, I, b). TCU, PGR e Presidente do Senado, por exemplo, têm foro no STF; chefes de missão diplomática têm tratamento próprio.",
+  "p": "Autoridades parecidas que têm foro em outro tribunal.",
+  "d": [
+   "CF|art. 105, I, b",
+   "CF|art. 102, I, d"
+  ]
+ },
+ "2022 - DPE-PB - Defensor Público|97": {
+  "c": "O relatório final da Comissão Nacional da Verdade registra graves violações contra diferentes segmentos, como camponeses e militares (além de trabalhadores, igrejas, estudantes, povos indígenas, entre outros). As demais combinações trazem grupos que não aparecem como segmentos tratados dessa forma (matriz africana, judeus, ciganos). Confirmar no relatório.",
+  "p": "Misturar segmentos que o relatório de fato destaca com grupos que não são tratados nele.",
+  "d": [
+   "Lei 12.528/2011|Comissão Nacional da Verdade"
+  ]
+ },
+ "2025 - DPE-RS - Defensor Público|21": {
+  "c": "A Convenção Interamericana sobre Desaparecimento Forçado define o crime como a privação de liberdade de uma ou mais pessoas, de qualquer forma, praticada por agentes do Estado ou por pessoas ou grupos com autorização, apoio ou aquiescência do Estado, seguida da falta de informação ou recusa em reconhecer a privação. As erradas afirmam que o ordenamento brasileiro já tipificou o crime, ou que o STF, na ADPF 153, afastou a anistia.",
+  "p": "Dizer que o Brasil já adequou a legislação ou que a ADPF 153 afastou a Lei de Anistia.",
+  "d": [
+   "Convenção Interamericana sobre Desaparecimento Forçado|art. II",
+   "STF|ADPF 153"
+  ]
+ },
+ "2026 - DPE-BA - Defensor Público|100": {
+  "c": "O plano de proteção a defensores de direitos humanos deve incluir articulação interinstitucional e medidas de proteção coletiva, para modificar o contexto que gera o risco. A proteção não se limita à retirada da liderança do território nem depende só da polícia local. Confirmar o decreto atual do programa (o texto de 2023 reformulou a política).",
+  "p": "Dizer que a proteção é só individual ou policial.",
+  "d": [
+   "Programa de Proteção aos Defensores de Direitos Humanos|decreto federal"
+  ]
+ },
+ "2026 - DPE-MA - Defensor Público|97": {
+  "c": "Pelas diretrizes do CNJ sobre processos estruturais, os elementos que ajudam a identificar o litígio estrutural incluem a natureza incrementada e duradoura das intervenções, a prospectividade e a multipolaridade. Verticalidade, retrospectividade, impacto político e inexistência de coisa julgada não são os elementos indicados.",
+  "p": "Elementos com nomes parecidos (verticalidade, retrospectividade).",
+  "d": [
+   "CNJ|Recomendação/Resolução sobre processos estruturais"
+  ]
+ },
+ "2026 - DPE-MT - Defensor Público|89": {
+  "c": "As 100 Regras de Brasília e as normas de acesso à justiça impõem a remoção de barreiras formais e autorizam adaptações procedimentais para garantir acesso efetivo de grupos vulneráveis (como exigência de comprovante de residência de pessoa em situação de rua). As Regras são recomendações (soft law), e não normas vinculantes, e não se limitam ao processo penal.",
+  "p": "Dizer que as Regras são vinculantes ou restritas ao processo penal; exigir isonomia formal.",
+  "d": [
+   "100 Regras de Brasília|2008 (revisão de 2018)"
+  ]
+ }
+}

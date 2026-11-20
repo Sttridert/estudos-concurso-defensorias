@@ -1,0 +1,352 @@
+{
+ "1": {
+  "chave": "2021 - DPE-RR - Defensor Público|73",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "DH02.05",
+   "B": "DH02.05"
+  }
+ },
+ "2": {
+  "chave": "2022 - DPE-AM - Analista Jurídico (2)|52",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "DH03.02",
+   "B": "DH04.05"
+  }
+ },
+ "3": {
+  "chave": "2026 - DPE-BA - Defensor Público|99",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "DH08.02",
+   "B": "DH04.06",
+   "C": "DH04.07"
+  }
+ },
+ "4": {
+  "chave": "2025 - DPE-AM - Defensor Público|1",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "DH05.01",
+   "B": "DH05.01"
+  }
+ },
+ "5": {
+  "chave": "2026 - DPE-BA - Defensor Público|11",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "CO03.06",
+   "B": "CO03.06"
+  }
+ },
+ "6": {
+  "chave": "2021 - DPE-BA - Defensor Público|13",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "CO11.03",
+   "B": "CO11.03"
+  }
+ },
+ "7": {
+  "chave": "2026 - DPE-MT - Defensor Público|74",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "CO03.01",
+   "B": "CO03.01"
+  }
+ },
+ "8": {
+  "chave": "2019 - DPE-AM - Analista Jurídico|23",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "CO10.03",
+   "B": "CO10.03"
+  }
+ },
+ "9": {
+  "chave": "2018 - DPE-AM - Analista Jurídico|24",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "CO03.02",
+   "B": "CO03.02"
+  }
+ },
+ "10": {
+  "chave": "2022 - DPE-AP - Defensor Público|3",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "CO11.01",
+   "B": "CO11.01"
+  }
+ },
+ "11": {
+  "chave": "2021 - DPE-BA - Defensor Público|23",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "AD14.03",
+   "B": "AD14.03"
+  }
+ },
+ "12": {
+  "chave": "2022 - DPE-AM - Analista Jurídico|26",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "AD01.02",
+   "B": "AD01.02"
+  }
+ },
+ "13": {
+  "chave": "2026 - DPE-MA - Defensor Público|23",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "AD04.03",
+   "B": "AD04.03"
+  }
+ },
+ "14": {
+  "chave": "2021 - DPE-RR - Defensor Público|12",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "AD03.02",
+   "B": "AD03.02"
+  }
+ },
+ "15": {
+  "chave": "2022 - DPE-AP - Defensor Público|45",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "CV07.03",
+   "B": "CV07.03"
+  }
+ },
+ "16": {
+  "chave": "2025 - DPE-RS - Defensor Público|43",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "CV06.01",
+   "B": "CV05.02",
+   "C": "CV10.06"
+  }
+ },
+ "17": {
+  "chave": "2022 - DPE-AP - Defensor Público|42",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "CV07.01",
+   "B": "CV12.01",
+   "C": "CV07.04"
+  }
+ },
+ "18": {
+  "chave": "2021 - DPE-RR - Defensor Público|40",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "CV11.01",
+   "B": "CV09.01"
+  }
+ },
+ "19": {
+  "chave": "2025 - MPPI - Analista Ministerial|45",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "CV01.01",
+   "B": "CV01.01"
+  }
+ },
+ "20": {
+  "chave": "2021 - DPE-BA - Defensor Público|71",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "PC07.01",
+   "B": "PC07.01"
+  }
+ },
+ "21": {
+  "chave": "2019 - DPE-AM - Analista Jurídico|34",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "PC05.01",
+   "B": "PC05.01"
+  }
+ },
+ "22": {
+  "chave": "2025 - DPE-RS - Defensor Público|38",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "PC06.05",
+   "B": "PC06.05"
+  }
+ },
+ "23": {
+  "chave": "2018 - DPE-AM - Analista Jurídico|33",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "PC08.02",
+   "B": "PC08.02"
+  }
+ },
+ "24": {
+  "chave": "2021 - DPE-GO - Defensor Público|52",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "PC11.01",
+   "B": "PC11.01"
+  }
+ },
+ "25": {
+  "chave": "2022 - DPE-PB - Defensor Público|15",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "PC09.02",
+   "B": "PC02.01"
+  }
+ },
+ "26": {
+  "chave": "2023 - DPE-SP - Defensor Público|20",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "PE11.02",
+   "B": "PE11.02"
+  }
+ },
+ "27": {
+  "chave": "2021 - DPE-BA - Defensor Público|27",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "PE14.02",
+   "B": "PE10.02"
+  }
+ },
+ "28": {
+  "chave": "2025 - DPE-SP - Analista de Defensoria|60",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "PP01.01",
+   "B": "PP02.01",
+   "C": "PP04.02"
+  }
+ },
+ "29": {
+  "chave": "2021 - DPE-RR - Defensor Público|29",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "PP05.02",
+   "B": "PP05.01"
+  }
+ },
+ "30": {
+  "chave": "2026 - DPE-MT - Defensor Público|53",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "PP05.01",
+   "B": "PP05.01"
+  }
+ },
+ "31": {
+  "chave": "2023 - DPE-ES - Defensor Público|91",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "PP07.04",
+   "B": "PP08.01"
+  }
+ },
+ "32": {
+  "chave": "2022 - DPE-PB - Defensor Público|84",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "CA01.03",
+   "B": "CA06.01",
+   "C": "CA06.02"
+  }
+ },
+ "33": {
+  "chave": "2021 - DPE-SC - Defensor Público|39",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "CA02.05",
+   "B": "CA08.01",
+   "C": "CA03.04"
+  }
+ },
+ "34": {
+  "chave": "2026 - DPE-MA - Defensor Público|66",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "CA05.02",
+   "B": "CA05.02"
+  }
+ },
+ "35": {
+  "chave": "2021 - DPE-RR - Defensor Público|81",
+  "tipo": "divergência",
+  "opcoes": {
+   "A": "CA05.01",
+   "B": "CA06.04"
+  }
+ },
+ "36": {
+  "chave": "2023 - DPE-SP - Defensor Público|63",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "CA03.04",
+   "B": "CA03.04"
+  }
+ },
+ "37": {
+  "chave": "2021 - DPE-BA - Defensor Público|99",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "CA01.02",
+   "B": "CA01.02"
+  }
+ },
+ "38": {
+  "chave": "2018 - DPE-AM - Analista Jurídico|6",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "LP06.01",
+   "B": "LP06.01"
+  }
+ },
+ "39": {
+  "chave": "2019 - DPE-AM - Analista Jurídico|11",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "LP05.01",
+   "B": "LP05.01"
+  }
+ },
+ "40": {
+  "chave": "2022 - DPE-AM - Analista Jurídico (2)|1",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "LP01.03",
+   "B": "LP01.03"
+  }
+ },
+ "41": {
+  "chave": "2022 - DPE-AM - Analista Jurídico|15",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "PI01.01",
+   "B": "PI01.01"
+  }
+ },
+ "42": {
+  "chave": "2025 - DPE-SP - Analista de Defensoria|85",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "PI04.02",
+   "B": "PI04.02"
+  }
+ },
+ "43": {
+  "chave": "2022 - DPE-AM - Analista Jurídico|19",
+  "tipo": "controle",
+  "opcoes": {
+   "A": "PI02.01",
+   "B": "PI02.01"
+  }
+ }
+}

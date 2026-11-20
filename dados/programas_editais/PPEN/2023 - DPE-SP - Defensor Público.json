@@ -1,0 +1,224 @@
+{
+ "pasta": "2023 - DPE-SP - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "PPEN",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL PENAL",
+   "caracteres": 3814,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Processo penal e Estado Democrático.",
+      "Mídia e processo penal."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Processo penal sob as perspectivas de gênero, raça e classe.",
+      "Processo penal feminista.",
+      "Processo penal, violência policial e racismo estrutural.",
+      "Racismo algorítmico."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Processo penal estratégico.",
+      "Teoria dos jogos e processo penal."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Processo penal e novas tecnologias."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Acesso à justiça e processo penal.",
+      "Prerrogativas e garantias processuais penais dos defensores públicos.",
+      "Lei Orgânica Nacional da Defensoria Pública e Lei Orgânica da Defensoria Pública do Estado de São Paulo."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Impactos da pandemia de Covid-19 no processo penal."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Princípios processuais penais.",
+      "Direito processual constitucional.",
+      "Direitos e garantias do processo penal na Constituição Federal e nos tratados e convenções internacionais ratificadas pelo Brasil."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Sistemas processuais: processo penal inquisitório e acusatório.",
+      "Fontes e eficácia do direito processual penal.",
+      "Aplicação da lei processual penal no tempo e no espaço.",
+      "Interpretação e integração da lei processual penal."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Investigação preliminar.",
+      "Inquérito policial, investigação defensiva e outras formas de investigação.",
+      "Identificação criminal.",
+      "Identificação de perfil genético.",
+      "Juiz de garantias."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Meios de obtenção de prova na persecução criminal.",
+      "Busca e apreensão.",
+      "Interceptação telefônica.",
+      "Interceptação ambiental.",
+      "Quebra de sigilo das comunicações e de dados.",
+      "Colaboração premiada."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Prova no processo penal.",
+      "Prova e verdade.",
+      "Standard probatório.",
+      "Ônus da prova.",
+      "Procedimento probatório.",
+      "Admissibilidade, produção e valoração da prova.",
+      "Cadeia de custódia da prova.",
+      "Meios de prova.",
+      "Prova e Inteligência Artificial.",
+      "Prova digital.",
+      "Indícios."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Prisão e liberdade.",
+      "Prisão em flagrante.",
+      "Prisão preventiva.",
+      "Prisão temporária.",
+      "Prisão domiciliar.",
+      "Substituição da privação de liberdade de gestantes, mães, pais e responsáveis por crianças e pessoas com deficiência.",
+      "Relaxamento e liberdade provisória.",
+      "Medidas cautelares diversas da prisão.",
+      "Audiências de custódia.",
+      "Medidas assecuratórias."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Ação penal de iniciativa pública e privada.",
+      "Denúncia e Queixa-crime.",
+      "Condições da ação.",
+      "Pressupostos processuais."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Jurisdição e competência.",
+      "Relações entre jurisdição civil e jurisdição penal.",
+      "Ação civil ex delicto."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Sujeitos processuais penais e seus papeis.",
+      "Juiz, Ministério Público, Defensoria Pública e acusado no processo penal.",
+      "Assistentes e auxiliares da justiça no processo penal.",
+      "O papel da vítima no processo penal.",
+      "Acordo de não persecução penal.",
+      "Defensoria Pública como custos vulnerabilis no processo penal."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Atuação interdisciplinar no processo penal.",
+      "Centro de Atendimento Multidisciplinar (CAM) da Defensoria Pública do Estado de São Paulo."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "A defesa no processo penal.",
+      "Autodefesa e defesa técnica.",
+      "Questões e processos incidentes.",
+      "Citação, notificação e intimação.",
+      "Comunicação de atos processuais por meio eletrônico.",
+      "Revelia.",
+      "Audiências por videoconferência e telepresenciais.",
+      "Suspensão condicional do processo."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Fundamentação das decisões.",
+      "Preclusão.",
+      "Sentença penal.",
+      "Coisa julgada.",
+      "Efeitos da sentença penal.",
+      "Emendatio libelli e mutatio libelli."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Processo e procedimento.",
+      "Procedimento comum e procedimento especial.",
+      "Rito ordinário.",
+      "Rito sumário.",
+      "Rito sumaríssimo (Juizados Especiais Criminais).",
+      "Procedimento relativo ao Tribunal do Júri.",
+      "Procedimentos especiais."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Nulidades.",
+      "Recursos e outros meios de impugnação das decisões judiciais.",
+      "Revisão criminal.",
+      "Habeas corpus.",
+      "Mandado de segurança em matéria penal."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Processo penal, execução penal e saúde mental.",
+      "Medidas de segurança.",
+      "Reforma psiquiátrica.",
+      "Execução penal.",
+      "Inquisição e sistema acusatório da execução penal.",
+      "Jurisdicionalização da execução penal.",
+      "Competência.",
+      "Lei de Execução Penal.",
+      "Aspectos processuais da execução das penas privativas de liberdade, restritivas de direitos e multa.",
+      "Incidentes.",
+      "Recursos."
+     ]
+    }
+   ]
+  }
+ ]
+}

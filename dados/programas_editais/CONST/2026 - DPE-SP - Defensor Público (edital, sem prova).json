@@ -1,0 +1,186 @@
+{
+ "pasta": "2026 - DPE-SP - Defensor Público (edital, sem prova)",
+ "banca": "FCC",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 6153,
+   "avisos": [
+    "hifen removido: ...norte-|americano."
+   ],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Constitucionalismo.",
+      "Conceito e surgimento.",
+      "Revoluções liberais do século XVIII.",
+      "Evolução do constitucionalismo.",
+      "Estado liberal, estado social e estado pós-social.",
+      "Neoconstitucionalismo.",
+      "História das Constituições: origens, documentos históricos constitucionais.",
+      "Constitucionalismo latino-americano.",
+      "Plurinacionalidade e Pluralismo Jurídico."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Direito constitucional: conceito, origem, objeto, conteúdo, métodos, abordagens e fontes.",
+      "Constitucionalização do Direito.",
+      "Teoria Geral do Estado e Teorias Constitucionais.",
+      "Formas de Estado, formas de governo e sistemas de governo.",
+      "Direito Constitucional Transnacional.",
+      "Supraconstitucionalidade.",
+      "Constitucionalismo multinível.",
+      "Bloco de constitucionalidade."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Teoria da Constituição.",
+      "Formação da Constituição e Poder Constituinte: perspectiva histórica, natureza, espécies, atuação, limitações.",
+      "Evolução histórica das constituições brasileiras.",
+      "Constituição: conceito, sentidos, concepções, fontes, classificações e elementos.",
+      "Supremacia e rigidez constitucional.",
+      "Constituição formal e Constituição material.",
+      "Estrutura e normatividade da Constituição brasileira de 1988.",
+      "Teoria da recepção.",
+      "Desconstitucionalização.",
+      "Repristinação."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Normas constitucionais: conceito, conteúdo, finalidade, estrutura lógica, integração, aplicação no tempo e espaço, eficácia e aplicabilidade.",
+      "Interpretação constitucional: métodos, princípios, classificações, técnicas e conceitos aplicados à interpretação constitucional.",
+      "Textualismo, originalismo e interpretação judicial evolutiva.",
+      "Constitucionalização simbólica: a constitucionalização, texto constitucional e realidade constitucional.",
+      "Efetividade das normas constitucionais."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Ativismo judicial, judicialização da política e politização da Justiça.",
+      "Concepções de ativismo judicial.",
+      "Autocontenção judicial: conceito e critérios.",
+      "Minimalismo judicial.",
+      "Deferência ao legislador.",
+      "Limitações institucionais do Poder Judiciário.",
+      "Transformação social e concretização de direitos na via político-administrativa.",
+      "Poder Judiciário e Poderes Políticos como arenas para efetivação de direitos."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Jurisdição constitucional.",
+      "Origens e evolução.",
+      "Modelo europeu-continental e modelo norteamericano.",
+      "Tribunais Constitucionais e Supremas Cortes.",
+      "Competências e modelos decisórios.",
+      "Tipologia da jurisdição constitucional.",
+      "Técnicas de decisão dos Tribunais Constitucionais e das Supremas Cortes.",
+      "Controle concentrado e abstrato.",
+      "Efeito vinculante e eficácia erga omnes.",
+      "Controle difuso e incidental.",
+      "Controle preventivo e repressivo.",
+      "Controle político e controle jurisdicional.",
+      "Controle de constitucionalidade e legitimidade democrática.",
+      "Dificuldade contramajoritária da jurisdição constitucional.",
+      "Efeitos, estabilidade e superação das decisões no controle de constitucionalidade.",
+      "Modulação de efeitos.",
+      "Jurisdição constitucional e coisa julgada.",
+      "Consensualidade e jurisdição constitucional."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "O controle de constitucionalidade na Constituição de 1988.",
+      "O controle difuso, incidental ou concreto da constitucionalidade.",
+      "Cláusula da reserva de plenário.",
+      "O controle concentrado, geral ou abstrato da constitucionalidade.",
+      "Ação Direta de Inconstitucionalidade (ADI), Ação Direta de Inconstitucionalidade por Omissão (ADO), Ação Declaratória de Constitucionalidade (ADC) e Arguição de Descumprimento de Preceito Fundamental (ADPF).",
+      "Representação interventiva.",
+      "Normativa constitucional, legal e jurisprudencial.",
+      "Técnicas decisórias adotadas pelo Supremo Tribunal Federal.",
+      "Parâmetros.",
+      "Reclamação constitucional: conceito, cabimento, requisitos, funções e limites."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Teoria da inconstitucionalidade.",
+      "Espécies de inconstitucionalidade.",
+      "Inconstitucionalidade por ação e por omissão.",
+      "Vícios formais, materiais e subespécies.",
+      "Inconstitucionalidade originária e superveniente.",
+      "Estado de coisas inconstitucional.",
+      "Litígios, demandas e processos estruturais."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Controle de constitucionalidade no âmbito estadual.",
+      "Controle de constitucionalidade do direito estadual e do direito municipal.",
+      "A relação entre o controle de constitucionalidade exercido pelo Supremo Tribunal Federal e aquele desempenhado pelos Tribunais de Justiça."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Remédios constitucionais.",
+      "Habeas corpus, mandado de segurança, mandado de injunção, habeas data, ação civil pública e ação popular.",
+      "Normativa constitucional e legislação regulamentar."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Processos formais e informais de mudança da Constituição.",
+      "Revisão, reforma e emenda constitucional: conceitos e limitações.",
+      "Mutação constitucional: conceito, instrumentos e limites."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Sistema e Princípios constitucionais: conceitos, natureza jurídica e função.",
+      "Regras e princípios: normatividade, interpretação, aplicação e colisões.",
+      "Princípios constitucionais sensíveis, estabelecidos e extensíveis.",
+      "Preâmbulo da Constituição.",
+      "Princípios constitucionais fundamentais: soberania, cidadania, dignidade da pessoa humana, valores sociais do trabalho e da livre iniciativa, pluralismo político, república, federação, estado democrático de direito e separação de poderes.",
+      "Princípio da igualdade: igualdade formal, proibição de discriminação, direito à diferença, políticas de distribuição e reconhecimento, igualdade material, discriminação positiva e ações afirmativas, justiça, solidariedade e desenvolvimento sustentável.",
+      "Objetivos e fundamentos do Estado Brasileiro.",
+      "Princípios reitores das relações internacionais do País.",
+      "Valores constitucionais."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Direitos e garantias fundamentais: conceito, evolução, documentos históricos, características, gerações e dimensões, classificações, titularidade e destinatários, funções, eficácia, limitações, restrições, conflitos, colisões e interpretação.",
+      "Princípio do respeito ao conteúdo essencial dos direitos fundamentais.",
+      "Princípio da proporcionalidade: conceito, origem, conteúdo, elementos e subprincípios.",
+      "Princípio da proibição do excesso.",
+      "Princípio da proibição da proteção insuficiente.",
+      "Princípio da razoabilidade: conceito, origem e conteúdo.",
+      "Eficácia vertical e horizontal dos direitos fundamentais.",
+      "Orçamento e reserva do possível.",
+      "O princípio da proibição do retrocesso social.",
+      "Proteção judicial dos direitos fundamentais: as ações constitucionais e processos constitucionais.",
+      "Proteção não judicial dos direitos fundamentais:"
+     ]
+    }
+   ]
+  }
+ ]
+}

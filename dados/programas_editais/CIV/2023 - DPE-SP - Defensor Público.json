@@ -1,0 +1,586 @@
+{
+ "pasta": "2023 - DPE-SP - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "CIV",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 10196,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Ordenamento jurídico e conceito de sistemas.",
+      "Estrutura e função do Direito.",
+      "Pluralismo jurídico."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Evolução do Direito Privado no Brasil.",
+      "Colonialismo e colonialidade na formação do direito privado no Brasil.",
+      "Aspectos cíveis do racismo estrutural, institucional, recreativo, religioso e interpessoal.",
+      "Dicotomia entre Direito Público e Direito Privado.",
+      "Direitos subjetivos.",
+      "Codificação, completude e formalismo jurídico."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Constitucionalização do Direito Civil.",
+      "Princípios de interpretação constitucional.",
+      "Aplicação direta da Constituição nas relações privadas.",
+      "Proteção dos grupos sociais vulneráveis no âmbito do Direito Privado."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Fontes e modelos de Direito.",
+      "Princípios informativos do Código Civil de 2002."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Cláusulas gerais: conceito, características e funções.",
+      "Cláusulas gerais no Código Civil de 2002."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Boa-fé.",
+      "Conceito, espécies, funções e aplicabilidade nas relações privadas."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Função social.",
+      "Conceito, espécies e aplicabilidade nas relações privadas."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Lei de Introdução às normas do Direito Brasileiro.",
+      "Regime jurídico emergencial e transitório das relações jurídicas de direito privado no período de pandemia do coronavírus."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Pessoa natural.",
+      "Aquisição e extinção da personalidade.",
+      "Direitos da personalidade.",
+      "Nascituro.",
+      "Embrião excedentário.",
+      "Nome.",
+      "Nome social.",
+      "Estado.",
+      "Registro das pessoas naturais.",
+      "Transexualidade.",
+      "Capacidade e emancipação.",
+      "Tutela, curatela e tomada de decisão apoiada.",
+      "Teoria das Incapacidades Civis.",
+      "Capacidade civil e uso problemático de drogas.",
+      "Aspectos cíveis do direito de atenção à saúde mental.",
+      "Tratamento ambulatorial, internação voluntária, involuntária e compulsória.",
+      "Ausência.",
+      "Administração de bens e direitos de incapazes.",
+      "Domicílio e residência."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Pessoas jurídicas.",
+      "Definição e natureza.",
+      "Classificações.",
+      "Registro.",
+      "Nome.",
+      "Domicílio.",
+      "Prova.",
+      "Teoria da desconsideração da personalidade jurídica.",
+      "Pessoas Jurídicas como titulares de direitos fundamentais.",
+      "Fundações.",
+      "Associações.",
+      "Organizações sociais."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Dos bens.",
+      "Bens considerados em si mesmos.",
+      "Bens imóveis.",
+      "Bens móveis.",
+      "Bens fungíveis e consumíveis.",
+      "Bens divisíveis.",
+      "Bens singulares e coletivos.",
+      "Bens reciprocamente considerados.",
+      "Bens públicos."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Fatos jurídicos.",
+      "Fatos e fatos juridicamente qualificados.",
+      "Classificação.",
+      "Aquisição, modificação e extinção de situações jurídicas.",
+      "Atos jurídicos.",
+      "Autonomia privada.",
+      "Conceito, elementos e modalidades.",
+      "Negócio jurídico.",
+      "Conceito e classificação.",
+      "Vontade e autonomia privada.",
+      "Existência, validade e eficácia.",
+      "Defeitos dos negócios jurídicos.",
+      "Modificação, conservação e extinção dos negócios jurídicos."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Ato ilícito extracontratual.",
+      "Causas excludentes de ilicitude."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Abuso do direito.",
+      "Conceito, natureza, requisitos e efeitos.",
+      "Modalidades de abuso do direito.",
+      "Aplicabilidade nas relações de Direito Público e Privado."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Prescrição e decadência."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Da prova."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Direito das obrigações.",
+      "Obrigação complexa.",
+      "Conceito, elementos, fontes e classificação.",
+      "Modalidades.",
+      "Obrigações solidárias.",
+      "Transmissão das obrigações: Cessão de crédito e assunção de dívida.",
+      "Adimplemento das obrigações: sujeitos, objeto, prova, lugar e tempo do pagamento.",
+      "Extinção das obrigações: Pagamento, pagamento em consignação, pagamento com sub-rogação, imputação do pagamento, dação em pagamento, novação, compensação; remissão; confusão.",
+      "Inadimplemento das Obrigações.",
+      "Inadimplemento absoluto e mora.",
+      "Perdas e danos.",
+      "Juros.",
+      "Correção monetária.",
+      "Cláusula penal.",
+      "Arras.",
+      "Prisão Civil."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Contratos.",
+      "Conceito, classificação e generalidades.",
+      "Funções e efeitos da boa-fé nas relações contratuais.",
+      "Função social dos contratos.",
+      "Princípio da equivalência material.",
+      "Formação dos contratos.",
+      "Estipulação em favor de terceiro.",
+      "Promessa de fato de terceiro.",
+      "Vícios redibitórios.",
+      "Evicção.",
+      "Contratos aleatórios.",
+      "Contrato preliminar.",
+      "Contrato com pessoa a declarar.",
+      "Extinção dos contratos.",
+      "Distrato.",
+      "Cláusula resolutiva.",
+      "Exceção de contrato não cumprido.",
+      "Teoria da imprevisão.",
+      "Teoria da resolução por onerosidade excessiva.",
+      "Teoria da base objetiva do negócio jurídico.",
+      "Teoria do adimplemento substancial."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Contratos em espécie.",
+      "Compra e venda.",
+      "Troca.",
+      "Venda com reserva de domínio.",
+      "Doação.",
+      "Locação de coisas.",
+      "Empréstimo, comodato e mútuo.",
+      "Prestação de serviço.",
+      "Empreitada.",
+      "Depósito.",
+      "Mandato.",
+      "Comissão.",
+      "Agência e distribuição.",
+      "Corretagem.",
+      "Transporte.",
+      "Seguro.",
+      "Fiança.",
+      "Planos e seguros privados de assistência à saúde.",
+      "Empréstimo consignado em folha de pagamento.",
+      "Alienação fiduciária em garantia."
+     ]
+    },
+    {
+     "item": "20",
+     "frases": [
+      "Dos atos unilaterais.",
+      "Promessa de recompensa.",
+      "Gestão de negócios.",
+      "Pagamento indevido.",
+      "Enriquecimento sem causa."
+     ]
+    },
+    {
+     "item": "21",
+     "frases": [
+      "Responsabilidade civil.",
+      "Conceito e princípios.",
+      "Evolução da responsabilidade civil no Direito brasileiro.",
+      "Funções da responsabilidade civil contemporânea.",
+      "Responsabilidade civil extracontratual, pré-contratual e contratual.",
+      "Teorias da responsabilidade civil: conceito, espécies, requisitos e aplicabilidade.",
+      "Espécies de responsabilidade civil.",
+      "Causas excludentes da responsabilidade civil.",
+      "Obrigação de indenizar.",
+      "Indenização e compensação de danos.",
+      "Securitização.",
+      "DPVAT."
+     ]
+    },
+    {
+     "item": "22",
+     "frases": [
+      "Preferências e privilégios creditórios."
+     ]
+    },
+    {
+     "item": "23",
+     "frases": [
+      "Direito de empresa.",
+      "O Direito de Empresa no Código Civil.",
+      "Da Empresa e Do Empresário.",
+      "Ato empresarial.",
+      "Da Sociedade Empresarial.",
+      "Sociedade não personificada.",
+      "Sociedade Personificada.",
+      "Sociedade Simples.",
+      "Sociedade em nome coletivo.",
+      "Sociedade em comandita simples.",
+      "Sociedade Limitada.",
+      "Sociedade Cooperativa.",
+      "Sociedades Coligadas.",
+      "Registro das sociedades.",
+      "Transformação, incorporação, fusão e liquidação.",
+      "Do Estabelecimento.",
+      "Nome Empresarial.",
+      "Dos Prepostos.",
+      "Desconsideração da personalidade jurídica."
+     ]
+    },
+    {
+     "item": "24",
+     "frases": [
+      "Direito das coisas.",
+      "Posse.",
+      "Teorias da posse.",
+      "Conceito, classificação, aquisição, efeitos, proteção e perda da posse.",
+      "Função social da posse.",
+      "Teorias da função social da posse.",
+      "Conceito, conteúdo e concretização da função social da posse.",
+      "Função socioambiental da posse.",
+      "Proteção jurídica da posse de pessoas em situação de vulnerabilidade.",
+      "Proteção jurídica da posse no contexto da pandemia do COVID-19 e no contexto pós-pandêmico."
+     ]
+    },
+    {
+     "item": "25",
+     "frases": [
+      "Direitos reais.",
+      "Propriedade.",
+      "Conceito, classificação, aquisição, proteção e perda da propriedade.",
+      "Evolução da propriedade no Direito brasileiro.",
+      "Fundamentos jurídicos para apropriação de terras no Regime das Sesmarias.",
+      "Lei de Terras (Lei nº 601/1850).",
+      "Mercantilização da terra e absolutização da propriedade fundiária no direito brasileiro.",
+      "Disciplina constitucional da propriedade.",
+      "Função social da propriedade: conceito, conteúdo e concretização da função social da propriedade.",
+      "Função socioambiental da propriedade.",
+      "Parcelamento do solo urbano.",
+      "Regularização fundiária de assentamentos localizados em áreas urbanas."
+     ]
+    },
+    {
+     "item": "26",
+     "frases": [
+      "Direitos de vizinhança.",
+      "Condomínio geral.",
+      "Condomínio edilício.",
+      "Propriedade resolúvel.",
+      "Propriedade fiduciária."
+     ]
+    },
+    {
+     "item": "27",
+     "frases": [
+      "Direitos reais sobre coisa alheia.",
+      "Superfície.",
+      "Direito de Sobrelevação.",
+      "Servidões.",
+      "Uso.",
+      "Usufruto.",
+      "Habitação."
+     ]
+    },
+    {
+     "item": "28",
+     "frases": [
+      "Direito real à aquisição.",
+      "Direito do promitente comprador.",
+      "Compromisso de venda e compra.",
+      "Adjudicação compulsória."
+     ]
+    },
+    {
+     "item": "29",
+     "frases": [
+      "Direitos reais em garantia.",
+      "Penhor.",
+      "Hipoteca."
+     ]
+    },
+    {
+     "item": "30",
+     "frases": [
+      "Entidades familiares.",
+      "Origem e conceitos.",
+      "Relações familiares plurais.",
+      "Fundamentos da diversidade familiar e afetiva.",
+      "Diversidade sexual.",
+      "Família homoafetiva.",
+      "Princípios constitucionais da família.",
+      "Princípios constitucionais aplicáveis às relações familiares.",
+      "Planejamento familiar.",
+      "Violência doméstica.",
+      "Homofobia.",
+      "Discriminação em razão de orientação sexual (Lei Estadual nº 10.948/2001)."
+     ]
+    },
+    {
+     "item": "31",
+     "frases": [
+      "Esponsais.",
+      "Casamento heteroafetivo e homoafetivo: capacidade, impedimentos, causas suspensivas, habilitação, celebração, eficácia, direitos e deveres.",
+      "Invalidade do casamento, separação e divórcio.",
+      "Direito patrimonial.",
+      "Regime de bens: espécies.",
+      "Pacto antenupcial.",
+      "Meação e sucessão do cônjuge.",
+      "Usufruto e administração de bens de filhos incapazes.",
+      "Bem de família."
+     ]
+    },
+    {
+     "item": "32",
+     "frases": [
+      "Relações de parentesco.",
+      "Vínculos de parentesco.",
+      "Multiparentalidade.",
+      "Ascendência genética.",
+      "Homoparentalidade.",
+      "Paternidade e maternidade.",
+      "Filiação.",
+      "Princípios relativos à filiação.",
+      "Espécies de filiação.",
+      "Origem genética.",
+      "Reprodução assistida.",
+      "Reconhecimento de filhos.",
+      "Socioafetividade.",
+      "Adoção."
+     ]
+    },
+    {
+     "item": "33",
+     "frases": [
+      "Proteção da pessoa dos filhos.",
+      "Convivência familiar.",
+      "Poder familiar.",
+      "Guarda.",
+      "Direito de visitas.",
+      "Alienação Parental."
+     ]
+    },
+    {
+     "item": "34",
+     "frases": [
+      "União estável heteorafetiva e homoafetiva.",
+      "Aspectos constitucionais.",
+      "Características, estado, impedimentos, direitos, deveres e efeitos patrimoniais.",
+      "Regime de bens, meação e sucessão do companheiro.",
+      "Uniões estáveis concomitantes.",
+      "Concubinato."
+     ]
+    },
+    {
+     "item": "35",
+     "frases": [
+      "Alimentos.",
+      "Princípios informativos do direito alimentar.",
+      "Conceito.",
+      "Natureza.",
+      "Classificação dos alimentos.",
+      "Características do direito alimentar.",
+      "Características da obrigação alimentar.",
+      "Origens e sujeitos das obrigações alimentares.",
+      "Alimentos Gravídicos."
+     ]
+    },
+    {
+     "item": "36",
+     "frases": [
+      "Sucessão.",
+      "Disposições gerais.",
+      "Herança.",
+      "Vocação hereditária.",
+      "Aceitação e renúncia.",
+      "Exclusão da sucessão.",
+      "Herança jacente.",
+      "Herança vacante.",
+      "Sucessão legítima e sucessão testamentária.",
+      "Inventário e partilha.",
+      "Arrolamentos.",
+      "Alvarás judiciais.",
+      "Partilha de bens e direitos.",
+      "ITCMD e Lei Estadual nº 10.705/2000)."
+     ]
+    },
+    {
+     "item": "37",
+     "frases": [
+      "Registros Públicos (Lei Federal nº 6.015/1973)."
+     ]
+    },
+    {
+     "item": "38",
+     "frases": [
+      "Código de Defesa do Consumidor (Lei Federal nº 8.078/1990)."
+     ]
+    },
+    {
+     "item": "39",
+     "frases": [
+      "Estatuto da Criança e do Adolescente (Lei Federal nº 8.069/1990)."
+     ]
+    },
+    {
+     "item": "40",
+     "frases": [
+      "Lei de Locações (Lei Federal nº 8.245/1991)."
+     ]
+    },
+    {
+     "item": "41",
+     "frases": [
+      "Estatuto da Cidade (Lei Federal nº 10.257/2001)."
+     ]
+    },
+    {
+     "item": "42",
+     "frases": [
+      "Estatuto da Pessoa Idosa (Lei Federal nº 10.741/2003)."
+     ]
+    },
+    {
+     "item": "43",
+     "frases": [
+      "Bem de Família (Lei Federal nº 8.009/1990)."
+     ]
+    },
+    {
+     "item": "44",
+     "frases": [
+      "Alimentos (Lei Federal nº 5.478/1968)."
+     ]
+    },
+    {
+     "item": "45",
+     "frases": [
+      "Alimentos gravídicos (Lei Federal nº 11.804/2008)."
+     ]
+    },
+    {
+     "item": "46",
+     "frases": [
+      "Parcelamento do solo (Lei Federal nº 6.766/1979)."
+     ]
+    },
+    {
+     "item": "47",
+     "frases": [
+      "Regularização Fundiária (Lei Federal nº 13.465/2017)."
+     ]
+    },
+    {
+     "item": "48",
+     "frases": [
+      "Locação social (Lei Estadual nº 10.365/1999 e Decreto Estadual nº 55.334/2010, alterado pelo Decreto Estadual nº 55.370/10)."
+     ]
+    },
+    {
+     "item": "49",
+     "frases": [
+      "Estatuto da pessoa com deficiência (Lei Federal nº 13.146/2015)."
+     ]
+    },
+    {
+     "item": "50",
+     "frases": [
+      "Proteção de Dados Pessoais e a Lei nº 13.709, de 14 de agosto de 2018."
+     ]
+    },
+    {
+     "item": "51",
+     "frases": [
+      "Resolução do CNJ nº 125/2010, nº 131/2011, nº 175/2013, nº 270/2018, nº 295/2019 e nº 425/2021."
+     ]
+    },
+    {
+     "item": "52",
+     "frases": [
+      "Provimentos do CNJ nº 16/2012, nº 19/2012, nº 28/2013, nº 44/15, nº 65/2017, nº 73/2018, nº 82/2019, nº 104/2020 e nº 122/2021."
+     ]
+    },
+    {
+     "item": "53",
+     "frases": [
+      "Provimento da Corregedoria Geral do TJSP nº 18/2012, nº 16/2013 e nº 21/2013."
+     ]
+    }
+   ]
+  }
+ ]
+}

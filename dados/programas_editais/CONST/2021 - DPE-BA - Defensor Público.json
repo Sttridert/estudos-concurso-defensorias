@@ -1,0 +1,184 @@
+{
+ "pasta": "2021 - DPE-BA - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 8055,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Direito Constitucional: conceito e objeto, origem, formação, conteúdo, fontes, métodos de trabalho."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Constituição: tipologia, classificação, concepções, legitimidade, pauta normativa e pauta axiológica.",
+      "A supremacia da Constituição.",
+      "A força normativa da Constituição."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Poder constituinte: a) Perspectivas históricas; b) Poder Constituinte Originário: caracterização, função, finalidade, atributos, natureza; c) Espécies de Poder Constituinte Derivado: atuação e limitações; d) “Poder Constituinte Supranacional”."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Do Sistema Constitucional: a Constituição como um sistema de normas.",
+      "Os valores na Constituição.",
+      "Dos preceitos fundamentais.",
+      "Fins e funções do Estado."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Princípios fundamentais da República Federativa do Brasil: fundamentos, objetivos e princípios."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "A constitucionalização simbólica: a constitucionalização, texto constitucional e realidade constitucional.",
+      "Efetividade das normas constitucionais."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Normas constitucionais: natureza, classificação, lacunas na Constituição, espécies e características, princípios jurídicos e regras de direito.",
+      "Aplicabilidade e Eficácia das normas constitucionais e tutela das situações subjetivas."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Hermenêutica e interpretação constitucional.",
+      "Métodos e conceitos aplicados à interpretação.",
+      "Teorias da interpretação constitucional.",
+      "Princípios de interpretação especificamente constitucionais.",
+      "A sociedade aberta dos intérpretes da Constituição.",
+      "Criação judicial do Direito.",
+      "“Juízes legisladores”?",
+      "Jurisdição constitucional e consequências da interpretação."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Constitucionalismo e neoconstitucionalismo."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Teoria da justiça constitucional: a) O guardião da Constituição; b) Conceitos de justiça constitucional, jurisdição constitucional e Tribunal Constitucional; c) Legitimidade e limites do Tribunal Constitucional; d) Funções e morfologia do Tribunal Constitucional; e) Relação entre os poderes na justiça constitucional."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Teoria geral do controle de constitucionalidade.",
+      "O controle difuso de constitucionalidade.",
+      "O controle concentrado de constitucionalidade (ADI, ADI por omissão, ADI interventiva, ADC, ADPF).",
+      "Mutações constitucionais.",
+      "Técnicas de decisão dos Tribunais Constitucionais.",
+      "Decisões aditivas e substitutivas dos Tribunais Constitucionais.",
+      "Controle de constitucionalidade do direito estadual e do direito municipal.",
+      "Bloco de constitucionalidade."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Processos constitucionais.",
+      "II – 1.",
+      "Organização do Estado: a) Formação, desenvolvimento, evolução, soberania, globalização e comunidades internacionais; b) Cidadania, república e democracia; c) Estado Federal: conceito, surgimento, evolução, características e vedações; c) Federação brasileira: componentes e intervenção.",
+      "Competências e sua repartição.",
+      "Conflitos jurídicos no Estado Federal brasileiro.",
+      "Princípio da simetria e autonomia dos entes federativos; d) Federalismo cooperativo, princípio da solidariedade e igualação das condições sociais de vida; e) Federalismo assimétrico; 2.",
+      "União: natureza jurídica, competências e bens.",
+      "Territórios.",
+      "Estados federados: natureza jurídica, competências, autonomia, capacidade de auto-organização e seus limites, Constituição Estadual e seus elementos, e organização política do Estado.",
+      "Municípios: natureza jurídica, criação, competências, autonomia, capacidade de auto-organização e seus limites, lei orgânica e seus elementos, regiões metropolitanas, aglomerações urbanas e microrregiões.",
+      "Distrito Federal.",
+      "Organização administrativa do Estado: a) Administração Pública: noção, normas e organização; b) Princípios constitucionais da Administração Pública; c) Servidores públicos civis e militares: regime jurídico constitucional; d) Responsabilidade civil do Estado.",
+      "Organização funcional do Estado: a) Princípio da separação dos poderes: essência, evolução, significado e atualidade; b) Controles interorgânicos e funções típicas e atípicas de cada poder.",
+      "Poder Legislativo: a) Funções, organização e funcionamento; b) Atos parlamentares; c) Espécies normativas; d) Processo legislativo; e) Comissões; f) Estatuto dos Congressistas; g) Tribunal de Contas.",
+      "Poder Executivo: a) Presidente da República, Governadores e Prefeitos: eleição, reeleição, perda do mandato, impedimento, substituição, sucessão, vacância, responsabilidade e atribuições; b) Ministros de Estado, Conselho da República e Conselho 12 de Defesa Nacional.",
+      "Poder Judiciário: a) Funções, organização, competências e funcionamento; b) Estatuto da Magistratura e seus princípios informativos; c) Garantias institucionais da função judicial; d) Supremo Tribunal Federal; e) Jurisprudência do Supremo Tribunal Federal; f) Supremo Tribunal Federal e o uso de jurisprudência estrangeira e internacional; g) Precatórios; h) Súmula vinculante; i) Reclamação constitucional; j) Recurso extraordinário; k) Amicus curiae e audiências públicas; l) Conselho Nacional de Justiça; m) Responsabilidade do Estado por atos jurisdicionais; n) O Poder Judiciário no Estado de Direitos; o) Políticas públicas e controle jurisdicional; p) Ativismo judicial.",
+      "Funções essenciais à Justiça: a) Ministério Público: regime jurídico constitucional; b) Defensoria Pública: enquadramento constitucional, princípios, garantias institucionais e funcionais, princípio do defensor natural; c) Advocacia Pública: Advocacia da União e Procuradorias; d) Advocacia.",
+      "Sistema constitucional das crises: a) Estado de defesa; b) Estado de sítio; c) Forças armadas; d) Segurança pública."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Do Sistema Tributário Nacional;"
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Finanças públicas: a) Normas gerais; b) Orçamentos: princípios, elaboração, gestão, fiscalização e controle da execução orçamentária; c) Revisão judicial das escolhas orçamentárias."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Ordem econômica e financeira: a) Princípios gerais e fins da ordem econômica; b) Atuação e posicionamento do Estado no domínio econômico; c) Das propriedades na ordem econômica; d) Política urbana: bases constitucionais do direito urbanístico; e) Política agrícola fundiária e reforma agrária; f) Sistema financeiro nacional; g) Justiça social."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Ordem social: a) Fundamentos e objetivos; b) Seguridade social; c) Educação, cultura e desporto; d) Comunicação social; e) Meio ambiente; f) Família, criança, adolescente, jovem e idoso; g) Índios; h) Pessoas com deficiência; i) Justiça social.",
+      "III – 1.",
+      "Direitos e garantias fundamentais: conceito, evolução, estrutura, características, funções, titularidade, destinatários, colisão e ponderação de valores.",
+      "Teoria geral das garantias.",
+      "Direitos fundamentais em espécie.",
+      "Conflito de direitos fundamentais.",
+      "Restrições a direitos fundamentais.",
+      "Teorias interna e externa.",
+      "O princípio do respeito ao conteúdo essencial dos direitos fundamentais.",
+      "Teorias objetiva e subjetiva.",
+      "Teorias absoluta e relativa.",
+      "O princípio da proporcionalidade: conceito, origem, conteúdo, elementos e subprincípios.",
+      "O princípio da proibição do excesso.",
+      "O princípio da proibição da proteção insuficiente.",
+      "O princípio da razoabilidade: conceito, origem e conteúdo.",
+      "Eficácia vertical e horizontal dos direitos fundamentais.",
+      "Orçamento e reserva do possível.",
+      "O princípio da proibição do retrocesso social.",
+      "Proteção judicial dos direitos fundamentais: as ações constitucionais.",
+      "Proteção não judicial dos direitos fundamentais: direito de resistência e direito de petição.",
+      "Direitos sociais.",
+      "Teoria geral dos direitos sociais.",
+      "Classificação.",
+      "Efetivação.",
+      "O direito ao mínimo existencial: origem, conceito, fundamento e objeto.",
+      "Direito de nacionalidade.",
+      "Condição jurídica do estrangeiro no Brasil.",
+      "Direito de cidadania: direitos políticos positivos e negativos, partidos políticos.",
+      "Direitos Humanos e direitos fundamentais.",
+      "Direito internacional dos Direitos Humanos e o direito constitucional brasileiro positivo.",
+      "Mecanismos de proteção aos Direitos Humanos na Constituição brasileira de 1988.",
+      "Federalização de crimes graves contra os direitos humanos.",
+      "O acesso à justiça e as Defensorias Públicas.",
+      "Emendas Constitucionais nº 45/2009 e nº 80/2014 e Defensoria Pública.",
+      "IV – Ato das Disposições Constitucionais Transitórias.",
+      "V – Constituição do Estado da Bahia."
+     ]
+    }
+   ]
+  }
+ ]
+}

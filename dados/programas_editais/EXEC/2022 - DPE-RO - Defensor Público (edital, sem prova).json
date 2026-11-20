@@ -1,0 +1,199 @@
+{
+ "pasta": "2022 - DPE-RO - Defensor Público (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "EXEC",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "EXECUCAO PENAL",
+   "caracteres": 4182,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Natureza Jurídica da execução penal.",
+      "Objetivo da execução penal."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Antecedentes históricos.",
+      "Inserção constitucional.",
+      "Princípios e direitos fundamentais relativos ao direito de execução penal.",
+      "Princípio da dignidade da pessoa humana.",
+      "Princípio da humanização da pena.",
+      "Princípio da igualdade.",
+      "Princípio da individualização da pena.",
+      "Princípio da menor onerosidade da pena.",
+      "Princípio da vulnerabilidade do preso.",
+      "Princípio ressocializador.",
+      "Princípio da complexidade.",
+      "Princípio da legalidade.",
+      "Princípio da normatividade.",
+      "Princípio da normatividade anterior."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Condenado e internado.",
+      "Classificação."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Assistência.",
+      "Assistência material.",
+      "Assistência à saúde.",
+      "Assistência jurídica.",
+      "Assistência educacional.",
+      "Assistência social.",
+      "Assistência religiosa.",
+      "Assistência ao egresso."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Trabalho.",
+      "Trabalho interno.",
+      "Trabalho externo."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Deveres, direitos e disciplina previstos na Lei de Execução Penal.",
+      "Faltas disciplinares.",
+      "Sanções e recompensas.",
+      "Aplicação das sanções.",
+      "Procedimento disciplinar."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Órgãos da execução penal, Conselho Nacional de Política Criminal e Penitenciária.",
+      "Juízo da execução.",
+      "Ministério Público.",
+      "Conselho Penitenciário.",
+      "Departamentos penitenciários.",
+      "Patronato.",
+      "Conselho da Comunidade.",
+      "Defensoria Pública."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Estabelecimentos penais.",
+      "Penitenciária.",
+      "Colônia agrícola, industrial ou similar.",
+      "Casa do albergado.",
+      "Centro de observação.",
+      "Hospital de custódia e tratamento psiquiátrico.",
+      "Cadeia pública."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Execução das penas em espécie.",
+      "Penas privativas de liberdade.",
+      "Regimes.",
+      "Soma e unificação de penas.",
+      "Progressão de regime.",
+      "Livramento condicional.",
+      "Autorizações de saída.",
+      "Detração e remição da pena.",
+      "Remoção do preso.",
+      "Monitoração eletrônica.",
+      "Penas restritivas de direitos.",
+      "Prestação de serviços à comunidade.",
+      "Limitação de fim de semana.",
+      "Interdição temporária de direitos.",
+      "Suspensão condicional.",
+      "Pena de multa.",
+      "Declaração de extinção da pena."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Execução das medidas de segurança.",
+      "Cessação da periculosidade.",
+      "Lei nº 10.216/2001 (dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental).",
+      "Portaria Interministerial nº 1/2014 do MS/GM — institui a Política Nacional de Atenção Integral à Saúde das Pessoas Privadas de Liberdade no Sistema Prisional (PNAISP) no âmbito do Sistema Único de Saúde (SUS).",
+      "Portaria do MS/GM nº 94/2014 — institui o serviço de avaliação e acompanhamento de medidas terapêuticas aplicáveis à pessoa com transtorno mental em conflito com a Lei, no âmbito do Sistema Único de Saúde (SUS)."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Incidentes de execução.",
+      "Conversões.",
+      "Excesso ou desvio.",
+      "Indulto e comutação de pena."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Processo da execução penal.",
+      "Processo administrativo.",
+      "Processo judicial: procedimento judicial.",
+      "Recursos.",
+      "Habeas corpus.",
+      "Princípio do devido processo legal no âmbito da execução penal.",
+      "Princípio do juiz natural.",
+      "Princípio do contraditório.",
+      "Princípio da ampla defesa.",
+      "Princípio do duplo grau.",
+      "Princípio da proporcionalidade.",
+      "Princípio da publicidade.",
+      "Princípio da segurança jurídica.",
+      "Princípio da presunção de inocência.",
+      "Princípio da responsabilidade pessoal.",
+      "Princípio do ativismo judicial.",
+      "Princípio da razoável duração do processo."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Regras Mínimas para o Tratamento do Preso da ONU.",
+      "Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes.",
+      "Protocolo Facultativo à Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes.",
+      "Convenção Americana de Direitos Humanos (Pacto de San José da Costa Rica) (Decreto nº 678/1992).",
+      "Convenção Interamericana para Prevenir e Punir a Tortura."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Resolução nº 14/1994, do Conselho Nacional de Política Criminal e Penitenciária (CNPCP) (Regras Mínimas para o Tratamento do Preso no Brasil) e demais resoluções no CNPCP.",
+      "Resolução nº 113/2010, do Conselho Nacional de Justiça (CNJ).",
+      "Notas Técnicas da Comissão Especializada em Execução Penal do Colégio Nacional de Defensores Públicos Gerais."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Lei nº 11.671/2008, e suas alterações (dispõe sobre a transferência e inclusão de presos em estabelecimentos penais federais de segurança máxima e dá outras providências.)."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "A Defensoria Pública na execução penal.",
+      "Legitimação social.",
+      "Tutela individual e coletiva dos presos realizada pela Defensoria Pública."
+     ]
+    }
+   ]
+  }
+ ]
+}

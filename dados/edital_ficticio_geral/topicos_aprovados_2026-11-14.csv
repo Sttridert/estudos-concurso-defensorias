@@ -1,0 +1,11 @@
+disciplina;acao;codigo;tema;texto_novo;observacao
+Direitos Humanos;criar;DH02.06;DH02;Obrigações dos Estados e teorias de controle (margem de apreciação, quarta instância);7 editais
+Direitos Humanos;criar;DH07.05;DH07;Participação política, manifestação, resistência e proteção de defensores de direitos humanos;9 editais
+Direitos Humanos;criar;DH08.12;DH08;Direitos sexuais e reprodutivos, laicidade e liberdade religiosa;6 editais
+Direitos Humanos;criar;DH09.04;DH09;Garantias judiciais, direitos pré-processuais e proteção penal dos direitos humanos;11 editais
+Direitos Humanos;criar;DH10.11;DH10;Direitos econômicos, sociais e culturais: reserva do possível, financiamento e judicialização;8 editais
+Direitos Humanos;renomear;DH03.02;DH03;Declaração Universal, pactos da ONU e outros tratados;recebe as listas de convenções avulsas (só 2 editais)
+Direito Penal;criar;PE08.07;PE08;Efeitos da condenação;14 editais
+Direito Penal;criar;PE14.12;PE14;Outras leis penais especiais (antiterrorismo, lavagem de dinheiro, ECA, Estatuto do Idoso, Torcedor);22 editais
+Direito Penal;renomear;PE03.02;PE03;Lei penal no espaço, tempo e lugar do crime, imunidades e extradição;recebe imunidades, extradição e sentença estrangeira (3 editais)
+Direito Penal;mover para Criminologia;PE02.01 a PE02.04;PE02;(manter os 4 tópicos como semente do catálogo de Criminologia);decisão de 14/11/2026: 120 itens de edital marcados "Criminologia (PE02)"

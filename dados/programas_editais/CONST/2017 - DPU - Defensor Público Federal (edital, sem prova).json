@@ -1,0 +1,405 @@
+{
+ "pasta": "2017 - DPU - Defensor Público Federal (edital, sem prova)",
+ "banca": "Cebraspe",
+ "disciplina": "CONST",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 2234,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Evolução histórica do constitucionalismo."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "A Constituição."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Noções fundamentais."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Concepções e teorias."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Tipologia."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Conteúdo e supremacia das normas constitucionais."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Poder Constituinte."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Conceito e origens."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Titularidade e legitimidade."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Natureza e limites."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Poder Constituinte originário e derivado."
+     ]
+    },
+    {
+     "item": "3.5",
+     "frases": [
+      "Limitações ao Poder Constituinte derivado."
+     ]
+    },
+    {
+     "item": "3.5.1",
+     "frases": [
+      "Limites formais e materiais."
+     ]
+    },
+    {
+     "item": "3.5.2",
+     "frases": [
+      "Limites temporais e circunstanciais."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Normas constitucionais."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Normas constitucionais de organização, programáticas e definidoras de direitos."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Existência, validade, eficácia e efetividade das normas constitucionais."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Modalidades de eficácia da norma constitucional: direta, interpretativa e negativa."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Interpretação das normas constitucionais."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "A técnica da ponderação."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Princípios constitucionais."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Supremacia da constituição."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Presunção de constitucionalidade."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "Unidade da Constituição."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Interpretação conforme a Constituição."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Razoabilidade e proporcionalidade."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "Efetividade."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "O princípio da dignidade da pessoa humana."
+     ]
+    },
+    {
+     "item": "6.1",
+     "frases": [
+      "O mínimo existencial."
+     ]
+    },
+    {
+     "item": "6.2",
+     "frases": [
+      "Vedação de retrocesso."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Direitos e garantias fundamentais."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Direitos e deveres individuais e coletivos."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Direitos políticos."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Organização do Estado."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Organização político-administrativa."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "União."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Estados Federados."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Distrito Federal."
+     ]
+    },
+    {
+     "item": "10.5",
+     "frases": [
+      "Municípios."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Poder Judiciário."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Conselho Nacional de Justiça."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Supremo Tribunal Federal."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "Tribunais Superiores."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Justiça Federal."
+     ]
+    },
+    {
+     "item": "11.5",
+     "frases": [
+      "Justiça do Trabalho."
+     ]
+    },
+    {
+     "item": "11.6",
+     "frases": [
+      "Justiça Militar da União."
+     ]
+    },
+    {
+     "item": "11.7",
+     "frases": [
+      "Justiça Eleitoral."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Ministério Público."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Defensoria Pública."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Advocacia e da Advocacia Pública."
+     ]
+    },
+    {
+     "item": "15",
+     "frases": [
+      "Controle de constitucionalidade."
+     ]
+    },
+    {
+     "item": "15.1",
+     "frases": [
+      "Sistemas."
+     ]
+    },
+    {
+     "item": "15.2",
+     "frases": [
+      "Controle difuso e controle concentrado de constitucionalidade."
+     ]
+    },
+    {
+     "item": "15.3",
+     "frases": [
+      "Ação direta de inconstitucionalidade e ação declaratória de constitucionalidade."
+     ]
+    },
+    {
+     "item": "15.4",
+     "frases": [
+      "Arguição de descumprimento de preceito fundamental."
+     ]
+    },
+    {
+     "item": "15.5",
+     "frases": [
+      "Inconstitucionalidade por omissão."
+     ]
+    },
+    {
+     "item": "15.6",
+     "frases": [
+      "Mandado de injunção."
+     ]
+    },
+    {
+     "item": "16",
+     "frases": [
+      "Remédios constitucionais."
+     ]
+    },
+    {
+     "item": "16.1",
+     "frases": [
+      "Habeas corpus."
+     ]
+    },
+    {
+     "item": "16.2",
+     "frases": [
+      "Habeas data."
+     ]
+    },
+    {
+     "item": "16.3",
+     "frases": [
+      "Mandado de segurança."
+     ]
+    },
+    {
+     "item": "17",
+     "frases": [
+      "Controle judicial de políticas públicas."
+     ]
+    },
+    {
+     "item": "18",
+     "frases": [
+      "Direito à saúde."
+     ]
+    },
+    {
+     "item": "18.1",
+     "frases": [
+      "Sistema Único de Saúde."
+     ]
+    },
+    {
+     "item": "19",
+     "frases": [
+      "Direito Constitucional Ambiental."
+     ]
+    }
+   ]
+  }
+ ]
+}

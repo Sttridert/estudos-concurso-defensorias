@@ -1,0 +1,328 @@
+# Decisões de classificação das frases do edital DPE-AM 2026 (Analista Jurídico, cargo R). RASCUNHO DA IA, a conferir.
+# Sintaxe: ver cabeçalho de scripts/51_classificar_edital.py. Frase sem linha aqui e com UM só tópico no edital geral v1
+# herda esse tópico como principal. Aqui entram só as frases com 0 ou 2+ tópicos e as que o edital geral v1 classificou mal.
+# Regra de contexto: frase curta ("Conceito.", "Natureza.") fica no tópico do item a que pertence.
+
+# ---------- Direito Constitucional ----------
+CONST-001 => CO03.01 | CO03.02 @"direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade, à segurança e à propriedade" | CO04.01 +CO04.02 @"direitos sociais" | CO05.01 @"nacionalidade" | CO05.02 @"cidadania e direitos políticos; partidos políticos" | CO03.03 @"garantias constitucionais individuais; garantias dos direitos coletivos, sociais e políticos"
+CONST-003 => CO09.01 | CO01.05 @"forma e sistema de governo; chefia de Estado e chefia de governo"
+CONST-004 => CO15.01 @"base e objetivos da ordem social; seguridade social" | CO15.02 @"educação, cultura e desporto; ciência e tecnologia; comunicação social; meio ambiente" | CO15.03 @"família, criança, adolescente e idoso"
+CONST-005 => CO10.01
+CONST-006 => CO10.03 +CO10.02
+
+# ---------- Direito Administrativo ----------
+ADM-002 => AD01.01
+ADM-003 => AD01.01
+ADM-004 => AD01.01
+ADM-010 => AD03.01 +AD03.03
+ADM-024 => AD04.01
+ADM-029 => AD06.01
+ADM-034 => AD06.01 +AD04.03
+ADM-035 => AD06.01 +AD05.01
+ADM-036 => AD07.01
+ADM-038 => AD07.02 +AD07.01
+ADM-045 => AD08.01
+ADM-046 => AD08.01
+ADM-047 => AD15.01 +AD08.01
+ADM-048 => AD08.02
+ADM-052 => AD09.01
+ADM-065 => AD11.01
+ADM-068 => AD12.02 +AD14.02
+ADM-086 => AD14.03
+
+# ---------- Direito Civil ----------
+CIV-003 => CV02.02
+CIV-006 => CV03.01 +AD09.01
+CIV-008 => CV04.01
+CIV-031 => CV09.05 +CV09.02
+CIV-035 => CV09.04
+CIV-038 => CV09.04
+CIV-039 => CV09.04
+CIV-040 => CV09.04
+CIV-041 => CV09.04
+CIV-054 => PE14.02 +DH08.01 +CV10.01
+CIV-056 => CV10.02
+CIV-057 => CV10.02
+CIV-058 => CV10.02
+CIV-061 => CV10.02 +CV11.01
+CIV-062 => CV10.05 +CV09.04
+CIV-073 => CV10.04 +CV10.01
+CIV-082 => CV10.03
+CIV-083 => CV10.03
+CIV-084 => CV10.03 +CV10.02 +CV11.01
+CIV-089 => CV10.06
+CIV-090 => CV10.06
+CIV-094 => CV10.06
+CIV-096 => CV10.07 +CV02.01
+CIV-098 => CV11.01
+
+# ---------- Direito Processual Civil ----------
+PCIV-010 => PC01.01 | PC01.02 @"princípios processuais civis"
+PCIV-012 => PC02.01 +PC01.02
+PCIV-016 => PC04.01 | PC02.02 @"pressupostos processuais" | PC04.02 @"vícios dos atos processuais"
+PCIV-031 => PC06.01 | PC10.01 @"conversão da ação individual em ação coletiva" | PC06.01 +PC02.03 @"audiência de conciliação ou mediação" | PC06.02 @"respostas do réu, revelia" | PC06.03 @"providências preliminares e saneamento, julgamento conforme o estado do processo" | PC06.04 @"audiência de instrução e julgamento, provas" | PC06.05 @"sentença e coisa julgada"
+PCIV-032 => PC07.01 +PC06.05
+PCIV-038 => PC06.04
+PCIV-044 => PC07.02
+PCIV-045 => PC07.02 | PC03.04 @"execução contra a fazenda pública" | PC07.04 @"execução de alimentos"
+PCIV-048 => PC07.03
+PCIV-049 => PC07.03 +PC07.02
+PCIV-050 => PC08.02
+PCIV-051 => PC08.01
+PCIV-053 => PC08.01
+PCIV-054 => PC08.01 | PC08.02 @"ação rescisória" | PC11.01 @"mandado de segurança contra ato judicial" | PC04.02 @"ação declaratória de inexistência de ato processual e querela nullitatis"
+PCIV-055 => PC08.03 +PC08.01
+PCIV-062 => PC03.04
+PCIV-063 => PC03.04 +PC05.01
+PCIV-064 => PC03.04 +PC07.02
+PCIV-065 => PC03.04 +PC09.01
+PCIV-066 => PC12.01 +PC03.04
+PCIV-069 => PC10.01
+PCIV-076 => PC09.03
+PCIV-079 => PC07.04 +PC09.02
+PCIV-080 => PC09.02 +PC07.04
+PCIV-081 => PC09.01 +CV11.03
+PCIV-082 => PC09.01 +CV11.03
+PCIV-083 => PC09.01 +CV11.03
+PCIV-084 => PC12.01
+
+# ---------- Direito Penal ----------
+PENAL-008 => PE02.02 +PE01.01
+PENAL-017 => PE02.01 +PE02.04
+PENAL-024 => PE01.03 +PE02.02
+PENAL-029 => PE04.02 +PE04.01
+PENAL-038 => PE05.02 +PE05.01
+PENAL-042 => PE06.01 +PE06.02
+PENAL-046 => PE06.03
+PENAL-047 => PE06.03 +PE06.01
+PENAL-058 => PE08.03 +PE08.04
+PENAL-064 => PE10.01 +PE11.01 +PE12.01 +PE13.01 +PE13.03
+PENAL-065 => PE10.01 +PE10.02
+PENAL-066 => PE11.01 +PE11.02
+PENAL-067 => PE12.01 +PE12.02
+PENAL-069 => PE13.02
+PENAL-070 => PE14.04 @"Estatuto do Desarmamento (Lei nº 10.826/03 e Decreto n. 9.847/19)" | PE14.03 @"Crimes Hediondos (Lei nº 8.072/90)" | PE14.01 @"Lei de Drogas (Lei nº 15.343/06)" | PE14.02 @"Violência Doméstica (Lei nº 11.340/06)" | PE14.05 @"Crime Organizado (Lei nº 12.850/13)" | PE14.06 @"Crimes de Trânsito (Lei nº 9.503/97)" | PE14.07 @"Lei de Tortura (Lei nº 9.455/97)" | PE14.08 @"Crimes Ambientais (Lei nº 9.605/98)" | PE14.09 @"Crimes resultantes de Preconceito de Raça ou de Cor (Lei nº 7.716/89)" | PE14.10 @"Abuso de Autoridade (Lei nº 16.869/2019)" | PE14.11 @"Lei das Contravenções Penais (Decreto-Lei nº 3688/41)"
+
+# ---------- Direito Processual Penal ----------
+PPEN-032 => PP04.01 +PP01.02
+PPEN-033 => PP04.02 +PP04.01
+PPEN-044 => PP06.01 @"Revelia" | PP07.03 @"suspensão condicional do processo"
+PPEN-049 => PP07.01
+PPEN-050 => PP07.01 +PP07.03
+PPEN-054 => PP07.03
+PPEN-063 => EX01.01
+PPEN-064 => EX01.03 +EX09.05
+PPEN-065 => PP07.04
+PPEN-066 => PP03.03
+# (15/11/2026) A proposta NP-AM26-01 foi substituída pelo catálogo de Execução Penal v1 (EX01 a EX09; plano 05, Fase 0).
+# O item 37 do edital ("Execução penal") é o gênero e cobre todos os temas de Execução Penal como secundários.
+COBRE PPEN-063 => EX01 EX02 EX03 EX04 EX05 EX06 EX07 EX08 EX09
+
+# ---------- Direitos Humanos ----------
+DH-007 => DH01.04
+DH-008 => DH01.05 +DH01.04
+DH-011 => DH01.05 | DH01.03 @"universalismo, relativismo e hermenêutica diatópica"
+DH-016 => DH02.01 +DH01.01
+DH-020 => DH02.04 +DH02.01
+DH-025 => DH08.11 +DH08.02
+DH-028 => DH03.03 +DH03.04
+DH-032 => DH03.02 +DH03.03
+DH-033 => DH03.02
+DH-034 => DH03.02 +DH10.11
+DH-035 => DH03.02 +DH03.03
+DH-037 => DH05.03
+DH-038 => DH05.03
+DH-039 => DH08.02 +DH08.11
+DH-040 => DH08.01 +DH08.11
+DH-041 => DH08.01 +DH03.03
+DH-043 => DH09.02
+DH-048 => DH08.04 +DH03.03
+DH-050 => DH10.08
+DH-055 => DH04.01
+DH-056 => DH04.01 +DH04.08 | DH04.07 @"jurisprudência (contenciosa e consultiva da Corte Interamericana de Direitos Humanos)"
+DH-057 => DH04.01 | DH04.02 @"relatórios de casos" | DH04.03 @"medidas cautelares" | DH10.07 @"relatoria para a liberdade de expressão"
+DH-061 => DH04.05 +DH10.11
+DH-062 => DH04.08 +DH09.01
+DH-063 => DH04.05
+DH-064 => DH04.08 +DH08.01
+DH-065 => DH04.08 +DH10.08
+DH-066 => DH04.08 +DH08.04
+DH-067 => DH07.03 +DH04.01
+DH-068 => DH07.04 +DH06.01
+DH-071 => DH06.01 +DH02.01
+DH-073 => DH07.02
+DH-075 => DH08.11 | DH08.01 @"Mulher" | DH08.02 @"Negro" | DH08.07 @"Criança e Adolescente" | DH08.06 @"Idoso" | DH08.04 @"Pessoa com Deficiência" | DH08.10 @"Pessoas em situação de rua" | DH08.03 @"Povos Indígenas" | DH08.08 @"LGBT (lésbicas, gays, bissexuais, travestis, transexuais e transgêneros)" | DH08.03 @"Quilombolas" | DH10.02 @"Sem-teto, Sem-terra" | DH08.09 +DH05.03 @"Imigrantes e Refugiados"
+DH-076 => DH11.01 +DH10.04
+
+# ---------- Criança e Adolescente, Idoso, Pessoa com Deficiência e Mulher (bloco do edital) ----------
+# Idoso, Pessoa com Deficiência e Mulher ficam em Direitos Humanos (decisão 23 do método); o bloco do edital é só onde a frase está escrita.
+ECA-004 => CA05.02 +CA04.01
+ECA-005 => DH08.06
+ECA-006 => DH08.06
+ECA-007 => DH08.06 +CV12.02
+ECA-008 => DH08.06 +CV12.02
+ECA-009 => DH08.06
+ECA-010 => DH08.06
+ECA-011 => DH08.04
+ECA-012 => DH08.04
+ECA-013 => DH08.04
+ECA-014 => DH08.04
+ECA-015 => DH08.04 +DH10.01
+ECA-016 => DH08.04 +CA04.04
+ECA-017 => DH08.04 +CA02.03
+ECA-018 => DH08.04
+ECA-019 => DH08.04
+ECA-020 => DH08.05 +DH08.04
+ECA-021 => DH08.01
+ECA-022 => PE14.02 +DH08.01
+ECA-023 => DH08.01
+ECA-024 => PE14.02 +DH08.01
+ECA-025 => PE14.02 +DH08.01
+ECA-026 => DH08.01
+ECA-027 => DH08.01 +DH08.12
+ECA-028 => DH08.01
+ECA-029 => DH08.01
+ECA-030 => DH08.01
+
+# ---------- Revisão de segurança (14/11/2026, a pedido do usuário): tópicos que ficaram "fora do edital" por esquecimento ----------
+# Direito Penal: a frase cita o GÊNERO, o catálogo tem as ESPÉCIES.
+PENAL-025 => PE03.01 +PE03.02 @"Aplicação" | PE03.03 @"interpretação da lei penal"
+PENAL-052 => PE09.01 +PE09.02
+PENAL-054 => PE08.02 +PE08.05 +PE08.07
+PENAL-061 => PE09.01 +PE09.02
+FORA PE14.12 | A lista de leis do item 9 é fechada (11 leis) e não inclui antiterrorismo, lavagem de dinheiro nem Torcedor. ECA e Estatuto do Idoso aparecem em outros blocos do edital, mas como estatutos, não como lei penal especial.
+# Criança e Adolescente: a frase cita o Estatuto inteiro (Lei nº 8.069/1990); cobre os capítulos do Estatuto. CA01.02 a CA01.04 (normativa internacional) ficam SEM JULGAMENTO.
+COBRE ECA-002 => CA02 CA03 CA04 CA05 CA06 CA07 CA08
+
+# ---------- Fechamento do Direito Constitucional (14/11/2026; rascunho da IA, a conferir) ----------
+# Dentro do edital (a frase cita o gênero; o ponto entra como secundário):
+COBRE CONST-001 => CO03.04 CO03.05 CO03.06 CO05.03
+COBRE CONST-002 => CO08.02 CO08.03
+COBRE CONST-005 => CO11.02 CO11.03
+# Fora do edital (motivo):
+FORA CO01.01 | O programa não traz teoria da Constituição nem constitucionalismo; o item 1 já começa em direitos e garantias fundamentais.
+FORA CO01.02 | O programa não traz poder constituinte nem reforma da Constituição.
+FORA CO01.03 | O programa não traz eficácia e aplicabilidade das normas constitucionais como tema próprio (a aplicabilidade dos direitos fundamentais já está em CO03.01).
+FORA CO01.04 | O programa não traz hermenêutica constitucional.
+FORA CO02.01 | O Título I da Constituição (princípios fundamentais, arts. 1º a 4º) e o preâmbulo não constam do programa.
+FORA CO06.01 | A organização do Estado (federação e repartição de competências) não consta; o item 3 só trata de forma e sistema de governo.
+FORA CO06.02 | A organização do Estado (União, Estados, Municípios, DF) não consta do programa.
+FORA CO06.03 | A intervenção federal e estadual não consta do programa.
+FORA CO07.01 | Administração pública e servidores são matéria de Direito Administrativo (bloco próprio do edital), não do programa de Constitucional.
+FORA CO07.02 | Responsabilidade do Estado é matéria de Direito Administrativo (bloco próprio do edital).
+FORA CO11.01 | O controle de constitucionalidade não consta do programa; só entram as competências do STF no item 5 (CO11.02 e CO11.03, como secundários de Poder Judiciário).
+FORA CO11.04 | Técnicas e efeitos das decisões, controle estadual e convencionalidade não constam do programa.
+FORA CO12.01 | Defesa do Estado e segurança pública não constam do programa.
+FORA CO13.01 | O sistema tributário não consta; Direito Tributário não está no programa deste cargo.
+FORA CO13.02 | Finanças públicas, orçamento e precatórios não constam do programa.
+FORA CO14.01 | A ordem econômica não consta; o item 4 trata só da ordem social.
+FORA CO14.02 | O sistema financeiro, a política urbana e a reforma agrária não constam; o item 4 trata só da ordem social.
+
+# O usuário confirmou as decisões do bloco de Direito Constitucional em 14/11/2026.
+CONFIRMADO CONST 2026-11-14
+
+# ---------- Fechamento do Direito Civil (14/11/2026; rascunho da IA, a conferir) ----------
+# Dentro do edital (a frase cita o gênero; o ponto entra como secundário):
+COBRE CIV-012 => CV05.02 CV05.03
+COBRE CIV-014 => CV04.02
+COBRE CIV-011 => CV04.03
+COBRE PCIV-075 => CV07.04
+# Fora do edital (motivo):
+FORA CV01.01 | A Lei de Introdução às normas do Direito Brasileiro não consta do programa; o item 1 começa em pessoa natural.
+FORA CV01.02 | O programa não traz princípios gerais do direito civil nem cláusulas gerais (só princípios constitucionais da família, no item 15).
+FORA CV01.03 | O programa não traz teoria geral do direito privado (norma jurídica, relação jurídica, direito subjetivo).
+FORA CV12.01 | Registros públicos, parcelamento do solo e Estatuto da Cidade não constam do programa.
+FORA CV07.01 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.02 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.03 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.05 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.06 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.07 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.08 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.09 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.10 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.11 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.12 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.13 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.14 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.15 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.16 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.17 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+FORA CV07.18 | O programa não traz contratos em espécie; só os vícios redibitórios e a evicção (item 7), tratados em CV06.01.
+
+# O usuário confirmou as decisões do bloco de Direito Civil em 14/11/2026.
+CONFIRMADO CIV 2026-11-14
+
+# ---------- Fechamento do Direito Administrativo (14/11/2026; rascunho da IA, a conferir) ----------
+# Dentro do edital (a frase cita o gênero; o ponto entra como secundário):
+COBRE ADM-009 => AD03.02
+COBRE ADM-020 => AD02.03
+COBRE ADM-024 => AD04.02
+COBRE ADM-027 => AD05.02
+# Fora do edital (motivo):
+FORA AD15.02 | Orçamento, responsabilidade fiscal e atividade financeira não constam do programa; o item 9 cita só a gestão pública do Defensor Público Geral (AD15.01).
+
+# ---------- Fechamento de Direitos Humanos e Criança e Adolescente (14/11/2026; rascunho da IA, a conferir) ----------
+# Dentro do edital (a frase cita o gênero ou um tratado ligado ao ponto; o ponto entra como secundário):
+COBRE DH-018 => DH02.03
+COBRE DH-019 => DH02.06
+COBRE DH-056 => DH04.06
+COBRE DH-014 => DH07.05
+COBRE DH-043 => DH09.03
+COBRE DH-031 => DH09.04
+COBRE DH-060 => DH09.04
+COBRE DH-034 => DH10.03
+COBRE DH-054 => DH10.09
+COBRE DH-044 => CA01.02
+COBRE DH-045 => CA01.02
+# Fora do edital (motivo):
+FORA DH05.01 | O Direito Internacional Humanitário (Convenções de Genebra) não consta; o genocídio e o Estatuto de Roma, que o programa cita, estão em DH05.02.
+FORA DH10.06 | Empresas e direitos humanos não constam do programa.
+FORA DH10.10 | Pandemia e direitos humanos não consta do programa.
+FORA CA01.03 | As regras e diretrizes da ONU de justiça juvenil (Beijing, Riad, Havana) não constam; o programa cita só o Estatuto, o Sinase e a Lei nº 13.431/2017.
+FORA CA01.04 | As Convenções de Haia (adoção e sequestro internacionais) não constam do programa.
+
+# ---------- Língua Portuguesa (Conhecimentos Gerais, Anexo II; catálogo aprovado pelo usuário em 15/11/2026) ----------
+LP-001 => LP03.01
+LP-002 => LP03.02
+LP-003 => LP01.01
+LP-004 => LP01.02
+LP-005 => LP01.03
+LP-006 => LP01.04
+LP-007 => LP01.02
+LP-008 => LP02.01
+LP-009 => LP05.01
+LP-010 => LP04.01
+LP-011 => LP01.05
+LP-012 => LP08.01
+LP-013 => LP04.02
+LP-014 => LP06.01
+LP-015 => LP04.03
+LP-016 => LP04.04
+LP-017 => LP04.05
+LP-018 => LP07.01
+LP-019 => LP05.02
+LP-020 => LP05.03
+LP-021 => LP09.02 @"confronto e reconhecimento de frases corretas e incorretas" | LP09.03 @"organização e reorganização de orações e períodos" | LP09.01 @"equivalência e transformação de estruturas"
+CONFIRMADO LP 2026-11-15
+
+# ---------- Princípios e Atribuições Institucionais da Defensoria (Legislação da Defensoria + Conhecimentos Jurídicos e Institucionais; RASCUNHO DA IA, 15/11/2026) ----------
+PINST-001 => PI01.03 @"5º" | PI01.04 @"37" | PI01.01 +PI01.02 @"134"
+PINST-002 => PI02.01 +PI02.02 +PI02.03 +PI02.04
+PINST-003 => PI01.02 +PI01.01
+PINST-004 => PI01.01 +PI01.02
+PINST-005 => PI03.01
+PINST-006 => PI03.02
+PINST-007 => PI03.03
+PINST-008 => PI03.04
+PINST-009 => PI03.05
+PINST-010 => PI01.01 +PI01.02 +PI01.03 +PI01.04
+PINST-011 => PI03.02 +PI03.01 +PI03.05 +PI02.02 +PI02.03
+PINST-012 => PI04.01 +PI02.01
+PINST-013 => PI02.01 @"Princípios Institucionais" | PI04.02 @"Atuação Extrajudicial"
+PINST-014 => PI04.03 +PI02.04
+PINST-015 => PI05.01
+PINST-016 => PI05.02
+FORA PI06.01 | O edital 2026 não lista o Código Penal nem os crimes contra a Administração (arts. 312 a 327). As provas de 2018 a 2023 listavam esse tema no mesmo bloco (Legislação da Defensoria).
+FORA PI06.02 | O edital 2026 não lista a Lei de Improbidade Administrativa (Lei 8.429/1992); as provas de 2018 a 2023 listavam os arts. 1º a 12. O art. 37 da CF, que consta do edital 2026, trata da improbidade no § 4º (confirmar com o usuário se vale como cobertura).
+FORA PI06.03 | O edital 2026 limita a Constituição Federal aos arts. 5º, 37 e 134; as provas de 2018 a 2023 listavam os arts. 1º ao 144.

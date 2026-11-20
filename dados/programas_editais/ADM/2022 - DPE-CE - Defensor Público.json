@@ -1,0 +1,861 @@
+{
+ "pasta": "2022 - DPE-CE - Defensor Público",
+ "banca": "FCC",
+ "disciplina": "ADM",
+ "modo_leitura": "layout",
+ "secoes": [
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 6634,
+   "avisos": [],
+   "itens": [
+    {
+     "item": "1",
+     "frases": [
+      "Introdução ao direito administrativo."
+     ]
+    },
+    {
+     "item": "1.1",
+     "frases": [
+      "Os diferentes critérios adotados para a conceituação do direito administrativo."
+     ]
+    },
+    {
+     "item": "1.2",
+     "frases": [
+      "Objeto do direito administrativo."
+     ]
+    },
+    {
+     "item": "1.3",
+     "frases": [
+      "Fontes do direito administrativo."
+     ]
+    },
+    {
+     "item": "1.4",
+     "frases": [
+      "Regime jurídico-administrativo: princípios do direito administrativo."
+     ]
+    },
+    {
+     "item": "1.5",
+     "frases": [
+      "Princípios da administração pública."
+     ]
+    },
+    {
+     "item": "2",
+     "frases": [
+      "Administração pública."
+     ]
+    },
+    {
+     "item": "2.1",
+     "frases": [
+      "Conceito de administração pública sob os aspectos orgânico, formal e material."
+     ]
+    },
+    {
+     "item": "2.2",
+     "frases": [
+      "Órgão publico: conceito e classificação."
+     ]
+    },
+    {
+     "item": "2.3",
+     "frases": [
+      "Servidor: cargo e funções."
+     ]
+    },
+    {
+     "item": "2.4",
+     "frases": [
+      "Atribuições."
+     ]
+    },
+    {
+     "item": "2.5",
+     "frases": [
+      "Competência administrativa: conceito e critérios de distribuição."
+     ]
+    },
+    {
+     "item": "2.6",
+     "frases": [
+      "Avocação e delegação de competência."
+     ]
+    },
+    {
+     "item": "2.7",
+     "frases": [
+      "Ausência de competência: agente de fato."
+     ]
+    },
+    {
+     "item": "2.8",
+     "frases": [
+      "Administração direta e indireta."
+     ]
+    },
+    {
+     "item": "2.9",
+     "frases": [
+      "Autarquias."
+     ]
+    },
+    {
+     "item": "2.10",
+     "frases": [
+      "Fundações públicas."
+     ]
+    },
+    {
+     "item": "2.11",
+     "frases": [
+      "Empresas publicas e privadas."
+     ]
+    },
+    {
+     "item": "2.12",
+     "frases": [
+      "Sociedades de economia mista."
+     ]
+    },
+    {
+     "item": "2.13",
+     "frases": [
+      "Entidades paraestatais."
+     ]
+    },
+    {
+     "item": "2.14",
+     "frases": [
+      "Dispositivos pertinentes contidos na Constituição Federal de 1988."
+     ]
+    },
+    {
+     "item": "3",
+     "frases": [
+      "Atos administrativos."
+     ]
+    },
+    {
+     "item": "3.1",
+     "frases": [
+      "Conceitos, requisitos, elementos, pressupostos e classificação."
+     ]
+    },
+    {
+     "item": "3.2",
+     "frases": [
+      "Fato e ato administrativo."
+     ]
+    },
+    {
+     "item": "3.3",
+     "frases": [
+      "Atos administrativos em espécie."
+     ]
+    },
+    {
+     "item": "3.4",
+     "frases": [
+      "Parecer: responsabilidade do emissor do parecer."
+     ]
+    },
+    {
+     "item": "3.5",
+     "frases": [
+      "O silêncio no direito administrativo."
+     ]
+    },
+    {
+     "item": "3.6",
+     "frases": [
+      "Cassação."
+     ]
+    },
+    {
+     "item": "3.7",
+     "frases": [
+      "Revogação e anulação."
+     ]
+    },
+    {
+     "item": "3.8",
+     "frases": [
+      "Processo administrativo."
+     ]
+    },
+    {
+     "item": "3.9",
+     "frases": [
+      "Lei no 9.784/1999."
+     ]
+    },
+    {
+     "item": "3.10",
+     "frases": [
+      "Fatos da administração pública: atos da administração pública e fatos administrativos."
+     ]
+    },
+    {
+     "item": "3.11",
+     "frases": [
+      "Formação do ato administrativo: elementos, procedimento administrativo."
+     ]
+    },
+    {
+     "item": "3.12",
+     "frases": [
+      "Validade, eficácia e autoexecutoriedade do ato administrativo."
+     ]
+    },
+    {
+     "item": "3.13",
+     "frases": [
+      "Atos administrativos simples, complexos e compostos."
+     ]
+    },
+    {
+     "item": "3.14",
+     "frases": [
+      "Atos administrativos unilaterais, bilaterais e multilaterais."
+     ]
+    },
+    {
+     "item": "3.15",
+     "frases": [
+      "Atos administrativos gerais e individuais."
+     ]
+    },
+    {
+     "item": "3.16",
+     "frases": [
+      "Atos administrativos vinculados e discricionários."
+     ]
+    },
+    {
+     "item": "3.17",
+     "frases": [
+      "Mérito do ato administrativo, discricionariedade."
+     ]
+    },
+    {
+     "item": "3.18",
+     "frases": [
+      "Ato administrativo inexistente."
+     ]
+    },
+    {
+     "item": "3.19",
+     "frases": [
+      "Teoria das nulidades no direito administrativo."
+     ]
+    },
+    {
+     "item": "3.20",
+     "frases": [
+      "Atos administrativos nulos e anuláveis."
+     ]
+    },
+    {
+     "item": "3.21",
+     "frases": [
+      "Vícios do ato administrativo."
+     ]
+    },
+    {
+     "item": "3.22",
+     "frases": [
+      "Teoria dos motivos determinantes."
+     ]
+    },
+    {
+     "item": "3.23",
+     "frases": [
+      "Revogação, anulação e convalidação do ato administrativo."
+     ]
+    },
+    {
+     "item": "4",
+     "frases": [
+      "Poderes da administração pública."
+     ]
+    },
+    {
+     "item": "4.1",
+     "frases": [
+      "Hierarquia: poder hierárquico e suas manifestações."
+     ]
+    },
+    {
+     "item": "4.2",
+     "frases": [
+      "Poder disciplinar."
+     ]
+    },
+    {
+     "item": "4.3",
+     "frases": [
+      "Poder de polícia."
+     ]
+    },
+    {
+     "item": "4.4",
+     "frases": [
+      "Polícia judiciária e polícia administrativa."
+     ]
+    },
+    {
+     "item": "4.5",
+     "frases": [
+      "Liberdades públicas e poder de polícia."
+     ]
+    },
+    {
+     "item": "4.6",
+     "frases": [
+      "Principais setores de atuação da polícia administrativa."
+     ]
+    },
+    {
+     "item": "5",
+     "frases": [
+      "Serviços públicos."
+     ]
+    },
+    {
+     "item": "5.1",
+     "frases": [
+      "Concessão, permissão, autorização e delegação."
+     ]
+    },
+    {
+     "item": "5.2",
+     "frases": [
+      "Serviços delegados."
+     ]
+    },
+    {
+     "item": "5.3",
+     "frases": [
+      "Convênios e consórcios."
+     ]
+    },
+    {
+     "item": "5.4",
+     "frases": [
+      "Conceito de serviço público."
+     ]
+    },
+    {
+     "item": "5.5",
+     "frases": [
+      "Caracteres jurídicos."
+     ]
+    },
+    {
+     "item": "5.6",
+     "frases": [
+      "Classificação e garantias."
+     ]
+    },
+    {
+     "item": "5.7",
+     "frases": [
+      "Usuário do serviço público."
+     ]
+    },
+    {
+     "item": "5.8",
+     "frases": [
+      "Extinção da concessão de serviço publico e reversão dos bens."
+     ]
+    },
+    {
+     "item": "5.9",
+     "frases": [
+      "Permissão e autorização."
+     ]
+    },
+    {
+     "item": "6",
+     "frases": [
+      "Intervenção no domínio econômico: desapropriação."
+     ]
+    },
+    {
+     "item": "7",
+     "frases": [
+      "Licitações."
+     ]
+    },
+    {
+     "item": "7.1",
+     "frases": [
+      "Conceito, finalidades, princípios e objeto."
+     ]
+    },
+    {
+     "item": "7.2",
+     "frases": [
+      "Obrigatoriedade, dispensa, inexigibilidade e vedação."
+     ]
+    },
+    {
+     "item": "7.3",
+     "frases": [
+      "Modalidades."
+     ]
+    },
+    {
+     "item": "7.4",
+     "frases": [
+      "Procedimento, revogação e anulação."
+     ]
+    },
+    {
+     "item": "7.5",
+     "frases": [
+      "Sanções penais."
+     ]
+    },
+    {
+     "item": "7.6",
+     "frases": [
+      "Normas gerais de licitação."
+     ]
+    },
+    {
+     "item": "7.7",
+     "frases": [
+      "Legislação pertinente."
+     ]
+    },
+    {
+     "item": "7.7.1",
+     "frases": [
+      "Lei no 8.666/1993 e suas alterações."
+     ]
+    },
+    {
+     "item": "7.7.2",
+     "frases": [
+      "Lei no 10.520/2002 e demais disposições normativas relativas ao pregão."
+     ]
+    },
+    {
+     "item": "7.7.3",
+     "frases": [
+      "Instrução Normativa do STN no 1/1997."
+     ]
+    },
+    {
+     "item": "7.8",
+     "frases": [
+      "Sistema de registro de preços."
+     ]
+    },
+    {
+     "item": "8",
+     "frases": [
+      "Contratos administrativos."
+     ]
+    },
+    {
+     "item": "8.1",
+     "frases": [
+      "Conceito, peculiaridades e interpretação."
+     ]
+    },
+    {
+     "item": "8.2",
+     "frases": [
+      "Formalização."
+     ]
+    },
+    {
+     "item": "8.3",
+     "frases": [
+      "Execução, inexecução, revisão e rescisão."
+     ]
+    },
+    {
+     "item": "8.4",
+     "frases": [
+      "Convênios e consórcios administrativos."
+     ]
+    },
+    {
+     "item": "9",
+     "frases": [
+      "Controle da administração publica."
+     ]
+    },
+    {
+     "item": "9.1",
+     "frases": [
+      "Conceito, tipos e formas de controle."
+     ]
+    },
+    {
+     "item": "9.2",
+     "frases": [
+      "Controle interno e externo."
+     ]
+    },
+    {
+     "item": "9.3",
+     "frases": [
+      "Controle parlamentar."
+     ]
+    },
+    {
+     "item": "9.4",
+     "frases": [
+      "Controle pelos tribunais de contas."
+     ]
+    },
+    {
+     "item": "9.5",
+     "frases": [
+      "Controle administrativo."
+     ]
+    },
+    {
+     "item": "9.6",
+     "frases": [
+      "Recurso de administração."
+     ]
+    },
+    {
+     "item": "9.7",
+     "frases": [
+      "Reclamação."
+     ]
+    },
+    {
+     "item": "9.8",
+     "frases": [
+      "Lei de Improbidade Administrativa (Lei no 8.429/1992 e suas alterações)."
+     ]
+    },
+    {
+     "item": "9.9",
+     "frases": [
+      "Sistemas de controle jurisdicional da administração pública: contencioso administrativo e sistema da jurisdição una."
+     ]
+    },
+    {
+     "item": "9.10",
+     "frases": [
+      "Controle jurisdicional da administração pública no direito brasileiro."
+     ]
+    },
+    {
+     "item": "9.11",
+     "frases": [
+      "Controle da atividade financeira do Estado: espécies e sistemas."
+     ]
+    },
+    {
+     "item": "9.12",
+     "frases": [
+      "Tribunal de Contas da União (TCU) e suas atribuições; entendimentos com caráter normativo exarados pelo TCU."
+     ]
+    },
+    {
+     "item": "9.13",
+     "frases": [
+      "Sistema de correição do poder executivo federal: Decreto no 5.480/2005, Decreto no 5.683/2006, Decreto no 7.128/2010, Portaria CGU no 335/2006."
+     ]
+    },
+    {
+     "item": "9.14",
+     "frases": [
+      "Pedido de reconsideração e recurso hierárquico próprio e improprio."
+     ]
+    },
+    {
+     "item": "9.15",
+     "frases": [
+      "Prescrição administrativa."
+     ]
+    },
+    {
+     "item": "9.16",
+     "frases": [
+      "Representação e reclamação administrativas."
+     ]
+    },
+    {
+     "item": "9.17",
+     "frases": [
+      "Advocacia pública consultiva."
+     ]
+    },
+    {
+     "item": "9.18",
+     "frases": [
+      "Hipóteses de manifestação obrigatória."
+     ]
+    },
+    {
+     "item": "9.19",
+     "frases": [
+      "Responsabilidades do parecerista e do administrador publico pelas manifestações exaradas, quando age em acordo ou em desacordo com tais manifestações."
+     ]
+    },
+    {
+     "item": "10",
+     "frases": [
+      "Agentes públicos e servidores públicos."
+     ]
+    },
+    {
+     "item": "10.1",
+     "frases": [
+      "Agentes públicos (servidor publico e funcionário publico)."
+     ]
+    },
+    {
+     "item": "10.2",
+     "frases": [
+      "Natureza jurídica da relação de emprego publico."
+     ]
+    },
+    {
+     "item": "10.3",
+     "frases": [
+      "Preceitos constitucionais."
+     ]
+    },
+    {
+     "item": "10.4",
+     "frases": [
+      "Servidor efetivo e vitalício: garantias."
+     ]
+    },
+    {
+     "item": "10.5",
+     "frases": [
+      "Estagio probatório."
+     ]
+    },
+    {
+     "item": "10.6",
+     "frases": [
+      "Servidor ocupante de cargo em comissão."
+     ]
+    },
+    {
+     "item": "10.7",
+     "frases": [
+      "Direitos, deveres e responsabilidades dos servidores públicos civis."
+     ]
+    },
+    {
+     "item": "10.8",
+     "frases": [
+      "Lei no 8.112/1990 e suas alterações."
+     ]
+    },
+    {
+     "item": "10.9",
+     "frases": [
+      "Regime disciplinar e processo administrativo disciplinar."
+     ]
+    },
+    {
+     "item": "10.10",
+     "frases": [
+      "Improbidade administrativa."
+     ]
+    },
+    {
+     "item": "10.11",
+     "frases": [
+      "Lei Complementar no 101/2000 (Lei de Responsabilidade Fiscal)."
+     ]
+    },
+    {
+     "item": "10.12",
+     "frases": [
+      "Formas de provimento e vacância dos cargos públicos."
+     ]
+    },
+    {
+     "item": "10.13",
+     "frases": [
+      "Exigência constitucional de concurso publico para investidura em cargo ou emprego publico."
+     ]
+    },
+    {
+     "item": "11",
+     "frases": [
+      "Bens públicos."
+     ]
+    },
+    {
+     "item": "11.1",
+     "frases": [
+      "Classificação e caracteres jurídicos."
+     ]
+    },
+    {
+     "item": "11.2",
+     "frases": [
+      "Natureza jurídica do domínio publico."
+     ]
+    },
+    {
+     "item": "11.3",
+     "frases": [
+      "Domínio publico terrestre: evolução do regime jurídico das terras públicas (urbanas e rurais) no Brasil."
+     ]
+    },
+    {
+     "item": "11.4",
+     "frases": [
+      "Terras devolutas."
+     ]
+    },
+    {
+     "item": "11.5",
+     "frases": [
+      "Vias públicas, cemitérios públicos e portos."
+     ]
+    },
+    {
+     "item": "11.6",
+     "frases": [
+      "Utilização dos bens públicos: autorização, permissão e concessão de uso, ocupação, aforamento, concessão de domínio pleno."
+     ]
+    },
+    {
+     "item": "11.7",
+     "frases": [
+      "Limitações administrativas."
+     ]
+    },
+    {
+     "item": "11.8",
+     "frases": [
+      "Zoneamento."
+     ]
+    },
+    {
+     "item": "11.9",
+     "frases": [
+      "Polícia edilícia."
+     ]
+    },
+    {
+     "item": "11.10",
+     "frases": [
+      "Zonas fortificadas e de fronteira."
+     ]
+    },
+    {
+     "item": "11.11",
+     "frases": [
+      "Florestas."
+     ]
+    },
+    {
+     "item": "11.12",
+     "frases": [
+      "Tombamento."
+     ]
+    },
+    {
+     "item": "11.13",
+     "frases": [
+      "Servidões administrativas."
+     ]
+    },
+    {
+     "item": "11.14",
+     "frases": [
+      "Requisição da propriedade privada."
+     ]
+    },
+    {
+     "item": "11.15",
+     "frases": [
+      "Ocupação temporária."
+     ]
+    },
+    {
+     "item": "12",
+     "frases": [
+      "Responsabilidade civil do Estado."
+     ]
+    },
+    {
+     "item": "12.1",
+     "frases": [
+      "Responsabilidade patrimonial do Estado por atos da administração pública: evolução histórica e fundamentos jurídicos."
+     ]
+    },
+    {
+     "item": "12.2",
+     "frases": [
+      "Teorias subjetivas e objetivas da responsabilidade patrimonial do Estado."
+     ]
+    },
+    {
+     "item": "12.3",
+     "frases": [
+      "Responsabilidade patrimonial do Estado por atos da administração pública no direito brasileiro."
+     ]
+    },
+    {
+     "item": "13",
+     "frases": [
+      "Organização administrativa."
+     ]
+    },
+    {
+     "item": "13.1",
+     "frases": [
+      "Advocacia-Geral da União."
+     ]
+    },
+    {
+     "item": "13.2",
+     "frases": [
+      "Ministério da Fazenda."
+     ]
+    },
+    {
+     "item": "13.3",
+     "frases": [
+      "Procuradoria-Geral da Fazenda Nacional."
+     ]
+    },
+    {
+     "item": "13.4",
+     "frases": [
+      "Lei Complementar no 73/1993."
+     ]
+    },
+    {
+     "item": "13.5",
+     "frases": [
+      "Decreto-Lei no 147/1967."
+     ]
+    },
+    {
+     "item": "14",
+     "frases": [
+      "Organização administrativa do Estado do Ceará."
+     ]
+    }
+   ]
+  }
+ ]
+}
