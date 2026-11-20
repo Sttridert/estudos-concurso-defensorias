@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Editor de questões</title>
+<style>
+:root{--bg:#fafaf7;--fg:#1d1d1b;--mut:#6b6b66;--card:#fff;--bd:#dcdad0;--pri:#1f5f8b;--prib:#e3eff7;--ok:#1d7a46;--okb:#e2f3ea;--warn:#a24a00;--warnb:#fbeadb;--err:#b3261e;--errb:#fbe4e2;--mark:#fff1a8}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#17181a;--fg:#ececea;--mut:#a0a09a;--card:#1f2124;--bd:#33363a;--pri:#8ec1e8;--prib:#1f3445;--ok:#7fd3a0;--okb:#1d3527;--warn:#f0b27a;--warnb:#46301c;--err:#ff8a80;--errb:#4a2220;--mark:#5c4f10}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 system-ui,Segoe UI,sans-serif}
+header{display:flex;flex-wrap:wrap;gap:10px;align-items:center;padding:8px 16px;border-bottom:1px solid var(--bd);position:sticky;top:0;background:var(--bg);z-index:5}
+header h1{font-size:17px;margin:0 8px 0 0}
+header a,button,select,input,textarea{font:inherit}
+header a{color:var(--pri);text-decoration:none;font-size:14px}
+button{border:1px solid var(--bd);background:var(--card);color:var(--fg);border-radius:8px;padding:5px 12px;cursor:pointer}
+button.pri{background:var(--pri);border-color:var(--pri);color:#fff}
+button.ok{background:var(--ok);border-color:var(--ok);color:#fff}
+button:disabled{opacity:.5;cursor:default}
+#msg{margin-left:auto;font-size:14px;padding:3px 10px;border-radius:6px}
+#msg.ok{background:var(--okb);color:var(--ok)} #msg.err{background:var(--errb);color:var(--err)} #msg.warn{background:var(--warnb);color:var(--warn)}
+main{display:grid;grid-template-columns:minmax(300px,380px) 1fr;gap:12px;padding:12px 16px;align-items:start}
+@media(max-width:900px){main{grid-template-columns:1fr}}
+.painel{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:10px 12px}
+.filtros{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-bottom:8px}
+.filtros select,.filtros input[type=search]{width:100%;padding:4px 6px;border:1px solid var(--bd);border-radius:6px;background:var(--bg);color:var(--fg)}
+.filtros .largo{grid-column:1/-1}
+.checks{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:13px;color:var(--mut);margin-bottom:6px}
+.checks label{display:flex;gap:4px;align-items:center;cursor:pointer}
+#lista{max-height:68vh;overflow:auto;border-top:1px solid var(--bd)}
+.item{padding:6px 4px;border-bottom:1px solid var(--bd);cursor:pointer;display:grid;grid-template-columns:1fr auto;gap:2px 8px}
+.item:hover{background:var(--prib)} .item.sel{background:var(--prib);box-shadow:inset 3px 0 0 var(--pri)}
+.item .t{font-size:13.5px} .item .s{font-size:12.5px;color:var(--mut)}
+.tag{font-size:11.5px;border-radius:5px;padding:1px 6px;border:1px solid var(--bd);color:var(--mut);white-space:nowrap}
+.tag.ok{background:var(--okb);color:var(--ok);border-color:transparent} .tag.warn{background:var(--warnb);color:var(--warn);border-color:transparent}
+#pag{display:flex;justify-content:space-between;align-items:center;margin-top:6px;font-size:13px;color:var(--mut)}
+h2{font-size:15px;margin:14px 0 6px;color:var(--mut);text-transform:uppercase;letter-spacing:.04em}
+.cab{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:baseline}
+.cab b{font-size:16px}
+label.c{display:block;font-size:13px;color:var(--mut);margin:6px 0 2px}
+textarea,select.cmp,input.cmp{width:100%;padding:5px 8px;border:1px solid var(--bd);border-radius:6px;background:var(--bg);color:var(--fg)}
+textarea{resize:vertical;min-height:2.6em}
+.alt{display:grid;grid-template-columns:auto 1fr;gap:6px;align-items:start;margin:4px 0}
+.alt input[type=radio]{margin-top:9px}
+.dois{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+@media(max-width:700px){.dois{grid-template-columns:1fr}}
+.mudou{box-shadow:inset 3px 0 0 var(--warn)}
+.barra{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0;position:sticky;bottom:0;background:var(--card);padding:8px 0;border-top:1px solid var(--bd)}
+.aviso{font-size:13px;margin:4px 0;padding:4px 8px;border-radius:6px}
+.aviso.warn{background:var(--warnb);color:var(--warn)} .aviso.err{background:var(--errb);color:var(--err)}
+table.h{width:100%;border-collapse:collapse;font-size:13px} table.h td,table.h th{border-bottom:1px solid var(--bd);padding:3px 6px;text-align:left;vertical-align:top}
+.pre{white-space:pre-wrap;word-break:break-word;max-width:420px}
+.vazio{color:var(--mut);padding:20px;text-align:center}
+</style>
+</head>
+<body>
+<header>
+  <h1>Editor de questões</h1>
+  <a href="/">Editor do catálogo</a>
+  <a href="/revisao">Revisão da referência</a>
+  <button id="sinc" title="Roda o 71 exportar: atualiza os arquivos de dados/classificacao a partir do banco">Sincronizar arquivos</button>
+  <span id="msg"></span>
+</header>
+<main>
+  <section class="painel" aria-label="Lista de questões">
+    <div class="filtros">
+      <select id="fDisc" class="largo" aria-label="Disciplina"></select>
+      <select id="fProva" class="largo" aria-label="Prova"></select>
+      <select id="fSit" aria-label="Situação"></select>
+      <select id="fConf" aria-label="Confiança"></select>
+      <input id="fPonto" type="search" placeholder="Tópico (ex.: EX05.02)" aria-label="Tópico">
+      <input id="fBusca" type="search" placeholder="Texto do enunciado" aria-label="Busca">
+    </div>
+    <div class="checks">
+      <label><input type="checkbox" id="fMig">migrada do v1</label>
+      <label><input type="checkbox" id="fSemSec">sem secundário</label>
+      <label><input type="checkbox" id="fSemCls">sem classificação</label>
+      <label><input type="checkbox" id="fCom">comentário "confirmar"</label>
+      <label><input type="checkbox" id="fNao">não revisadas</label>
+    </div>
+    <div id="lista"></div>
+    <div id="pag"><span id="total"></span><span><button id="ant">‹</button> <button id="prox">›</button></span></div>
+  </section>
+  <section class="painel" id="editor"><div class="vazio">Escolha uma questão na lista.</div></section>
+</main>
+<script>
+"use strict";
+const TOKEN = "__TOKEN__";
+const $ = id => document.getElementById(id);
+const LIM = 50;
+let desloc = 0, total = 0, itens = [], atual = null, original = null, topicos = [], filtros = null, pendente = null;
+
+function el(tag, attrs, ...filhos) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs || {})) {
+    if (k === "class") e.className = v; else if (k === "text") e.textContent = v; else if (k.startsWith("on")) e.addEventListener(k.slice(2), v); else if (v !== false && v != null) e.setAttribute(k, v === true ? "" : v);
+  }
+  for (const f of filhos) if (f != null) e.append(f.nodeType ? f : document.createTextNode(f));
+  return e;
+}
+function aviso(txt, tipo) { const m = $("msg"); m.textContent = txt || ""; m.className = txt ? (tipo || "ok") : ""; if (tipo === "ok") setTimeout(() => { if (m.textContent === txt) { m.textContent = ""; m.className = ""; } }, 4000); }
+async function api(metodo, caminho, corpo) {
+  const r = await fetch(caminho, { method: metodo, headers: { "X-Editor-Token": TOKEN, "Content-Type": "application/json" }, body: corpo === undefined ? undefined : JSON.stringify(corpo) });
+  const d = await r.json();
+  if (!r.ok) throw new Error(d.erro || ("erro " + r.status));
+  return d;
+}
+
+// ---------- lista
+function opcoes(sel, vazio, lista, chaveV, chaveT) {
+  sel.replaceChildren(el("option", { value: "", text: vazio }));
+  for (const x of lista) sel.append(el("option", { value: chaveV ? x[chaveV] : x, text: chaveT ? x[chaveT] : x }));
+}
+function consulta() {
+  const p = new URLSearchParams();
+  const v = (id, k) => { const x = $(id).value.trim(); if (x) p.set(k, x); };
+  v("fDisc", "disciplina_id"); v("fProva", "prova_id"); v("fSit", "situacao"); v("fConf", "confianca"); v("fPonto", "ponto"); v("fBusca", "busca");
+  for (const [id, k] of [["fMig", "migrada"], ["fSemSec", "sem_secundario"], ["fSemCls", "sem_classificacao"], ["fCom", "comentario_confirmar"], ["fNao", "nao_revisadas"]]) if ($(id).checked) p.set(k, "1");
+  p.set("limite", LIM); p.set("deslocamento", desloc);
+  return p.toString();
+}
+async function carregarLista(manter) {
+  const r = await api("GET", "/api/questoes?" + consulta());
+  itens = r.itens; total = r.total;
+  const L = $("lista"); L.replaceChildren();
+  if (!itens.length) L.append(el("div", { class: "vazio", text: "Nenhuma questão com esses filtros." }));
+  for (const q of itens) L.append(linha(q));
+  $("total").textContent = total + " questões" + (total ? " (" + (desloc + 1) + " a " + (desloc + itens.length) + ")" : "");
+  $("ant").disabled = desloc === 0; $("prox").disabled = desloc + LIM >= total;
+}
+function linha(q) {
+  const classe = "item" + (atual && atual.id === q.id ? " sel" : "");
+  const topo = (q.ponto || "sem classificação") + (q.ponto2 ? " + " + q.ponto2 : "");
+  const e = el("div", { class: classe, "data-id": q.id, tabindex: 0, role: "button", onclick: () => abrir(q.id) },
+    el("div", { class: "t", text: q.prova.replace(/ - /g, " · ") + " · Q" + q.numero }),
+    el("div", {}, q.revisada ? el("span", { class: "tag ok", text: "revisada" }) : null),
+    el("div", { class: "s", text: topo + (q.confianca ? " · " + q.confianca : "") }),
+    el("div", {}, q.situacao !== "valida" ? el("span", { class: "tag warn", text: q.situacao }) : null, q.comentario_confirmar ? el("span", { class: "tag warn", text: "confirmar" }) : null));
+  e.addEventListener("keydown", ev => { if (ev.key === "Enter") abrir(q.id); });
+  return e;
+}
+
+// ---------- editor
+function seletorTopico(id, valor, vazio) {
+  const s = el("select", { id, class: "cmp" });
+  if (vazio) s.append(el("option", { value: "", text: "(nenhum)" }));
+  for (const d of topicos) for (const a of d.assuntos) {
+    const g = el("optgroup", { label: d.disciplina + " · " + a.codigo + " " + a.nome });
+    for (const p of a.pontos) g.append(el("option", { value: p.codigo, text: p.codigo + " " + p.texto }));
+    s.append(g);
+  }
+  s.value = valor || "";
+  return s;
+}
+function areaTexto(id, valor, linhas) { const t = el("textarea", { id, rows: linhas || 2 }); t.value = valor || ""; t.addEventListener("input", marcar); return t; }
+function marcar() { atualizarMudancas(); }
+
+function desenhar(q) {
+  atual = q; original = JSON.parse(JSON.stringify(q)); pendente = null;
+  const c = q.classificacao || {}, cm = q.comentario || {};
+  const E = $("editor"); E.replaceChildren();
+  E.append(el("div", { class: "cab" }, el("b", { text: q.prova + " · Questão " + q.numero }), el("span", { class: "tag", text: q.disciplina }),
+    el("span", { class: "tag", text: "rótulo original: " + (q.disciplina_original || "—") }),
+    el("span", { class: "tag " + (q.situacao === "valida" ? "" : "warn"), text: q.situacao }), q.revisada ? el("span", { class: "tag ok", text: "revisada" }) : null,
+    el("span", { class: "tag", text: "gabarito da prova: " + (q.gabarito_situacao || "—") })));
+  if (q.motivo_situacao) E.append(el("div", { class: "aviso warn", text: "Motivo da situação: " + q.motivo_situacao }));
+
+  E.append(el("h2", { text: "Classificação" }));
+  E.append(el("div", { class: "dois" },
+    el("div", {}, el("label", { class: "c", for: "cP", text: "Tópico principal" }), seletorTopico("cP", c.ponto, !q.classificacao)),
+    el("div", {}, el("label", { class: "c", for: "cS", text: "Tópico secundário (só se a questão testa mesmo dois temas: o peso se divide 50% e 50%)" }), seletorTopico("cS", c.ponto2, true))));
+  const tipos = (filtros.tipos_cobranca.includes(c.tipo_cobranca) || !c.tipo_cobranca) ? filtros.tipos_cobranca : filtros.tipos_cobranca.concat([c.tipo_cobranca]);
+  const tSel = el("select", { id: "cT", class: "cmp" }); for (const t of tipos) tSel.append(el("option", { value: t, text: t })); tSel.value = c.tipo_cobranca || "lei_seca";
+  const cSel = el("select", { id: "cC", class: "cmp" }); for (const t of filtros.confiancas) cSel.append(el("option", { value: t, text: t })); cSel.value = c.confianca || "media";
+  E.append(el("div", { class: "dois" }, el("div", {}, el("label", { class: "c", for: "cT", text: "Tipo de cobrança" }), tSel), el("div", {}, el("label", { class: "c", for: "cC", text: "Confiança" }), cSel)));
+  const det = el("input", { id: "cD", class: "cmp", type: "text" }); det.value = c.detalhe || ""; E.append(el("label", { class: "c", for: "cD", text: "Detalhe (o que a questão cobra)" }), det);
+  E.append(el("div", { class: "s", style: "color:var(--mut);font-size:13px;margin-top:4px", text: q.classificacao ? "Origem: " + (c.origem || "—") + " · " + (c.revisada ? "revisada" : "não revisada") : "Esta questão ainda não tem classificação." }));
+  E.append(el("div", { id: "avisosCls" }));
+  for (const id of ["cP", "cS", "cT", "cC", "cD"]) E.querySelector("#" + id).addEventListener("input", marcar);
+
+  E.append(el("h2", { text: "Enunciado e alternativas" }));
+  E.append(areaTexto("tEnun", q.enunciado, 5));
+  for (const L of ["a", "b", "c", "d", "e"]) {
+    const r = el("input", { type: "radio", name: "gab", value: L.toUpperCase(), id: "g" + L, "aria-label": "Gabarito " + L.toUpperCase() });
+    r.checked = q.gabarito === L.toUpperCase(); r.addEventListener("input", marcar);
+    E.append(el("div", { class: "alt" }, r, el("div", {}, el("label", { class: "c", for: "t" + L, text: "Alternativa " + L.toUpperCase() + (q.gabarito === L.toUpperCase() ? " (gabarito atual)" : "") }), areaTexto("t" + L, q["alt_" + L], 2))));
+  }
+  const sit = el("select", { id: "sit", class: "cmp" }); for (const t of filtros.situacoes) sit.append(el("option", { value: t, text: t })); sit.value = q.situacao; sit.addEventListener("input", marcar);
+  E.append(el("div", { class: "dois" }, el("div", {}, el("label", { class: "c", for: "sit", text: "Situação da questão" }), sit),
+    el("div", {}, el("label", { class: "c", for: "mot", text: "Motivo (obrigatório para mudar o gabarito; vale para todo este salvamento)" }), (() => { const i = el("input", { id: "mot", class: "cmp", type: "text" }); i.addEventListener("input", marcar); return i; })())));
+
+  E.append(el("h2", { text: "Comentário" + (cm.estado ? " (" + cm.estado + (cm.pendente_confirmacao ? ", marcado para confirmar" : "") + ")" : " (não há)") }));
+  E.append(el("label", { class: "c", for: "mTxt", text: "Texto" }), areaTexto("mTxt", cm.texto, 6));
+  E.append(el("div", { class: "dois" }, el("div", {}, el("label", { class: "c", for: "mPeg", text: "Pegadinha" }), areaTexto("mPeg", cm.pegadinha, 2)),
+    el("div", {}, el("label", { class: "c", for: "mDis", text: "Dispositivos" }), areaTexto("mDis", cm.dispositivos, 2))));
+  E.append(el("div", { class: "s", style: "color:var(--mut);font-size:13px", text: "Salvar uma edição do comentário o marca como conferido por você." }));
+
+  E.append(el("div", { class: "barra" },
+    el("button", { id: "bSalvar", class: "pri", onclick: () => salvar(false), text: "Salvar (Ctrl+S)" }),
+    el("button", { id: "bRev", class: "ok", onclick: () => salvar(true), text: "Salvar e marcar como revisada (Ctrl+Enter)" }),
+    el("button", { id: "bDesf", onclick: desfazer, text: "Desfazer última edição" }),
+    el("button", { onclick: () => vizinho(-1), text: "‹ Anterior (Alt+↑)" }), el("button", { onclick: () => vizinho(1), text: "Próxima (Alt+↓) ›" })));
+  E.append(el("details", { id: "hist", ontoggle: carregarHistorico }, el("summary", { text: "Histórico de edições desta questão" }), el("div", { id: "histCorpo" })));
+  document.querySelectorAll(".item").forEach(i => i.classList.toggle("sel", Number(i.dataset.id) === q.id));
+  atualizarMudancas();
+}
+
+function valor(id) { return $(id).value; }
+function coletar() {
+  const q = original, alt = {}, texto = {};
+  const mapa = { tEnun: "enunciado", ta: "alt_a", tb: "alt_b", tc: "alt_c", td: "alt_d", te: "alt_e" };
+  for (const [id, campo] of Object.entries(mapa)) if (valor(id) !== (q[campo] || "")) texto[campo] = valor(id);
+  if (Object.keys(texto).length) alt.texto = texto;
+  const g = document.querySelector("input[name=gab]:checked"); if (g && g.value !== q.gabarito) alt.gabarito = g.value;
+  if (valor("sit") !== q.situacao) alt.situacao = valor("sit");
+  const c = q.classificacao || {};
+  const cls = { ponto: valor("cP"), ponto2: valor("cS") || null, tipo_cobranca: valor("cT"), confianca: valor("cC"), detalhe: valor("cD") };
+  if (!q.classificacao ? cls.ponto !== "" : (cls.ponto !== c.ponto || (cls.ponto2 || null) !== (c.ponto2 || null) || cls.tipo_cobranca !== (c.tipo_cobranca || "") || cls.confianca !== (c.confianca || "") || cls.detalhe !== (c.detalhe || ""))) alt.classificacao = cls;
+  const cm = q.comentario || {}, com = {};
+  for (const [id, campo] of [["mTxt", "texto"], ["mPeg", "pegadinha"], ["mDis", "dispositivos"]]) if (valor(id) !== (cm[campo] || "")) com[campo] = valor(id);
+  if (Object.keys(com).length) alt.comentario = com;
+  return alt;
+}
+function atualizarMudancas() {
+  const alt = coletar();
+  const sujo = Object.keys(alt).length > 0;
+  const marca = (id, mudou) => { const e = $(id); if (e) e.classList.toggle("mudou", !!mudou); };
+  marca("tEnun", alt.texto && "enunciado" in alt.texto);
+  for (const L of ["a", "b", "c", "d", "e"]) marca("t" + L, alt.texto && ("alt_" + L) in alt.texto);
+  const c0 = original.classificacao || {};
+  marca("cP", valor("cP") !== (c0.ponto || "")); marca("cS", (valor("cS") || "") !== (c0.ponto2 || ""));
+  marca("cT", original.classificacao && valor("cT") !== (c0.tipo_cobranca || "")); marca("cC", original.classificacao && valor("cC") !== (c0.confianca || ""));
+  marca("cD", valor("cD") !== (c0.detalhe || ""));
+  for (const [id, campo] of [["mTxt", "texto"], ["mPeg", "pegadinha"], ["mDis", "dispositivos"]]) marca(id, alt.comentario && campo in alt.comentario);
+  const A = $("avisosCls"); if (A) {
+    A.replaceChildren();
+    const cls = alt.classificacao;
+    if (cls && cls.ponto && cls.ponto === cls.ponto2) A.append(el("div", { class: "aviso err", text: "O principal e o secundário não podem ser o mesmo tópico." }));
+    if (cls && !cls.ponto) A.append(el("div", { class: "aviso err", text: "Escolha o tópico principal." }));
+    if (alt.gabarito && !valor("mot").trim()) A.append(el("div", { class: "aviso warn", text: "Para mudar o gabarito, escreva o motivo no campo \"Motivo\"." }));
+  }
+  const b = $("bSalvar"); if (b) { b.disabled = !sujo; $("bRev").disabled = false; }
+  document.title = (sujo ? "● " : "") + "Editor de questões";
+  return sujo;
+}
+async function salvar(revisar) {
+  const alt = coletar();
+  if (revisar) alt.marcar_revisada = true;
+  if (!Object.keys(alt).length) return aviso("Nada para salvar.", "warn");
+  try {
+    const r = await api("POST", "/api/questoes/" + atual.id + "/salvar", { alteracoes: alt, motivo: valor("mot") });
+    desenhar(r.questao);
+    aviso(r.mudou ? "Salvo: " + r.campos.join(", ") : "Nada mudou.", "ok");
+    await atualizarLinha();
+  } catch (e) { aviso(e.message, "err"); }
+}
+async function desfazer() {
+  try {
+    const r = await api("POST", "/api/questoes/" + atual.id + "/desfazer", {});
+    desenhar(r.questao); aviso("Última edição desfeita.", "ok"); await atualizarLinha();
+  } catch (e) { aviso(e.message, "err"); }
+}
+async function atualizarLinha() { await carregarLista(); }
+async function carregarHistorico() {
+  if (!$("hist").open) return;
+  const h = await api("GET", "/api/questoes/" + atual.id + "/historico");
+  const C = $("histCorpo"); C.replaceChildren();
+  if (!h.length) return C.append(el("div", { class: "vazio", text: "Sem edições." }));
+  const t = el("table", { class: "h" }, el("tr", {}, el("th", { text: "Quando" }), el("th", { text: "Campo" }), el("th", { text: "Antes" }), el("th", { text: "Depois" }), el("th", { text: "Motivo" })));
+  for (const x of h) t.append(el("tr", { style: x.desfeita ? "opacity:.5" : "" }, el("td", { text: x.quando.replace("T", " ") + (x.desfeita ? " (desfeita)" : "") }), el("td", { text: x.campo }),
+    el("td", { class: "pre", text: (x.antes || "").slice(0, 200) }), el("td", { class: "pre", text: (x.depois || "").slice(0, 200) }), el("td", { text: x.motivo || "" })));
+  C.append(t);
+}
+async function abrir(id) {
+  if (atual && atual.id !== id && atualizarMudancas()) {
+    if (pendente !== id) { pendente = id; return aviso("Há alterações não salvas. Salve, ou clique de novo na questão para descartá-las.", "warn"); }
+  }
+  try { desenhar(await api("GET", "/api/questoes/" + id)); aviso(""); } catch (e) { aviso(e.message, "err"); }
+}
+function vizinho(d) {
+  const i = itens.findIndex(q => atual && q.id === atual.id), j = i + d;
+  if (j >= 0 && j < itens.length) abrir(itens[j].id);
+  else if (j < 0 && desloc > 0) { desloc = Math.max(0, desloc - LIM); carregarLista().then(() => itens.length && abrir(itens[itens.length - 1].id)); }
+  else if (j >= itens.length && desloc + LIM < total) { desloc += LIM; carregarLista().then(() => itens.length && abrir(itens[0].id)); }
+}
+
+// ---------- início
+document.addEventListener("keydown", e => {
+  if (!atual) return;
+  if ((e.ctrlKey || e.metaKey) && e.key === "s") { e.preventDefault(); salvar(false); }
+  else if ((e.ctrlKey || e.metaKey) && e.key === "Enter") { e.preventDefault(); salvar(true); }
+  else if (e.altKey && e.key === "ArrowDown") { e.preventDefault(); vizinho(1); }
+  else if (e.altKey && e.key === "ArrowUp") { e.preventDefault(); vizinho(-1); }
+});
+for (const id of ["fDisc", "fProva", "fSit", "fConf", "fMig", "fSemSec", "fSemCls", "fCom", "fNao"]) $(id).addEventListener("change", () => { desloc = 0; carregarLista(); });
+let tmr = null; for (const id of ["fPonto", "fBusca"]) $(id).addEventListener("input", () => { clearTimeout(tmr); tmr = setTimeout(() => { desloc = 0; carregarLista(); }, 350); });
+$("ant").onclick = () => { desloc = Math.max(0, desloc - LIM); carregarLista(); };
+$("prox").onclick = () => { desloc += LIM; carregarLista(); };
+$("sinc").onclick = async () => { try { const r = await api("POST", "/api/questoes/sincronizar", {}); aviso("Arquivos atualizados: " + r.saida, "ok"); } catch (e) { aviso(e.message, "err"); } };
+(async () => {
+  try {
+    [filtros, topicos] = await Promise.all([api("GET", "/api/questoes/filtros"), api("GET", "/api/questoes/topicos")]);
+    opcoes($("fDisc"), "Todas as disciplinas", filtros.disciplinas, "id", "nome"); opcoes($("fProva"), "Todas as provas", filtros.provas, "id", "nome");
+    opcoes($("fSit"), "Qualquer situação", filtros.situacoes); opcoes($("fConf"), "Qualquer confiança", filtros.confiancas);
+    await carregarLista();
+  } catch (e) { aviso(e.message, "err"); }
+})();
+</script>
+</body>
+</html>

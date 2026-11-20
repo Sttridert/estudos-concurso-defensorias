@@ -13,7 +13,13 @@ cabeçalho `Host` tem de ser 127.0.0.1 ou localhost (contra páginas de outros s
 REVISÃO DO CONJUNTO DE REFERÊNCIA (marco M4): a página /revisao mostra uma questão por tela para o usuário arbitrar (teclas A, B, C...). As respostas
 vão para `dados/referencia/referencia_ouro.csv` com origem "usuario" (nunca grave resposta no lugar do usuário). `--referencia DIR` usa outra pasta, para ensaio.
 
+EDITOR DE QUESTÕES (grupo C, decisão 57): a página /questoes lista as questões e edita classificação, texto, gabarito e comentário GRAVANDO DIRETO NO BANCO
+(cópia diária em banco/backup, histórico por edição e desfazer; ver lib_questoes.py). `--banco ARQ` aponta para outro banco, para ensaio.
+
 API (JSON):
+  GET  /api/questoes?...                      lista com filtros (disciplina_id, prova_id, situacao, confianca, ponto, busca, migrada, sem_secundario, ...)
+  GET  /api/questoes/filtros | topicos | <id> | <id>/historico
+  POST /api/questoes/<id>/salvar {alteracoes, motivo} | <id>/desfazer | sincronizar (roda o `71 exportar`)
   GET  /api/catalogos                         lista os catálogos v1 e se já têm rascunho
   POST /api/rascunho/<slug>/criar             cria o rascunho a partir do catálogo v1 (corpo opcional {"sobrescrever": true})
   GET  /api/rascunho/<slug>                   visão: códigos, contagens, diagnóstico do contrato, lixeira, desfazer e refazer
@@ -32,6 +38,7 @@ API (JSON):
 import json
 import re
 import secrets
+import subprocess
 import sys
 import threading
 import webbrowser
@@ -42,13 +49,15 @@ from urllib.parse import parse_qs, urlparse
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import lib_rascunho as R  # noqa: E402
 import lib_revisao as V  # noqa: E402
+import lib_questoes as Q  # noqa: E402
 
 PAGINA = Path(__file__).resolve().parent / "catalogar_editor.html"
 PAGINA_REVISAO = Path(__file__).resolve().parent / "catalogar_revisao.html"
+PAGINA_QUESTOES = Path(__file__).resolve().parent / "mapear_questoes.html"
 SLUG = re.compile(r"^[a-z0-9\-]+$")
 
 
-def criar_servidor(porta=8765, token=None, banco=None, referencia=None):
+def criar_servidor(porta=8765, token=None, banco=None, referencia=None, backup=None):
     token = token or secrets.token_urlsafe(16)
 
     class Handler(BaseHTTPRequestHandler):
@@ -86,6 +95,45 @@ def criar_servidor(porta=8765, token=None, banco=None, referencia=None):
                 raise R.ErroOp("nome de catálogo inválido.")
             return texto
 
+        # ---------- editor de questões (grava direto no banco; ver lib_questoes)
+        def _questoes_get(self, partes, q):
+            um = lambda k: (q.get(k) or [""])[0]
+            if len(partes) == 2:
+                f = {k: um(k) for k in ("disciplina_id", "prova_id", "situacao", "confianca", "ponto", "busca") if um(k)}
+                for k in ("migrada", "sem_secundario", "sem_classificacao", "comentario_confirmar", "nao_revisadas"):
+                    if um(k) in ("1", "true"):
+                        f[k] = True
+                return self._enviar(200, Q.listar(banco, f, int(um("limite") or 100), int(um("deslocamento") or 0)))
+            if partes[2] == "filtros":
+                return self._enviar(200, Q.filtros_disponiveis(banco))
+            if partes[2] == "topicos":
+                return self._enviar(200, Q.topicos(banco))
+            qid = int(partes[2]) if partes[2].isdigit() else 0
+            if len(partes) == 3:
+                return self._enviar(200, Q.obter(banco, qid))
+            if len(partes) == 4 and partes[3] == "historico":
+                return self._enviar(200, Q.historico(banco, qid))
+            return self._enviar(404, {"erro": "não encontrado"})
+
+        def _questoes_post(self, partes):
+            if len(partes) == 3 and partes[2] == "sincronizar":
+                if banco is not None:
+                    raise Q.ErroQuestao("a sincronização só vale para o banco real.")
+                r = subprocess.run([sys.executable, "-I", str(Path(__file__).resolve().parent / "71_catalogo_e_classificacao.py"), "exportar"],
+                                   capture_output=True, text=True, cwd=str(R.RAIZ))
+                if r.returncode != 0:
+                    raise Q.ErroQuestao("a exportação falhou: " + (r.stderr or r.stdout)[-300:])
+                return self._enviar(200, {"saida": r.stdout.strip().splitlines()[-1] if r.stdout.strip() else "ok"})
+            if len(partes) == 4 and partes[2].isdigit():
+                qid = int(partes[2])
+                if partes[3] == "salvar":
+                    c = self._corpo()
+                    return self._enviar(200, Q.salvar(banco, qid, c.get("alteracoes") or {}, c.get("motivo", ""), pasta_backup=backup))
+                if partes[3] == "desfazer":
+                    self._corpo()
+                    return self._enviar(200, Q.desfazer(banco, qid, pasta_backup=backup))
+            return self._enviar(404, {"erro": "não encontrado"})
+
         # ---------- rotas
         def do_GET(self):
             u = urlparse(self.path)
@@ -99,6 +147,11 @@ def criar_servidor(porta=8765, token=None, banco=None, referencia=None):
                     return self._enviar(403, {"erro": "host não permitido"})
                 html = PAGINA_REVISAO.read_text(encoding="utf-8").replace("__TOKEN__", token) if PAGINA_REVISAO.exists() else "<p>página de revisão ainda não existe</p>"
                 return self._enviar(200, html.encode("utf-8"), "text/html; charset=utf-8")
+            if u.path == "/questoes":
+                if not self._host_ok():
+                    return self._enviar(403, {"erro": "host não permitido"})
+                html = PAGINA_QUESTOES.read_text(encoding="utf-8").replace("__TOKEN__", token) if PAGINA_QUESTOES.exists() else "<p>página do editor de questões ainda não existe</p>"
+                return self._enviar(200, html.encode("utf-8"), "text/html; charset=utf-8")
             if not u.path.startswith("/api/"):
                 return self._enviar(404, {"erro": "não encontrado"})
             if not self._autorizado():
@@ -107,6 +160,8 @@ def criar_servidor(porta=8765, token=None, banco=None, referencia=None):
                 partes = u.path.strip("/").split("/")          # api, catalogos | api, rascunho, slug, [acao] | api, referencia, fila|resumo
                 if partes[1] == "catalogos":
                     return self._enviar(200, R.catalogos_disponiveis())
+                if partes[1] == "questoes":
+                    return self._questoes_get(partes, parse_qs(u.query))
                 if partes[1] == "referencia" and len(partes) == 3:
                     if partes[2] == "fila":
                         itens = V.montar_fila(referencia, banco)
@@ -130,7 +185,7 @@ def criar_servidor(porta=8765, token=None, banco=None, referencia=None):
                         uid = (parse_qs(u.query).get("uid") or [""])[0]
                         return self._enviar(200, R.questoes_do_ponto(d, uid, banco))
                 return self._enviar(404, {"erro": "não encontrado"})
-            except (R.ErroOp, V.ErroRevisao) as e:
+            except (R.ErroOp, V.ErroRevisao, Q.ErroQuestao) as e:
                 return self._enviar(400, {"erro": str(e)})
 
         def do_POST(self):
@@ -140,6 +195,8 @@ def criar_servidor(porta=8765, token=None, banco=None, referencia=None):
                 return self._enviar(403, {"erro": "acesso negado"})
             try:
                 partes = urlparse(self.path).path.strip("/").split("/")
+                if partes[1] == "questoes":
+                    return self._questoes_post(partes)
                 if partes[1] == "referencia" and len(partes) == 3:
                     corpo = self._corpo()
                     if partes[2] == "resposta":
@@ -160,7 +217,7 @@ def criar_servidor(porta=8765, token=None, banco=None, referencia=None):
                         arq = R.exportar_mapa(R.carregar(slug))
                         return self._enviar(200, {"arquivo": str(arq.relative_to(R.RAIZ)) if str(arq).startswith(str(R.RAIZ)) else str(arq)})
                 return self._enviar(404, {"erro": "não encontrado"})
-            except (R.ErroOp, V.ErroRevisao) as e:
+            except (R.ErroOp, V.ErroRevisao, Q.ErroQuestao) as e:
                 return self._enviar(400, {"erro": str(e)})
             except (json.JSONDecodeError, UnicodeDecodeError):
                 return self._enviar(400, {"erro": "corpo inválido (JSON esperado)"})
@@ -176,12 +233,20 @@ def main():
     if "--pasta" in a:                      # ensaio: lê os catálogos v1 e grava os rascunhos em outra pasta (os dados reais ficam intactos)
         R.PASTA = Path(a[a.index("--pasta") + 1]).resolve()
         print(f"ENSAIO: catálogos e rascunhos em {R.PASTA}")
+    banco = Path(a[a.index("--banco") + 1]).resolve() if "--banco" in a else None
+    if banco:
+        print(f"ENSAIO: banco {banco}")
     referencia = Path(a[a.index("--referencia") + 1]).resolve() if "--referencia" in a else None
     if referencia:
         print(f"ENSAIO: respostas da revisão em {referencia}")
-    srv = criar_servidor(porta, referencia=referencia)
+    if not banco:
+        copia = Q.backup_do_dia()
+        if copia:
+            print(f"cópia do dia do banco: {copia.name}")
+    srv = criar_servidor(porta, banco=banco, referencia=referencia, backup=(banco.parent / "backup_ensaio") if banco else None)
     url = f"http://127.0.0.1:{srv.server_address[1]}/"
     print(f"Editor do catálogo em {url}  (somente neste computador; Ctrl+C encerra)")
+    print(f"Editor de questões em {url}questoes  (grava direto no banco)")
     if "--abrir" in a:
         threading.Timer(0.5, lambda: webbrowser.open(url)).start()
     try:
