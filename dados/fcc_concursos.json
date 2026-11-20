@@ -1,0 +1,63 @@
+{
+ "_leia-me": "Concursos da FCC usados por scripts/coletar_gabaritos.py. 'concursos': codigos do site da FCC (comando baixar-fcc). 'relatorios_alteracao': relatorios oficiais de alteracao/atribuicao de gabarito ja baixados em banco/gabaritos_fcc/pdf/ (comando ajustes-fcc), ligando o arquivo (sem extensao) a prova do banco e ao tipo do caderno. Prova nova da FCC: acrescentar uma linha aqui, sem mexer no script.",
+ "concursos": [
+  "dpeam121",
+  "dpeba120",
+  "dpesc121",
+  "dpeam122",
+  "dpeap122",
+  "dpece121",
+  "dpemt221",
+  "dpepb121",
+  "dpeam123",
+  "dpees121",
+  "dpesp222",
+  "dpeam224",
+  "dpers124",
+  "dpesp124",
+  "dpeba125",
+  "dpema125",
+  "dpemt125",
+  "dpego121",
+  "dperr121",
+  "dpeam124"
+ ],
+ "relatorios_alteracao": {
+  "dpeba120__atribuicoes_de_questoes": {
+   "prova": "2021 - DPE-BA - Defensor Público",
+   "tipo_caderno": 2
+  },
+  "dpeap122__dpeap122_-_atribuicao": {
+   "prova": "2022 - DPE-AP - Defensor Público",
+   "tipo_caderno": 1
+  },
+  "dpees121__dpees121_alteracao_atribuicao_de_gabarito": {
+   "prova": "2023 - DPE-ES - Defensor Público",
+   "tipo_caderno": 3
+  },
+  "dpesp222__relatorio_alteracoes_gabaritos": {
+   "prova": "2023 - DPE-SP - Defensor Público",
+   "tipo_caderno": 5
+  },
+  "dpeam224__6_dpeam224_alteracoes_de_gabarito": {
+   "prova": "2025 - DPE-AM - Defensor Público",
+   "tipo_caderno": 1
+  },
+  "dpesp124__6_dpesp124_alteracoes_de_gabarito": {
+   "prova": "2025 - DPE-SP - Analista de Defensoria",
+   "tipo_caderno": 1
+  },
+  "dpemt125__dpemt125_relatorio_atribuicao_de_gabaritos": {
+   "prova": "2026 - DPE-MT - Defensor Público",
+   "tipo_caderno": 1
+  },
+  "dpego121__atribuicoes_de_gabarito": {
+   "prova": "2021 - DPE-GO - Defensor Público",
+   "tipo_caderno": 4
+  },
+  "dperr119__alteracao_de_gabarito": {
+   "prova": "2021 - DPE-RR - Defensor Público",
+   "tipo_caderno": 4
+  }
+ }
+}

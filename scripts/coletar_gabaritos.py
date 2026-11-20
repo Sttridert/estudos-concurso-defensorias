@@ -42,9 +42,19 @@ BANCO = BANCO_DIR / "estudos.db"
 
 # ---------------------------------------------------------------- baixar-fcc (antigo 04)
 SITE_FCC = "https://www.concursosfcc.com.br/concursos"
-CODIGOS_FCC = ["dpeam121", "dpeba120", "dpesc121", "dpeam122", "dpeap122", "dpece121", "dpemt221", "dpepb121", "dpeam123",
-               "dpees121", "dpesp222", "dpeam224", "dpers124", "dpesp124", "dpeba125", "dpema125", "dpemt125", "dpego121",
-               "dperr121", "dpeam124"]
+ARQ_FCC = RAIZ / "dados" / "fcc_concursos.json"
+
+
+def carregar_fcc(arquivo=None):
+    """Lê `dados/fcc_concursos.json`: -> (lista de códigos de concurso da FCC, {arquivo do relatório: (prova, tipo do caderno)})."""
+    arq = pathlib.Path(arquivo or ARQ_FCC)
+    if not arq.exists():
+        sys.exit(f"falta o arquivo de dados {arq} (concursos da FCC e relatórios de alteração de gabarito)")
+    d = json.loads(arq.read_text(encoding="utf-8"))
+    return list(d["concursos"]), {k: (v["prova"], int(v["tipo_caderno"])) for k, v in d["relatorios_alteracao"].items()}
+
+
+CODIGOS_FCC, RELATORIOS_FCC = carregar_fcc()   # arquivo -> (prova, tipo do caderno)
 
 
 def _curl(args, cj):
@@ -90,17 +100,6 @@ def baixar_fcc(so=None, saida=None):
 
 
 # ---------------------------------------------------------------- ajustes-fcc (antigo 05)
-RELATORIOS_FCC = {  # arquivo -> (prova, tipo do caderno)
-    "dpeba120__atribuicoes_de_questoes": ("2021 - DPE-BA - Defensor Público", 2),
-    "dpeap122__dpeap122_-_atribuicao": ("2022 - DPE-AP - Defensor Público", 1),
-    "dpees121__dpees121_alteracao_atribuicao_de_gabarito": ("2023 - DPE-ES - Defensor Público", 3),
-    "dpesp222__relatorio_alteracoes_gabaritos": ("2023 - DPE-SP - Defensor Público", 5),
-    "dpeam224__6_dpeam224_alteracoes_de_gabarito": ("2025 - DPE-AM - Defensor Público", 1),
-    "dpesp124__6_dpesp124_alteracoes_de_gabarito": ("2025 - DPE-SP - Analista de Defensoria", 1),
-    "dpemt125__dpemt125_relatorio_atribuicao_de_gabaritos": ("2026 - DPE-MT - Defensor Público", 1),
-    "dpego121__atribuicoes_de_gabarito": ("2021 - DPE-GO - Defensor Público", 4),
-    "dperr119__alteracao_de_gabarito": ("2021 - DPE-RR - Defensor Público", 4),
-}
 
 
 def _parse_ajustes(txt):
