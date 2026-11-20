@@ -31,3 +31,9 @@ Tabela antigo para novo (grupo A, 20/11/2026):
 | `57` | `coletar_textos_base.py` |
 | `lib_gabarito`, `08`, `09` | sem substituto (não eram usados) |
 | (novo) | `coletar_conferir_prova.py` e `lib_conferencia.py` (relatório de integridade e vocabulário do gabarito) |
+
+Grupo B, B-7 (20/11/2026; decisões 53 e 54 do usuário): o ciclo do edital fictício geral foi aposentado. Estão aqui:
+- `scripts/40_extrair_programas.py` (extração do programa por disciplina; hoje `coletar_programa_edital.py extrair`), `41_consolidar_itens.py` (juntava frases em itens e os ligava a tópicos pela taxonomia antiga), `43_gravar_edital_geral.py` (apagava e regravava itens e ligações pelos códigos do catálogo antigo: NÃO rodar, desfaria as ligações do v2) e `44_gerar_documento_edital_geral.py` (Word do edital fictício).
+- `dados/edital_ficticio_geral/`: taxonomia, ajustes, tópicos aprovados e arquivos de itens por disciplina (13 MB).
+- `produtos/edital-ficticio/`: os 9 Word do edital fictício geral (v1).
+O subcomando `71 semear` e a marca `edital_ficticio` de `dados/disciplinas.json` também saíram. Fica no projeto: a base de itens de edital no banco (tabelas `edital_itens`, `edital_item_ocorrencias`, `edital_item_pontos`) e `dados/programas_editais/` (textos literais). Os caminhos internos dos scripts daqui apontam para `scripts/` e `dados/`: não funcionam sem ajuste, de propósito. Quando entrar edital novo (conector da PCI, A-7), o carregador novo deve extrair pelo `coletar_programa_edital`, juntar frases iguais e gravar de forma incremental, sem apagar nem religar o que existe (a ligação a tópicos é do grupo C).

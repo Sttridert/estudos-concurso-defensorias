@@ -1,5 +1,5 @@
 {
- "_leia-me": "Fonte única das disciplinas do projeto (sigla, nome no banco, prefixo dos códigos do catálogo, padrões de título para achar a disciplina no PDF do edital). Lido por scripts/lib_disciplinas.py. Disciplina nova: acrescentar uma entrada aqui e rodar `71 semear`. `ordem_extracao` é a ordem padrão de `coletar_programa_edital.py extrair`.",
+ "_leia-me": "Fonte única das disciplinas do projeto (sigla, nome no banco, prefixo dos códigos do catálogo, padrões de título para achar a disciplina no PDF do edital). Lido por scripts/lib_disciplinas.py. Disciplina nova: `scripts/catalogar_novo.py criar` já acrescenta a entrada aqui. `ordem_extracao` é a ordem padrão de `coletar_programa_edital.py extrair`.",
  "ordem_extracao": [
   "CONST",
   "ADM",
@@ -18,7 +18,6 @@
    "padroes_titulo": [
     "^DIREITO CONSTITUCIONAL"
    ],
-   "edital_ficticio": true,
    "extrair_edital_real": true
   },
   {
@@ -28,7 +27,6 @@
    "padroes_titulo": [
     "^DIREITO ADMINISTRATIVO\\b"
    ],
-   "edital_ficticio": true,
    "extrair_edital_real": true
   },
   {
@@ -38,7 +36,6 @@
    "padroes_titulo": [
     "^DIREITO CIVIL\\b"
    ],
-   "edital_ficticio": true,
    "extrair_edital_real": true
   },
   {
@@ -48,7 +45,6 @@
    "padroes_titulo": [
     "^DIREITO PROCESSUAL CIVIL\\b"
    ],
-   "edital_ficticio": true,
    "extrair_edital_real": true
   },
   {
@@ -60,7 +56,6 @@
     "^LEGISLACAO PENAL\\b",
     "^DIREITO PENAL E CRIMINOLOGIA"
    ],
-   "edital_ficticio": true,
    "extrair_edital_real": true
   },
   {
@@ -72,7 +67,6 @@
     "^DIREITO PROCESSO PENAL\\b",
     "^PROCESSO PENAL\\b"
    ],
-   "edital_ficticio": true,
    "extrair_edital_real": true
   },
   {
@@ -82,7 +76,6 @@
    "padroes_titulo": [
     "^DIREITOS? HUMANOS\\b"
    ],
-   "edital_ficticio": true,
    "extrair_edital_real": true
   },
   {
@@ -94,7 +87,6 @@
     "^DIREITO DA INFANCIA E DA JUVENTUDE\\b",
     "^ESTATUTO DA CRIANCA E DO ADOLESCENTE\\b"
    ],
-   "edital_ficticio": true,
    "extrair_edital_real": true
   },
   {
@@ -109,7 +101,6 @@
     "^EXECUCAO DAS PENAS\\b",
     "^SISTEMA PENITENCIARIO\\b"
    ],
-   "edital_ficticio": true,
    "extrair_edital_real": false
   },
   {
@@ -117,7 +108,6 @@
    "nome": "Criminologia",
    "prefixo": "CR",
    "padroes_titulo": [],
-   "edital_ficticio": false,
    "extrair_edital_real": false
   },
   {
@@ -125,7 +115,6 @@
    "nome": "Língua Portuguesa",
    "prefixo": "LP",
    "padroes_titulo": [],
-   "edital_ficticio": false,
    "extrair_edital_real": false
   },
   {
@@ -133,7 +122,6 @@
    "nome": "Princípios e Atribuições Institucionais da Defensoria",
    "prefixo": "PI",
    "padroes_titulo": [],
-   "edital_ficticio": false,
    "extrair_edital_real": false
   }
  ]

@@ -9,8 +9,6 @@ Uso:
   python -I scripts/71_catalogo_e_classificacao.py conferir [--banco ARQ]      # = aplicar --simular em todas
   python -I scripts/71_catalogo_e_classificacao.py estado [mostrar | definir <disciplina> provisorio|fechado --motivo "..." [--versao v2] [--editais "..."] [--risco "..."] [--sim-do-usuario]]
                                                                                        # catálogo FECHADO só aceita acréscimo (ver scripts/lib_catalogo.py)
-  python -I scripts/71_catalogo_e_classificacao.py semear SIGLA "Nome da disciplina"   # SUPERADO (decisão 53; use scripts/catalogar_novo.py criar). Antes: disciplina NOVA, catálogo inicial a partir de
-                                                                                       # dados/edital_ficticio_geral/taxonomia_SIGLA.json (depois conferir e `aplicar`)
 
 Arquivos (um par por disciplina; o nome é o da disciplina sem acento, ex.: direito-penal):
   dados/catalogo/<disciplina>.json       assuntos e pontos (códigos, textos, descrições, origem)
@@ -194,21 +192,6 @@ def aplicar(args, simular, banco):
     return mexeu
 
 
-def semear(sigla, nome):
-    tx = json.loads((RAIZ / "dados" / "edital_ficticio_geral" / f"taxonomia_{sigla.upper()}.json").read_text(encoding="utf-8"))
-    destino = CAT / f"{slug(nome)}.json"
-    if destino.exists():
-        sys.exit(f"{destino.name} já existe; não sobrescrevo.")
-    hoje = datetime.date.today().isoformat()
-    dados = {"disciplina": nome,
-             "assuntos": [{"codigo": t["codigo"], "nome": t["nome"], "descricao": None} for t in tx["temas"]],
-             "pontos": [{"codigo": p["codigo"], "assunto": p["tema"], "texto": p["nome"], "descricao": None,
-                         "origem": f"edital geral v1 ({hoje})", "ativo": 1, "criado_em": hoje} for p in tx["topicos"]]}
-    CAT.mkdir(parents=True, exist_ok=True)
-    destino.write_text(json.dumps(dados, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    print(f"{destino.name}: {len(dados['assuntos'])} assuntos, {len(dados['pontos'])} pontos. Confira e rode `aplicar {slug(nome)}`.")
-
-
 def estado(args):
     """`estado mostrar` | `estado definir <disciplina> provisorio|fechado --motivo "..." [--versao v2] [--editais "..."] [--risco "..." ...] [--sim-do-usuario]`"""
     if not args or args[0] == "mostrar":
@@ -239,8 +222,6 @@ def main():
     a = sys.argv[1:]
     if a and a[0] == "estado":
         return estado(a[1:])
-    if a and a[0] == "semear" and len(a) == 3:
-        return semear(a[1], a[2])
     if not a or a[0] not in ("exportar", "aplicar", "conferir"):
         sys.exit(__doc__)
     cmd, resto = a[0], a[1:]

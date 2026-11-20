@@ -311,7 +311,7 @@ class TestComandoNovo(Base):
         self._n = (N.DISCIPLINAS, N.BANCO)
         self.disc = self.tmp / "disciplinas.json"
         self.disc.write_text(json.dumps({"ordem_extracao": [], "disciplinas": [{"sigla": "AL", "nome": "Disciplina Alfa", "prefixo": "AL", "padroes_titulo": [],
-                                                                               "edital_ficticio": False, "extrair_edital_real": False}]}, ensure_ascii=False), encoding="utf-8")
+                                                                               "extrair_edital_real": False}]}, ensure_ascii=False), encoding="utf-8")
         N.DISCIPLINAS, N.BANCO = self.disc, self.banco
         self.roteiro = self.tmp / "roteiro.txt"
 

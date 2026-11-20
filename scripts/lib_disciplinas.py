@@ -6,7 +6,7 @@ coletar_programa_edital, lib_programa_edital e, em parte, 41). Disciplina nova: 
   SIGLAS                  todas as siglas, na ordem do arquivo
   nome(sigla)             nome da disciplina no banco
   prefixo(sigla)          prefixo dos códigos do catálogo (ex.: PE de PE01.02)
-  nomes(**filtro)         {sigla: nome}; filtros: edital_ficticio=True/False, extrair_edital_real=True/False
+  nomes(**filtro)         {sigla: nome}; filtro: extrair_edital_real=True/False
   prefixos()              {sigla: prefixo}
   padroes_titulo()        {sigla: [regex]} das disciplinas que se acham por título no PDF do edital
   ordem_extracao()        ordem padrão de `coletar_programa_edital.py extrair`

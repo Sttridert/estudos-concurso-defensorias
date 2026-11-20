@@ -117,7 +117,7 @@ def criar(args):
                     R.tirar_ponto(slug_de(p["adotar"]["disciplina"]), p["adotar"]["codigo"], movido_para=slug)
     except R.ErroOp as e:
         sys.exit(f"ERRO: {e}")
-    dados["disciplinas"].append({"sigla": sigla, "nome": nome, "prefixo": prefixo, "padroes_titulo": padroes, "edital_ficticio": False, "extrair_edital_real": False})
+    dados["disciplinas"].append({"sigla": sigla, "nome": nome, "prefixo": prefixo, "padroes_titulo": padroes, "extrair_edital_real": False})
     DISCIPLINAS.write_text(json.dumps(dados, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print(f"rascunho criado: dados/catalogo/_rascunho_{slug}_v2.json; disciplina registrada em dados/disciplinas.json.")
     print("Próximos passos: abrir no editor (python -I scripts/catalogar_editor.py --abrir), rodar catalogar_coerencia e catalogar_cobertura, "
