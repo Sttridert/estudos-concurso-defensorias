@@ -39,6 +39,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 BANCO = RAIZ / "banco" / "estudos.db"
 COD = re.compile(r"^(?:[A-Z]{2}\d{2}\.\d{2}|NP-[A-Z0-9\-]+)$")
 VERSAO = "rascunho IA"
+VERSAO_CATALOGO = "v2"   # versão do catálogo em que os códigos de decisoes.txt foram escritos (trava de 20/11/2026, grupo C)
 
 
 def norm(s):
@@ -54,14 +55,16 @@ def radicais(s):
 
 def ler_decisoes(arq: Path):
     dec, novos, erros, fora, cobre = {}, {}, [], {}, {}
-    global confirmados
-    confirmados = []
+    global confirmados, declarada
+    confirmados, declarada = [], []
     if not arq.exists():
         return dec, novos, fora, cobre, ["decisoes.txt não existe"]
     for n, linha in enumerate(arq.read_text(encoding="utf-8").splitlines(), 1):
         l = linha.split("  #")[0].strip() if "  #" in linha else linha.strip()
         if not l or l.startswith("#"):
             continue
+        if l.startswith("VERSAO_CATALOGO "):     # declara em que catálogo os códigos abaixo foram escritos (ex.: VERSAO_CATALOGO v2)
+            declarada.append(l.split()[1]); continue
         if l.startswith("CONFIRMADO "):          # o usuário confirmou as decisões deste bloco do edital (ex.: CONFIRMADO CONST 2026-11-14)
             confirmados.append(l.split()[1]); continue
         if l.startswith("FORA "):
@@ -107,6 +110,9 @@ def main():
     pasta = RAIZ / "dados" / "editais_reais" / slug
     prog = json.loads((pasta / "programa.json").read_text(encoding="utf-8"))
     dec, novos, fora_dec, cobre, erros = ler_decisoes(pasta / "decisoes.txt")
+    if declarada != [VERSAO_CATALOGO]:
+        sys.exit(f"RECUSADO: decisoes.txt não declara 'VERSAO_CATALOGO {VERSAO_CATALOGO}' (declarou: {declarada or 'nada'}). Os códigos podem ser do catálogo antigo "
+                 "e apontariam para tópicos errados. Traduzir antes: python -I scripts/mapear_codigos_v1_v2.py traduzir <slug>.")
     con = sqlite3.connect(f"file:{BANCO}?mode=ro", uri=True)
     cat = {c: (d, t, a) for c, t, d, a in con.execute("select p.codigo,p.texto,d.nome,a.nome from pontos p join disciplinas d on d.id=p.disciplina_id join assuntos a on a.id=p.assunto_id where p.ativo=1")}
     # base do edital geral: frases do mesmo edital já ligadas a tópicos, na ordem
@@ -202,7 +208,7 @@ def main():
     if erros:
         print("ERROS:"); [print("  " + e) for e in erros]; sys.exit("artefato NÃO gerado")
     art = {"edital": prog["edital"], "blocos_confirmados": confirmados, "fora_do_edital": [{"p": c, "motivo": m} for c, m in sorted(fora_dec.items())], "sem_julgamento": sem_jul, "estado": "rascunho da IA (a conferir pelo usuário)", "gerado_em": datetime.date.today().isoformat(),
-           "gerado_por": "scripts/51_classificar_edital.py", "disciplinas": out_disc, "topicos_propostos": propostas}
+           "gerado_por": "scripts/51_classificar_edital.py", "versao_catalogo": VERSAO_CATALOGO, "disciplinas": out_disc, "topicos_propostos": propostas}
     (pasta / "edital_classificado.json").write_text(json.dumps(art, ensure_ascii=False, indent=1), encoding="utf-8")
 
     # relatório

@@ -71,6 +71,14 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2022 - DPE-AM - Analista Jurídico (2);43;PE09.02;;jurisprudencia;Processos em andamento na primeira fase;media;IA (rascunho) 13/11/2026 | migrada v1 para v2;0;PE08;2026-11-20T17:28:01
 2022 - DPE-AM - Analista Jurídico (2);44;PE05.02;;caso_concreto;Caso concreto: perigo atual a terceiros;media;IA (rascunho) 13/11/2026 | migrada v1 para v2;0;PE05;2026-11-20T17:28:01
 2022 - DPE-AM - Analista Jurídico (2);45;PE07.01;;caso_concreto;Caso concreto: participação no roubo;media;IA (rascunho) 13/11/2026 | migrada v1 para v2;0;PE07;2026-11-20T17:28:01
+2022 - DPE-AP - Defensor Público;18;PE08.01;;doutrina;Teorias da pena;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2022 - DPE-AP - Defensor Público;19;PE06.01;;doutrina;Culpabilidade;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2022 - DPE-AP - Defensor Público;20;PE08.03;;lei_seca;Espécies de penas restritivas de direitos;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2022 - DPE-AP - Defensor Público;21;PE09.01;;jurisprudencia;Pena-base na jurisprudência do STJ;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2022 - DPE-AP - Defensor Público;24;PE09.01;;jurisprudencia;Deslocamento de majorantes na dosimetria;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2022 - DPE-AP - Defensor Público;25;PE13.02;;jurisprudencia;Violência doméstica na jurisprudência do STJ;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2022 - DPE-AP - Defensor Público;26;PE12.06;;lei_seca;Causa de aumento do crime de incêndio;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2022 - DPE-AP - Defensor Público;27;PE12.01;;caso_concreto;Lesão corporal gravíssima e dano psicológico;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
 2022 - DPE-CE - Defensor Público;34;PE06.02;;lei_seca;Medida de segurança e lei antimanicomial;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2022 - DPE-CE - Defensor Público;35;PE13.01;PE13.03;jurisprudencia;Associação para o tráfico e hediondez;media;IA (rascunho) 14/11/2026;0;;2026-11-14T16:10:42
 2022 - DPE-CE - Defensor Público;37;PE11.02;PE09.03;caso_concreto;Prescrição da pretensão executória com continuidade delitiva;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
@@ -130,6 +138,16 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2025 - DPE-AM - Defensor Público;30;PE08.03;PE09.02;caso_concreto;Reincidência e substituição da pena;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2025 - DPE-AM - Defensor Público;31;PE12.01;;caso_concreto;Calúnia contra os mortos e exceção da verdade;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2025 - DPE-AM - Defensor Público;32;PE11.02;PE12.01;caso_concreto;Prescrição em concurso de lesão e injúria;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
+2025 - DPE-RS - Defensor Público;76;PE02.02;PE02.01;lei_seca;Aplicação da lei penal no espaço e no tempo;media;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-RS - Defensor Público;77;PE04.03;PE04.02;lei_seca;Conduta, omissão e causalidade;media;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-RS - Defensor Público;78;PE08.02;PE11.01;lei_seca;Pena, regimes e extinção da punibilidade (alternativas mistas);media;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-RS - Defensor Público;79;PE04.06;PE06.03;lei_seca;Erro de tipo e erro de proibição;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-RS - Defensor Público;80;PE07.01;PE07.02;lei_seca;Concurso de pessoas;media;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-RS - Defensor Público;81;PE10.03;;lei_seca;Efeitos da condenação;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-RS - Defensor Público;82;PE12.02;;jurisprudencia;Roubo, latrocínio tentado e resistência;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-RS - Defensor Público;83;PE04.05;PE13.06;jurisprudencia;Dolo eventual em homicídio de trânsito;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-RS - Defensor Público;84;PE12.02;;jurisprudencia;Furto em recursos repetitivos do STJ;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-RS - Defensor Público;85;PE13.01;;jurisprudencia;Tráfico de drogas na jurisprudência do STJ;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
 2025 - DPE-SP - Analista de Defensoria;44;PE12.01;;lei_seca;Homicídio: figuras e qualificadoras;media;IA (rascunho) 13/11/2026 | migrada v1 para v2;0;PE12;2026-11-20T17:28:01
 2025 - DPE-SP - Analista de Defensoria;45;PE12.06;;lei_seca;Crime de incêndio;media;IA (rascunho) 13/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2025 - DPE-SP - Analista de Defensoria;46;PE10.01;;lei_seca;Livramento condicional: natureza e revogação;media;IA (rascunho) 13/11/2026 | migrada v1 para v2;0;PE08;2026-11-20T17:28:01
@@ -151,6 +169,14 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2026 - DPE-BA - Defensor Público;26;PE13.03;PE12.02;caso_concreto;Rol de crimes hediondos;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2026 - DPE-BA - Defensor Público;27;PE04.08;;lei_seca;Desistência voluntária e arrependimento eficaz;media;IA (rascunho) 14/11/2026;0;;2026-11-14T16:10:42
 2026 - DPE-BA - Defensor Público;28;PE12.04;PE12.06;lei_seca;Crimes em espécie: fuga de pessoa presa e outros;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
+2026 - DPE-MA - Defensor Público;68;PE09.02;;lei_seca;Reincidência e seus efeitos;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2026 - DPE-MA - Defensor Público;69;PE04.01;PE12.06;caso_concreto;"Atipicidade do currículo falso; fé pública sem tópico próprio";media;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2026 - DPE-MA - Defensor Público;70;PE12.02;;jurisprudencia;Crimes contra o patrimônio;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2026 - DPE-MA - Defensor Público;71;PE11.02;;caso_concreto;Prescrição da pena de multa;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2026 - DPE-MA - Defensor Público;72;PE13.01;;jurisprudencia;Causas de aumento da Lei de Drogas;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2026 - DPE-MA - Defensor Público;73;PE08.03;;lei_seca;Penas restritivas de direitos;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2026 - DPE-MA - Defensor Público;74;PE08.02;EX05.04;jurisprudencia;Detração em processos distintos;media;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2026 - DPE-MA - Defensor Público;75;PE09.01;;jurisprudencia;Aplicação da pena;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
 2026 - DPE-MT - Defensor Público;34;PE12.03;;caso_concreto;Importunação sexual ou violação sexual mediante fraude;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2026 - DPE-MT - Defensor Público;35;PE10.01;;lei_seca;Suspensão condicional da pena: cabimento;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2026 - DPE-MT - Defensor Público;36;PE03.01;;doutrina;Tipicidade conglobante;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01

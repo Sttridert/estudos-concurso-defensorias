@@ -78,7 +78,9 @@ def efetivos(esc, disc_perfil, disc_q, p1, p2, validos):
     """Pontos que valem na apostila para uma questão. Questão da disciplina do perfil: como está (secundário fora do escopo some).
     Questão de outra disciplina: só os pontos tocados pelo bloco (o tocado vira o principal se o principal não for tocado)."""
     if esc is None:
-        return p1, p2
+        # perfil por disciplina (sem bloco do edital): ponto, principal ou secundário, que não é do escopo da disciplina some
+        # (ex.: questão de DH com secundário de Civil); a questão continua entrando e conta no ponto que sobrou (decisão 56 do 02)
+        return (p1 if p1 in validos else None), (p2 if p2 in validos else None)
     if disc_q == disc_perfil:
         # principal ou secundário fora do escopo some (a questão da disciplina continua entrando; ex.: questão de Princípios da Defensoria
         # classificada num tópico de Penal depois da publicação do catálogo v2, decisão 54)

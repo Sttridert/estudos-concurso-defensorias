@@ -14,6 +14,20 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2021 - DPE-AM - Defensor Público;38;PP08.01;;lei_seca;Busca pessoal sem mandado;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2021 - DPE-AM - Defensor Público;39;PP13.01;;lei_seca;Procedimento do Tribunal do Júri;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2021 - DPE-AM - Defensor Público;40;PP09.01;;lei_seca;Prisão temporária;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
+2021 - DPE-BA - Defensor Público;40;PP01.01;;lei_seca;Dispositivo do CPP que endossa o sistema inquisitivo;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2021 - DPE-BA - Defensor Público;41;PP03.01;PE11.01;caso_concreto;"Ação penal no estelionato e representação; confirmar o gabarito";media;IA (rascunho) 20/11/2026 | piloto grupo C | conferida pelo usuário 20/11/2026;0;;2026-11-20T18:37:36
+2021 - DPE-BA - Defensor Público;42;PP09.05;PP09.06;caso_concreto;Liberdade provisória com fiança e cautelares diversas;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2021 - DPE-BA - Defensor Público;43;PP08.01;;caso_concreto;Mandado de busca coletivo e fishing expedition;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2021 - DPE-BA - Defensor Público;44;PP14.03;;lei_seca;Acordo de não persecução penal: cabimento e prazo;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2021 - DPE-BA - Defensor Público;45;PP16.06;;jurisprudencia;"Recursos, HC e revisão criminal na jurisprudência do STJ (alternativas misturam temas; confirmar)";baixa;IA (rascunho) 20/11/2026 | piloto grupo C | conferida pelo usuário 20/11/2026;0;;2026-11-20T18:37:36
+2021 - DPE-BA - Defensor Público;46;PP07.04;PP08.01;jurisprudencia;Reconhecimento de pessoas (art. 226) e ingresso em domicílio;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2021 - DPE-GO - Defensor Público;85;PP09.04;;lei_seca;Prisão domiciliar do CPP;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2021 - DPE-GO - Defensor Público;86;PP03.03;PP15.02;lei_seca;Efeito da sentença absolutória na ação civil;media;IA (rascunho) 20/11/2026 | piloto grupo C | conferida pelo usuário 20/11/2026;0;;2026-11-20T18:37:36
+2021 - DPE-GO - Defensor Público;87;PP08.03;;caso_concreto;Delação premiada e prazo de memoriais;alta;IA (rascunho) 20/11/2026 | piloto grupo C | conferida pelo usuário 20/11/2026;0;;2026-11-20T18:37:36
+2021 - DPE-GO - Defensor Público;89;PP15.03;;doutrina;Coisa julgada no processo penal;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2021 - DPE-GO - Defensor Público;90;PP09.01;;jurisprudencia;"Reclamação 25.891-GO (prazo de audiência de custódia); confirmar o enunciado";baixa;IA (rascunho) 20/11/2026 | piloto grupo C | conferida pelo usuário 20/11/2026;0;;2026-11-20T18:37:36
+2021 - DPE-GO - Defensor Público;91;PP05.01;;lei_seca;Impedimento do juiz;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2021 - DPE-GO - Defensor Público;92;PP06.01;PP06.02;lei_seca;Provas no processo penal: ônus, sistemas de valoração;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
 2021 - DPE-RR - Defensor Público;29;PP09.05;PP09.01;lei_seca;Fiança e medidas cautelares;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2021 - DPE-RR - Defensor Público;30;PP06.01;;lei_seca;Quebra da cadeia de custódia;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2021 - DPE-RR - Defensor Público;31;PP16.01;PP08.01;jurisprudencia;Recurso contra recusa de homologação de colaboração premiada;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
@@ -130,6 +144,16 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2025 - MPPI - Analista Ministerial;42;PP13.01;;jurisprudencia;Júri: réu e vestimenta;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2025 - MPPI - Analista Ministerial;43;PP07.01;PP05.04;lei_seca;Oitiva da vítima de crime sexual;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2025 - MPPI - Analista Ministerial;44;PP14.05;PP09.05;jurisprudencia;Medidas protetivas e revisão;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
+2026 - DPE-BA - Defensor Público;29;PP09.02;;caso_concreto;Revisão da preventiva e omissão do MP nas alegações finais;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2026 - DPE-BA - Defensor Público;30;PP06.01;;doutrina;Valoração da prova e probabilidade;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2026 - DPE-BA - Defensor Público;31;PP16.05;;lei_seca;Recurso especial;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2026 - DPE-BA - Defensor Público;32;PP13.02;;jurisprudencia;Execução imediata da pena após o Júri (Tema 1068);media;IA (rascunho) 20/11/2026 | piloto grupo C | conferida pelo usuário 20/11/2026;0;;2026-11-20T18:37:36
+2026 - DPE-BA - Defensor Público;36;PP08.01;;caso_concreto;"Cumprimento de mandado de prisão e busca domiciliar; confirmar";media;IA (rascunho) 20/11/2026 | piloto grupo C | conferida pelo usuário 20/11/2026;0;;2026-11-20T18:37:36
+2026 - DPE-MA - Defensor Público;80;PP05.01;PP14.03;caso_concreto;Suspeição do juiz e ANPP;media;IA (rascunho) 20/11/2026 | piloto grupo C | conferida pelo usuário 20/11/2026;0;;2026-11-20T18:37:36
+2026 - DPE-MA - Defensor Público;81;PP09.02;PP16.06;caso_concreto;Fundamentação da custódia cautelar na sentença e habeas corpus;media;IA (rascunho) 20/11/2026 | piloto grupo C | conferida pelo usuário 20/11/2026;0;;2026-11-20T18:37:36
+2026 - DPE-MA - Defensor Público;82;PP02.01;;lei_seca;Delegado de polícia no inquérito;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2026 - DPE-MA - Defensor Público;83;PP14.03;PP03.02;caso_concreto;ANPP e recebimento da denúncia;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
+2026 - DPE-MA - Defensor Público;84;PP09.02;;lei_seca;Prisão preventiva e inovações legislativas;alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:37:36
 2026 - DPE-MT - Defensor Público;44;PP07.01;;lei_seca;Acareação;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2026 - DPE-MT - Defensor Público;45;PP14.05;PP16.01;jurisprudencia;Medidas protetivas e recurso cabível;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2026 - DPE-MT - Defensor Público;46;PP08.01;PP06.01;jurisprudencia;Acesso a dados de celular e licitude da prova;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01

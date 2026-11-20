@@ -61,6 +61,9 @@ def main():
     pasta = RAIZ / "dados" / "editais_reais" / slug
     art = json.loads((pasta / "edital_classificado.json").read_text(encoding="utf-8"))
     hoje = datetime.date.today().isoformat()
+    if art.get("versao_catalogo") != "v2":
+        sys.exit(f"RECUSADO: o artefato não declara versao_catalogo v2 (declarou: {art.get('versao_catalogo')}); os códigos podem ser do catálogo antigo. "
+                 "Traduzir decisoes.txt (scripts/mapear_codigos_v1_v2.py) e rodar o 51 de novo.")
     if not simular:
         dst = RAIZ / "banco" / "backup" / f"estudos_antes_edital_classificado_{slug}_{hoje}.db"
         if dst.exists():

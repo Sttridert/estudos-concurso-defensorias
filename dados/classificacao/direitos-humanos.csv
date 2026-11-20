@@ -33,6 +33,8 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2021 - DPE-AM - Defensor Público;6;DH14.04;DH14.03;jurisprudencia;Internação involuntária e transtorno mental (CDPD/Corte IDH);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2021 - DPE-AM - Defensor Público;7;DH16.01;;lei/tratado;Conceito de saúde da OMS (preâmbulo);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH16;2026-11-20T17:28:01
 2021 - DPE-AM - Defensor Público;8;DH09.03;;lei/tratado;IDC: legitimidade e tribunal (CF art. 109, V-A e §5º);media;IA etapa 3 (rascunho);0;DH09;2026-11-12T22:23:17
+2021 - DPE-AM - Defensor Público;57;DH14.05;;jurisprudencia;Direitos do idoso na jurisprudência do STJ;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
+2021 - DPE-AM - Defensor Público;58;DH14.05;;lei_seca;Envelhecimento como direito personalíssimo (Estatuto);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
 2021 - DPE-BA - Defensor Público;1;DH16.02;;lei/tratado;Despejos forçados e proteções processuais (moradia);media;IA etapa 3 (rascunho);0;DH16;2026-11-12T22:23:17
 2021 - DPE-BA - Defensor Público;2;DH15.02;;lei/tratado;Mecanismo Nacional de Prevenção e Combate à Tortura (Lei 12.847/2013);media;IA etapa 3 (rascunho);0;DH15;2026-11-12T22:23:17
 2021 - DPE-BA - Defensor Público;3;DH14.07;;caso pratico;Pessoas em situação de rua e atuação da Defensoria;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
@@ -63,6 +65,10 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2021 - DPE-RR - Defensor Público;76;DH13.02;;lei/tratado;CEDAW;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2021 - DPE-RR - Defensor Público;77;DH05.03;DH11.01;jurisprudencia;Corte IDH: Gomes Lund (desaparecimento forçado);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH04;2026-11-20T17:28:01
 2021 - DPE-RR - Defensor Público;78;DH07.02;;lei/tratado;Tribunal Penal Internacional;media;IA etapa 3 (rascunho);0;DH07;2026-11-12T22:23:17
+2021 - DPE-RR - Defensor Público;89;DH14.05;CV15.08;caso_concreto;Alzheimer precoce e tomada de decisão apoiada;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
+2021 - DPE-RR - Defensor Público;90;DH14.05;;lei_seca;Garantia de prioridade no Estatuto do Idoso;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
+2021 - DPE-RR - Defensor Público;91;DH14.05;;lei_seca;Direito à saúde no Estatuto do Idoso;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
+2021 - DPE-RR - Defensor Público;92;DH14.05;;lei_seca;Violência contra o idoso e escolha do tratamento de saúde;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
 2021 - DPE-SC - Defensor Público;16;DH13.02;;lei/tratado;Convenção de Belém do Pará;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2021 - DPE-SC - Defensor Público;17;DH13.02;;lei/tratado;CEDAW;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2021 - DPE-SC - Defensor Público;18;DH13.04;;lei/tratado;Convenção sobre eliminação da discriminação racial;media;IA etapa 3 (rascunho);0;DH13;2026-11-12T22:23:17
@@ -89,6 +95,8 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2022 - DPE-AP - Defensor Público;77;DH09.03;;lei/tratado;IDC: legitimados;media;IA etapa 3 (rascunho);0;DH09;2026-11-12T22:23:17
 2022 - DPE-AP - Defensor Público;78;DH07.02;;lei/tratado;Convenção contra o genocídio;media;IA etapa 3 (rascunho);0;DH07;2026-11-12T22:23:17
 2022 - DPE-AP - Defensor Público;79;DH09.01;;lei/tratado;CF e direitos humanos (art. 5º, §§2º e 3º);media;IA etapa 3 (rascunho);0;DH09;2026-11-12T22:23:17
+2022 - DPE-AP - Defensor Público;88;DH14.05;;lei_seca;Direitos da pessoa idosa: atendimento e assistência;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
+2022 - DPE-AP - Defensor Público;90;DH14.05;DH14.03;lei_seca;Tipificação Nacional dos Serviços Socioassistenciais para idosos e pessoas com deficiência;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
 2022 - DPE-CE - Defensor Público;1;DH03.03;;lei/tratado;Comitê de Direitos Humanos (PIDCP);media;IA etapa 3 (rascunho);0;DH03;2026-11-12T22:23:17
 2022 - DPE-CE - Defensor Público;3;DH15.01;;jurisprudencia;Corte IDH: estupro como tortura;media;IA etapa 3 (rascunho);0;DH15;2026-11-12T22:23:17
 2022 - DPE-CE - Defensor Público;5;DH02.03;;lei/tratado;Risco à saúde pública e limitação de direitos em tratados;media;IA etapa 3 (rascunho);0;DH02;2026-11-12T22:23:17
@@ -150,6 +158,8 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2025 - DPE-AM - Defensor Público;6;DH05.01;;lei/tratado;CADH: direito de retificação ou resposta;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH04;2026-11-20T17:28:01
 2025 - DPE-AM - Defensor Público;7;DH05.01;;lei/tratado;Declaração Americana: deveres;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH04;2026-11-20T17:28:01
 2025 - DPE-AM - Defensor Público;8;DH03.02;DH03.03;lei/tratado;PIDESC e comentários gerais do Comitê;media;IA etapa 3 (rascunho);0;DH03;2026-11-12T22:23:17
+2025 - DPE-AM - Defensor Público;57;DH14.05;;lei_seca;Apuração de irregularidades em entidade de atendimento (Estatuto da Pessoa Idosa);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
+2025 - DPE-AM - Defensor Público;58;DH14.05;PE12.01;lei_seca;Idade da vítima idosa e reflexos no Código Penal;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
 2025 - DPE-RS - Defensor Público;21;DH11.01;;caso pratico;Desaparecidos políticos e direito à verdade (memória);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH10;2026-11-20T17:28:01
 2025 - DPE-RS - Defensor Público;22;DH15.05;DH05.01;lei/tratado;CADH art. 8: garantias judiciais e direito de defesa;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH04;2026-11-20T17:28:01
 2025 - DPE-RS - Defensor Público;23;DH09.02;;jurisprudencia;Controle de convencionalidade;media;IA etapa 3 (rascunho);0;DH09;2026-11-12T22:23:17

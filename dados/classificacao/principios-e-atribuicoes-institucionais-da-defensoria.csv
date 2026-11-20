@@ -6,6 +6,46 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2019 - DPE-AM - Analista Jurídico;17;PI03.01;;lei_seca;Atribuições previstas na Constituição do Amazonas;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2019 - DPE-AM - Analista Jurídico;19;PI03.02;;lei_seca;Licença considerada de efetivo exercício;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2019 - DPE-AM - Analista Jurídico;20;PI03.03;;lei_seca;Vedação à evolução funcional do servidor;baixa;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
+2021 - DPE-AM - Defensor Público;86;PI04.01;;lei_seca;Qualidade e eficiência do atendimento (direito do assistido);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-AM - Defensor Público;87;PI01.03;;caso_concreto;Atendimento de réu em crime: critérios de hipossuficiência;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-AM - Defensor Público;88;PI04.01;PC15.01;caso_concreto;Ação civil pública pela Defensoria em defesa de consumidores;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-AM - Defensor Público;89;PI01.03;;jurisprudencia;Súmula 481 do STJ e pessoa jurídica;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-AM - Defensor Público;90;PI02.01;;caso_concreto;Indivisibilidade e independência funcional;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-AM - Defensor Público;91;PI01.03;;doutrina;Evolução dos modelos de assistência jurídica;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-BA - Defensor Público;77;PI01.03;DH12.01;doutrina;Ondas renovatórias de acesso à justiça;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-BA - Defensor Público;78;PI03.04;;lei_seca;Resolução do Conselho Superior da BA sobre o curso de preparação;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-BA - Defensor Público;79;PI05.01;PI03.04;lei_seca;Política de equidade racial da DPE-BA;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-BA - Defensor Público;80;PI03.02;PI02.04;lei_seca;Estrutura organizacional da DPE-BA;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-BA - Defensor Público;81;PI01.01;DH05.05;lei/tratado;Resolução 2.656/2011 da OEA;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-BA - Defensor Público;82;PI02.03;;lei_seca;Conselho Superior na LC 80/1994;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-BA - Defensor Público;83;PI03.04;PI01.02;lei_seca;Fundo de assistência judiciária da DPE-BA;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-BA - Defensor Público;84;PI03.02;PI02.02;lei_seca;Destituição do Defensor Público-Geral (LC 26/2006);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-GO - Defensor Público;26;PI04.01;PI03.02;lei_seca;Direitos dos assistidos na lei estadual de GO;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-GO - Defensor Público;27;PI03.02;;lei_seca;Licença paternidade na lei orgânica de GO;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-GO - Defensor Público;28;PI02.02;PI03.02;lei_seca;Competência do Defensor Público-Geral de GO;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-GO - Defensor Público;29;PI01.02;;lei_seca;Execução orçamentária das Defensorias (LC 80);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-GO - Defensor Público;30;PI02.04;;lei_seca;Núcleos especializados e prioridades de atuação;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-GO - Defensor Público;31;PI01.02;;lei_seca;EC 45/2004 e autonomia;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-GO - Defensor Público;32;PI03.02;PI02.06;lei_seca;Sanções disciplinares dos membros em GO;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-GO - Defensor Público;33;PI03.02;PI02.04;lei_seca;Centros de Atendimento Multidisciplinar de GO;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-RR - Defensor Público;93;PI03.02;PI04.02;lei_seca;Câmaras de Conciliação, Mediação e Arbitragem de RR;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-RR - Defensor Público;94;PI03.02;PI02.04;lei_seca;Organização da DPE-RR (LC 164/2010);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-RR - Defensor Público;95;PI03.02;PI02.03;lei_seca;Composição do Conselho Superior de RR;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-RR - Defensor Público;96;PI03.04;PI01.03;lei_seca;Critérios de hipossuficiência na resolução de RR;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-RR - Defensor Público;97;PI02.04;PI03.02;lei_seca;Centros de Apoio Operacional de RR;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-RR - Defensor Público;98;PI02.05;;lei_seca;Garantias dos membros na LC 80;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-RR - Defensor Público;99;PI04.01;;lei_seca;Direitos dos assistidos (art. 4º-A da LC 80);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-RR - Defensor Público;100;PI01.03;DH12.01;doutrina;Ondas de acesso à justiça (Projeto Florença);media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-SC - Defensor Público;85;PI01.03;PI04.01;jurisprudencia;ADI 3022: defesa de servidores pela Defensoria;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-SC - Defensor Público;86;PI03.04;PI02.04;lei_seca;Resolução 105/2020 de SC sobre núcleos;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-SC - Defensor Público;87;PI03.02;;lei_seca;LC 575/2012 de SC;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-SC - Defensor Público;88;PI01.03;;lei_seca;Art. 5º, LXXIV: assistência jurídica integral;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-SC - Defensor Público;89;PI04.01;PC15.01;jurisprudencia;ADI 3943: legitimidade da Defensoria para ação civil pública;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-SC - Defensor Público;90;PI04.01;;lei_seca;Esgotamento das instâncias recursais;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-SC - Defensor Público;91;PI03.01;;lei_seca;Constituição do Estado de SC e a Defensoria;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-SC - Defensor Público;92;PI01.01;;lei_seca;EC 80/2014;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-SC - Defensor Público;93;PI03.02;PI02.04;lei_seca;Ouvidoria-Geral de SC;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2021 - DPE-SC - Defensor Público;94;PI01.01;DH05.05;lei/tratado;Resolução 2.656/2011 da OEA;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
 2022 - DPE-AM - Analista Jurídico;15;PI01.01;PI01.02;lei_seca;EC 80/2014 e a defesa dos direitos coletivos;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2022 - DPE-AM - Analista Jurídico;16;PI04.01;PI02.01;lei_seca;Direito do assistido à revisão da recusa de atuação;media;IA (rascunho) 15/11/2026;0;;2026-11-15 22:47:50
 2022 - DPE-AM - Analista Jurídico;18;PI03.02;PI01.02;lei_seca;Convênios e autonomia administrativa;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
@@ -16,11 +56,71 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2022 - DPE-AM - Analista Jurídico (2);17;PI03.03;;lei_seca;Estágio probatório dos servidores;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2022 - DPE-AM - Analista Jurídico (2);18;PI01.03;PI04.02;lei_seca;Inafastabilidade da jurisdição e conciliação extrajudicial;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2022 - DPE-AM - Analista Jurídico (2);19;PI03.02;PI02.02;lei_seca;Defensor Público-Geral como órgão da Administração Superior;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
+2022 - DPE-AM - Assistente Técnico Administrativo (1);15;PI03.01;;lei_seca;Iniciativa de lei complementar na Constituição do AM;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AM - Assistente Técnico Administrativo (1);16;PI01.01;;lei_seca;Defensoria como função essencial à Justiça;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AM - Assistente Técnico Administrativo (1);17;PI04.01;;lei_seca;Informação sobre localização e horário: direito dos assistidos;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AM - Assistente Técnico Administrativo (1);18;PI03.02;PI02.03;lei_seca;Processo disciplinar na lei estadual do AM;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AM - Assistente Técnico Administrativo (1);19;PI01.02;;lei_seca;Autonomia funcional e administrativa;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AM - Assistente Técnico Administrativo (1);20;PI03.03;;lei_seca;Lei 4.077/2014: jornada dos servidores auxiliares do AM;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AM - Assistente Técnico Administrativo (2);16;PI02.01;;lei_seca;Composição da Defensoria Pública no Brasil (LC 80);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AM - Assistente Técnico Administrativo (2);17;PI03.02;PI02.03;lei_seca;Corregedor-Geral na lei estadual do AM;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AM - Assistente Técnico Administrativo (2);18;PI02.01;PI01.01;lei_seca;Princípios institucionais do art. 134, § 4º;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AM - Assistente Técnico Administrativo (2);19;PI03.03;;lei_seca;Lei 4.077/2014: vedações ao servidor;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AM - Assistente Técnico Administrativo (2);20;PI01.01;;lei_seca;Art. 134 da Constituição: atribuições;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AP - Defensor Público;96;PI02.02;PI04.02;caso_concreto;Termo de cooperação e quem o celebra (Defensor Público-Geral);media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AP - Defensor Público;97;PI02.04;PI03.04;lei_seca;Resolução 28/2020 do AP sobre atribuições dos órgãos de atuação;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AP - Defensor Público;98;PI03.02;;lei_seca;Defensor Público Substituto (LC 121/2019 do AP);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AP - Defensor Público;99;PI02.04;PI04.01;lei_seca;Ouvidoria-Geral na LC 132/2009;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-AP - Defensor Público;100;PI02.05;;jurisprudencia;ADI 6.852 e poder de requisição;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-CE - Defensor Público;91;PI04.02;;lei_seca;Solução extrajudicial como função institucional;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-CE - Defensor Público;92;PI02.03;PI03.02;lei_seca;Conselho Superior do CE;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-CE - Defensor Público;93;PI02.05;PI03.04;lei_seca;Comissão de defesa das prerrogativas do CE;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-CE - Defensor Público;94;PI02.05;;jurisprudencia;ADI 6.852: poder de requisição;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-CE - Defensor Público;95;PI04.03;PI02.01;caso_concreto;Conflito de interesses entre dois réus assistidos pela mesma Defensora;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-CE - Defensor Público;96;PI02.04;;lei_seca;Ouvidoria-Geral criada em 2009;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-CE - Defensor Público;97;PI01.03;;lei_seca;Assistência judiciária e assistência jurídica;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-CE - Defensor Público;98;PI01.02;;lei_seca;Proposta orçamentária da Defensoria (art. 134, § 2º);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-CE - Defensor Público;99;PI04.01;PC04.06;lei_seca;Custos vulnerabilis (art. 554, § 1º, do CPC);media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-CE - Defensor Público;100;PI03.02;PI02.04;lei_seca;Extinção de órgão de atuação no CE;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-MT - Defensor Público;93;PI03.02;PI02.02;lei_seca;Segunda Subdefensoria Pública-Geral do MT;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-MT - Defensor Público;94;PI03.01;;lei_seca;Constituição do MT e a Defensoria;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-MT - Defensor Público;95;PI03.02;PI04.03;lei_seca;Suspeição por foro íntimo no MT;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-MT - Defensor Público;96;PI02.05;;jurisprudencia;HC 126.663: intimação pessoal do Defensor;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-MT - Defensor Público;97;PI02.01;;lei_seca;Independência funcional;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-MT - Defensor Público;98;PI02.04;;jurisprudencia;ADI 4.608: requisitos do Ouvidor-Geral;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-MT - Defensor Público;99;PI04.03;PI03.04;lei_seca;Resolução 109/2019 do MT sobre mídias sociais;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-MT - Defensor Público;100;PI04.02;;caso_concreto;Atuação extrajudicial prioritária em questão ambiental;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-PB - Defensor Público;32;PI01.02;;lei_seca;EC 45/2004;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-PB - Defensor Público;33;PI02.06;PI03.02;lei_seca;Deveres dos membros na PB;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-PB - Defensor Público;34;PI01.01;PI04.01;caso_concreto;Defesa dos direitos fundamentais dos presos como função institucional;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-PB - Defensor Público;35;PI02.04;PI03.02;lei_seca;Núcleo Especial da PB como órgão de atuação;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2022 - DPE-PB - Defensor Público;36;PI04.01;PC04.06;jurisprudencia;Curadoria especial e preparo recursal;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
 2023 - DPE-AM - Analista Jurídico;15;PI03.03;;lei_seca;Duração e critérios do estágio probatório;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2023 - DPE-AM - Analista Jurídico;16;PI02.02;;lei_seca;Competência da Corregedoria-Geral;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2023 - DPE-AM - Analista Jurídico;17;PI01.02;;lei_seca;Autonomia da Defensoria e emendas constitucionais;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2023 - DPE-AM - Analista Jurídico;19;PI02.04;;lei_seca;Natureza dos Núcleos da Defensoria;media;IA (rascunho) 15/11/2026;0;;2026-11-15 22:47:50
 2023 - DPE-AM - Analista Jurídico;20;PI03.01;PI02.05;lei_seca;Garantia do Defensor na Constituição do Amazonas;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
+2023 - DPE-AM - Assistente Técnico Administrativo;20;PI01.03;PI03.02;lei_seca;Conceito de necessitado na lei estadual do AM;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2023 - DPE-SP - Defensor Público;73;PI03.02;PI02.06;lei_seca;Afastamento de membros na LC 988/06 de SP;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2023 - DPE-SP - Defensor Público;74;PI02.05;PI02.06;jurisprudencia;RE 1.240.999 e ADI 4.636: inscrição na OAB;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2023 - DPE-SP - Defensor Público;75;PI04.03;PI03.04;lei_seca;Política de prevenção ao assédio na DPE-SP;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2023 - DPE-SP - Defensor Público;76;PI04.02;PC03.01;caso_concreto;Conciliação no CEJUSC e atuação da Defensoria;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2023 - DPE-SP - Defensor Público;77;PI01.03;DH12.01;doutrina;Formalismo, linguagem e ondas de acesso à justiça;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2023 - DPE-SP - Defensor Público;78;PI04.01;PC04.06;caso_concreto;Curadoria especial do réu incapaz;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2023 - DPE-SP - Defensor Público;79;PI01.03;DH13.03;caso_concreto;Atendimento de mulher em violência doméstica e vulnerabilidade organizacional;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2023 - DPE-SP - Defensor Público;80;PI04.01;PC04.06;jurisprudencia;Súmula 421 do STJ e honorários à Defensoria;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-AM - Defensor Público;86;PI04.01;DH17.01;doutrina;Atuação em vulnerabilidade climática e ambiental;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-AM - Defensor Público;87;PI04.01;PI03.04;lei_seca;Custos vulnerabilis em resolução do AM;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-AM - Defensor Público;88;PI02.02;PI03.02;lei_seca;Competência do Defensor Público-Geral do AM;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-AM - Defensor Público;89;PI03.04;PI02.04;lei_seca;Resolução 006/2024 do AM: Núcleo de Povos Indígenas;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-AM - Defensor Público;90;PI01.03;;doutrina;Método de pensamento e acesso à justiça;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-AM - Defensor Público;91;PI01.03;DH12.01;doutrina;Obstáculos ao acesso à justiça (Cappelletti e Garth);media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-RS - Defensor Público;95;PI03.01;;lei_seca;Constituição do RS e a Defensoria;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-RS - Defensor Público;96;PI04.01;PC04.06;lei_seca;Curadoria especial no RS;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-RS - Defensor Público;97;PI03.02;PI02.04;lei_seca;Ouvidoria-Geral do RS;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-RS - Defensor Público;98;PI03.02;PI02.06;caso_concreto;Defensora eleita deputada: afastamento e classificação;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-RS - Defensor Público;99;PI01.03;;lei_seca;Atendimento e hipossuficiência organizacional;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2025 - DPE-RS - Defensor Público;100;PI02.05;PI03.02;lei_seca;Garantias, prerrogativas e deveres no RS;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
 2025 - DPE-SP - Analista de Defensoria;80;PI02.02;PI03.04;lei_seca;Inspeção e fiscalização (lei paulista);baixa;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2025 - DPE-SP - Analista de Defensoria;81;PI04.01;;lei_seca;Conferências e participação dos usuários (lei paulista);baixa;IA (rascunho) 15/11/2026;0;;2026-11-15 22:47:50
 2025 - DPE-SP - Analista de Defensoria;82;PI02.04;;lei_seca;Núcleos Especializados (lei paulista);baixa;IA (rascunho) 15/11/2026;0;;2026-11-15 22:47:50
@@ -30,3 +130,17 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2025 - DPE-SP - Analista de Defensoria;86;PI01.02;PI01.01;jurisprudencia;Decisões do STF sobre a Defensoria;media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2025 - DPE-SP - Analista de Defensoria;87;PI04.01;;lei_seca;Acesso aos mecanismos internacionais e Defensor Público Interamericano;baixa;IA (rascunho) 15/11/2026;0;;2026-11-15 22:47:50
 2025 - DPE-SP - Analista de Defensoria;88;PI01.03;;lei_seca;Abrangência da gratuidade da justiça;baixa;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
+2026 - DPE-MA - Defensor Público;19;PI03.02;PI02.03;lei_seca;Destituição do Corregedor-Geral do MA;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MA - Defensor Público;20;PI04.01;PC14.04;caso_concreto;Custos vulnerabilis em litígio possessório coletivo;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MA - Defensor Público;21;PI01.03;;lei_seca;Inafastabilidade e acesso à justiça material;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MA - Defensor Público;22;PI03.02;PI02.03;lei_seca;Quórum do Conselho Superior do MA;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MT - Defensor Público;91;PI03.04;PI04.01;lei_seca;Política de linguagem simples do MT;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MT - Defensor Público;92;PI02.02;PI03.02;lei_seca;Órgãos da administração superior do MT;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MT - Defensor Público;93;PI01.03;;doutrina;Sistema judicare (Cappelletti);media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MT - Defensor Público;94;PI01.01;DH05.05;lei/tratado;Resolução 2.656/2011 da OEA;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MT - Defensor Público;95;PI04.03;PI03.04;lei_seca;Política de assédio do MT;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MT - Defensor Público;96;PI01.03;;doutrina;Evolução histórica da assistência jurídica;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MT - Defensor Público;97;PI04.01;PC04.06;doutrina;Custos vulnerabilis e amicus curiae;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MT - Defensor Público;98;PI01.02;;lei_seca;LC 80 e execução orçamentária nos estados (alternativas mistas);media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MT - Defensor Público;99;PI03.04;;lei_seca;Sistema SOLAR no MT;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10
+2026 - DPE-MT - Defensor Público;100;PI04.03;PI03.04;lei_seca;Conflito de interesses no MT;alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:49:10

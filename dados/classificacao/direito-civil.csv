@@ -78,6 +78,14 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2023 - DPE-ES - Defensor Público;42;CV13.05;CV17.01;lei_seca;Adjudicação compulsória;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2023 - DPE-ES - Defensor Público;43;CV16.03;;caso_concreto;Sucessão por estirpe;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2023 - DPE-ES - Defensor Público;44;CV03.01;;lei_seca;Bem de família e penhora;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
+2025 - DPE-AM - Defensor Público;49;CV03.02;CV10.02;jurisprudencia;"FORA DO BLOCO: questão de Direito Civil rotulada como Criminologia; bem de família do fiador";media;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-AM - Defensor Público;50;CV02.04;;caso_concreto;"FORA DO BLOCO: Direito Civil/Empresarial rotulado como Criminologia; sociedade limitada (sem catálogo de Empresarial); confirmar";baixa;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-AM - Defensor Público;51;CV15.04;CV12.01;jurisprudencia;"FORA DO BLOCO: Direito Civil rotulado como Criminologia; abandono afetivo";media;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-AM - Defensor Público;52;CV14.05;CV14.03;caso_concreto;"FORA DO BLOCO: Direito Civil rotulado como Criminologia; regime de bens na união estável";alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-AM - Defensor Público;53;CV15.06;;jurisprudencia;"FORA DO BLOCO: Direito Civil rotulado como Criminologia; cessação dos alimentos";alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-AM - Defensor Público;54;CV04.03;CV13.03;caso_concreto;"FORA DO BLOCO: Direito Civil rotulado como Criminologia; defeitos do negócio com idoso";media;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-AM - Defensor Público;55;CV17.01;CV14.04;caso_concreto;"FORA DO BLOCO: Direito Civil rotulado como Criminologia; averbação do sobrenome após divórcio";media;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
+2025 - DPE-AM - Defensor Público;56;CV13.01;CV08.02;caso_concreto;"FORA DO BLOCO: Direito Civil rotulado como Criminologia; posse e comodato";alta;IA (rascunho) 20/11/2026 | piloto grupo C;0;;2026-11-20T18:43:20
 2025 - DPE-RS - Defensor Público;41;CV13.01;;lei_seca;Posse e benfeitorias;media;IA (rascunho) 14/11/2026;0;;2026-11-14T16:19:50
 2025 - DPE-RS - Defensor Público;42;CV13.05;;lei_seca;Direito de laje;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
 2025 - DPE-RS - Defensor Público;43;CV06.01;CV07.01;lei_seca;Adimplemento substancial;media;IA (rascunho) 14/11/2026 | migrada v1 para v2;0;;2026-11-20T17:28:01
