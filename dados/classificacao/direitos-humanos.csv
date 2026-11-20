@@ -37,20 +37,20 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2021 - DPE-AM - Defensor Público;58;DH14.05;;lei_seca;Envelhecimento como direito personalíssimo (Estatuto);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
 2021 - DPE-BA - Defensor Público;1;DH16.02;;lei/tratado;Despejos forçados e proteções processuais (moradia);media;IA etapa 3 (rascunho);0;DH16;2026-11-12T22:23:17
 2021 - DPE-BA - Defensor Público;2;DH15.02;;lei/tratado;Mecanismo Nacional de Prevenção e Combate à Tortura (Lei 12.847/2013);media;IA etapa 3 (rascunho);0;DH15;2026-11-12T22:23:17
-2021 - DPE-BA - Defensor Público;3;DH14.07;;caso pratico;Pessoas em situação de rua e atuação da Defensoria;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
+2021 - DPE-BA - Defensor Público;3;DH14.07;;caso_concreto;Pessoas em situação de rua e atuação da Defensoria;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2021 - DPE-BA - Defensor Público;4;DH14.06;;lei/tratado;Convenção sobre os Direitos da Criança;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
-2021 - DPE-BA - Defensor Público;5;DH14.03;DH15.02;caso pratico;Inspeção em instituições de pessoas com deficiência;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
+2021 - DPE-BA - Defensor Público;5;DH14.03;DH15.02;caso_concreto;Inspeção em instituições de pessoas com deficiência;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2021 - DPE-BA - Defensor Público;6;DH01.03;;doutrina;Características dos direitos humanos;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH01;2026-11-20T17:28:01
 2021 - DPE-BA - Defensor Público;7;DH04.01;;lei/tratado;Funcionamento do sistema interamericano;media;IA etapa 3 (rascunho);0;DH04;2026-11-12T22:23:17
 2021 - DPE-BA - Defensor Público;8;DH01.01;;doutrina;História dos direitos humanos (questão anulada);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH01;2026-11-20T17:28:01
 2021 - DPE-BA - Defensor Público;9;DH05.03;;jurisprudencia;Corte IDH: casos contra o Brasil;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH04;2026-11-20T17:28:01
 2021 - DPE-BA - Defensor Público;10;DH05.02;;lei/tratado;Protocolo de San Salvador;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH04;2026-11-20T17:28:01
-2021 - DPE-GO - Defensor Público;11;DH16.04;;caso pratico;Direito à educação e vedação do retrocesso;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH16;2026-11-20T17:28:01
+2021 - DPE-GO - Defensor Público;11;DH16.04;;caso_concreto;Direito à educação e vedação do retrocesso;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH16;2026-11-20T17:28:01
 2021 - DPE-GO - Defensor Público;12;DH16.03;;lei/tratado;Direito a um padrão de vida adequado;media;IA etapa 3 (rascunho);0;DH16;2026-11-12T22:23:17
 2021 - DPE-GO - Defensor Público;13;DH11.01;;lei/tratado;Anistia política (1961-1979) e justiça de transição;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH10;2026-11-20T17:28:01
 2021 - DPE-GO - Defensor Público;14;DH15.02;;lei/tratado;OPCAT: Subcomitê e mecanismos nacionais de prevenção;media;IA etapa 3 (rascunho);0;DH15;2026-11-12T22:23:17
 2021 - DPE-GO - Defensor Público;15;DH06.01;;lei/tratado;Carta Africana x Convenção Americana;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH04;2026-11-20T17:28:01
-2021 - DPE-GO - Defensor Público;16;DH14.04;;caso pratico;Saúde mental (texto de música) e direitos;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
+2021 - DPE-GO - Defensor Público;16;DH14.04;;caso_concreto;Saúde mental (texto de música) e direitos;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2021 - DPE-GO - Defensor Público;17;DH03.03;;lei/tratado;Comitê com petições individuais em protocolo opcional;media;IA etapa 3 (rascunho);0;DH03;2026-11-12T22:23:17
 2021 - DPE-GO - Defensor Público;18;DH17.04;;jurisprudencia;Pesquisa genética (ADI 3510) e DIDH;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH16;2026-11-20T17:28:01
 2021 - DPE-GO - Defensor Público;19;DH15.01;DH08.01;lei/tratado;Não devolução (non-refoulement) e risco de tortura/desaparecimento;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH15;2026-11-20T17:28:01
@@ -140,16 +140,16 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2023 - DPE-ES - Defensor Público;14;DH04.03;DH14.01;jurisprudencia;Corte IDH: povos indígenas e tutela de urgência;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH04;2026-11-20T17:28:01
 2023 - DPE-ES - Defensor Público;15;DH17.05;DH05.05;lei/tratado;CIDH: Resolução 01/2020 (pandemia);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH04;2026-11-20T17:28:01
 2023 - DPE-ES - Defensor Público;16;DH16.01;;lei/tratado;Conceito de saúde da OMS;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH16;2026-11-20T17:28:01
-2023 - DPE-ES - Defensor Público;17;DH07.02;DH17.05;caso pratico;Pandemia e Estatuto de Roma;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH07;2026-11-20T17:28:01
+2023 - DPE-ES - Defensor Público;17;DH07.02;DH17.05;caso_concreto;Pandemia e Estatuto de Roma;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH07;2026-11-20T17:28:01
 2023 - DPE-ES - Defensor Público;18;DH03.01;;lei/tratado;Agências da ONU com atuação no Brasil;media;IA etapa 3 (rascunho);0;DH03;2026-11-12T22:23:17
 2023 - DPE-SP - Defensor Público;65;DH01.06;;doutrina;Direitos humanos como processos (teoria crítica);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH01;2026-11-20T17:28:01
-2023 - DPE-SP - Defensor Público;66;DH13.02;;caso pratico;Violência obstétrica;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
+2023 - DPE-SP - Defensor Público;66;DH13.02;;caso_concreto;Violência obstétrica;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2023 - DPE-SP - Defensor Público;67;DH08.01;;lei/tratado;Direitos das pessoas refugiadas;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH07;2026-11-20T17:28:01
 2023 - DPE-SP - Defensor Público;68;DH01.06;;doutrina;Amefricanidade;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH01;2026-11-20T17:28:01
-2023 - DPE-SP - Defensor Público;69;DH14.01;;caso pratico;Comunidade quilombola e unidade de conservação;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
-2023 - DPE-SP - Defensor Público;70;DH15.03;;caso pratico;Revista vexatória de visitantes de presos;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH15;2026-11-20T17:28:01
+2023 - DPE-SP - Defensor Público;69;DH14.01;;caso_concreto;Comunidade quilombola e unidade de conservação;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
+2023 - DPE-SP - Defensor Público;70;DH15.03;;caso_concreto;Revista vexatória de visitantes de presos;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH15;2026-11-20T17:28:01
 2023 - DPE-SP - Defensor Público;71;DH16.03;;lei/tratado;Direito humano à alimentação adequada;media;IA etapa 3 (rascunho);0;DH16;2026-11-12T22:23:17
-2023 - DPE-SP - Defensor Público;72;DH13.04;DH15.04;caso pratico;Abordagem policial e racismo (letra de canção);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
+2023 - DPE-SP - Defensor Público;72;DH13.04;DH15.04;caso_concreto;Abordagem policial e racismo (letra de canção);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2025 - DPE-AM - Defensor Público;1;DH07.01;;lei/tratado;Direito Internacional Humanitário: proibição de matar quem se rende;media;IA etapa 3 (rascunho);0;DH07;2026-11-12T22:23:17
 2025 - DPE-AM - Defensor Público;2;DH01.06;;doutrina;Estupro colonial e decolonialidade;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH01;2026-11-20T17:28:01
 2025 - DPE-AM - Defensor Público;3;DH14.01;;lei/tratado;Declaração da ONU sobre os Povos Indígenas;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
@@ -160,7 +160,7 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2025 - DPE-AM - Defensor Público;8;DH03.02;DH03.03;lei/tratado;PIDESC e comentários gerais do Comitê;media;IA etapa 3 (rascunho);0;DH03;2026-11-12T22:23:17
 2025 - DPE-AM - Defensor Público;57;DH14.05;;lei_seca;Apuração de irregularidades em entidade de atendimento (Estatuto da Pessoa Idosa);alta;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
 2025 - DPE-AM - Defensor Público;58;DH14.05;PE12.01;lei_seca;Idade da vítima idosa e reflexos no Código Penal;media;IA (rascunho) 20/11/2026 | grupo C;0;;2026-11-20T18:56:03
-2025 - DPE-RS - Defensor Público;21;DH11.01;;caso pratico;Desaparecidos políticos e direito à verdade (memória);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH10;2026-11-20T17:28:01
+2025 - DPE-RS - Defensor Público;21;DH11.01;;caso_concreto;Desaparecidos políticos e direito à verdade (memória);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH10;2026-11-20T17:28:01
 2025 - DPE-RS - Defensor Público;22;DH15.05;DH05.01;lei/tratado;CADH art. 8: garantias judiciais e direito de defesa;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH04;2026-11-20T17:28:01
 2025 - DPE-RS - Defensor Público;23;DH09.02;;jurisprudencia;Controle de convencionalidade;media;IA etapa 3 (rascunho);0;DH09;2026-11-12T22:23:17
 2025 - DPE-RS - Defensor Público;24;DH14.03;;lei/tratado;Legislação protetiva das pessoas com deficiência;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
@@ -175,19 +175,19 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2025 - DPE-SP - Analista de Defensoria;32;DH14.04;;lei/tratado;Medida de segurança e política antimanicomial;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2025 - DPE-SP - Analista de Defensoria;33;DH13.02;;lei/tratado;CEDAW;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2025 - DPE-SP - Analista de Defensoria;34;DH03.04;;lei/tratado;Revisão Periódica Universal (questão anulada);media;IA etapa 3 (rascunho);0;DH03;2026-11-12T22:23:17
-2026 - DPE-BA - Defensor Público;1;DH03.03;;caso pratico;Comitê de tratado: comunicações individuais;media;IA etapa 3 (rascunho);0;DH03;2026-11-12T22:23:17
-2026 - DPE-BA - Defensor Público;2;DH17.02;;caso pratico;Empresas e direitos humanos;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH16;2026-11-20T17:28:01
-2026 - DPE-BA - Defensor Público;3;DH02.06;DH02.03;caso pratico;Restrição a direito protegido em tratado;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH02;2026-11-20T17:28:01
-2026 - DPE-BA - Defensor Público;4;DH09.02;;caso pratico;Diálogo entre cortes e precedente internacional;media;IA etapa 3 (rascunho);0;DH09;2026-11-12T22:23:17
-2026 - DPE-BA - Defensor Público;5;DH17.03;;caso pratico;Moderação de conteúdo e liberdade de expressão;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH16;2026-11-20T17:28:01
-2026 - DPE-BA - Defensor Público;6;DH01.05;;caso pratico;Universalismo e relativismo cultural;media;IA etapa 3 (rascunho);0;DH01;2026-11-12T22:23:17
-2026 - DPE-BA - Defensor Público;7;DH02.01;;caso pratico;Instrumentos não vinculantes (soft law);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH02;2026-11-20T17:28:01
-2026 - DPE-BA - Defensor Público;8;DH09.04;;caso pratico;Tensão entre norma constitucional e tratado;media;IA etapa 3 (rascunho);0;DH09;2026-11-12T22:23:17
+2026 - DPE-BA - Defensor Público;1;DH03.03;;caso_concreto;Comitê de tratado: comunicações individuais;media;IA etapa 3 (rascunho);0;DH03;2026-11-12T22:23:17
+2026 - DPE-BA - Defensor Público;2;DH17.02;;caso_concreto;Empresas e direitos humanos;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH16;2026-11-20T17:28:01
+2026 - DPE-BA - Defensor Público;3;DH02.06;DH02.03;caso_concreto;Restrição a direito protegido em tratado;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH02;2026-11-20T17:28:01
+2026 - DPE-BA - Defensor Público;4;DH09.02;;caso_concreto;Diálogo entre cortes e precedente internacional;media;IA etapa 3 (rascunho);0;DH09;2026-11-12T22:23:17
+2026 - DPE-BA - Defensor Público;5;DH17.03;;caso_concreto;Moderação de conteúdo e liberdade de expressão;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH16;2026-11-20T17:28:01
+2026 - DPE-BA - Defensor Público;6;DH01.05;;caso_concreto;Universalismo e relativismo cultural;media;IA etapa 3 (rascunho);0;DH01;2026-11-12T22:23:17
+2026 - DPE-BA - Defensor Público;7;DH02.01;;caso_concreto;Instrumentos não vinculantes (soft law);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH02;2026-11-20T17:28:01
+2026 - DPE-BA - Defensor Público;8;DH09.04;;caso_concreto;Tensão entre norma constitucional e tratado;media;IA etapa 3 (rascunho);0;DH09;2026-11-12T22:23:17
 2026 - DPE-BA - Defensor Público;96;DH14.01;;jurisprudencia;STF: decreto 4.887/2003 e quilombolas;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2026 - DPE-BA - Defensor Público;97;DH15.04;;jurisprudencia;STF: uso de força letal e direito à vida;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH16;2026-11-20T17:28:01
 2026 - DPE-BA - Defensor Público;98;DH14.04;;lei/tratado;Serviços residenciais terapêuticos e saúde mental;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2026 - DPE-BA - Defensor Público;99;DH13.04;DH04.02;jurisprudencia;CIDH: caso Simone André Diniz vs. Brasil;media;IA etapa 3 (rascunho);0;DH04;2026-11-12T22:23:17
-2026 - DPE-BA - Defensor Público;100;DH10.04;DH10.01;caso pratico;Programa de proteção a defensores de direitos humanos (plano de proteção);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH10;2026-11-20T17:28:01
+2026 - DPE-BA - Defensor Público;100;DH10.04;DH10.01;caso_concreto;Programa de proteção a defensores de direitos humanos (plano de proteção);media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH10;2026-11-20T17:28:01
 2026 - DPE-MA - Defensor Público;90;DH02.03;;lei/tratado;CADH art. 27: suspensão de garantias;media;IA etapa 3 (rascunho);0;DH02;2026-11-12T22:23:17
 2026 - DPE-MA - Defensor Público;91;DH14.01;;lei/tratado;Política Nacional dos Povos e Comunidades Tradicionais;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2026 - DPE-MA - Defensor Público;92;DH13.05;DH13.06;jurisprudencia;STF: homofobia e transfobia como racismo;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
@@ -199,13 +199,13 @@ prova;numero;ponto;ponto2;tipo_cobranca;detalhe;confianca;origem;revisada;assunt
 2026 - DPE-MA - Defensor Público;98;DH13.06;DH13.02;lei/tratado;Direitos reprodutivos da mulher;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2026 - DPE-MA - Defensor Público;99;DH05.02;;lei/tratado;Protocolo de San Salvador: petições individuais;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH04;2026-11-20T17:28:01
 2026 - DPE-MA - Defensor Público;100;DH16.02;;jurisprudencia;ADPF 828: Comissões de Soluções Fundiárias;media;IA etapa 3 (rascunho);0;DH16;2026-11-12T22:23:17
-2026 - DPE-MT - Defensor Público;84;DH14.07;;caso pratico;Proibição de distribuição de alimentos a pessoas em situação de rua;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
-2026 - DPE-MT - Defensor Público;85;DH09.02;DH15.05;caso pratico;Convencionalidade em prova penal;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH09;2026-11-20T17:28:01
-2026 - DPE-MT - Defensor Público;86;DH04.03;;caso pratico;Medidas cautelares da CIDH;media;IA etapa 3 (rascunho);0;DH04;2026-11-12T22:23:17
-2026 - DPE-MT - Defensor Público;87;DH15.01;DH05.04;caso pratico;Condenação internacional por tortura em unidade socioeducativa;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH15;2026-11-20T17:28:01
-2026 - DPE-MT - Defensor Público;88;DH02.04;;caso pratico;Denúncia de tratado (CEDAW);media;IA etapa 3 (rascunho);0;DH02;2026-11-12T22:23:17
-2026 - DPE-MT - Defensor Público;89;DH12.01;;caso pratico;Acesso à justiça e gratuidade;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH10;2026-11-20T17:28:01
-2026 - DPE-MT - Defensor Público;90;DH09.03;DH10.04;caso pratico;IDC (federalização) após ataques a defensores de direitos humanos;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH09;2026-11-20T17:28:01
+2026 - DPE-MT - Defensor Público;84;DH14.07;;caso_concreto;Proibição de distribuição de alimentos a pessoas em situação de rua;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
+2026 - DPE-MT - Defensor Público;85;DH09.02;DH15.05;caso_concreto;Convencionalidade em prova penal;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH09;2026-11-20T17:28:01
+2026 - DPE-MT - Defensor Público;86;DH04.03;;caso_concreto;Medidas cautelares da CIDH;media;IA etapa 3 (rascunho);0;DH04;2026-11-12T22:23:17
+2026 - DPE-MT - Defensor Público;87;DH15.01;DH05.04;caso_concreto;Condenação internacional por tortura em unidade socioeducativa;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH15;2026-11-20T17:28:01
+2026 - DPE-MT - Defensor Público;88;DH02.04;;caso_concreto;Denúncia de tratado (CEDAW);media;IA etapa 3 (rascunho);0;DH02;2026-11-12T22:23:17
+2026 - DPE-MT - Defensor Público;89;DH12.01;;caso_concreto;Acesso à justiça e gratuidade;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH10;2026-11-20T17:28:01
+2026 - DPE-MT - Defensor Público;90;DH09.03;DH10.04;caso_concreto;IDC (federalização) após ataques a defensores de direitos humanos;media;IA etapa 3 (rascunho) | migrada v1 para v2;0;DH09;2026-11-20T17:28:01
 2026 - TJCE - Analista Judiciário;16;DH14.03;;caso_concreto;"Lei 13.146/2015: acessibilidade em espaços de lazer (quantidade de equipamentos acessíveis; texto a conferir)";media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2026 - TJCE - Analista Judiciário;17;DH14.03;;caso_concreto;Lei 13.146/2015: reserva de veículos acessíveis em frota de táxi (texto a conferir);media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;DH13;2026-11-20T17:28:01
 2026 - TJCE - Analista Judiciário;18;DH14.03;;caso_concreto;Lei 13.146/2015: crime de apropriação de bens ou rendimentos da pessoa com deficiência (texto a conferir);media;IA (rascunho) 15/11/2026 | migrada v1 para v2;0;DH13;2026-11-20T17:28:01

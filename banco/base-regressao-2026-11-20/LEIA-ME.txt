@@ -1,0 +1,38 @@
+Base de regressao de 2026-11-20 (sobrevoo dos grupos A a C).
+HEAD: 1d60a0c mais as alteracoes deste dia ainda nao commitadas no momento da criacao (tipo_cobranca normalizado: 'caso pratico' para 'caso_concreto'; 3 questoes de PcD do TJCE 2026 movidas para Direitos Humanos).
+estudos.db sha256: ebb4c60b89667e232bf8b0ce7cb7b6393cb9305d54ddafbe9d7cb961a06cb123
+
+O QUE E: saida do motor (scripts/23_motor_analise.py) dos 11 perfis, gerada sobre o banco ja com o catalogo v2 publicado (20/11/2026) e com TODAS as questoes
+validas dos 12 catalogos classificadas (grupo C). Substitui a base de 2026-11-16 como referencia (a antiga e anterior ao catalogo v2 e nao compara direto).
+COMO USAR: antes de mudar codigo ou dados que afetem as apostilas, gerar de novo a saida do motor dos 11 perfis e comparar com a pasta analise/.
+Como o motor le o banco por caminho fixo, o jeito limpo e rodar numa copia do projeto (scripts, dados, perfil.toml e o banco) e comparar os .json.
+DIFERENCAS ESPERADAS em relacao a base de 16/11: catalogo v2 (codigos novos), 8 questoes do antigo PI06 (Administrativo +3, Constitucional +1, Penal +4,
+Principios -8), reclassificacao de DPE-SP 2025 Q52 (Processual Penal +1) e, no perfil 1 (DH, universo todas as questoes), +10 questoes de Idoso classificadas hoje e +3 de PcD (TJCE 2026) movidas para DH (perfil 1: 197 para 210).
+
+As apostilas de produtos/apostilas/ NAO foram regeradas: todas sao anteriores a esta base (defasadas em relacao ao catalogo v2 e as classificacoes).
+
+Perfis (n_total / n_validas):
+  direito_administrativo_perfil10.json: 46 / 46  (n efetivo 39.7)
+  direito_civil_perfil4.json: 58 / 58  (n efetivo 50.3)
+  direito_constitucional_perfil5.json: 51 / 51  (n efetivo 44.0)
+  direito_da_criança_e_do_adolescente_perfil9.json: 51 / 51  (n efetivo 47.1)
+  direito_penal_perfil3.json: 47 / 47  (n efetivo 41.6)
+  direito_processual_civil_perfil11.json: 47 / 46  (n efetivo 39.3)
+  direito_processual_penal_perfil8.json: 43 / 43  (n efetivo 38.4)
+  direitos_humanos_perfil1.json: 210 / 208  (n efetivo 183.6)
+  direitos_humanos_perfil2.json: 59 / 58  (n efetivo 54.9)
+  língua_portuguesa_perfil6.json: 99 / 99  (n efetivo 88.1)
+  princípios_e_atribuições_institucionais_da_defensoria_perfil7.json: 31 / 30  (n efetivo 28.8)
+
+Apostilas existentes (tamanho em bytes, caminho):
+70114  produtos/apostilas/Analista Jurídico Defensoria - DPE-AM 2026/Apostila - Direito Administrativo (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+83832  produtos/apostilas/Analista Jurídico Defensoria - DPE-AM 2026/Apostila - Direito Civil (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+78832  produtos/apostilas/Analista Jurídico Defensoria - DPE-AM 2026/Apostila - Direito Constitucional (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+69530  produtos/apostilas/Analista Jurídico Defensoria - DPE-AM 2026/Apostila - Direito Penal (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+72357  produtos/apostilas/Analista Jurídico Defensoria - DPE-AM 2026/Apostila - Direito Processual Civil (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+76916  produtos/apostilas/Analista Jurídico Defensoria - DPE-AM 2026/Apostila - Direito Processual Penal (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+77107  produtos/apostilas/Analista Jurídico Defensoria - DPE-AM 2026/Apostila - Direito da Criança e do Adolescente, do Idoso, da Pessoa com Deficiência e da Mulher (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+90205  produtos/apostilas/Analista Jurídico Defensoria - DPE-AM 2026/Apostila - Direitos Humanos (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+54950  produtos/apostilas/Analista Jurídico Defensoria - DPE-AM 2026/Apostila - Legislação da Defensoria e Conhecimentos Jurídicos e Institucionais (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+151525  produtos/apostilas/Analista Jurídico Defensoria - DPE-AM 2026/Apostila - Língua Portuguesa (Analista Jurídico FCC · DPE-AM 2026) [modelo novo].docx
+204670  produtos/apostilas/Defensor Público Defensoria - estudo geral (FCC)/Apostila - Direitos Humanos (Defensoria Pública FCC) [modelo novo].docx

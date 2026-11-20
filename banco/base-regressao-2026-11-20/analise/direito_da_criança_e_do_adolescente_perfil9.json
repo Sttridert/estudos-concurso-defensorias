@@ -1,0 +1,496 @@
+{
+ "perfil": {
+  "id": 9,
+  "nome": "Crianca, Adolescente, Idoso, PcD e Mulher - Analista Juridico - FCC - DPE-AM 2026 (edital)",
+  "banca": "FCC",
+  "carreira": "Defensoria Pública",
+  "cargo": "Analista Jurídico",
+  "ano_referencia": 2026,
+  "meia_vida": 8,
+  "pesos": {
+   "A": 1,
+   "B": 0.5,
+   "C": 0.25
+  }
+ },
+ "modo": "pontos",
+ "universo": {
+  "id": 7,
+  "nome": "Analista FCC",
+  "filtro": {
+   "bancas": [
+    "FCC"
+   ],
+   "cargos_prefixo": [
+    "Analista"
+   ]
+  }
+ },
+ "n_total": 51,
+ "n_validas": 51,
+ "n_anuladas_ou_fora": 0,
+ "n_provas": 8,
+ "provas_por_grupo": {
+  "A": 5,
+  "B": 1,
+  "C": 2
+ },
+ "soma_pesos": 27.53,
+ "n_efetivo": 47.1,
+ "K_assuntos": 10,
+ "assuntos": {
+  "CA02": {
+   "nome": "Direitos fundamentais da criança e do adolescente",
+   "n": 5.5,
+   "peso": 3.64,
+   "p": 13.2,
+   "lo": 6.3,
+   "hi": 25.7,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "CA03": {
+   "nome": "Convivência familiar e comunitária",
+   "n": 4.5,
+   "peso": 2.4,
+   "p": 8.7,
+   "lo": 3.5,
+   "hi": 20.2,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "CA04": {
+   "nome": "Política de atendimento e Sistema de Garantia de Direitos",
+   "n": 2.0,
+   "peso": 1.17,
+   "p": 4.2,
+   "lo": 1.2,
+   "hi": 14.2,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CA05": {
+   "nome": "Medidas de proteção e enfrentamento da violência",
+   "n": 2.0,
+   "peso": 1.17,
+   "p": 4.2,
+   "lo": 1.2,
+   "hi": 14.2,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CA06": {
+   "nome": "Ato infracional e medidas socioeducativas",
+   "n": 5.0,
+   "peso": 2.88,
+   "p": 10.4,
+   "lo": 4.5,
+   "hi": 22.3,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "CA07": {
+   "nome": "Justiça da Infância e da Juventude e acesso à justiça",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 1.7,
+   "lo": 0.2,
+   "hi": 10.4,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV17": {
+   "nome": "Legislação civil especial e direito imobiliário",
+   "n": 2.0,
+   "peso": 0.48,
+   "p": 1.7,
+   "lo": 0.3,
+   "hi": 10.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH13": {
+   "nome": "Igualdade e não discriminação",
+   "n": 9.0,
+   "peso": 5.19,
+   "p": 18.9,
+   "lo": 10.2,
+   "hi": 32.2,
+   "provas": 6,
+   "grupo": "Cai muito"
+  },
+  "DH14": {
+   "nome": "Grupos vulnerabilizados",
+   "n": 19.0,
+   "peso": 9.92,
+   "p": 36.0,
+   "lo": 23.9,
+   "hi": 50.3,
+   "provas": 7,
+   "grupo": "Cai muito"
+  },
+  "PE13": {
+   "nome": "Legislação penal especial",
+   "n": 1.0,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 9.0,
+   "provas": 1,
+   "grupo": "Cai pouco"
+  }
+ },
+ "n_assuntos_80pct": 5,
+ "cobranca_pct": {
+  "lei_seca": 76.2,
+  "lei/tratado": 10.1,
+  "caso_concreto": 7.0,
+  "jurisprudencia": 6.7
+ },
+ "retro_assuntos": {
+  "k": 4,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 11.0,
+    "acertos": 11.0,
+    "pct": 100.0
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 4.0,
+    "pct": 80.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 6.0,
+    "acertos": 4.0,
+    "pct": 66.7
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 6.0,
+    "acertos": 2.0,
+    "pct": 33.3
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 72.7,
+  "acaso": 40.0
+ },
+ "K_pontos": 21,
+ "pontos": {
+  "DH13.02": {
+   "texto": "Igualdade de gênero",
+   "assunto": "DH13",
+   "n": 9.0,
+   "peso": 5.19,
+   "p": 18.9,
+   "lo": 10.2,
+   "hi": 32.2,
+   "provas": 6,
+   "grupo": "Cai muito"
+  },
+  "DH14.03": {
+   "texto": "Pessoas com deficiência",
+   "assunto": "DH14",
+   "n": 11.5,
+   "peso": 5.69,
+   "p": 20.7,
+   "lo": 11.5,
+   "hi": 34.2,
+   "provas": 7,
+   "grupo": "Cai muito"
+  },
+  "DH14.04": {
+   "texto": "Saúde mental e política antimanicomial",
+   "assunto": "DH14",
+   "n": 1.5,
+   "peso": 0.71,
+   "p": 2.6,
+   "lo": 0.5,
+   "hi": 11.8,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH14.05": {
+   "texto": "Pessoas idosas",
+   "assunto": "DH14",
+   "n": 6.0,
+   "peso": 3.52,
+   "p": 12.8,
+   "lo": 6.0,
+   "hi": 25.2,
+   "provas": 4,
+   "grupo": "Cai muito"
+  },
+  "PE13.02": {
+   "texto": "Violência doméstica (Lei Maria da Penha)",
+   "assunto": "PE13",
+   "n": 1.0,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 9.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CV17.03": {
+   "texto": "Estatutos protetivos de direito privado",
+   "assunto": "CV17",
+   "n": 2.0,
+   "peso": 0.48,
+   "p": 1.7,
+   "lo": 0.3,
+   "hi": 10.5,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CA02.01": {
+   "texto": "Direito à vida e à saúde",
+   "assunto": "CA02",
+   "n": 3.0,
+   "peso": 1.94,
+   "p": 7.0,
+   "lo": 2.5,
+   "hi": 18.0,
+   "provas": 3,
+   "grupo": "Cai às vezes"
+  },
+  "CA02.03": {
+   "texto": "Direito à educação, cultura, esporte e lazer",
+   "assunto": "CA02",
+   "n": 1.5,
+   "peso": 0.94,
+   "p": 3.4,
+   "lo": 0.8,
+   "hi": 13.0,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CA02.05": {
+   "texto": "Prevenção, informação e publicidade infantil",
+   "assunto": "CA02",
+   "n": 1.0,
+   "peso": 0.77,
+   "p": 2.8,
+   "lo": 0.6,
+   "hi": 12.1,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CA03.03": {
+   "texto": "Acolhimento institucional e familiar",
+   "assunto": "CA03",
+   "n": 2.0,
+   "peso": 1.0,
+   "p": 3.6,
+   "lo": 0.9,
+   "hi": 13.4,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CA03.05": {
+   "texto": "Adoção",
+   "assunto": "CA03",
+   "n": 1.5,
+   "peso": 0.69,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 11.7,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CA03.06": {
+   "texto": "Capacidade civil, emancipação e responsabilidade civil",
+   "assunto": "CA03",
+   "n": 1.0,
+   "peso": 0.71,
+   "p": 2.6,
+   "lo": 0.5,
+   "hi": 11.8,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CA04.01": {
+   "texto": "Política de atendimento e Sistema de Garantia de Direitos",
+   "assunto": "CA04",
+   "n": 0.5,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 9.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CA04.04": {
+   "texto": "Assistência social e socioassistencial",
+   "assunto": "CA04",
+   "n": 1.5,
+   "peso": 0.94,
+   "p": 3.4,
+   "lo": 0.8,
+   "hi": 13.0,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CA05.03": {
+   "texto": "Violência, abuso e exploração sexual",
+   "assunto": "CA05",
+   "n": 2.0,
+   "peso": 1.17,
+   "p": 4.2,
+   "lo": 1.2,
+   "hi": 14.2,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CA06.02": {
+   "texto": "Ato infracional e inimputabilidade",
+   "assunto": "CA06",
+   "n": 1.0,
+   "peso": 0.71,
+   "p": 2.6,
+   "lo": 0.5,
+   "hi": 11.8,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CA06.03": {
+   "texto": "Apuração do ato infracional",
+   "assunto": "CA06",
+   "n": 2.0,
+   "peso": 1.04,
+   "p": 3.8,
+   "lo": 1.0,
+   "hi": 13.6,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CA06.04": {
+   "texto": "Medidas socioeducativas",
+   "assunto": "CA06",
+   "n": 0.5,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 9.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CA06.06": {
+   "texto": "Execução das medidas socioeducativas",
+   "assunto": "CA06",
+   "n": 1.5,
+   "peso": 0.9,
+   "p": 3.3,
+   "lo": 0.8,
+   "hi": 12.8,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "CA07.01": {
+   "texto": "Justiça da Infância e da Juventude",
+   "assunto": "CA07",
+   "n": 0.5,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 9.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "CA07.04": {
+   "texto": "Normas esparsas, normativas do CNJ, súmulas e jurisprudência",
+   "assunto": "CA07",
+   "n": 0.5,
+   "peso": 0.23,
+   "p": 0.8,
+   "lo": 0.1,
+   "hi": 9.0,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  }
+ },
+ "pontos_com_1_questao": 8,
+ "pontos_sem_questao": [
+  "CA01.01",
+  "CA01.02",
+  "CA01.03",
+  "CA01.04",
+  "CA02.02",
+  "CA02.04",
+  "CA03.01",
+  "CA03.02",
+  "CA03.04",
+  "CA04.02",
+  "CA04.03",
+  "CA05.01",
+  "CA05.02",
+  "CA05.04",
+  "CA06.01",
+  "CA06.05",
+  "CA07.02",
+  "CA07.03",
+  "CA08.01",
+  "CA08.02",
+  "DH13.06",
+  "DH16.01"
+ ],
+ "good_turing_pontos_pct": 15.7,
+ "retro_pontos": {
+  "k": 10,
+  "temporal": [],
+  "loo": [
+   {
+    "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 11.0,
+    "acertos": 10.5,
+    "pct": 95.5
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 6.0,
+    "acertos": 3.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2022 - DPE-AM - Analista Jurídico (2)",
+    "n": 6.0,
+    "acertos": 3.0,
+    "pct": 50.0
+   },
+   {
+    "prova": "2023 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 4.0,
+    "pct": 80.0
+   }
+  ],
+  "media_temporal": null,
+  "media_loo": 71.2,
+  "acaso": 47.6
+ },
+ "avisos": [
+  "Número efetivo pequeno: faixas de Wilson largas."
+ ],
+ "grupos_desc": {
+  "A": "mesmo órgão (DPE-AM), carreira, banca e cargo",
+  "B": "mesma carreira e banca, de outro órgão ou cargo",
+  "C": "outra banca ou carreira"
+ }
+}
