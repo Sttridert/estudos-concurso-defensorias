@@ -125,10 +125,12 @@ def _bd(cor, sz=4):
     return "".join(f'<w:{l} w:color="{cor}" w:space="0" w:sz="{sz}" w:val="single"/>' for l in ("top", "left", "bottom", "right"))
 
 
-def tc(conteudo, w, fill=None, borda=BORDER, span=1, mar=(80, 140, 80, 140), valign="top", esquerda=None):
-    """celula. esquerda=(cor, sz) cria barra grossa so a esquerda (caixa de destaque)"""
+def tc(conteudo, w, fill=None, borda=BORDER, span=1, mar=(80, 140, 80, 140), valign="top", esquerda=None, vmerge=None):
+    """celula. esquerda=(cor, sz) cria barra grossa so a esquerda (caixa de destaque); vmerge='restart'|'continue' junta celulas na vertical"""
     pr = f'<w:tcW w:w="{w}" w:type="dxa"/>'
     if span > 1: pr += f'<w:gridSpan w:val="{span}"/>'
+    if vmerge == "restart": pr += '<w:vMerge w:val="restart"/>'
+    elif vmerge == "continue": pr += '<w:vMerge/>'
     if esquerda:
         pr += f'<w:tcBorders><w:top w:val="nil"/><w:left w:color="{esquerda[0]}" w:space="0" w:sz="{esquerda[1]}" w:val="single"/><w:bottom w:val="nil"/><w:right w:val="nil"/></w:tcBorders>'
     else:
@@ -228,7 +230,7 @@ def caixa_texto_base(base):
 def cartao(cor, tinta, rot, titulo_txt, sub_txt, enunciado, alternativas, aviso=None, resp=None, base=None):
     """cartao de questao em tabela: cabecalho colorido com o NUMERO a esquerda (rot = capitulo.sequencia), enunciado e
     alternativas; logo abaixo, a linha de RESPOSTA E COMENTARIOS (modelo v2: o usuario le de cima para baixo, responde e
-    depois olha a linha de baixo) e a linha 'Meu resultado'. resp = {tipo, topico_xml, detalhe, comentario, pegadinha,
+    depois olha a linha de baixo) e a linha 'Meu resultado'. resp = {tipo, catalogo_xml, edital_xml, marcas, detalhe, comentario, pegadinha,
     dispositivos, gab} ou None. Nenhuma resposta aparece acima da linha de resposta."""
     cab = p(r(f" {rot} ", b=True, color=cor, sz=22, hl="white") + r("   " + titulo_txt, b=True, color="ffffff", sz=21) + r("   " + sub_txt, color="ffffff", sz=17)
             + (r("   " + aviso + " ", b=True, color=RED, sz=17, shd="ffffff") if aviso else ""), keep_next=True)   # cabeçalho não fica sozinho no fim da página
@@ -242,10 +244,12 @@ def cartao(cor, tinta, rot, titulo_txt, sub_txt, enunciado, alternativas, aviso=
     if resp:
         nome_tag, cor_tag = tag_de(resp.get("tipo"))
         partes = [(r("O QUE FOI COBRADO   ", b=True, color=GREY, sz=16) + chip(nome_tag, cor_tag), 60)]
-        if resp.get("topico_xml"):
-            partes.append((r("Tópico exato: ", b=True, color=GREY, sz=17) + resp["topico_xml"], 40))
-        if resp.get("marcas"):      # decisao 41: disciplina de origem e "tambem em <outra apostila>" (auditabilidade)
-            partes.append((r("Origem: ", b=True, color=GREY, sz=17) + r("  ·  ".join(resp["marcas"]), color=GREY, sz=17), 40))
+        if resp.get("catalogo_xml"):     # decisao do usuario (20/11/2026): o "topico exato" se divide em Catalogo e Edital
+            partes.append((r("Catálogo: ", b=True, color=GREY, sz=17) + resp["catalogo_xml"], 40))
+        if resp.get("edital_xml"):
+            partes.append((r("Edital: ", b=True, color=GREY, sz=17) + resp["edital_xml"], 40))
+        if resp.get("marcas"):      # decisao 41: disciplina de origem e "tambem em <outra apostila>" (interdisciplinaridade)
+            partes.append((r("Interdisciplinar: ", b=True, color=GREY, sz=17) + r("  ·  ".join(resp["marcas"]), color=GREY, sz=17), 40))
         if resp.get("detalhe"):
             partes.append((r("Detalhe: ", b=True, color=GREY, sz=17) + r(resp["detalhe"], color=GREY, sz=17), 40))
         if resp.get("comentario"):
@@ -257,7 +261,7 @@ def cartao(cor, tinta, rot, titulo_txt, sub_txt, enunciado, alternativas, aviso=
         # a linha pode quebrar entre paginas (sem espacos em branco), mas o ultimo paragrafo fica junto do gabarito
         c = "".join(p(x, after=a_, keep_next=(n == len(partes) - 1), keep_lines=(n == len(partes) - 1)) for n, (x, a_) in enumerate(partes))
         c += p(r("GABARITO  ", b=True, color=LIGHT, sz=14) + r(resp.get("gab") or "—", color=LIGHT, sz=15)
-              + ("   " + chip("gabarito preliminar", AMBER) if resp.get("gab_prelim") else ""), before=40, after=0)
+              + (r(" " * 6, sz=15) + chip("gabarito preliminar", AMBER) if resp.get("gab_prelim") else ""), before=40, after=0)   # o espaço PRECISA estar num run (texto solto fora de run some)
         linhas += tr(tc(c, LARGURA, fill=BG, span=2, mar=(90, 140, 90, 140)), nao_quebrar=False)
     linhas += tr(tc(p(r("MEU RESULTADO   ", b=True, color=GREY, sz=15) + r("☐ Acertei      ☐ Errei", color=GREY, sz=18), after=0), LARGURA, fill=BG, span=2, mar=(50, 140, 50, 140)))
     return tbl([6838, 2800], linhas)

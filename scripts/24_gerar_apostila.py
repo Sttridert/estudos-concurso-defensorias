@@ -7,7 +7,7 @@ Generico: nada aqui e especifico de Direitos Humanos. Capitulos = assuntos (orde
 dentro do capitulo as questoes ficam agrupadas por PONTO do catalogo. Prefacio = pontos do edital (ficticio ou real) do perfil.
 Regra do usuario: cartao sem a resposta; gabarito discreto e comentarios no fim do capitulo; mesmo design da apostila-modelo.
 """
-import json, re, sqlite3, sys, collections, importlib.util, pathlib
+import argparse, json, re, sqlite3, sys, collections, importlib.util, pathlib
 from docx import Document
 from docx.oxml import parse_xml
 from docx.oxml.ns import qn
@@ -15,6 +15,8 @@ from docx.oxml.ns import qn
 AQUI = pathlib.Path(__file__).resolve().parent
 sys.path.insert(0, str(AQUI))
 import apostila_lib as L
+import lib_semaforo as S
+import lib_novidades_edital as NV
 import lib_edital_classificado as LA
 import lib_escopo as LE
 
@@ -66,7 +68,7 @@ def topico_seguro(q, pc, conteudo, pc2=None):
     extra = f"  (+ {pc2})" if pc2 else ""
     vaza = palavras_da_resposta(q) & _raizes(base)
     if vaza:
-        print(f"  aviso: topico de {q['prova']} Q{q['numero']} continha palavra da resposta ({', '.join(sorted(vaza))}); mostrado so o codigo {pc}")
+        print(f"  aviso: tópico de {q['prova']} Q{q['numero']} continha palavra da resposta ({', '.join(sorted(vaza))}); mostrado só o código {pc}")
         return pc + extra
     return base + extra
 
@@ -75,6 +77,21 @@ def inserir(doc, xml):
     sect = doc.element.body.find(qn("w:sectPr"))
     for el in parse_xml(f"<w:body {L.NS}>{xml}</w:body>"):
         sect.addprevious(el)
+
+
+def atualizar_campos_ao_abrir(doc):
+    """O Word refaz os campos (os números de página do sumário) ao abrir o arquivo, em vez de confiar nos números que o LibreOffice
+    deixou no cache (a paginação dos dois programas difere, e daí vinham os erros do sumário; decisão do usuário, 20/11/2026)."""
+    st = doc.settings.element
+    if st.find(qn("w:updateFields")) is not None:
+        return
+    el = parse_xml(f'<w:updateFields {L.NS} w:val="true"/>')
+    for nome in ("hdrShapeDefaults", "footnotePr", "endnotePr", "compat", "docVars", "rsids", "mathPr", "themeFontLang", "clrSchemeMapping"):
+        ref = st.find(qn("w:" + nome))
+        if ref is not None:
+            ref.addprevious(el)
+            return
+    st.append(el)
 
 
 PAG = {}          # numero de pagina de cada ancora do sumario (preenchido pela 1a passada)
@@ -87,13 +104,13 @@ def paginas_do_pdf(docx):
     from pathlib import Path
     soffice = Path(r"C:\Program Files\LibreOffice\program\soffice.exe")
     if not soffice.exists():
-        print("aviso: LibreOffice nao encontrado; sumario sem numeros de pagina")
+        print("aviso: LibreOffice não encontrado; sumário sem números de página")
         return {}
     with tempfile.TemporaryDirectory() as tmp:
         subprocess.run([str(soffice), "--headless", "--convert-to", "pdf", "--outdir", tmp, str(docx)], capture_output=True, timeout=300)
         pdf = Path(tmp) / (Path(docx).stem + ".pdf")
         if not pdf.exists():
-            print("aviso: nao consegui gerar o PDF; sumario sem numeros de pagina")
+            print("aviso: não consegui gerar o PDF; sumário sem números de página")
             return {}
         n = int(re.search(r"Pages:\s+(\d+)", subprocess.run(["pdfinfo", str(pdf)], capture_output=True, text=True, encoding="utf-8", errors="replace").stdout).group(1))
         txt = {i: subprocess.run(["pdftotext", "-f", str(i), "-l", str(i), "-layout", "-enc", "UTF-8", str(pdf), "-"], capture_output=True, text=True, encoding="utf-8", errors="replace").stdout for i in range(1, n + 1)}
@@ -107,17 +124,39 @@ def paginas_do_pdf(docx):
 
 
 def main():
-    pid = int(sys.argv[sys.argv.index("--perfil") + 1]) if "--perfil" in sys.argv else 1
+    ap = argparse.ArgumentParser(description="Gera a apostila Word de um perfil (rode o `70` antes; o semáforo do porteiro vale aqui).")
+    ap.add_argument("--perfil", type=int, default=1, help="id do perfil (padrão: 1)")
+    ap.add_argument("--titulo", help="título da apostila diferente do nome da disciplina (ex.: apostila que une dois blocos do edital)")
+    ap.add_argument("--edital-artefato", type=int, help="id de outro edital com artefato (padrão: o do perfil)")
+    ap.add_argument("--gerar-mesmo-assim", metavar="MOTIVO", help="gera apesar de bloqueio do porteiro; o motivo vai para a capa")
+    args = ap.parse_args()
+    pid = args.perfil
     con = sqlite3.connect(M.DB)
     con.row_factory = sqlite3.Row
     perfil = M.carregar_perfil(con, pid)          # recusa perfil incompleto ou nao confirmado
+    # semaforo do porteiro (grupo F): bloqueio so se supera com --gerar-mesmo-assim "motivo"; os avisos vao para a capa
+    mesmo_assim = args.gerar_mesmo_assim
+    con_ro = sqlite3.connect(f"file:{M.DB}?mode=ro", uri=True)
+    perfil_sem = S.carregar_perfil(con_ro, pid)
+    achados = S.verificar(con_ro, perfil_sem)
+    bloqueios = [a_ for a_ in achados if a_.nivel == S.BLOQUEIA]
+    if not hasattr(main, "sem_impresso"):
+        main.sem_impresso = True
+        for a_ in achados:
+            if a_.nivel != S.INFORMA:
+                print(f"  [{a_.nivel}] {a_.texto}")
+    if bloqueios and not mesmo_assim:
+        sys.exit("NAO GEREI: o porteiro bloqueou (acima). Resolva, ou gere mesmo assim com --gerar-mesmo-assim \"motivo\" (o motivo vai para a capa).")
+    pendencias_capa = [a_.capa for a_ in achados if a_.nivel == S.AVISA and a_.capa]
+    if mesmo_assim:
+        pendencias_capa.insert(0, f"GERADA MESMO ASSIM. Motivo: {mesmo_assim.rstrip('. ')}." + (" Pendências ignoradas: " + "; ".join(a_.texto for a_ in bloqueios) + "." if bloqueios else ""))
     disc_id = perfil["disciplina_id"]
     disc = con.execute("select nome from disciplinas where id=?", (disc_id,)).fetchone()[0]
     esc = LE.escopo(con, perfil)         # perfil por bloco do edital (decisao 41): o bloco manda; None = por disciplina do catalogo
     if esc:                              # titulo e divisao do proprio edital (um bloco = uma apostila)
         disc = LE.titulos_blocos(con, perfil["edital_id"])[esc["bloco"]]
-    if "--titulo" in sys.argv:        # título da apostila diferente do nome da disciplina; ex.: apostila que une dois blocos do edital
-        disc = sys.argv[sys.argv.index("--titulo") + 1]
+    if args.titulo:        # título da apostila diferente do nome da disciplina; ex.: apostila que une dois blocos do edital
+        disc = args.titulo
     an = M.analisar(con, perfil)
     if esc is None:
         ass = {r["codigo"]: dict(r) for r in con.execute("select id,codigo,nome,descricao from assuntos where disciplina_id=?", (disc_id,))}
@@ -138,8 +177,8 @@ def main():
         "from edital_pontos ep join pontos p on p.id=ep.ponto_id where ep.edital_id=?", (ed["id"],))} if ed else {}
     art = None
     eid_art = None
-    if "--edital-artefato" in sys.argv:
-        eid_art = int(sys.argv[sys.argv.index("--edital-artefato") + 1])
+    if args.edital_artefato:
+        eid_art = args.edital_artefato
     elif perfil.get("edital_id") and LE.tem_blocos(con, perfil["edital_id"]):
         eid_art = perfil["edital_id"]      # decisao 41 (A3c): com edital real que tem artefato, o artefato e o caminho padrao
     if eid_art:        # fluxo novo da fase 5 (decisao 35): edital real = artefato frase a frase
@@ -147,8 +186,8 @@ def main():
         art = LA.carregar(con, ed["id"], disc_id, pts, bloco=perfil.get("bloco_edital"))
         edpts = art["edpts"]
     if ed is not None and ed["tipo"] == "real" and art is None:
-        sys.exit(f"O edital «{ed['nome']}» e real e ainda nao tem artefato (frases classificadas e blocos). Monte-o com os scripts 50, 51 e 52 "
-                 "(decisao 35) e rode o porteiro (scripts/70_porteiro_edital.py). O caminho antigo (script 28 e edital_pontos) foi aposentado.")
+        sys.exit(f"O edital «{ed['nome']}» é real e ainda não tem artefato (frases classificadas e blocos). Monte-o com os scripts 50, 51 e 52 "
+                 "(decisão 35) e rode o porteiro (scripts/70_porteiro_edital.py). O caminho antigo (script 28 e edital_pontos) foi aposentado.")
     n_ed = con.execute("select count(distinct edital_origem) from ponto_fontes").fetchone()[0]
     real = bool(ed and ed["tipo"] == "real")  # edital real: o prefacio mostra o edital verticalizado e os pontos organizados
     programa = art["programa"] if art else []
@@ -188,38 +227,51 @@ def main():
                 continue
             cand.append((-(2 * len(rz & det) + len(rz & texto_q)), len(t["t"]), n, t))
         if not cand:
-            print(f"  aviso: todos os trechos do edital de {pc} tem palavra da resposta de {q['prova']} Q{q['numero']}; mostrado so o codigo")
+            print(f"  aviso: todos os trechos do edital de {pc} têm palavra da resposta de {q['prova']} Q{q['numero']}; mostrado só o código")
             return pc + extra
         return f"{pc} · {fmt_trecho(min(cand)[3])}" + extra
 
-    def topico_edital_xml(q, pc, pc2=None):
-        """Modelo v2 (14/11/2026): o topico exato vai para a linha de resposta e traz a FRASE INTEIRA do edital, com o trecho
-        que motivou a classificacao grifado (vinho sobre fundo claro). Sem guardrail de palavra da resposta: o topico so
-        aparece depois da questao. Escolhe, entre os trechos do ponto, o mais parecido com a questao."""
+    def nome_catalogo(cod):
+        """(assunto, tópico) de um código do catálogo, de qualquer disciplina"""
+        return con.execute("select a.nome,p.texto from pontos p join assuntos a on a.id=p.assunto_id where p.codigo=?", (cod,)).fetchone()
+
+    def catalogo_xml(pc, pc2=None):
+        """linha 'Catálogo:' do cartão (decisão do usuário, 20/11/2026): código, assunto e tópico, não só o código"""
         cinza = dict(color=L.GREY, sz=17)
-        extra = f"  (+ {pc2})" if pc2 else ""
+
+        def um(cod):
+            n = nome_catalogo(cod)
+            return L.r(cod, b=True, **cinza) + L.r(f" · {n[0]} › {n[1]}" if n else "", **cinza)
+        runs = um(pc) + L.r(fora_txt(pc), **cinza)
+        return runs + (L.r("   +   ", b=True, **cinza) + um(pc2) if pc2 else "")
+
+    def edital_xml(q, pc):
+        """linha 'Edital:' do cartão: a FRASE inteira do edital, com o trecho mais
+        parecido com a questão grifado (vinho sobre fundo claro). Sem guardrail: só aparece depois da questão. None = ponto sem trecho do edital."""
+        cinza = dict(color=L.GREY, sz=17)
         trs = trechos_de.get(pc) or []
         if not trs:
-            return L.r(topico_seguro(q, pc, conteudo(pc) + fora_txt(pc), pc2), **cinza)
+            return None
         det = _raizes(q.get("detalhe"))
         texto_q = _raizes(" ".join(q.get(k) or "" for k in ("enunciado", "alt_a", "alt_b", "alt_c", "alt_d", "alt_e")))
         cand = []
-        for n, t in enumerate(trs):
-            rz = _raizes(t["t"])
-            cand.append((-(2 * len(rz & det) + len(rz & texto_q)), len(t["t"]), n, t))
-        t = min(cand)[3]
-        frase = t.get("f") or next((f for it in programa if it["item"] == t["i"] for f in it["topicos"] if t["t"] in f), t["t"])
-        BLOCOS = tit_blocos       # titulos dos blocos do proprio edital (tabela edital_blocos), nada fixo no codigo
-        mb = re.match(r"^([A-Z]+)\.(.+)$", t["i"])      # frase escrita em OUTRO bloco do edital (rótulo SIGLA.item): diz o bloco por extenso
-        origem_bloco = f" (edital, bloco «{BLOCOS.get(mb.group(1), mb.group(1))}»" + ("" if mb.group(2) == "s/n" else f", item {mb.group(2)}") + ")" if mb else ""
-        lab = "" if (mb or t["i"] == "s/n") else t["i"] + ". "
-        runs = L.r(f"{pc} · {lab}", b=True, **cinza)
-        k = frase.find(t["t"])
-        if t["t"] == frase or k < 0:
-            runs += L.r(frase, **cinza)
+        for n, t_ in enumerate(trs):
+            rz = _raizes(t_["t"])
+            cand.append((-(2 * len(rz & det) + len(rz & texto_q)), len(t_["t"]), n, t_))
+        t_ = min(cand)[3]
+        frase = t_.get("f") or next((f for it in programa if it["item"] == t_["i"] for f in it["topicos"] if t_["t"] in f), t_["t"])
+        it_ = next((it for it in programa if it["item"] == t_["i"]), None)
+        texto = frase            # a frase inteira do edital em que está o trecho (o item inteiro, em itens longos, ocuparia páginas)
+        mb = re.match(r"^([A-Z]+)\.(.+)$", t_["i"])      # frase escrita em OUTRO bloco do edital (rótulo SIGLA.item): diz o bloco por extenso
+        origem_bloco = f" (bloco «{tit_blocos.get(mb.group(1), mb.group(1))}»" + ("" if mb.group(2) == "s/n" else f", item {mb.group(2)}") + ")" if mb else ""
+        lab = "" if (mb or t_["i"] == "s/n") else t_["i"] + ". "
+        k = texto.find(t_["t"])
+        runs = L.r(lab, b=True, **cinza)
+        if t_["t"] == texto or k < 0:
+            runs += L.r(texto, **cinza)
         else:
-            runs += L.r(frase[:k], **cinza) + L.r(t["t"], b=True, color=L.VINHO, sz=17, shd="f4dde3") + L.r(frase[k + len(t["t"]):], **cinza)
-        return runs + L.r(origem_bloco, **cinza) + L.r(extra, **cinza)
+            runs += L.r(texto[:k], **cinza) + L.r(t_["t"], b=True, color=L.VINHO, sz=17, shd="f4dde3") + L.r(texto[k + len(t_["t"]):], **cinza)
+        return runs + L.r(origem_bloco, **cinza)
 
     rows = con.execute("""select q.id,q.numero,q.situacao,q.gabarito,q.enunciado,q.alt_a,q.alt_b,q.alt_c,q.alt_d,q.alt_e,
         p.nome as prova,p.ano,p.instituicao,p.cargo,p.tipo_caderno,p.banca,p.carreira,
@@ -275,13 +327,28 @@ def main():
     if hp.runs:
         hp.runs[0].text = f"{disc} · {perfil['carreira']} ({perfil['banca']})  |  Apostila por disciplina"
 
+    def legenda_nota():
+        """legenda mínima das caixas 'Nota 1 · 2 · 3' (texto das versões antigas, retomado a pedido do usuário em 20/11/2026)"""
+        return L.p(L.r("Nota: 1 = domino  ·  2 = reconheço  ·  3 = não sei", color=L.LIGHT, sz=14), before=20, after=40)
+
     X = []
     n_val, n_prov = an["n_validas"], an["n_provas"]
     X.append(L.capa("APOSTILA POR DISCIPLINA", disc, L.VINHO, f"para {perfil['cargo']} · {perfil['banca']}", L.AZUL,
-                    f"{perfil['carreira']} · Banca {perfil['banca']} · {perfil['nome']}",
+                    (f"{perfil['carreira']} · {perfil['orgao']} {ed['ano']}" if real and perfil.get("orgao") else f"{perfil['carreira']} · Banca {perfil['banca']}"),
                     f"Universo: {an['universo']['nome']}  ·  {n_val} questões comentadas de {n_prov} provas"))
-    X.append(L.legenda_cobranca(extras=sorted({(r_["tipo_cobranca"] or "") for r_ in rows})))
-    X.append(L.fonte("Fonte: cadernos e gabaritos oficiais da FCC e TEC Concursos. Pontos, classificação e comentários feitos neste trabalho e sujeitos a conferência."))
+    if pendencias_capa:        # pendências declaradas (semáforo do porteiro); sem pendência, a capa não ganha caixa
+        X.append(L.caixa("Pendências desta edição", pendencias_capa, L.AMBER, L.AMBER_BG, titulo_sz=19))
+        X.append(L.espaco(200))
+
+    # novidades do edital (grupo F): frases do bloco que não estavam nos editais anteriores do mesmo cargo e órgão (perfil.toml: editais_anteriores)
+    novidades, anos_ant = None, []
+    if real and art and perfil.get("editais_anteriores"):
+        ant = [NV.carregar_programa(s_) for s_ in perfil["editais_anteriores"]]
+        anos_ant = [a_["ano"] for a_ in ant if a_["ano"]]
+        atuais = [(it["item"], fr) for it in programa for fr in it["topicos"]]
+        cods_de = {(it["item"], fr): it["cods"][k_] for it in programa for k_, fr in enumerate(it["topicos"]) if "cods" in it}
+        novidades = [dict(n_, cods=cods_de.get((n_["rotulo"], n_["texto"]), []))
+                     for n_ in NV.comparar(atuais, [[t_ for _, t_ in a_["blocos"].get(own_bloco, [])] for a_ in ant])]
 
     # sumario (com numero de pagina: campo PAGEREF; os numeros vem da 1a passada, via PDF)
     TAB = 9638
@@ -312,8 +379,9 @@ def main():
         X.append(ent_sub("Temas cobrados anteriormente que não aparecem no edital atual", f"cap{N_FORA}"))
     ANCORAS["dispositivos"] = r"^\s*Dispositivos, tratados e casos mais cobrados\s*$"
     X.append(ent_sub("Dispositivos, tratados e casos mais cobrados", "dispositivos"))
-    ANCORAS["novos"] = r"^\s*(O que mudou no edital e o que ficou de fora|Pontos novos dos editais)\s*$"
-    X.append(ent_sub("O que mudou no edital e o que ficou de fora" if real else "Pontos novos dos editais", "novos"))
+    if novidades is not None or not real:
+        ANCORAS["novos"] = r"^\s*(O que há de novo neste edital|Pontos novos dos editais)\s*$"
+        X.append(ent_sub("O que há de novo neste edital" if real else "Pontos novos dos editais", "novos"))
     X.append(L.quebra())
 
     # prefacio: pontos do edital
@@ -323,15 +391,13 @@ def main():
         #   Parte 2 - pontos organizados: a tabela de pontos, com os trechos literais do edital classificados em cada ponto.
         X.append(L.rotulo_secao("PREFÁCIO"))
         X.append(L.titulo(1, f"O edital e os pontos de {disc}", L.INK, "prefacio"))
-        X.append(L.p(L.r(f"Edital de referência: «{ed['nome']}». Abaixo está o edital verticalizado: o programa de {disc} exatamente como está no edital, uma frase por linha, com o ponto do catálogo em que cada frase foi classificada ({len(edpts)} pontos no edital). A classificação é rascunho da IA; confira com o edital.", color=L.INK, sz=21), after=200))
 
         # parte 1: edital verticalizado
         X.append(L.titulo(2, "Edital verticalizado", COR, "edital-verticalizado"))
         if programa:
-            X.append(L.p(L.r(f"Texto literal do programa de {disc} do edital, sem nenhuma palavra alterada. A numeração é a do próprio edital: cada item ou subitem ocupa uma linha, com todas as suas frases. A coluna \"Pontos\" mostra os pontos do catálogo em que as frases do item foram classificadas (código e nome).", color=L.GREY, sz=19), after=160))
             g = [700, 5038, 3900] if all(len(str(i_["item"])) <= 8 for i_ in programa) else [1500, 4400, 3738]     # rótulo longo (ex.: nome de um trecho do edital) pede coluna mais larga
             nome_pt = {r_[0]: r_[1] for r_ in con.execute("select codigo,texto from pontos")}     # inclui pontos de outras disciplinas
-            linhas = L.cabecalho_tabela(["Nº", "Programa do edital (texto literal)", "Pontos (código e nome)"], g, COR, sz=17, centro=(0,))
+            linhas = L.cabecalho_tabela(["Nº", "Programa do edital (texto literal)", "Pontos (código e nome; + = secundário)"], g, COR, sz=17, centro=(0,))
             sem_ponto = 0
             for it in programa:
                 sn = it["item"] == "s/n"      # bloco sem numeração no edital
@@ -355,7 +421,6 @@ def main():
                 cel = [L.r(c_, b=True, sz=16) + L.r("  " + nome_pt.get(c_.lstrip("+"), ""), sz=16, color=L.GREY) for c_ in cods_item] or ["—"]
                 linhas += L.linha_dados([("" if sn else it["item"]), " ".join(it["topicos"]), cel], g, negrito=(0,), centro=(0,), sz=18)   # numeração do próprio edital
             X.append(L.tbl(g, linhas))
-            X.append(L.nota(f"{sum(len(it['topicos']) for it in programa)} frases em {len(programa)} itens. \"—\": frase de título ou geral, sem ponto próprio ({sem_ponto})." + (" Na coluna Pontos, \"+\" marca ponto secundário; código de outra disciplina (ex.: PE14.02) é ponto que esta frase também toca fora desta apostila." if art else "")))
         else:
             X.append(L.caixa("Programa literal não cadastrado", ["O JSON deste edital não traz o campo \"programa\" (texto literal). Rode os scripts 50 a 52 para montar o artefato do edital."], L.AMBER, L.AMBER_BG))
         X.append(L.quebra())
@@ -373,13 +438,8 @@ def main():
     else:
         X.append(L.rotulo_secao("PREFÁCIO"))
         X.append(L.titulo(1, f"Os pontos de {disc} nos editais", L.INK, "prefacio"))
-        X.append(L.p(L.r(f"Catálogo de {len(pts)} pontos de {disc}, montado a partir de {n_ed} editais de Defensoria da FCC e das próprias questões" + (f" (edital de referência: «{ed['nome']}»)" if ed else "") +
-                         ". A coluna \"Editais\" conta em quantos programas o ponto aparece (busca por palavras-chave; confirme no edital do seu concurso). Pontos com 0 vieram das questões e não foram achados nos programas.", color=L.INK, sz=21), after=120))
-        X.append(L.p(L.r("Como ler as colunas:  ", b=True, color=L.GREY, sz=18) + L.chip("NOVO", L.AMBER) + L.r("só nos editais de 2025 e 2026.   ", color=L.GREY, sz=18)
-                     + L.r("Cap.", b=True, color=L.INK, sz=18) + L.r(": capítulo.   ", color=L.GREY, sz=18) + L.r("Q.", b=True, color=L.INK, sz=18) + L.r(": questões já cobradas.   ", color=L.GREY, sz=18)
-                     + L.r("☐ ☐ ☐", b=True, color=L.INK, sz=18) + L.r(": estudei, revisei, fiz questões.", color=L.GREY, sz=18), after=200))
-        g = [850, 3350, 900, 600, 600, 1550, 1750]
-        linhas = L.cabecalho_tabela(["Ponto", "Conteúdo", "Editais", "Cap.", "Q.", "Estudei · Revisei · Questões", "Nota 1 · 2 · 3"], g, COR, sz=17, centro=(2, 3, 4, 5, 6))
+        g = [900, 3700, 1000, 600, 1700, 1738]       # sem a coluna "Cap." (redundante com a barra de capítulo, decisão do usuário, 20/11/2026)
+        linhas = L.cabecalho_tabela(["Ponto", "Conteúdo", "Editais", "Q.", "Estudei · Revisei · Questões", "Nota 1 · 2 · 3"], g, COR, sz=17, centro=(2, 3, 4, 5))
         n_novos = 0
         for c in ordem:
             linhas += L.barra_grupo(f"Capítulo {cap_de[c]} · {ass[c]['nome']}", g, COR, TINTA)
@@ -390,9 +450,9 @@ def main():
                 novo = bool(e.get("marca_novo"))
                 n_novos += 1 if novo else 0
                 ed_txt = L.r(f"{e.get('n_ed', 0)} de {n_ed}  ", sz=19) + (L.chip("NOVO", L.AMBER) if novo else "")
-                linhas += L.linha_dados([pc, pv["texto"], ed_txt, str(cap_de[c]), str(len(por_ponto[pc])), "☐  ☐  ☐", "1 ☐   2 ☐   3 ☐"], g, negrito=(0,), centro=(2, 3, 4, 5, 6), sz=18)
+                linhas += L.linha_dados([pc, pv["texto"], ed_txt, str(len(por_ponto[pc])), "☐  ☐  ☐", "1 ☐   2 ☐   3 ☐"], g, negrito=(0,), centro=(2, 3, 4, 5), sz=18)
         X.append(L.tbl(g, linhas))
-        X.append(L.nota(f"{len(pts)} pontos, {n_novos} novos. A coluna Q. conta questões em que o ponto é o principal. A extração do texto dos editais tem falhas; use o quadro como mapa, não como lista oficial."))
+        X.append(L.p(L.r("NOVO: ponto só nos editais de 2025 e 2026  ·  Nota: 1 = domino  ·  2 = reconheço  ·  3 = não sei", color=L.LIGHT, sz=14), before=20, after=40))
         X.append(L.quebra())
 
     # disciplina
@@ -414,18 +474,14 @@ def main():
         else:
             linhas += L.linha_dados([cap_de[c] if c in ordem_q else "—", ass[c]["nome"], 0, "0%", f"até {zero_hi}%", 0, L.r("Sem dados", sz=18)], g, negrito=(0,), centro=(0, 2, 3, 4, 5))
     X.append(L.tbl(g, linhas))
-    for av in an["avisos"]:
-        X.append(L.nota("Aviso: " + av))
     top2 = sorted(an["assuntos"].items(), key=lambda kv: -kv[1]["p"])[:2]
     top_ = top2
     ct_n = collections.Counter()      # junta os dois vocabulários do banco (lei/tratado + lei_seca = Letra de lei etc.)
     for k_, v_ in an["cobranca_pct"].items():
         ct_n[L.tag_de(k_)[0]] += v_
     cob_txt = ", ".join(f"{v:.0f}% {k}" for k, v in sorted(ct_n.items(), key=lambda kv: -kv[1]) if v >= 1)
-    X.append(L.caixa(f"Como ler {disc}", [
-        f"Os assuntos que mais caem: {top2[0][1]['nome']} ({top2[0][1]['p']:.0f}%) e {top2[1][1]['nome']} ({top2[1][1]['p']:.0f}%). Com {an['n_efetivo']} questões efetivas, os demais não se ordenam com segurança entre si.",
-        f"Tipo de cobrança (ponderado): {cob_txt}.",
-        "A amostra é pequena: estude o programa inteiro e use o histórico para decidir a ordem, não para cortar conteúdo."], COR, TINTA))
+
+    X.append(L.p(L.r("Tipo de cobrança (ponderado): ", b=True, color=L.GREY, sz=19) + L.r(cob_txt + ".", color=L.GREY, sz=19), before=120, after=100))
 
     # capitulos
     disp = collections.defaultdict(list)
@@ -459,21 +515,22 @@ def main():
                 primeiro = False
                 k += 1
                 rot = f"{n_cap}.{k}"
-                sub = f"FCC {q['ano']} · {q['cargo']}" + (f" · Tipo {int(q['tipo_caderno']):03d}" if q["tipo_caderno"] else "")
+                sub = f"FCC {q['ano']} · {q['cargo']}"      # sem o tipo do caderno (decisão do usuário, 20/11/2026)
                 pc2 = cod_ponto[q["ponto2_id"]] if q["ponto2_id"] else None
-                topico_xml = topico_edital_xml(q, pc, pc2) if real else L.r(topico_seguro(q, pc, conteudo(pc), pc2), color=L.GREY, sz=17)
+                cat_xml = catalogo_xml(pc, pc2)
+                ed_xml = edital_xml(q, pc) if real else None
                 ds = json.loads(q["c_disp"]) if q["c_disp"] else []
                 for d_ in ds:
                     disp[d_].append((q["ano"], sig(q["instituicao"]), q["numero"], pts[pc]["texto"]))
                 gab = "anulada" if q["situacao"] == "anulada" else (q["gabarito"] or "—")
                 marcas = []
                 if q["disc_origem"] != disc_id:
-                    marcas.append("disciplina de origem: " + nome_disc[q["disc_origem"]])
+                    marcas.append("originalmente de " + nome_disc[q["disc_origem"]])
                 if art:
                     outros_b = sorted({sg for pid_ in (q["ponto_id"], q["ponto2_id"]) if pid_ for sg in blocos_pt.get(pid_, ())} - {own_bloco})
                     if outros_b:
                         marcas.append("também em " + "; ".join(tit_blocos.get(sg, sg) for sg in outros_b))
-                resp = {"marcas": marcas, "gab_prelim": LE.gabarito_preliminar(q["gabarito_status"]), "tipo": q["tipo_cobranca"], "topico_xml": topico_xml, "detalhe": q["detalhe"] or "", "comentario": q["c_texto"] or "",
+                resp = {"marcas": marcas, "gab_prelim": LE.gabarito_preliminar(q["gabarito_status"]), "tipo": q["tipo_cobranca"], "catalogo_xml": cat_xml, "edital_xml": ed_xml, "detalhe": q["detalhe"] or "", "comentario": q["c_texto"] or "",
                         "pegadinha": q["c_peg"] or "", "dispositivos": "; ".join(x.replace("|", ", ") for x in ds), "gab": gab}
                 X.append(L.cartao(COR, TINTA, rot, f"{q['ano']}  ·  {sig(q['instituicao'])}  ·  Questão {q['numero']}", sub,
                                   limpa(q["enunciado"]), [limpa(q[f"alt_{x}"]) for x in "abcde"], aviso="ANULADA" if q["situacao"] == "anulada" else ("TEXTO A CONFERIR" if q["situacao"] == "revisar_texto" else None), resp=resp, base=base_de(q, n_cap, rot)))
@@ -483,14 +540,13 @@ def main():
         a = an["assuntos"].get(c)
         pts_cap = pts_ed(c)
         qs_total = sum(len(por_ponto[pc]) for pc in pts_cap)
-        # capitulo comeca em pagina nova so se for o primeiro ou tiver 4 questoes ou mais (evita paginas quase vazias)
-        nova_pg = (c == ordem_q[0] or qs_total >= 4)
-        if not nova_pg:
-            X.append(L.espaco(300))
-        X.append(L.p(L.r(f"CAPÍTULO {n_cap}   ·   Pontos: {pts_cap[0]} a {pts_cap[-1]}", b=True, color=COR, sz=18), keep_next=True, pagina_nova=nova_pg))
+        # decisao do usuario (20/11/2026): apostila impressa; capitulo NAO comeca em pagina nova (so um espaco), para nao gastar folhas;
+        # o titulo fica preso ao que vem depois (keep_next) e nao sobra sozinho no fim da pagina
+        X.append(L.espaco(300))
+        X.append(L.p(L.r(f"CAPÍTULO {n_cap}   ·   Pontos: {pts_cap[0]} a {pts_cap[-1]}", b=True, color=COR, sz=18), keep_next=True))
         X.append(L.titulo(2, ass[c]["nome"], COR, f"cap{n_cap}"))
         if a:
-            X.append(L.p(L.chip(f"{qs_total} questões", COR) + L.chip(f"{a['p']:.0f}% da disciplina", L.MID) + L.chip(f"faixa {a['lo']:.0f}% a {a['hi']:.0f}%", L.LIGHT) + L.chip(a["grupo"], L.AMBER if a["grupo"] == "Cai muito" else L.MID), after=100))
+            X.append(L.p(L.chip(f"{qs_total} questões", COR) + L.chip(f"{a['p']:.0f}% da disciplina", L.MID) + L.chip(f"faixa {a['lo']:.0f}% a {a['hi']:.0f}%", L.LIGHT) + L.chip(a["grupo"], L.AMBER if a["grupo"] == "Cai muito" else L.MID), after=100, keep_next=True))
         else:
             X.append(L.p(L.chip("0 questões", COR) + L.chip(f"faixa até {zero_hi}%", L.LIGHT), after=100))
         # a descricao do capitulo pode entregar respostas (ex.: "status supralegal"): ela vai para a tabela de respostas
@@ -505,7 +561,8 @@ def main():
         for pc in pts_cap:
             lin += L.linha_dados([pc, pts[pc]["texto"] + fora_txt(pc), len(por_ponto[pc]), "1 ☐  2 ☐  3 ☐"], g, negrito=(0,), centro=(2, 3), sz=18)
         X.append(L.tbl(g, lin))
-        X.append(L.espaco(160))
+        X.append(legenda_nota())
+        X.append(L.espaco(100))
         if qs_total == 0:
             X.append(L.caixa("Nenhuma questão nas provas estudadas", [f"Os pontos deste capítulo constam em programas de alguns editais, mas as provas do universo ({periodo}) não cobraram. Estude pelo edital e leia a norma uma vez."], L.AMBER, L.AMBER_BG))
             X.append(L.quebra())
@@ -514,9 +571,9 @@ def main():
 
     # capitulo unico dos assuntos sem questao no universo (pontos fora do edital ficam na tabela "O que mudou no edital")
     if vazios:
-        X.append(L.titulo(2, "Assuntos do edital sem cobrança anterior", COR, f"cap{N_SEM}", pagina_nova=True))
+        X.append(L.espaco(300))
+        X.append(L.titulo(2, "Assuntos do edital sem cobrança anterior", COR, f"cap{N_SEM}"))
         X.append(L.p(L.chip("0 questões", COR) + L.chip(f"faixa até {zero_hi}%", L.LIGHT), after=100))
-        X.append(L.caixa("Sem cobrança no universo não quer dizer que não cai", [f"Estes assuntos constam do edital, mas as provas do universo ({an['universo']['nome']}; {n_val} questões, {periodo}) não cobraram nenhum deles. Com tão poucas questões, a ausência pode ser acaso, e a banca pode cobrar algo novo. Estude pelo edital e leia a norma uma vez; use o histórico para decidir a ordem, não para cortar conteúdo."], L.AMBER, L.AMBER_BG))
         X.append(L.espaco(120))
         g = [850, 2400, 4300, 1588]
         lin = L.cabecalho_tabela(["Ponto", "Conteúdo", "Trechos do edital (literal)" if real else "Descrição do assunto", "Nota 1 · 2 · 3"], g, COR, sz=17, centro=(3,))
@@ -531,20 +588,21 @@ def main():
                 n_sec = (an.get("pontos") or {}).get(pc, {}).get("n", 0)      # defeito 2 (A5): ponto so secundario de questoes de outros capitulos
                 lin += L.linha_dados([pc, conteudo(pc) + (f"  (só como ponto secundário de questões de outros capítulos: {n_sec:g} no total, contadas pela metade)" if n_sec else ""), trechos_txt(pc) if real else (ass[c]["descricao"] or "—"), "1 ☐  2 ☐  3 ☐"], g, negrito=(0,), centro=(3,), sz=18)
         X.append(L.tbl(g, lin))
-        X.append(L.nota(f"{n_pts_sem} pontos em {len(vazios)} assuntos. Quando um ponto aparece só como secundário de questões de outros capítulos, a tabela de frequência o conta (meia questão cada), mas ele não tem capítulo próprio. Pontos que não constam do edital não aparecem aqui; estão em \"O que mudou no edital e o que ficou de fora\"."))
+        X.append(legenda_nota())
 
     if fora_q:
-        X.append(L.titulo(2, "Temas cobrados anteriormente que não aparecem no edital atual", COR, f"cap{N_FORA}", pagina_nova=True))
+        X.append(L.espaco(300))
+        X.append(L.titulo(2, "Temas cobrados anteriormente que não aparecem no edital atual", COR, f"cap{N_FORA}"))
         nq_fora = sum(len(por_ponto[pc]) for pc in fora_q)
         X.append(L.p(L.chip(f"{nq_fora} questões", COR) + L.chip("fora do edital", L.AMBER), after=100))
-        X.append(L.caixa("Por que estes temas estão aqui", [f"Estes pontos já foram cobrados nas provas do universo ({an['universo']['nome']}), mas não constam do programa de {disc} do edital atual. Em geral, ficam por último na ordem de estudo; leia o edital antes de decidir se vale estudá-los (alguns podem estar dentro de uma frase geral do edital). Os temas que o edital escreve em outra disciplina não entram nesta apostila."], L.AMBER, L.AMBER_BG))
         X.append(L.espaco(120))
         g = [1000, 5438, 1200, 1500]
         lin = L.cabecalho_tabela(["Ponto", "Conteúdo", "Questões", "Nota 1 · 2 · 3"], g, COR, centro=(2, 3))
         for pc in fora_q:
             lin += L.linha_dados([pc, pts[pc]["texto"], len(por_ponto[pc]), "1 ☐  2 ☐  3 ☐"], g, negrito=(0,), centro=(2, 3), sz=18)
         X.append(L.tbl(g, lin))
-        X.append(L.espaco(160))
+        X.append(legenda_nota())
+        X.append(L.espaco(100))
         cartoes(N_FORA, fora_q)
 
     # ---- Etapa 4 (modelo v2): dispositivos agrupados por FONTE, para o aluno abrir o material e estudar por ordem
@@ -577,10 +635,19 @@ def main():
         fonte, _, item = kd.partition("|")
         fonte, item = fonte.strip(), item.strip() or "(sem item)"
         por_fonte[(familia(fonte, item), fonte)][item] += v
+    # decisão do usuário (20/11/2026): a lista começa e termina em página própria, para separá-la na impressão e deixá-la ao lado das questões
     X.append(L.titulo(2, "Dispositivos, tratados e casos mais cobrados", COR, "dispositivos", pagina_nova=True))
-    X.append(L.p(L.r("Tudo o que já caiu, agrupado por fonte (uma linha para cada Constituição, código, lei, súmula, tribunal ou tratado), para você abrir o material de estudo e ir por ordem. Dentro de cada linha os itens seguem a ordem do texto da norma; entre parênteses, quantas vezes caiu e onde. As fontes de cada grupo estão da mais cobrada para a menos cobrada.", color=L.GREY, sz=19), after=160))
-    g = [2300, 6038, 1300]
-    linhas = L.cabecalho_tabela(["Fonte", "O que já caiu (ordem do texto; entre parênteses, onde caiu)", "Vezes"], g, COR, centro=(2,))
+    # Decisão do usuário (20/11/2026): 4 colunas (Fonte, O que já caiu, Vezes, Onde caiu), uma linha por dispositivo;
+    # a célula de Vezes muda de cor com a quantidade (a cor sozinha diz o que mais cai; do claro ao escuro, também legível em preto e branco)
+    g = [1700, 2900, 900, 4138]
+    linhas = L.cabecalho_tabela(["Fonte", "O que já caiu", "Vezes", "Onde caiu"], g, COR, centro=(2,))
+
+    def cor_vezes(n):
+        """(fundo, cor do texto) da célula de Vezes"""
+        if n >= 4:
+            return "1f4e79", "ffffff"
+        return {1: ("eef3f8", L.INK), 2: ("c9dcee", L.INK), 3: ("8fb4d6", L.INK)}[n]
+
     for fam in FAMILIAS:
         fontes = [(fo, its) for (fa, fo), its in por_fonte.items() if fa == fam]
         if not fontes:
@@ -588,15 +655,24 @@ def main():
         fontes.sort(key=lambda x: (-sum(len(r) for r in x[1].values()), x[0]))
         linhas += L.barra_grupo(f"{fam}  ·  {len(fontes)} fonte(s)", g, COR, TINTA)
         for fo, its in fontes:
-            par = []
-            for it in sorted(its, key=chave_nat):
+            total = sum(len(r) for r in its.values())
+            ordenados = sorted(its, key=chave_nat)
+            for k, it in enumerate(ordenados):
                 refs = its[it]
-                onde = "; ".join(f"{a_} {o} Q{n}" for a_, o, n, _ in refs[:3]) + ("…" if len(refs) > 3 else "")
-                par.append(L.r(it, b=True, sz=18) + L.r(f"   ({len(refs)}×: {onde})", color=L.GREY, sz=16))
-            linhas += L.linha_dados([fo, par, sum(len(r) for r in its.values())], g, negrito=(0,), centro=(2,), sz=18, nao_quebrar=False)   # linha longa (ex.: CP) pode quebrar de página
+                n = len(refs)
+                fundo, cor_t = cor_vezes(n)
+                onde = "; ".join(f"{a_} {o} Q{n_}" for a_, o, n_, _ in refs)
+                if k == 0:
+                    cel_fonte = L.tc(L.p(L.r(fo, b=True, sz=18), after=20) + L.p(L.r(f"{total} {'vez' if total == 1 else 'vezes'}", color=L.GREY, sz=15)),
+                                     g[0], mar=(60, 100, 60, 100), vmerge="restart")
+                else:
+                    cel_fonte = L.tc(L.p(""), g[0], mar=(60, 100, 60, 100), vmerge="continue")
+                linhas += L.tr(cel_fonte
+                               + L.tc(L.p(L.r(it, b=True, sz=18)), g[1], mar=(60, 100, 60, 100), valign="center")
+                               + L.tc(L.p(L.r(f"{n}", b=True, color=cor_t, sz=18), jc="center"), g[2], fill=fundo, mar=(60, 100, 60, 100), valign="center")
+                               + L.tc(L.p(L.r(onde, color=L.GREY, sz=16)), g[3], mar=(60, 100, 60, 100), valign="center"))
     X.append(L.tbl(g, linhas))
-    X.append(L.nota(f"{len(disp)} dispositivos distintos em {len(por_fonte)} fontes. A família de cada fonte é decidida pelo nome (ex.: \"STF\" com \"Súmula\" vai para Súmulas); o que não encaixa vai para Outros."))
-    X.append(L.espaco(200))
+    X.append(L.quebra())
 
     # ---- Etapa 5 (modelo v2): "o que mudou no edital e o que ficou de fora" em TABELA
     def tabela_mudou(grupos):
@@ -611,40 +687,42 @@ def main():
         return L.tbl(gm, lm)
 
     if real:
-        X.append(L.titulo(2, "O que mudou no edital e o que ficou de fora", COR, "novos", pagina_nova=True))
-        fora = sorted(pc for pc in pts if pc not in edpts)
-        fj = [pc for pc in fora if ((not art) or pc in art["fora"]) and not por_ponto[pc]]     # os que ja cairam estao no capitulo proprio
-        sj = [pc for pc in fora if art and pc not in art["fora"] and not por_ponto[pc]]
-        X.append(L.p(L.r((f"Edital de referência: «{ed['nome']}». A classificação das frases do edital em pontos é rascunho da IA; confira no edital." if art else ed["descricao"]) + " Pontos do edital sem questão aparecem na tabela de pontos de cada capítulo" + (" e na seção dos assuntos sem cobrança" if vazios else "") + ". Temas já cobrados fora do edital estão na seção própria.", color=L.GREY, sz=18), after=120))
-        gm = [3800, 5338]
-        lm = L.cabecalho_tabela(["Motivo (por que não está no edital)", "Pontos do catálogo que nunca caíram"], gm, COR)
-        mot = collections.OrderedDict()
-        for pc in fj:
-            mot.setdefault(art["fora"][pc] if art else "Não consta do programa.", []).append(pc)
-        if mot:
-            lm += L.barra_grupo(f"Fora do edital  ·  {len(fj)} pontos", gm, L.AMBER, L.AMBER_BG)
-            for m_, lst in mot.items():
-                lm += L.linha_dados([m_, "; ".join(f"{pc} {pts[pc]['texto']}" for pc in lst)], gm, sz=17)
-        if sj:
-            lm += L.barra_grupo(f"A conferir no edital (sem julgamento)  ·  {len(sj)} pontos", gm, L.AMBER, L.AMBER_BG)
-            lm += L.linha_dados(["Confira no edital antes de decidir se estuda.", "; ".join(f"{pc} {pts[pc]['texto']}" for pc in sj)], gm, sz=17)
-        X.append(L.tbl(gm, lm))
+        if novidades is not None:       # seção só existe quando o perfil diz quais são os editais anteriores (perfil.toml: editais_anteriores)
+            X.append(L.espaco(300))
+            X.append(L.titulo(2, "O que há de novo neste edital", COR, "novos"))
+            anos_txt = " e ".join(str(a_) for a_ in sorted(anos_ant, reverse=True))
+            X.append(L.p(L.r(f"Em relação aos editais de {anos_txt} ({perfil['orgao']}, {perfil['cargo']}).", color=L.GREY, sz=19), after=120, keep_next=True))
+            if not novidades:
+                X.append(L.p(L.r("Sem mudança no programa desta disciplina.", color=L.INK, sz=20), after=120))
+            else:
+                gm = [700, 3800, 1100, 3238, 800]
+                lm = L.cabecalho_tabela(["Item", f"Edital de {ed['ano']} (texto literal)", "Situação", "Catálogo", "Q."], gm, COR, centro=(0, 2, 4))
+                for n_ in novidades:
+                    cats = []
+                    for c_, papel in n_["cods"]:
+                        nc = nome_catalogo(c_)
+                        cats.append(L.r(("+ " if papel != "principal" else "") + c_, b=True, sz=16) + L.r(f"  {nc[1]}" if nc else "", color=L.GREY, sz=16))
+                    nq = sum(len(por_ponto[c_]) for c_, papel in n_["cods"] if papel == "principal" and c_ in por_ponto)
+                    chip_s = L.chip("NOVA", L.AMBER, sz=15) if n_["situacao"] == NV.NOVA else L.chip("REESCRITA", L.MID, sz=15)
+                    lm += L.linha_dados(["" if n_["rotulo"] == "s/n" else n_["rotulo"], n_["texto"], chip_s, cats or ["—"], str(nq) if cats else "—"], gm, negrito=(0,), centro=(0, 2, 4), sz=18)
+                X.append(L.tbl(gm, lm))
     else:
         X.append(L.titulo(2, "Pontos novos dos editais", COR, "novos"))
         novos = [pc for c in ordem for pc, pv in pts.items() if cod_ass_de_id[pv["assunto_id"]] == c and edpts.get(pc, {}).get("marca_novo")]
         sem = [pc for pc in pts if not por_ponto[pc]]
-        X.append(L.p(L.r("Como não há prova antiga que confirme os pontos novos, a prioridade vem do edital (Guia 2, capítulo 2): trate-os como \"cai muito\" até ver a próxima prova.", color=L.GREY, sz=18), after=120))
         X.append(tabela_mudou([
             ("Aparecem só nos editais de 2025 e 2026", [(pc, pts[pc]["texto"], len(por_ponto[pc]), f"Capítulo {cap_de[cod_ass_de_id[pts[pc]['assunto_id']]]}") for pc in novos]),
             ("Sem nenhuma questão nas provas estudadas", [(pc, pts[pc]["texto"], 0, "Leia o edital e a norma uma vez.") for pc in sem])]))
     inserir(doc, "".join(X))
+    atualizar_campos_ao_abrir(doc)
     out = perfil["pasta"] if perfil.get("pasta") else PROJ / "produtos" / "apostilas" / disc.lower().replace(" ", "-")   # pasta do concurso (perfil.toml)
     out.mkdir(parents=True, exist_ok=True)
     sufixo = " [modelo novo]"     # modelo v2 (docs/arquivo/04-PLANO-MODELO-APOSTILA-V2.md): não sobrescreve a apostila do modelo antigo
     arq = out / (f"Apostila - {disc} ({perfil['cargo']} {perfil['banca']} · {perfil['orgao']} {ed['ano']}){sufixo}.docx" if real and perfil.get("orgao") else f"Apostila - {disc} ({perfil['carreira']} {perfil['banca']}){sufixo}.docx")
     doc.save(str(arq))
+    S.registrar(perfil_sem, S.insumos(con_ro, perfil_sem), arq, pendencias_capa, mesmo_assim)       # impressão digital do que foi usado
     main.arq = arq
-    print("gerado:", arq, round(arq.stat().st_size / 1024), "KB; dispositivos:", len(disp), "; questoes:", sum(len(v) for v in por_ponto.values()))
+    print("gerado:", arq, round(arq.stat().st_size / 1024), "KB; dispositivos:", len(disp), "; questões:", sum(len(v) for v in por_ponto.values()))
 
 
 if __name__ == "__main__":

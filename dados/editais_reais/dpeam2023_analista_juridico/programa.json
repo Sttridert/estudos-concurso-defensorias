@@ -1,0 +1,3315 @@
+{
+ "edital": {
+  "slug": "dpeam2023_analista_juridico",
+  "pasta": "2023 - DPE-AM - Analista Jurídico",
+  "arquivo": "provas/2023 - DPE-AM - Analista Jurídico/1. edital.pdf",
+  "banca": "FCC",
+  "orgao": "DPE-AM",
+  "cargo": "Analista Jurídico",
+  "ano": 2023
+ },
+ "disciplinas": [
+  {
+   "codigo": "DH",
+   "disciplina_banco": "Direitos Humanos",
+   "titulo_no_edital": "DIREITOS HUMANOS",
+   "avisos": [],
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "DH-001",
+       "texto": "Origem, sentido e evolução histórica dos Direitos Humanos."
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "DH-002",
+       "texto": "A sacralidade da pessoa e a dignidade humana."
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "DH-003",
+       "texto": "Os fundamentos filosóficos dos Direitos Humanos."
+      },
+      {
+       "id": "DH-004",
+       "texto": "Os direitos naturais do jusnaturalismo racional e do contratualismo moderno."
+      },
+      {
+       "id": "DH-005",
+       "texto": "Os direitos fundamentais do juspositivismo."
+      },
+      {
+       "id": "DH-006",
+       "texto": "Teoria crítica dos Direitos Humanos."
+      },
+      {
+       "id": "DH-007",
+       "texto": "A denúncia da mistificação ideológica dos direitos humanos abstratos."
+      },
+      {
+       "id": "DH-008",
+       "texto": "A dificuldade de reconstrução dos direitos humanos na era da biopolítica: os limites da cidadania como direito a ter direitos, estado de exceção e campo de concentração como paradigmas políticos modernos."
+      },
+      {
+       "id": "DH-009",
+       "texto": "Encantos e desencantos dos Direitos Humanos: entre dominação e emancipação."
+      },
+      {
+       "id": "DH-010",
+       "texto": "Perspectivas pós-violatórias, estatais e monistas X pré-violatórias, existenciais e pluralistas para a proteção dos Direitos Humanos."
+      },
+      {
+       "id": "DH-011",
+       "texto": "Efeito encantatório e usos políticos dos Direitos Humanos: intervenções humanitárias e imperialismo dos Direitos Humanos (universalismo, relativismo e hermenêutica diatópica)."
+      },
+      {
+       "id": "DH-012",
+       "texto": "As tensões da Modernidade ocidental e as tensões dos Direitos Humanos: da colonialidade à descolonialidade."
+      },
+      {
+       "id": "DH-013",
+       "texto": "Os Direitos Humanos na zona de contato entre globalizações rivais."
+      },
+      {
+       "id": "DH-014",
+       "texto": "Os Direitos Humanos como bandeiras de lutas dos movimentos sociais."
+      },
+      {
+       "id": "DH-015",
+       "texto": "A reconstrução contra-hegemônica dos Direitos Humanos: Direitos Humanos interculturais, pós-imperiais e descoloniais no horizonte pós-capitalista."
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "DH-016",
+       "texto": "Direito internacional dos Direitos Humanos: fontes, classificação, princípios, características e gerações de direitos humanos."
+      },
+      {
+       "id": "DH-017",
+       "texto": "Normas de interpretação dos tratados de Direitos Humanos."
+      },
+      {
+       "id": "DH-018",
+       "texto": "Resolução de conflitos ante a colisão de direitos humanos."
+      },
+      {
+       "id": "DH-019",
+       "texto": "A responsabilidade internacional por violação dos direitos humanos: tratados internacionais de direitos humanos e as obrigações assumidas pelo Brasil, formas de reparação e sanções coletivas e unilaterais."
+      },
+      {
+       "id": "DH-020",
+       "texto": "A vigência e eficácia das normas do direito internacional dos Direitos Humanos."
+      },
+      {
+       "id": "DH-021",
+       "texto": "As possibilidades de aposição de reservas e de oferecer denúncia relativas aos tratados internacionais de Direitos Humanos."
+      },
+      {
+       "id": "DH-022",
+       "texto": "A incorporação dos tratados internacionais de proteção de direitos humanos ao direito brasileiro."
+      },
+      {
+       "id": "DH-023",
+       "texto": "A posição hierárquica dos tratados internacionais de Direitos Humanos em face da Constituição da República do Brasil."
+      },
+      {
+       "id": "DH-024",
+       "texto": "O controle de convencionalidade."
+      },
+      {
+       "id": "DH-025",
+       "texto": "O direito da autodiscriminação: discriminação direta e indireta e ações afirmativas."
+      },
+      {
+       "id": "DH-026",
+       "texto": "A execução de decisões oriundas de tribunais internacionais de Direitos Humanos no Brasil."
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "DH-027",
+       "texto": "O sistema internacional de proteção e promoção dos Direitos Humanos: Organização das Nações Unidas (ONU)."
+      },
+      {
+       "id": "DH-028",
+       "texto": "Declarações, tratados, resoluções, comentários gerais, relatórios e normas de organização e funcionamento dos órgãos de supervisão, fiscalização e controle."
+      },
+      {
+       "id": "DH-029",
+       "texto": "Órgãos convencionais e extraconvencionais."
+      },
+      {
+       "id": "DH-030",
+       "texto": "Declaração Universal dos Direitos Humanos."
+      },
+      {
+       "id": "DH-031",
+       "texto": "Pacto Internacional dos Direitos Civis e Políticos (PIDCP)."
+      },
+      {
+       "id": "DH-032",
+       "texto": "Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos."
+      },
+      {
+       "id": "DH-033",
+       "texto": "Segundo Protocolo Facultativo ao Pacto Internacional dos Direitos Civis e Políticos visando à abolição da pena de morte."
+      },
+      {
+       "id": "DH-034",
+       "texto": "Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (PIDESC)."
+      },
+      {
+       "id": "DH-035",
+       "texto": "Protocolo Facultativo ao Pacto Internacional de Direitos Econômicos, Sociais e Culturais."
+      },
+      {
+       "id": "DH-036",
+       "texto": "Convenção para a Prevenção e Punição ao crime de genocídio."
+      },
+      {
+       "id": "DH-037",
+       "texto": "Convenção Relativa ao Estatuto dos Refugiados."
+      },
+      {
+       "id": "DH-038",
+       "texto": "Protocolo sobre o Estatuto dos Refugiados."
+      },
+      {
+       "id": "DH-039",
+       "texto": "Convenção sobre a eliminação de todas as formas de discriminação racial."
+      },
+      {
+       "id": "DH-040",
+       "texto": "Convenção sobre a eliminação de todas as formas de discriminação contra a mulher."
+      },
+      {
+       "id": "DH-041",
+       "texto": "Protocolo Facultativo à Convenção sobre a Eliminação de todas as Formas de Discriminação contra a Mulher."
+      },
+      {
+       "id": "DH-042",
+       "texto": "Convenção contra a tortura e outros tratamentos ou penas cruéis, desumanos ou degradantes."
+      },
+      {
+       "id": "DH-043",
+       "texto": "Protocolo Facultativo à Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes."
+      },
+      {
+       "id": "DH-044",
+       "texto": "Convenção sobre os direitos da criança."
+      },
+      {
+       "id": "DH-045",
+       "texto": "Protocolos Opcionais à Convenção dos Direitos da Criança."
+      },
+      {
+       "id": "DH-046",
+       "texto": "Estatuto de Roma sobre Tribunal Penal Internacional."
+      },
+      {
+       "id": "DH-047",
+       "texto": "Convenção sobre os direitos da pessoa com deficiência."
+      },
+      {
+       "id": "DH-048",
+       "texto": "Protocolo Facultativo à Convenção sobre os Direitos da Pessoa com Deficiência."
+      },
+      {
+       "id": "DH-049",
+       "texto": "Convenção Internacional sobre a Proteção dos Direitos de Todos os Trabalhadores Migrantes e dos Membros das suas Famílias."
+      },
+      {
+       "id": "DH-050",
+       "texto": "Convenção Internacional para a Proteção de Todas as Pessoas Contra o Desaparecimento Forçado."
+      },
+      {
+       "id": "DH-051",
+       "texto": "Convenção relativa à proteção do patrimônio mundial, cultural e natural – “Declaração de Estocolmo”."
+      },
+      {
+       "id": "DH-052",
+       "texto": "Carta Africana de Direitos Humanos e dos povos."
+      },
+      {
+       "id": "DH-053",
+       "texto": "Declaração das Nações Unidas sobre os direitos dos povos indígenas."
+      },
+      {
+       "id": "DH-054",
+       "texto": "Convenção sobre a diversidade biológica."
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "DH-055",
+       "texto": "Sistema Regional Interamericano de Proteção aos Direitos Humanos."
+      },
+      {
+       "id": "DH-056",
+       "texto": "Organização dos Estados Americanos (OEA): declarações, tratados, resoluções, relatórios, informes, pareceres, jurisprudência (contenciosa e consultiva da Corte Interamericana de Direitos Humanos), normas de organização e funcionamento dos órgãos de supervisão, fiscalização e controle."
+      },
+      {
+       "id": "DH-057",
+       "texto": "Comissão Interamericana de Direitos Humanos: relatórios de casos, medidas cautelares, relatórios anuais e relatoria para a liberdade de expressão."
+      },
+      {
+       "id": "DH-058",
+       "texto": "Corte Interamericana de Direitos Humanos."
+      },
+      {
+       "id": "DH-059",
+       "texto": "Declaração Americana dos Direitos e Deveres do Homem."
+      },
+      {
+       "id": "DH-060",
+       "texto": "Convenção Americana de Direitos Humanos."
+      },
+      {
+       "id": "DH-061",
+       "texto": "Protocolo adicional à Convenção Americana sobre Direitos Humanos em matéria de direitos econômicos, sociais e culturais – “Protocolo de San Salvador”."
+      },
+      {
+       "id": "DH-062",
+       "texto": "Convenção Interamericana para prevenir e punir a tortura."
+      },
+      {
+       "id": "DH-063",
+       "texto": "Protocolo à Convenção Americana sobre direitos humanos relativo à abolição da pena de morte."
+      },
+      {
+       "id": "DH-064",
+       "texto": "Convenção Interamericana para prevenir, punir e erradicar a violência contra mulher."
+      },
+      {
+       "id": "DH-065",
+       "texto": "Convenção Interamericana sobre o desaparecimento forçado de pessoas."
+      },
+      {
+       "id": "DH-066",
+       "texto": "Convenção Interamericana sobre a eliminação de todas as formas de discriminação contra pessoas com deficiência."
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "DH-067",
+       "texto": "Direitos Humanos e acesso à justiça: o dever dos Estados de promover o acesso à justiça, 100 Regras de Brasília e desenvolvimentos no âmbito da Organização dos Estados Americanos relacionados à Defensoria Pública."
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "DH-068",
+       "texto": "Mecanismos de proteção aos direitos humanos na Constituição da República do Brasil."
+      },
+      {
+       "id": "DH-069",
+       "texto": "Federalização de crimes contra os Direitos Humanos."
+      },
+      {
+       "id": "DH-070",
+       "texto": "Remédios constitucionais."
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "DH-071",
+       "texto": "Reflexos do Direito Internacional dos Direitos Humanos no direito brasileiro."
+      },
+      {
+       "id": "DH-072",
+       "texto": "Programa Nacional de Direitos Humanos I, II e III."
+      },
+      {
+       "id": "DH-073",
+       "texto": "Programa Estadual de Direitos Humanos do Estado."
+      },
+      {
+       "id": "DH-074",
+       "texto": "Comissão Nacional da Verdade: histórico, atribuições, legislação, audiências públicas e relatórios."
+      }
+     ]
+    },
+    {
+     "ordem": 10,
+     "rotulo": "10",
+     "frases": [
+      {
+       "id": "DH-075",
+       "texto": "Direitos Humanos em espécie e grupos vulneráveis."
+      },
+      {
+       "id": "DH-076",
+       "texto": "Direitos Humanos das minorias e de vítimas de injustiças históricas: Mulher, Negro, Criança e Adolescente, Idoso, Pessoa com Deficiência, Pessoas em situação de rua, Povos Indígenas, LGBT (lésbicas, gays, bissexuais, travestis, transexuais e transgêneros), Quilombolas, Sem-teto, Sem-terra, Imigrantes e Refugiados."
+      }
+     ]
+    },
+    {
+     "ordem": 11,
+     "rotulo": "11",
+     "frases": [
+      {
+       "id": "DH-077",
+       "texto": "Educação em direitos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "PCIV",
+   "disciplina_banco": "Direito Processual Civil",
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "avisos": [],
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "PCIV-001",
+       "texto": "Novo Código de Processo Civil (Lei n. 13.105, de 16 de março de 2015)."
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "PCIV-002",
+       "texto": "Constituição e Processo:"
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "2.1",
+     "frases": [
+      {
+       "id": "PCIV-003",
+       "texto": "A Constitucionalização do processo."
+      },
+      {
+       "id": "PCIV-004",
+       "texto": "Princípios constitucionais no processo civil."
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "2.2",
+     "frases": [
+      {
+       "id": "PCIV-005",
+       "texto": "Conteúdo jurídico do direito de acesso à tutela jurisdicional do Estado."
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "2.3",
+     "frases": [
+      {
+       "id": "PCIV-006",
+       "texto": "Conteúdo jurídico do direito de defesa."
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "2.4",
+     "frases": [
+      {
+       "id": "PCIV-007",
+       "texto": "Direitos fundamentais e processo."
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "2.5",
+     "frases": [
+      {
+       "id": "PCIV-008",
+       "texto": "A busca pela efetividade do processo e as reformas processuais."
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "2.6",
+     "frases": [
+      {
+       "id": "PCIV-009",
+       "texto": "O provimento jurisdicional como instrumento de transformação social."
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "PCIV-010",
+       "texto": "Normas de Direito Processual Civil: natureza jurídica, fontes, princípios processuais civis, interpretação e Direito Processual intertemporal."
+      },
+      {
+       "id": "PCIV-011",
+       "texto": "Princípios infraconstitucionais do processo civil."
+      }
+     ]
+    },
+    {
+     "ordem": 10,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "PCIV-012",
+       "texto": "Jurisdição: conceito, características, princípios e espécies."
+      }
+     ]
+    },
+    {
+     "ordem": 11,
+     "rotulo": "4.1",
+     "frases": [
+      {
+       "id": "PCIV-013",
+       "texto": "Meios alternativos de solução de conflitos: autotutela, autocomposição (conciliação e mediação), arbitragem e tribunais administrativos."
+      }
+     ]
+    },
+    {
+     "ordem": 12,
+     "rotulo": "4.2",
+     "frases": [
+      {
+       "id": "PCIV-014",
+       "texto": "Competência."
+      }
+     ]
+    },
+    {
+     "ordem": 13,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "PCIV-015",
+       "texto": "Ação: teorias, classificação, elementos e cumulação."
+      }
+     ]
+    },
+    {
+     "ordem": 14,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "PCIV-016",
+       "texto": "Processo: pressupostos processuais, atos processuais, vícios dos atos processuais, lugar, tempo e forma dos atos processuais, comunicação dos atos processuais."
+      },
+      {
+       "id": "PCIV-017",
+       "texto": "Preclusão."
+      }
+     ]
+    },
+    {
+     "ordem": 15,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "PCIV-018",
+       "texto": "Sujeitos do processo: partes, capacidade, deveres e responsabilidade por dano processual, substituição, sucessão."
+      },
+      {
+       "id": "PCIV-019",
+       "texto": "Litisconsórcio."
+      },
+      {
+       "id": "PCIV-020",
+       "texto": "Assistência."
+      },
+      {
+       "id": "PCIV-021",
+       "texto": "Intervenção de terceiros: típicas e atípicas."
+      },
+      {
+       "id": "PCIV-022",
+       "texto": "Amicus curiae."
+      },
+      {
+       "id": "PCIV-023",
+       "texto": "Juiz e auxiliares da justiça."
+      },
+      {
+       "id": "PCIV-024",
+       "texto": "Ministério Público."
+      },
+      {
+       "id": "PCIV-025",
+       "texto": "Advocacia Pública."
+      },
+      {
+       "id": "PCIV-026",
+       "texto": "Defensoria Pública."
+      }
+     ]
+    },
+    {
+     "ordem": 16,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "PCIV-027",
+       "texto": "Da tutela provisória."
+      },
+      {
+       "id": "PCIV-028",
+       "texto": "Tutela de urgência e tutela da evidência."
+      },
+      {
+       "id": "PCIV-029",
+       "texto": "Tutela antecedente e incidente."
+      },
+      {
+       "id": "PCIV-030",
+       "texto": "Estabilização da tutela provisória."
+      }
+     ]
+    },
+    {
+     "ordem": 17,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "PCIV-031",
+       "texto": "Procedimento comum: petição inicial, indeferimento da petição inicial, improcedência liminar do pedido, conversão da ação individual em ação coletiva, audiência de conciliação ou mediação, respostas do réu, revelia, providências preliminares e saneamento, julgamento conforme o estado do processo, audiência de instrução e julgamento, provas, sentença e coisa julgada."
+      }
+     ]
+    },
+    {
+     "ordem": 18,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "PCIV-032",
+       "texto": "Do cumprimento de sentença."
+      }
+     ]
+    },
+    {
+     "ordem": 19,
+     "rotulo": "10",
+     "frases": [
+      {
+       "id": "PCIV-033",
+       "texto": "Do procedimento."
+      },
+      {
+       "id": "PCIV-034",
+       "texto": "Teoria geral do procedimento."
+      },
+      {
+       "id": "PCIV-035",
+       "texto": "Procedimentos especiais e procedimentos de jurisdição voluntária."
+      }
+     ]
+    },
+    {
+     "ordem": 20,
+     "rotulo": "11",
+     "frases": [
+      {
+       "id": "PCIV-036",
+       "texto": "Provas."
+      },
+      {
+       "id": "PCIV-037",
+       "texto": "Objeto, fonte e meios."
+      },
+      {
+       "id": "PCIV-038",
+       "texto": "Admissibilidade."
+      },
+      {
+       "id": "PCIV-039",
+       "texto": "Provas típicas e atípicas."
+      },
+      {
+       "id": "PCIV-040",
+       "texto": "Provas ilícitas."
+      },
+      {
+       "id": "PCIV-041",
+       "texto": "Ônus da prova."
+      },
+      {
+       "id": "PCIV-042",
+       "texto": "Provas em espécie e sua produção."
+      }
+     ]
+    },
+    {
+     "ordem": 21,
+     "rotulo": "12",
+     "frases": [
+      {
+       "id": "PCIV-043",
+       "texto": "Tutelas declaratórias, condenatórias, mandamentais, cominatórias e específicas."
+      }
+     ]
+    },
+    {
+     "ordem": 22,
+     "rotulo": "14",
+     "frases": [
+      {
+       "id": "PCIV-044",
+       "texto": "Processo de execução: espécies, procedimentos, execução provisória e definitiva."
+      },
+      {
+       "id": "PCIV-045",
+       "texto": "Execução para entrega de coisa, execução de obrigações de fazer ou de não fazer, execução por quantia certa, execução contra a fazenda pública, execução de alimentos."
+      },
+      {
+       "id": "PCIV-046",
+       "texto": "Defesas do devedor e de terceiros na execução."
+      },
+      {
+       "id": "PCIV-047",
+       "texto": "Ações prejudiciais à execução."
+      },
+      {
+       "id": "PCIV-048",
+       "texto": "Embargos à execução."
+      },
+      {
+       "id": "PCIV-049",
+       "texto": "Suspensão e extinção do processo de execução."
+      }
+     ]
+    },
+    {
+     "ordem": 23,
+     "rotulo": "15",
+     "frases": [
+      {
+       "id": "PCIV-050",
+       "texto": "Processo nos tribunais e meios de impugnação das decisões judiciais: ordem dos processos nos tribunais e processos de competência originária dos tribunais: incidente de assunção de competência, homologação de decisão estrangeira e concessão do exequatur à carta rogatória, ação rescisória, incidente de resolução de demandas repetitivas e reclamação."
+      }
+     ]
+    },
+    {
+     "ordem": 24,
+     "rotulo": "16",
+     "frases": [
+      {
+       "id": "PCIV-051",
+       "texto": "Recursos e meios de impugnação."
+      },
+      {
+       "id": "PCIV-052",
+       "texto": "Admissibilidade e efeitos."
+      },
+      {
+       "id": "PCIV-053",
+       "texto": "Princípios."
+      },
+      {
+       "id": "PCIV-054",
+       "texto": "Apelação, agravos, embargos de declaração, embargos de divergência, duplo grau obrigatório, ação rescisória, mandado de segurança contra ato judicial, ação declaratória de inexistência de ato processual e querela nullitatis."
+      },
+      {
+       "id": "PCIV-055",
+       "texto": "Recursos nos Tribunais Superiores."
+      },
+      {
+       "id": "PCIV-056",
+       "texto": "Repercussão Geral."
+      },
+      {
+       "id": "PCIV-057",
+       "texto": "Súmula."
+      },
+      {
+       "id": "PCIV-058",
+       "texto": "Súmula Vinculante."
+      },
+      {
+       "id": "PCIV-059",
+       "texto": "Precedentes: teoria geral, distinguishing e overrulling."
+      }
+     ]
+    },
+    {
+     "ordem": 25,
+     "rotulo": "17",
+     "frases": [
+      {
+       "id": "PCIV-060",
+       "texto": "Prerrogativas processuais da Defensoria Pública."
+      }
+     ]
+    },
+    {
+     "ordem": 26,
+     "rotulo": "18",
+     "frases": [
+      {
+       "id": "PCIV-061",
+       "texto": "A Fazenda Pública como parte no processo: polos ativo e passivo."
+      },
+      {
+       "id": "PCIV-062",
+       "texto": "Prerrogativas."
+      },
+      {
+       "id": "PCIV-063",
+       "texto": "Tutela provisória e tutela específica."
+      },
+      {
+       "id": "PCIV-064",
+       "texto": "Ação de conhecimento e execução."
+      },
+      {
+       "id": "PCIV-065",
+       "texto": "A Fazenda nos procedimentos especiais."
+      },
+      {
+       "id": "PCIV-066",
+       "texto": "Juizados Especiais da Fazenda Pública Estadual."
+      }
+     ]
+    },
+    {
+     "ordem": 27,
+     "rotulo": "19",
+     "frases": [
+      {
+       "id": "PCIV-067",
+       "texto": "Ação de usucapião."
+      },
+      {
+       "id": "PCIV-068",
+       "texto": "Usucapião como matéria de defesa."
+      }
+     ]
+    },
+    {
+     "ordem": 28,
+     "rotulo": "20",
+     "frases": [
+      {
+       "id": "PCIV-069",
+       "texto": "Processo coletivo."
+      },
+      {
+       "id": "PCIV-070",
+       "texto": "Ação civil pública."
+      }
+     ]
+    },
+    {
+     "ordem": 29,
+     "rotulo": "21",
+     "frases": [
+      {
+       "id": "PCIV-071",
+       "texto": "Habeas Corpus, Habeas Data e Mandado de Injunção."
+      }
+     ]
+    },
+    {
+     "ordem": 30,
+     "rotulo": "22",
+     "frases": [
+      {
+       "id": "PCIV-072",
+       "texto": "Reclamação."
+      }
+     ]
+    },
+    {
+     "ordem": 31,
+     "rotulo": "23",
+     "frases": [
+      {
+       "id": "PCIV-073",
+       "texto": "Ação popular."
+      }
+     ]
+    },
+    {
+     "ordem": 32,
+     "rotulo": "24",
+     "frases": [
+      {
+       "id": "PCIV-074",
+       "texto": "Mandado de segurança individual e coletivo."
+      }
+     ]
+    },
+    {
+     "ordem": 33,
+     "rotulo": "25",
+     "frases": [
+      {
+       "id": "PCIV-075",
+       "texto": "Ações da Lei de Locação dos Imóveis Urbanos: despejo, consignatória de aluguel e acessórios, renovatória e revisional."
+      },
+      {
+       "id": "PCIV-076",
+       "texto": "Postulação e defesa."
+      }
+     ]
+    },
+    {
+     "ordem": 34,
+     "rotulo": "26",
+     "frases": [
+      {
+       "id": "PCIV-077",
+       "texto": "Ações possessórias e petitórias."
+      }
+     ]
+    },
+    {
+     "ordem": 35,
+     "rotulo": "27",
+     "frases": [
+      {
+       "id": "PCIV-078",
+       "texto": "Ações de alimentos."
+      },
+      {
+       "id": "PCIV-079",
+       "texto": "Execução de alimentos."
+      },
+      {
+       "id": "PCIV-080",
+       "texto": "Lei de Alimentos e disposições do Código de Processo Civil."
+      }
+     ]
+    },
+    {
+     "ordem": 36,
+     "rotulo": "28",
+     "frases": [
+      {
+       "id": "PCIV-081",
+       "texto": "Inventário judicial e extrajudicial."
+      },
+      {
+       "id": "PCIV-082",
+       "texto": "Arrolamento."
+      },
+      {
+       "id": "PCIV-083",
+       "texto": "Alvará."
+      }
+     ]
+    },
+    {
+     "ordem": 37,
+     "rotulo": "29",
+     "frases": [
+      {
+       "id": "PCIV-084",
+       "texto": "Juizados Especiais Cíveis."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "CIV",
+   "disciplina_banco": "Direito Civil",
+   "titulo_no_edital": "DIREITO CIVIL",
+   "avisos": [],
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "CIV-001",
+       "texto": "Da Pessoa Natural."
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "1.1",
+     "frases": [
+      {
+       "id": "CIV-002",
+       "texto": "Personalidade e Capacidade."
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "1.2",
+     "frases": [
+      {
+       "id": "CIV-003",
+       "texto": "Direitos da Personalidade."
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "CIV-004",
+       "texto": "Da Pessoa Jurídica."
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "CIV-005",
+       "texto": "Domicílio Civil."
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "CIV-006",
+       "texto": "Dos Bens públicos: classificação, afetação e desafetação."
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "CIV-007",
+       "texto": "Do Negócio Jurídico: Conceito."
+      },
+      {
+       "id": "CIV-008",
+       "texto": "Classificação."
+      },
+      {
+       "id": "CIV-009",
+       "texto": "Elementos essenciais gerais."
+      },
+      {
+       "id": "CIV-010",
+       "texto": "Elementos acidentais (condição, termo, encargo)."
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "5.1",
+     "frases": [
+      {
+       "id": "CIV-011",
+       "texto": "Defeitos do negócio jurídico (erro ou ignorância, dolo, coação, estado de perigo, lesão, fraude contra credores), invalidade do negócio jurídico."
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "CIV-012",
+       "texto": "Do Direito das Obrigações."
+      }
+     ]
+    },
+    {
+     "ordem": 10,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "CIV-013",
+       "texto": "Dos vícios redibitórios e da Evicção."
+      }
+     ]
+    },
+    {
+     "ordem": 11,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "CIV-014",
+       "texto": "Da responsabilidade civil."
+      }
+     ]
+    },
+    {
+     "ordem": 12,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "CIV-015",
+       "texto": "Direito das coisas."
+      },
+      {
+       "id": "CIV-016",
+       "texto": "Posse."
+      },
+      {
+       "id": "CIV-017",
+       "texto": "Teorias da posse."
+      },
+      {
+       "id": "CIV-018",
+       "texto": "Conceito, classificação, aquisição, efeitos, proteção e perda da posse."
+      },
+      {
+       "id": "CIV-019",
+       "texto": "Função social da posse."
+      },
+      {
+       "id": "CIV-020",
+       "texto": "Teorias da função social da posse."
+      },
+      {
+       "id": "CIV-021",
+       "texto": "Conceito, conteúdo e concretização da função social da posse."
+      },
+      {
+       "id": "CIV-022",
+       "texto": "Função socioambiental da posse."
+      }
+     ]
+    },
+    {
+     "ordem": 13,
+     "rotulo": "10",
+     "frases": [
+      {
+       "id": "CIV-023",
+       "texto": "Direitos reais."
+      },
+      {
+       "id": "CIV-024",
+       "texto": "Propriedade."
+      },
+      {
+       "id": "CIV-025",
+       "texto": "Conceito, classificação, aquisição, proteção e perda da propriedade."
+      },
+      {
+       "id": "CIV-026",
+       "texto": "Função social da propriedade: conceito, conteúdo e concretização da função social da propriedade."
+      }
+     ]
+    },
+    {
+     "ordem": 14,
+     "rotulo": "11",
+     "frases": [
+      {
+       "id": "CIV-027",
+       "texto": "Direitos de vizinhança."
+      },
+      {
+       "id": "CIV-028",
+       "texto": "Condomínio geral."
+      },
+      {
+       "id": "CIV-029",
+       "texto": "Condomínio edilício."
+      },
+      {
+       "id": "CIV-030",
+       "texto": "Propriedade resolúvel."
+      },
+      {
+       "id": "CIV-031",
+       "texto": "Propriedade fiduciária."
+      }
+     ]
+    },
+    {
+     "ordem": 15,
+     "rotulo": "12",
+     "frases": [
+      {
+       "id": "CIV-032",
+       "texto": "Direitos reais sobre coisa alheia."
+      },
+      {
+       "id": "CIV-033",
+       "texto": "Superfície."
+      },
+      {
+       "id": "CIV-034",
+       "texto": "Servidões."
+      },
+      {
+       "id": "CIV-035",
+       "texto": "Uso."
+      },
+      {
+       "id": "CIV-036",
+       "texto": "Usufruto."
+      },
+      {
+       "id": "CIV-037",
+       "texto": "Habitação."
+      }
+     ]
+    },
+    {
+     "ordem": 16,
+     "rotulo": "13",
+     "frases": [
+      {
+       "id": "CIV-038",
+       "texto": "Direito real à aquisição."
+      },
+      {
+       "id": "CIV-039",
+       "texto": "Direito do promitente comprador."
+      },
+      {
+       "id": "CIV-040",
+       "texto": "Compromisso de venda e compra."
+      },
+      {
+       "id": "CIV-041",
+       "texto": "Adjudicação compulsória."
+      }
+     ]
+    },
+    {
+     "ordem": 17,
+     "rotulo": "14",
+     "frases": [
+      {
+       "id": "CIV-042",
+       "texto": "Direitos reais em garantia."
+      },
+      {
+       "id": "CIV-043",
+       "texto": "Penhor."
+      },
+      {
+       "id": "CIV-044",
+       "texto": "Hipoteca."
+      }
+     ]
+    },
+    {
+     "ordem": 18,
+     "rotulo": "15",
+     "frases": [
+      {
+       "id": "CIV-045",
+       "texto": "Entidades familiares."
+      },
+      {
+       "id": "CIV-046",
+       "texto": "Origem e conceitos."
+      },
+      {
+       "id": "CIV-047",
+       "texto": "Relações familiares plurais."
+      },
+      {
+       "id": "CIV-048",
+       "texto": "Fundamentos da diversidade familiar e afetiva."
+      },
+      {
+       "id": "CIV-049",
+       "texto": "Diversidade sexual."
+      },
+      {
+       "id": "CIV-050",
+       "texto": "Família homoafetiva."
+      },
+      {
+       "id": "CIV-051",
+       "texto": "Princípios constitucionais da família."
+      },
+      {
+       "id": "CIV-052",
+       "texto": "Princípios constitucionais aplicáveis às relações familiares."
+      },
+      {
+       "id": "CIV-053",
+       "texto": "Planejamento familiar."
+      },
+      {
+       "id": "CIV-054",
+       "texto": "Violência doméstica."
+      }
+     ]
+    },
+    {
+     "ordem": 19,
+     "rotulo": "16",
+     "frases": [
+      {
+       "id": "CIV-055",
+       "texto": "Esponsais."
+      },
+      {
+       "id": "CIV-056",
+       "texto": "Casamento heteroafetivo e homoafetivo: capacidade, impedimentos, causas suspensivas, habilitação, celebração, eficácia, direitos e deveres."
+      },
+      {
+       "id": "CIV-057",
+       "texto": "Invalidade do casamento, separação e divórcio."
+      },
+      {
+       "id": "CIV-058",
+       "texto": "Direito patrimonial."
+      },
+      {
+       "id": "CIV-059",
+       "texto": "Regime de bens: espécies."
+      },
+      {
+       "id": "CIV-060",
+       "texto": "Pacto antenupcial."
+      },
+      {
+       "id": "CIV-061",
+       "texto": "Meação e sucessão do cônjuge."
+      },
+      {
+       "id": "CIV-062",
+       "texto": "Usufruto e administração de bens de filhos incapazes."
+      },
+      {
+       "id": "CIV-063",
+       "texto": "Bem de família."
+      }
+     ]
+    },
+    {
+     "ordem": 20,
+     "rotulo": "17",
+     "frases": [
+      {
+       "id": "CIV-064",
+       "texto": "Relações de parentesco."
+      },
+      {
+       "id": "CIV-065",
+       "texto": "Vínculos de parentesco."
+      },
+      {
+       "id": "CIV-066",
+       "texto": "Multiparentalidade."
+      },
+      {
+       "id": "CIV-067",
+       "texto": "Homoparentalidade."
+      },
+      {
+       "id": "CIV-068",
+       "texto": "Paternidade e maternidade."
+      },
+      {
+       "id": "CIV-069",
+       "texto": "Filiação."
+      },
+      {
+       "id": "CIV-070",
+       "texto": "Princípios relativos à filiação."
+      },
+      {
+       "id": "CIV-071",
+       "texto": "Espécies de filiação."
+      },
+      {
+       "id": "CIV-072",
+       "texto": "Reconhecimento de filhos."
+      },
+      {
+       "id": "CIV-073",
+       "texto": "Socioafetividade."
+      },
+      {
+       "id": "CIV-074",
+       "texto": "Adoção."
+      }
+     ]
+    },
+    {
+     "ordem": 21,
+     "rotulo": "18",
+     "frases": [
+      {
+       "id": "CIV-075",
+       "texto": "Proteção da pessoa dos filhos."
+      },
+      {
+       "id": "CIV-076",
+       "texto": "Convivência familiar."
+      },
+      {
+       "id": "CIV-077",
+       "texto": "Poder familiar."
+      },
+      {
+       "id": "CIV-078",
+       "texto": "Guarda."
+      },
+      {
+       "id": "CIV-079",
+       "texto": "Direito de visitas."
+      },
+      {
+       "id": "CIV-080",
+       "texto": "Alienação Parental."
+      }
+     ]
+    },
+    {
+     "ordem": 22,
+     "rotulo": "19",
+     "frases": [
+      {
+       "id": "CIV-081",
+       "texto": "União estável heteorafetiva e homoafetiva."
+      },
+      {
+       "id": "CIV-082",
+       "texto": "Aspectos constitucionais."
+      },
+      {
+       "id": "CIV-083",
+       "texto": "Características, estado, impedimentos, direitos, deveres e efeitos patrimoniais."
+      },
+      {
+       "id": "CIV-084",
+       "texto": "Regime de bens, meação e sucessão do companheiro."
+      },
+      {
+       "id": "CIV-085",
+       "texto": "Uniões estáveis concomitantes."
+      },
+      {
+       "id": "CIV-086",
+       "texto": "Concubinato."
+      }
+     ]
+    },
+    {
+     "ordem": 23,
+     "rotulo": "20",
+     "frases": [
+      {
+       "id": "CIV-087",
+       "texto": "Alimentos."
+      },
+      {
+       "id": "CIV-088",
+       "texto": "Princípios informativos do direito alimentar."
+      },
+      {
+       "id": "CIV-089",
+       "texto": "Conceito."
+      },
+      {
+       "id": "CIV-090",
+       "texto": "Natureza."
+      },
+      {
+       "id": "CIV-091",
+       "texto": "Classificação dos alimentos."
+      },
+      {
+       "id": "CIV-092",
+       "texto": "Características do direito alimentar."
+      },
+      {
+       "id": "CIV-093",
+       "texto": "Características da obrigação alimentar."
+      },
+      {
+       "id": "CIV-094",
+       "texto": "Origens e sujeitos das obrigações alimentares."
+      },
+      {
+       "id": "CIV-095",
+       "texto": "Alimentos Gravídicos."
+      },
+      {
+       "id": "CIV-096",
+       "texto": "Tutela, curatela e tomada de decisão apoiada."
+      }
+     ]
+    },
+    {
+     "ordem": 24,
+     "rotulo": "21",
+     "frases": [
+      {
+       "id": "CIV-097",
+       "texto": "Sucessão."
+      },
+      {
+       "id": "CIV-098",
+       "texto": "Disposições gerais."
+      },
+      {
+       "id": "CIV-099",
+       "texto": "Herança."
+      },
+      {
+       "id": "CIV-100",
+       "texto": "Vocação hereditária."
+      },
+      {
+       "id": "CIV-101",
+       "texto": "Aceitação e renúncia."
+      },
+      {
+       "id": "CIV-102",
+       "texto": "Exclusão da sucessão."
+      },
+      {
+       "id": "CIV-103",
+       "texto": "Herança jacente."
+      },
+      {
+       "id": "CIV-104",
+       "texto": "Herança vacante."
+      },
+      {
+       "id": "CIV-105",
+       "texto": "Sucessão legítima e sucessão testamentária."
+      },
+      {
+       "id": "CIV-106",
+       "texto": "Inventário e partilha."
+      },
+      {
+       "id": "CIV-107",
+       "texto": "Arrolamentos."
+      },
+      {
+       "id": "CIV-108",
+       "texto": "Alvarás judiciais."
+      },
+      {
+       "id": "CIV-109",
+       "texto": "Partilha de bens e direitos."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "ADM",
+   "disciplina_banco": "Direito Administrativo",
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "avisos": [],
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "ADM-001",
+       "texto": "Direito administrativo."
+      },
+      {
+       "id": "ADM-002",
+       "texto": "Conceito."
+      },
+      {
+       "id": "ADM-003",
+       "texto": "Objeto."
+      },
+      {
+       "id": "ADM-004",
+       "texto": "Fontes."
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "ADM-005",
+       "texto": "Administração pública."
+      },
+      {
+       "id": "ADM-006",
+       "texto": "Conceito, organização e modelos."
+      },
+      {
+       "id": "ADM-007",
+       "texto": "Regime jurídico administrativo."
+      },
+      {
+       "id": "ADM-008",
+       "texto": "Princípios expressos e reconhecidos."
+      },
+      {
+       "id": "ADM-009",
+       "texto": "Poderes da Administração Pública."
+      },
+      {
+       "id": "ADM-010",
+       "texto": "Poderes e deveres dos administradores públicos."
+      },
+      {
+       "id": "ADM-011",
+       "texto": "Uso e abuso do poder."
+      },
+      {
+       "id": "ADM-012",
+       "texto": "Controle da Administração Pública no Brasil."
+      },
+      {
+       "id": "ADM-013",
+       "texto": "Transparência e acesso à informação no Poder Público."
+      },
+      {
+       "id": "ADM-014",
+       "texto": "Órgãos públicos."
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "ADM-015",
+       "texto": "Administração Direta e Indireta."
+      },
+      {
+       "id": "ADM-016",
+       "texto": "Aspectos gerais da Administração Direta."
+      },
+      {
+       "id": "ADM-017",
+       "texto": "Autarquias."
+      },
+      {
+       "id": "ADM-018",
+       "texto": "Empresas públicas e sociedades de economia mista."
+      },
+      {
+       "id": "ADM-019",
+       "texto": "Fundações públicas."
+      },
+      {
+       "id": "ADM-020",
+       "texto": "Pessoas jurídicas vinculadas ao Estado."
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "ADM-021",
+       "texto": "Ato administrativo."
+      },
+      {
+       "id": "ADM-022",
+       "texto": "Conceito, características e atributos."
+      },
+      {
+       "id": "ADM-023",
+       "texto": "Elementos e requisitos de validade."
+      },
+      {
+       "id": "ADM-024",
+       "texto": "Classificação e espécies."
+      },
+      {
+       "id": "ADM-025",
+       "texto": "Formação e efeitos."
+      },
+      {
+       "id": "ADM-026",
+       "texto": "Extinção, revogação, invalidação e convalidação."
+      },
+      {
+       "id": "ADM-027",
+       "texto": "Procedimento administrativo."
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "ADM-028",
+       "texto": "Licitação."
+      },
+      {
+       "id": "ADM-029",
+       "texto": "Conceito, natureza jurídica, objeto e finalidade."
+      },
+      {
+       "id": "ADM-030",
+       "texto": "Princípios básicos e correlatos."
+      },
+      {
+       "id": "ADM-031",
+       "texto": "Modalidades."
+      },
+      {
+       "id": "ADM-032",
+       "texto": "Obrigatoriedade, dispensa e inexigibilidade."
+      },
+      {
+       "id": "ADM-033",
+       "texto": "Procedimento licitatório."
+      },
+      {
+       "id": "ADM-034",
+       "texto": "Anulação, revogação e recursos administrativos."
+      },
+      {
+       "id": "ADM-035",
+       "texto": "Procedimentos voltados ao processo administrativo sancionatório previsto na Lei Federal n. 8.666/93."
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "ADM-036",
+       "texto": "Contrato administrativo."
+      },
+      {
+       "id": "ADM-037",
+       "texto": "Conceito, principais características e espécies."
+      },
+      {
+       "id": "ADM-038",
+       "texto": "Formalização, execução e inexecução."
+      },
+      {
+       "id": "ADM-039",
+       "texto": "Duração, prorrogação, renovação e extinção."
+      },
+      {
+       "id": "ADM-040",
+       "texto": "Revisão e rescisão."
+      },
+      {
+       "id": "ADM-041",
+       "texto": "Convênios e consórcios."
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "ADM-042",
+       "texto": "Serviços públicos."
+      },
+      {
+       "id": "ADM-043",
+       "texto": "Conceito, características e classificação."
+      },
+      {
+       "id": "ADM-044",
+       "texto": "Competência, regulamentação e controle."
+      },
+      {
+       "id": "ADM-045",
+       "texto": "Princípios."
+      },
+      {
+       "id": "ADM-046",
+       "texto": "Direitos e deveres dos usuários."
+      },
+      {
+       "id": "ADM-047",
+       "texto": "Atendimento Especializado ao Público no âmbito da Defensoria Pública."
+      },
+      {
+       "id": "ADM-048",
+       "texto": "Formas de prestação e remuneração."
+      },
+      {
+       "id": "ADM-049",
+       "texto": "Concessão, permissão, autorização e parceria público-privada."
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "ADM-050",
+       "texto": "Bens públicos."
+      },
+      {
+       "id": "ADM-051",
+       "texto": "Conceito, elementos e classificação."
+      },
+      {
+       "id": "ADM-052",
+       "texto": "Aquisição e espécies."
+      },
+      {
+       "id": "ADM-053",
+       "texto": "Utilização e regime jurídico."
+      },
+      {
+       "id": "ADM-054",
+       "texto": "Afetação e desafetação."
+      },
+      {
+       "id": "ADM-055",
+       "texto": "Gestão e alienação."
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "ADM-056",
+       "texto": "Agentes públicos."
+      },
+      {
+       "id": "ADM-057",
+       "texto": "Conceito e classificação."
+      },
+      {
+       "id": "ADM-058",
+       "texto": "Organização e regime jurídico funcional."
+      },
+      {
+       "id": "ADM-059",
+       "texto": "Atribuições administrativas das Defensorias Públicas Regionais da Capital, da Região Metropolitana e do Interior; atividade de gestão pública de incumbência do Defensor Público do Estado Coordenador."
+      },
+      {
+       "id": "ADM-060",
+       "texto": "Regime previdenciário."
+      },
+      {
+       "id": "ADM-061",
+       "texto": "Responsabilidade administrativa, civil e criminal."
+      }
+     ]
+    },
+    {
+     "ordem": 10,
+     "rotulo": "10",
+     "frases": [
+      {
+       "id": "ADM-062",
+       "texto": "Responsabilidade patrimonial extracontratual do Estado."
+      },
+      {
+       "id": "ADM-063",
+       "texto": "Noções gerais sobre a responsabilidade extracontratual do Estado."
+      },
+      {
+       "id": "ADM-064",
+       "texto": "Teorias sobre a responsabilidade e a irresponsabilidade do Estado."
+      },
+      {
+       "id": "ADM-065",
+       "texto": "Responsabilidade por atos administrativos, legislativos e judiciais."
+      },
+      {
+       "id": "ADM-066",
+       "texto": "Reparação do dano e direito de regresso."
+      }
+     ]
+    },
+    {
+     "ordem": 11,
+     "rotulo": "11",
+     "frases": [
+      {
+       "id": "ADM-067",
+       "texto": "Intervenção do Estado na propriedade."
+      },
+      {
+       "id": "ADM-068",
+       "texto": "Fundamentos, competência e controle judicial."
+      },
+      {
+       "id": "ADM-069",
+       "texto": "Desapropriação."
+      },
+      {
+       "id": "ADM-070",
+       "texto": "Servidão administrativa."
+      },
+      {
+       "id": "ADM-071",
+       "texto": "Requisição."
+      },
+      {
+       "id": "ADM-072",
+       "texto": "Ocupação temporária."
+      },
+      {
+       "id": "ADM-073",
+       "texto": "Limitações administrativas."
+      },
+      {
+       "id": "ADM-074",
+       "texto": "Tombamento."
+      }
+     ]
+    },
+    {
+     "ordem": 12,
+     "rotulo": "12",
+     "frases": [
+      {
+       "id": "ADM-075",
+       "texto": "Atuação do Estado no domínio econômico."
+      },
+      {
+       "id": "ADM-076",
+       "texto": "Liberalismo econômico e o intervencionismo."
+      },
+      {
+       "id": "ADM-077",
+       "texto": "Fundamentos da ordem econômica."
+      },
+      {
+       "id": "ADM-078",
+       "texto": "Formas de atuação do Estado."
+      },
+      {
+       "id": "ADM-079",
+       "texto": "Estado regulador e executor."
+      },
+      {
+       "id": "ADM-080",
+       "texto": "Monopólio estatal."
+      }
+     ]
+    },
+    {
+     "ordem": 13,
+     "rotulo": "13",
+     "frases": [
+      {
+       "id": "ADM-081",
+       "texto": "Controle da Administração Pública."
+      },
+      {
+       "id": "ADM-082",
+       "texto": "Controle político e administrativo."
+      },
+      {
+       "id": "ADM-083",
+       "texto": "Conceito, fundamentos, natureza jurídica, objetivo e classificação."
+      },
+      {
+       "id": "ADM-084",
+       "texto": "Controle legislativo e Tribunal de Contas."
+      },
+      {
+       "id": "ADM-085",
+       "texto": "Súmulas vinculantes e demais instrumentos de controle judicial."
+      },
+      {
+       "id": "ADM-086",
+       "texto": "Improbidade administrativa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "PPEN",
+   "disciplina_banco": "Direito Processual Penal",
+   "titulo_no_edital": "DIREITO PROCESSUAL PENAL",
+   "avisos": [],
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "PPEN-001",
+       "texto": "Princípios que regem o processo penal."
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "PPEN-002",
+       "texto": "Direitos e garantias aplicáveis ao processo penal na Constituição Federal."
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "PPEN-003",
+       "texto": "Direitos e garantias aplicáveis ao processo penal nos tratados e convenções internacionais ratificados pelo Brasil."
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "PPEN-004",
+       "texto": "Conceito e características do devido processo penal."
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "PPEN-005",
+       "texto": "Conceito e características do processo penal inquisitório e acusatório."
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "PPEN-006",
+       "texto": "Fontes do processo penal."
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "PPEN-007",
+       "texto": "Lei processual penal no tempo e no espaço."
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "PPEN-008",
+       "texto": "Interpretação da lei processual penal."
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "PPEN-009",
+       "texto": "Sistemas de investigação preliminar."
+      },
+      {
+       "id": "PPEN-010",
+       "texto": "Inquérito policial."
+      },
+      {
+       "id": "PPEN-011",
+       "texto": "Identificação criminal."
+      }
+     ]
+    },
+    {
+     "ordem": 10,
+     "rotulo": "10",
+     "frases": [
+      {
+       "id": "PPEN-012",
+       "texto": "Meios de obtenção de prova na persecução criminal."
+      },
+      {
+       "id": "PPEN-013",
+       "texto": "Busca e apreensão."
+      },
+      {
+       "id": "PPEN-014",
+       "texto": "Interceptação telefônica."
+      },
+      {
+       "id": "PPEN-015",
+       "texto": "Quebra de sigilo telefônico, bancário e fiscal."
+      },
+      {
+       "id": "PPEN-016",
+       "texto": "Delação premiada."
+      }
+     ]
+    },
+    {
+     "ordem": 11,
+     "rotulo": "11",
+     "frases": [
+      {
+       "id": "PPEN-017",
+       "texto": "Ação penal de iniciativa pública e privada."
+      },
+      {
+       "id": "PPEN-018",
+       "texto": "Condições da ação."
+      }
+     ]
+    },
+    {
+     "ordem": 12,
+     "rotulo": "12",
+     "frases": [
+      {
+       "id": "PPEN-019",
+       "texto": "Denúncia e Queixa-crime."
+      },
+      {
+       "id": "PPEN-020",
+       "texto": "Garantias do processo penal."
+      }
+     ]
+    },
+    {
+     "ordem": 13,
+     "rotulo": "13",
+     "frases": [
+      {
+       "id": "PPEN-021",
+       "texto": "Ação civil ex delicto."
+      }
+     ]
+    },
+    {
+     "ordem": 14,
+     "rotulo": "14",
+     "frases": [
+      {
+       "id": "PPEN-022",
+       "texto": "O papel da vítima no processo penal."
+      }
+     ]
+    },
+    {
+     "ordem": 15,
+     "rotulo": "15",
+     "frases": [
+      {
+       "id": "PPEN-023",
+       "texto": "Jurisdição e competência."
+      }
+     ]
+    },
+    {
+     "ordem": 16,
+     "rotulo": "16",
+     "frases": [
+      {
+       "id": "PPEN-024",
+       "texto": "Sujeitos processuais."
+      }
+     ]
+    },
+    {
+     "ordem": 17,
+     "rotulo": "17",
+     "frases": [
+      {
+       "id": "PPEN-025",
+       "texto": "O direito de defesa."
+      },
+      {
+       "id": "PPEN-026",
+       "texto": "Autodefesa e defesa técnica."
+      }
+     ]
+    },
+    {
+     "ordem": 18,
+     "rotulo": "18",
+     "frases": [
+      {
+       "id": "PPEN-027",
+       "texto": "Interrogatório."
+      }
+     ]
+    },
+    {
+     "ordem": 19,
+     "rotulo": "19",
+     "frases": [
+      {
+       "id": "PPEN-028",
+       "texto": "Questões e processos incidentes."
+      }
+     ]
+    },
+    {
+     "ordem": 20,
+     "rotulo": "20",
+     "frases": [
+      {
+       "id": "PPEN-029",
+       "texto": "Prova."
+      },
+      {
+       "id": "PPEN-030",
+       "texto": "Ônus da prova."
+      },
+      {
+       "id": "PPEN-031",
+       "texto": "Procedimento probatório."
+      },
+      {
+       "id": "PPEN-032",
+       "texto": "Garantias aplicáveis à proposição, produção e valoração da prova."
+      },
+      {
+       "id": "PPEN-033",
+       "texto": "Meios de prova."
+      }
+     ]
+    },
+    {
+     "ordem": 21,
+     "rotulo": "21",
+     "frases": [
+      {
+       "id": "PPEN-034",
+       "texto": "Indícios no processo penal."
+      }
+     ]
+    },
+    {
+     "ordem": 22,
+     "rotulo": "22",
+     "frases": [
+      {
+       "id": "PPEN-035",
+       "texto": "Prisão em flagrante."
+      },
+      {
+       "id": "PPEN-036",
+       "texto": "Prisão preventiva."
+      },
+      {
+       "id": "PPEN-037",
+       "texto": "Prisão temporária."
+      },
+      {
+       "id": "PPEN-038",
+       "texto": "Prisão domiciliar."
+      },
+      {
+       "id": "PPEN-039",
+       "texto": "Relaxamento e liberdade provisória."
+      },
+      {
+       "id": "PPEN-040",
+       "texto": "Medidas cautelares diversas da prisão."
+      },
+      {
+       "id": "PPEN-041",
+       "texto": "A implantação das audiências de custódia."
+      }
+     ]
+    },
+    {
+     "ordem": 23,
+     "rotulo": "23",
+     "frases": [
+      {
+       "id": "PPEN-042",
+       "texto": "Medidas assecuratórias."
+      }
+     ]
+    },
+    {
+     "ordem": 24,
+     "rotulo": "24",
+     "frases": [
+      {
+       "id": "PPEN-043",
+       "texto": "Citação, notificação e intimação."
+      }
+     ]
+    },
+    {
+     "ordem": 25,
+     "rotulo": "25",
+     "frases": [
+      {
+       "id": "PPEN-044",
+       "texto": "Revelia e suspensão condicional do processo."
+      }
+     ]
+    },
+    {
+     "ordem": 26,
+     "rotulo": "26",
+     "frases": [
+      {
+       "id": "PPEN-045",
+       "texto": "Aplicação provisória de interdições e medida de segurança."
+      }
+     ]
+    },
+    {
+     "ordem": 27,
+     "rotulo": "27",
+     "frases": [
+      {
+       "id": "PPEN-046",
+       "texto": "Sentença penal, motivação das decisões e coisa julgada."
+      }
+     ]
+    },
+    {
+     "ordem": 28,
+     "rotulo": "28",
+     "frases": [
+      {
+       "id": "PPEN-047",
+       "texto": "Emendatio libelli e mutatio libelli."
+      }
+     ]
+    },
+    {
+     "ordem": 29,
+     "rotulo": "29",
+     "frases": [
+      {
+       "id": "PPEN-048",
+       "texto": "Processo e procedimento."
+      },
+      {
+       "id": "PPEN-049",
+       "texto": "Pressupostos processuais."
+      },
+      {
+       "id": "PPEN-050",
+       "texto": "Procedimento comum e especial."
+      }
+     ]
+    },
+    {
+     "ordem": 30,
+     "rotulo": "30",
+     "frases": [
+      {
+       "id": "PPEN-051",
+       "texto": "Rito ordinário."
+      },
+      {
+       "id": "PPEN-052",
+       "texto": "Rito sumário."
+      },
+      {
+       "id": "PPEN-053",
+       "texto": "Rito sumaríssimo."
+      }
+     ]
+    },
+    {
+     "ordem": 31,
+     "rotulo": "31",
+     "frases": [
+      {
+       "id": "PPEN-054",
+       "texto": "Juizados Especiais Criminais."
+      }
+     ]
+    },
+    {
+     "ordem": 32,
+     "rotulo": "32",
+     "frases": [
+      {
+       "id": "PPEN-055",
+       "texto": "Procedimento relativo ao Tribunal do Júri."
+      }
+     ]
+    },
+    {
+     "ordem": 33,
+     "rotulo": "33",
+     "frases": [
+      {
+       "id": "PPEN-056",
+       "texto": "Procedimentos especiais."
+      }
+     ]
+    },
+    {
+     "ordem": 34,
+     "rotulo": "34",
+     "frases": [
+      {
+       "id": "PPEN-057",
+       "texto": "Nulidades."
+      }
+     ]
+    },
+    {
+     "ordem": 35,
+     "rotulo": "35",
+     "frases": [
+      {
+       "id": "PPEN-058",
+       "texto": "Recursos."
+      }
+     ]
+    },
+    {
+     "ordem": 36,
+     "rotulo": "36",
+     "frases": [
+      {
+       "id": "PPEN-059",
+       "texto": "Ações de impugnação."
+      },
+      {
+       "id": "PPEN-060",
+       "texto": "Revisão criminal."
+      },
+      {
+       "id": "PPEN-061",
+       "texto": "Habeas corpus."
+      },
+      {
+       "id": "PPEN-062",
+       "texto": "Mandado de segurança contra ato jurisdicional penal."
+      }
+     ]
+    },
+    {
+     "ordem": 37,
+     "rotulo": "37",
+     "frases": [
+      {
+       "id": "PPEN-063",
+       "texto": "Execução penal."
+      },
+      {
+       "id": "PPEN-064",
+       "texto": "Legislação federal e legislação estadual pertinente."
+      }
+     ]
+    },
+    {
+     "ordem": 38,
+     "rotulo": "38",
+     "frases": [
+      {
+       "id": "PPEN-065",
+       "texto": "Aspectos processuais da legislação penal especial: abuso de autoridade; crimes hediondos; organização criminosa; tortura; crimes de menor potencial ofensivo; proteção a vítimas e a testemunhas; desarmamento; lei de drogas; violência doméstica e familiar contra a mulher; trânsito; meio ambiente; crimes de preconceito; crimes contra as relações de consumo; estatuto do idoso."
+      }
+     ]
+    },
+    {
+     "ordem": 39,
+     "rotulo": "39",
+     "frases": [
+      {
+       "id": "PPEN-066",
+       "texto": "Prerrogativas e garantias dos defensores públicos relacionadas com o processo penal."
+      }
+     ]
+    },
+    {
+     "ordem": 40,
+     "rotulo": "40",
+     "frases": [
+      {
+       "id": "PPEN-067",
+       "texto": "Assistência jurídica integral e gratuita: aspectos processuais."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "PENAL",
+   "disciplina_banco": "Direito Penal",
+   "titulo_no_edital": "DIREITO PENAL",
+   "avisos": [],
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "PENAL-001",
+       "texto": "Direito penal: conceito, fontes, objetivos."
+      },
+      {
+       "id": "PENAL-002",
+       "texto": "Princípios penais."
+      },
+      {
+       "id": "PENAL-003",
+       "texto": "Direito penal e poder punitivo."
+      },
+      {
+       "id": "PENAL-004",
+       "texto": "Genealogia do pensamento penal."
+      },
+      {
+       "id": "PENAL-005",
+       "texto": "As escolas penais."
+      },
+      {
+       "id": "PENAL-006",
+       "texto": "Modernas tendências do pensamento penal."
+      },
+      {
+       "id": "PENAL-007",
+       "texto": "Evolução histórica do Direito Penal."
+      },
+      {
+       "id": "PENAL-008",
+       "texto": "História do processo de criminalização no Brasil."
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "PENAL-009",
+       "texto": "Política criminal e penitenciária no Brasil."
+      },
+      {
+       "id": "PENAL-010",
+       "texto": "As escolas criminológicas."
+      },
+      {
+       "id": "PENAL-011",
+       "texto": "Sistema penal e controle social."
+      },
+      {
+       "id": "PENAL-012",
+       "texto": "Processo de criminalização."
+      },
+      {
+       "id": "PENAL-013",
+       "texto": "Vitimologia e vitimização."
+      },
+      {
+       "id": "PENAL-014",
+       "texto": "Polícia e Sistema Penal."
+      },
+      {
+       "id": "PENAL-015",
+       "texto": "O encarceramento no Brasil: dados e perspectivas."
+      },
+      {
+       "id": "PENAL-016",
+       "texto": "O sistema penal brasileiro."
+      },
+      {
+       "id": "PENAL-017",
+       "texto": "Modernas tendências do pensamento criminológico e de política criminal."
+      },
+      {
+       "id": "PENAL-018",
+       "texto": "Mídia e sistema penal."
+      },
+      {
+       "id": "PENAL-019",
+       "texto": "Prisão: prisonização e relações de poder penitenciárias."
+      },
+      {
+       "id": "PENAL-020",
+       "texto": "Análises criminológicas concretas."
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "PENAL-021",
+       "texto": "Constituição e Direito Penal."
+      },
+      {
+       "id": "PENAL-022",
+       "texto": "O Direito Penal e o Estado Democrático de Direito."
+      },
+      {
+       "id": "PENAL-023",
+       "texto": "Direito Penal e Direitos Humanos."
+      },
+      {
+       "id": "PENAL-024",
+       "texto": "Direitos humanos e processo de criminalização."
+      },
+      {
+       "id": "PENAL-025",
+       "texto": "Aplicação e interpretação da lei penal."
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "PENAL-026",
+       "texto": "Teoria do delito: evolução histórica, elementos do crime."
+      },
+      {
+       "id": "PENAL-027",
+       "texto": "Bem jurídico-penal."
+      },
+      {
+       "id": "PENAL-028",
+       "texto": "Modernas tendências da teoria do delito."
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "PENAL-029",
+       "texto": "Tipicidade: tipo penal, conduta (ação e omissão), nexo de causalidade, resultado."
+      },
+      {
+       "id": "PENAL-030",
+       "texto": "Iter criminis."
+      },
+      {
+       "id": "PENAL-031",
+       "texto": "Desistência voluntária e arrependimento eficaz."
+      },
+      {
+       "id": "PENAL-032",
+       "texto": "Dolo."
+      },
+      {
+       "id": "PENAL-033",
+       "texto": "Culpa."
+      },
+      {
+       "id": "PENAL-034",
+       "texto": "Imputação objetiva."
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "PENAL-035",
+       "texto": "Ilicitude: conceito."
+      },
+      {
+       "id": "PENAL-036",
+       "texto": "O injusto penal."
+      },
+      {
+       "id": "PENAL-037",
+       "texto": "Direito Penal e moral."
+      },
+      {
+       "id": "PENAL-038",
+       "texto": "Excludentes da ilicitude."
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "PENAL-039",
+       "texto": "Culpabilidade: conceito, evolução histórica, estrutura."
+      },
+      {
+       "id": "PENAL-040",
+       "texto": "Princípio da culpabilidade."
+      },
+      {
+       "id": "PENAL-041",
+       "texto": "Culpabilidade e liberdade."
+      },
+      {
+       "id": "PENAL-042",
+       "texto": "Culpabilidade e periculosidade."
+      },
+      {
+       "id": "PENAL-043",
+       "texto": "Culpabilidade e vulnerabilidade."
+      },
+      {
+       "id": "PENAL-044",
+       "texto": "Direito Penal do fato e Direito Penal do autor."
+      },
+      {
+       "id": "PENAL-045",
+       "texto": "Imputabilidade."
+      },
+      {
+       "id": "PENAL-046",
+       "texto": "Inexigibilidade de conduta diversa."
+      },
+      {
+       "id": "PENAL-047",
+       "texto": "Excludentes da culpabilidade."
+      }
+     ]
+    },
+    {
+     "ordem": 8,
+     "rotulo": "8",
+     "frases": [
+      {
+       "id": "PENAL-048",
+       "texto": "Arrependimento posterior."
+      },
+      {
+       "id": "PENAL-049",
+       "texto": "Crime impossível."
+      },
+      {
+       "id": "PENAL-050",
+       "texto": "Concurso de agentes."
+      },
+      {
+       "id": "PENAL-051",
+       "texto": "Erro no Direito Penal."
+      },
+      {
+       "id": "PENAL-052",
+       "texto": "Punibilidade."
+      },
+      {
+       "id": "PENAL-053",
+       "texto": "Concurso de crimes."
+      }
+     ]
+    },
+    {
+     "ordem": 9,
+     "rotulo": "9",
+     "frases": [
+      {
+       "id": "PENAL-054",
+       "texto": "Pena: evolução histórica, espécies, aplicação."
+      },
+      {
+       "id": "PENAL-055",
+       "texto": "Teorias da pena."
+      },
+      {
+       "id": "PENAL-056",
+       "texto": "Modernas tendências das teorias da pena."
+      },
+      {
+       "id": "PENAL-057",
+       "texto": "Circunstâncias Judiciais."
+      },
+      {
+       "id": "PENAL-058",
+       "texto": "Agravantes e Atenuantes."
+      },
+      {
+       "id": "PENAL-059",
+       "texto": "Causas de Aumento e de Diminuição."
+      },
+      {
+       "id": "PENAL-060",
+       "texto": "Cálculo da Pena."
+      },
+      {
+       "id": "PENAL-061",
+       "texto": "Extinção da punibilidade."
+      },
+      {
+       "id": "PENAL-062",
+       "texto": "Suspensão condicional da pena."
+      },
+      {
+       "id": "PENAL-063",
+       "texto": "Reabilitação."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "ECA",
+   "disciplina_banco": "Direito da Criança e do Adolescente",
+   "titulo_no_edital": "DIREITO DA CRIANCA E DO ADOLESCENTE, DO IDOSO, DA PESSOA COM DEFICIENCIA E DA MULHER",
+   "avisos": [],
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": null,
+     "frases": [
+      {
+       "id": "ECA-001",
+       "texto": "Criança e Adolescente."
+      },
+      {
+       "id": "ECA-002",
+       "texto": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990)."
+      },
+      {
+       "id": "ECA-003",
+       "texto": "Lei do Sinase (Lei nº 12.594/1912)."
+      },
+      {
+       "id": "ECA-004",
+       "texto": "Sistema de garantia de direitos da criança e do adolescente vítima ou testemunha de violência (Lei nº 13.431/2017)."
+      },
+      {
+       "id": "ECA-005",
+       "texto": "Idoso."
+      },
+      {
+       "id": "ECA-006",
+       "texto": "Política Nacional do Idoso."
+      },
+      {
+       "id": "ECA-007",
+       "texto": "Estatuto do Idoso."
+      },
+      {
+       "id": "ECA-008",
+       "texto": "Lei nº 10.741, de 1º de outubro de 2003."
+      },
+      {
+       "id": "ECA-009",
+       "texto": "Legislação e princípios institucionais da Defensoria Pública aplicáveis ao direito do idoso."
+      },
+      {
+       "id": "ECA-010",
+       "texto": "Legislação estadual de proteção ao idoso."
+      },
+      {
+       "id": "ECA-011",
+       "texto": "Pessoa com deficiência."
+      },
+      {
+       "id": "ECA-012",
+       "texto": "Convenção dos direitos das pessoas com deficiência e Lei Federal nº 7.853, de 24 de outubro de 1989."
+      },
+      {
+       "id": "ECA-013",
+       "texto": "Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015)."
+      },
+      {
+       "id": "ECA-014",
+       "texto": "Inclusão social."
+      },
+      {
+       "id": "ECA-015",
+       "texto": "Saúde Pública."
+      },
+      {
+       "id": "ECA-016",
+       "texto": "Assistência Social."
+      },
+      {
+       "id": "ECA-017",
+       "texto": "Educação."
+      },
+      {
+       "id": "ECA-018",
+       "texto": "Serviços de relevância pública."
+      },
+      {
+       "id": "ECA-019",
+       "texto": "Acessibilidade."
+      },
+      {
+       "id": "ECA-020",
+       "texto": "Pessoas portadoras de transtornos mentais."
+      },
+      {
+       "id": "ECA-021",
+       "texto": "Mulher."
+      },
+      {
+       "id": "ECA-022",
+       "texto": "Lei Maria da Penha (Lei nº 11.340/2006)."
+      },
+      {
+       "id": "ECA-023",
+       "texto": "Gênero; violência de gênero; violência contra as mulheres."
+      },
+      {
+       "id": "ECA-024",
+       "texto": "Formas de violência doméstica e familiar contra a mulher."
+      },
+      {
+       "id": "ECA-025",
+       "texto": "Medidas protetivas às vítimas de violência doméstica e familiar."
+      },
+      {
+       "id": "ECA-026",
+       "texto": "Atendimento obrigatório e integral de pessoas em situação de violência sexual (Lei nº 12.845/2013)."
+      },
+      {
+       "id": "ECA-027",
+       "texto": "Violência Obstétrica."
+      },
+      {
+       "id": "ECA-028",
+       "texto": "Diretrizes Nacionais para o Abrigamento de Mulheres em Situação de Risco e de Violência."
+      },
+      {
+       "id": "ECA-029",
+       "texto": "Rede de Enfrentamento à Violência contra as Mulheres e Rede de Atendimento à Mulher em Situação de Violência."
+      },
+      {
+       "id": "ECA-030",
+       "texto": "Política Nacional de Enfrentamento à Violência contra as Mulheres."
+      },
+      {
+       "id": "ECA-031",
+       "texto": "ASSISTENTE TÉCNICO DE DEFENSORIA – ESPECIALIDADE ASSISTENTE TÉCNICO ADMINISTRATIVO – B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "CONST",
+   "disciplina_banco": "Direito Constitucional",
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "avisos": [],
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": "1",
+     "frases": [
+      {
+       "id": "CONST-001",
+       "texto": "Direitos e garantias fundamentais: direitos e deveres individuais e coletivos; direito à vida, à liberdade, à igualdade, à segurança e à propriedade; direitos sociais; nacionalidade; cidadania e direitos políticos; partidos políticos; garantias constitucionais individuais; garantias dos direitos coletivos, sociais e políticos."
+      }
+     ]
+    },
+    {
+     "ordem": 2,
+     "rotulo": "2",
+     "frases": [
+      {
+       "id": "CONST-002",
+       "texto": "Poder Legislativo: fundamento, atribuições e garantias de independência."
+      }
+     ]
+    },
+    {
+     "ordem": 3,
+     "rotulo": "3",
+     "frases": [
+      {
+       "id": "CONST-003",
+       "texto": "Poder Executivo: forma e sistema de governo; chefia de Estado e chefia de governo; atribuições e responsabilidades do presidente da República."
+      }
+     ]
+    },
+    {
+     "ordem": 4,
+     "rotulo": "4",
+     "frases": [
+      {
+       "id": "CONST-004",
+       "texto": "Ordem social: base e objetivos da ordem social; seguridade social; educação, cultura e desporto; ciência e tecnologia; comunicação social; meio ambiente; família, criança, adolescente e idoso."
+      }
+     ]
+    },
+    {
+     "ordem": 5,
+     "rotulo": "5",
+     "frases": [
+      {
+       "id": "CONST-005",
+       "texto": "Poder Judiciário: disposições gerais, tribunais superiores, Supremo Tribunal Federal, tribunais e juízes eleitorais."
+      }
+     ]
+    },
+    {
+     "ordem": 6,
+     "rotulo": "6",
+     "frases": [
+      {
+       "id": "CONST-006",
+       "texto": "Das funções essenciais à Justiça – Da Defensoria Pública."
+      }
+     ]
+    },
+    {
+     "ordem": 7,
+     "rotulo": "7",
+     "frases": [
+      {
+       "id": "CONST-007",
+       "texto": "Ato das Disposições Constitucionais Transitórias."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "LP",
+   "disciplina_banco": "Língua Portuguesa",
+   "titulo_no_edital": "LÍNGUA PORTUGUESA",
+   "avisos": [],
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": null,
+     "frases": [
+      {
+       "id": "LP-001",
+       "texto": "Domínio da ortografia oficial."
+      },
+      {
+       "id": "LP-002",
+       "texto": "Emprego da acentuação gráfica."
+      },
+      {
+       "id": "LP-003",
+       "texto": "Emprego dos sinais de pontuação."
+      },
+      {
+       "id": "LP-004",
+       "texto": "Flexão nominal e verbal."
+      },
+      {
+       "id": "LP-005",
+       "texto": "Pronomes: emprego, formas de tratamento e colocação."
+      },
+      {
+       "id": "LP-006",
+       "texto": "Domínio dos mecanismos de coesão textual."
+      },
+      {
+       "id": "LP-007",
+       "texto": "Emprego de tempos e modos verbais."
+      },
+      {
+       "id": "LP-008",
+       "texto": "Vozes do verbo."
+      },
+      {
+       "id": "LP-009",
+       "texto": "Concordância nominal e verbal."
+      },
+      {
+       "id": "LP-010",
+       "texto": "Regência nominal e verbal."
+      },
+      {
+       "id": "LP-011",
+       "texto": "Sintaxe."
+      },
+      {
+       "id": "LP-012",
+       "texto": "Redação (confronto e reconhecimento de frases corretas e incorretas)."
+      },
+      {
+       "id": "LP-013",
+       "texto": "Compreensão e interpretação de textos de gêneros variados."
+      },
+      {
+       "id": "LP-014",
+       "texto": "Reconhecimento de tipos e gêneros textuais."
+      },
+      {
+       "id": "LP-015",
+       "texto": "Adequação da linguagem ao tipo de documento."
+      },
+      {
+       "id": "LP-016",
+       "texto": "Adequação do formato do texto ao gênero."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "codigo": "PINST",
+   "disciplina_banco": "Princípios e Atribuições Institucionais da Defensoria",
+   "titulo_no_edital": "CONHECIMENTOS JURÍDICOS E INSTITUCIONAIS",
+   "avisos": [],
+   "itens": [
+    {
+     "ordem": 1,
+     "rotulo": null,
+     "frases": [
+      {
+       "id": "PINST-001",
+       "texto": "Constituição da República: arts."
+      },
+      {
+       "id": "PINST-002",
+       "texto": "1º ao 144."
+      },
+      {
+       "id": "PINST-003",
+       "texto": "Constituição do Estado do Amazonas: arts."
+      },
+      {
+       "id": "PINST-004",
+       "texto": "102 e 103."
+      },
+      {
+       "id": "PINST-005",
+       "texto": "Lei Complementar Federal nº 80/1994, e alterações posteriores, em especial a Lei Complementar 132/2009."
+      },
+      {
+       "id": "PINST-006",
+       "texto": "Lei Complementar nº 01/1990 e alterações posteriores e a Lei nº 4.077/2014."
+      },
+      {
+       "id": "PINST-007",
+       "texto": "Código Penal (Decreto-lei nº 2.848/1940 e suas alterações posteriores): arts."
+      },
+      {
+       "id": "PINST-008",
+       "texto": "312 a 327 (Crimes Praticados Por Funcionários Públicos Contra a Administração em Geral)."
+      },
+      {
+       "id": "PINST-009",
+       "texto": "Lei de Improbidade Administrativa: Lei n."
+      },
+      {
+       "id": "PINST-010",
+       "texto": "8429/1992 - Artigos 1º a 12º (Disposições Gerais; Atos de Improbidade e Penas)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "disciplinas_do_edital": [
+  {
+   "titulo_no_edital": "DAS INSCRICOES",
+   "caracteres": 44032,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "DA PRESTACAO DAS PROVAS",
+   "caracteres": 18503,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "DIREITOS HUMANOS",
+   "caracteres": 6871,
+   "codigo": "DH",
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "DAS DISPOSICOES FINAIS",
+   "caracteres": 6635,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "DOS RECURSOS",
+   "caracteres": 5756,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL CIVIL",
+   "caracteres": 4428,
+   "codigo": "PCIV",
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "DA CLASSIFICACAO FINAL",
+   "caracteres": 3896,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "DO PROVIMENTO DOS CARGOS",
+   "caracteres": 3387,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "DO JULGAMENTO DAS PROVAS OBJETIVAS PARA TODOS OS CARGOS/ESPECIALIDADES",
+   "caracteres": 3343,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "DIREITO CIVIL",
+   "caracteres": 3267,
+   "codigo": "CIV",
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "DIREITO ADMINISTRATIVO",
+   "caracteres": 3163,
+   "codigo": "ADM",
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "DIREITO PROCESSUAL PENAL",
+   "caracteres": 2737,
+   "codigo": "PPEN",
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "DAS DISPOSICOES PRELIMINARES",
+   "caracteres": 2257,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "ASSISTENTE TECNICO DE DEFENSORIA - ASSISTENTE TECNICO ADMINISTRATIVO",
+   "caracteres": 2085,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "DIREITO PENAL",
+   "caracteres": 2043,
+   "codigo": "PENAL",
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "DIREITO DA CRIANCA E DO ADOLESCENTE, DO IDOSO, DA PESSOA COM DEFICIENCIA E DA MULHER",
+   "caracteres": 1503,
+   "codigo": "ECA",
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "DOS REQUISITOS PARA A INVESTIDURA NOS CARGOS/ESPECIALIDADES",
+   "caracteres": 1443,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "NOCOES DE ADMINISTRACAO",
+   "caracteres": 1205,
+   "codigo": null,
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "DIREITO CONSTITUCIONAL",
+   "caracteres": 983,
+   "codigo": "CONST",
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "NOCOES DE DIREITO ADMINISTRATIVO",
+   "caracteres": 974,
+   "codigo": null,
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "NOCOES DE DIREITO CONSTITUCIONAL",
+   "caracteres": 780,
+   "codigo": null,
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "LINGUA PORTUGUESA",
+   "caracteres": 591,
+   "codigo": null,
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "CONHECIMENTOS JURIDICOS E INSTITUCIONAIS",
+   "caracteres": 565,
+   "codigo": null,
+   "no_programa": true
+  },
+  {
+   "titulo_no_edital": "DEFENSORIA PUBLICA DO ESTADO DO AMAZONAS",
+   "caracteres": 480,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "NIVEL SUPERIOR",
+   "caracteres": 462,
+   "codigo": null,
+   "no_programa": false
+  },
+  {
+   "titulo_no_edital": "DOS CARGOS",
+   "caracteres": 361,
+   "codigo": null,
+   "no_programa": false
+  }
+ ]
+}

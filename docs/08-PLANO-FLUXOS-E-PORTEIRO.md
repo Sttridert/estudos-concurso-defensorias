@@ -1,3 +1,5 @@
+> **SUBSTITUÍDO (20/11/2026):** este plano foi absorvido pelos grupos A a F; fica só como histórico. O estado está em `docs/03-PENDENCIAS.md`.
+
 # Plano de fluxos e porteiro (RASCUNHO, não aprovado)
 
 Criado em 16/11/2026 a partir de dois testes de lógica (hipóteses de pedidos do usuário e de insumos que faltam). **Status: rascunho para o usuário aprovar. Nada daqui começa antes da aprovação; cada etapa só começa depois que o usuário vê o resultado da anterior; nenhuma etapa gera nem regera apostila, a menos que o usuário peça.**

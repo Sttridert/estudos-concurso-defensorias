@@ -10,7 +10,8 @@ O que faz:
      (questões classificadas, como principal ou secundário, em pontos tocados pelas frases do bloco, qualquer que seja a disciplina de origem);
   3. com --disciplina: casa o pedido com UM bloco (o nome do edital pode ser diferente do catálogo). Se a disciplina NÃO consta do edital,
      PARA (código de saída 2) e imprime as disciplinas que o edital tem, para o usuário escolher;
-  4. diz o que falta para gerar (artefato, catálogo dos pontos tocados, comentários das questões, perfil confirmado).
+  4. diz o que falta para gerar (artefato, catálogo dos pontos tocados, comentários das questões, perfil confirmado);
+  5. com --perfil: o SEMÁFORO do perfil (bloqueia, avisa, informa; `lib_semaforo`); código de saída 4 se algo bloqueia.
 --universo ID limita as questões ao universo (tabela universos); --perfil ID usa o universo do perfil e confere o perfil.
 Nada é gravado.
 """
@@ -142,6 +143,18 @@ def main():
         orig = ", ".join(f"{nomes[d]} {k}" for d, k in por_disc.most_common())
         print(f"  [{b['sigla']}] {b['titulo']}")
         print(f"      catálogo: {b['catalogo']} | {b['frases']} frases | {len(esc['toca'])} pontos tocados | {n} questões ({orig or 'nenhuma'}) | {sem_com} sem comentário")
+    sem_bloqueio = False
+    if a.perfil:       # semáforo do grupo F (lib_semaforo): bloqueia, avisa, informa
+        import lib_semaforo as S
+        achados = S.verificar(con, S.carregar_perfil(con, a.perfil))
+        print(f"\nSemáforo do perfil {a.perfil}:")
+        for x in achados:
+            print(f"  [{x.nivel}] {x.texto}")
+        if not achados:
+            print("  nada a declarar")
+        sem_bloqueio = any(x.nivel == S.BLOQUEIA for x in achados)
+        if not a.disciplina:
+            sys.exit(4 if sem_bloqueio else 0)
     if not a.disciplina:
         return
     # 3. casar o pedido com um bloco
@@ -193,7 +206,9 @@ def main():
     for f in falta:
         print("  - " + f)
     if not falta:
-        print("  nada: pode gerar (23 e 24 com --edital-artefato).")
+        print("  nada: pode gerar (23 e 24 com --edital-artefato)." if not sem_bloqueio else "  o porteiro do perfil bloqueia (acima): não gerar, ou gerar com --gerar-mesmo-assim \"motivo\".")
+    if sem_bloqueio:
+        sys.exit(4)
 
 
 if __name__ == "__main__":

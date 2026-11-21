@@ -7,7 +7,7 @@ Saidas: banco/analise/<disciplina>_perfil<ID>.json e .md   (nao altera o banco, 
 Regras (Guia 1 + 04-DECISOES-CONFIRMADAS): peso da questao = semelhanca (A,B,C) x recencia 0,5^(idade/meia-vida);
 segundo ponto divide a questao (0,5 cada). Lente em branco = neutro (1). Examinador (lente 5) e lente 10 nao entram aqui.
 """
-import json, math, sqlite3, sys, collections
+import argparse, json, math, sqlite3, sys, collections
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -31,13 +31,13 @@ def wilson(p, n, z=1.96):
 def carregar_perfil(con, pid):
     p = LP.perfil_do_arquivo(con, pid)       # o ARQUIVO perfil.toml da pasta do concurso manda (decisao 46)
     if p is None:
-        sys.exit(f"Perfil {pid} nao existe: nenhum perfil.toml em produtos/apostilas/ tem uma apostila com id = {pid}. "
-                 "Crie com scripts/72_perfil.py (novo-concurso / nova-apostila). A tabela `perfis` do banco foi aposentada (decisao 47).")
+        sys.exit(f"Perfil {pid} não existe: nenhum perfil.toml em produtos/apostilas/ tem uma apostila com id = {pid}. "
+                 "Crie com scripts/72_perfil.py (novo-concurso / nova-apostila). A tabela `perfis` do banco foi aposentada (decisão 47).")
     faltam = [rot for k, rot in (("disciplina_id", "disciplina"), ("cargo", "cargo"), ("banca", "banca"), ("carreira", "carreira")) if not p.get(k)]
     if faltam:
         sys.exit("Perfil incompleto. Faltam: " + ", ".join(faltam) + ". Informe e confirme antes de gerar.")
     if not p["confirmado_pelo_usuario"]:
-        sys.exit(p.get("motivo_nao_confirmado") or "Perfil ainda nao confirmado pelo usuario. Mostre o perfil e peca confirmacao.")
+        sys.exit(p.get("motivo_nao_confirmado") or "Perfil ainda não confirmado pelo usuário. Mostre o perfil e peça confirmação.")
     p["pesos"] = json.loads(p["pesos_grupo"])
     p["avisos_grupo"] = []
     p["orgao_ativo"] = False
@@ -58,7 +58,7 @@ def carregar_universo(con, uid):
     if uid is not None:
         r = con.execute("select id,nome,descricao,filtro from universos where id=?", (uid,)).fetchone()
         if not r:
-            sys.exit(f"Universo {uid} nao existe (veja a tabela universos).")
+            sys.exit(f"Universo {uid} não existe (veja a tabela universos).")
         return {"id": r[0], "nome": r[1], "descricao": r[2], "filtro": json.loads(r[3])}
     return {"id": None, "nome": "Todas as questões", "descricao": "Sem filtro.", "filtro": {}}
 
@@ -205,7 +205,7 @@ def analisar(con, perfil, legado=False, universo=None):
     qs_all, ass, pontos = carregar_questoes(con, perfil, legado)
     qs_all = [q for q in qs_all if em_universo(q, universo["filtro"])]
     if not [q for q in qs_all if q["situacao"] in VALIDAS]:
-        sys.exit(f"O universo «{universo['nome']}» nao tem nenhuma questao valida nesta disciplina. Escolha outro universo.")
+        sys.exit(f"O universo «{universo['nome']}» não tem nenhuma questão válida nesta disciplina. Escolha outro universo.")
     cod_ass = {i: c for i, (c, n) in ass.items()}
     nome_ass = {c: n for _, (c, n) in ass.items()}
     for q in qs_all:
@@ -342,16 +342,21 @@ def comparar(con, perfil):
 
 
 def main():
-    pid = int(sys.argv[sys.argv.index("--perfil") + 1]) if "--perfil" in sys.argv else 1
-    legado = "--legado" in sys.argv
+    ap = argparse.ArgumentParser(description="Motor de análise (Guia 1) de um perfil; grava banco/analise/<disciplina>_perfil<ID>.json e .md (só lê o banco).")
+    ap.add_argument("--perfil", type=int, default=1, help="id do perfil (padrão: 1)")
+    ap.add_argument("--universo", type=int, help="usa outro universo (filtro de quais questões entram) em vez do do perfil")
+    ap.add_argument("--legado", action="store_true", help="reproduz a conta antiga (assunto provisório, sem segundo ponto)")
+    ap.add_argument("--comparar", action="store_true", help="compara todos os universos no mesmo alvo e grava a tabela em banco/analise/")
+    args = ap.parse_args()
+    pid, legado = args.perfil, args.legado
     con = sqlite3.connect(DB)
     perfil = carregar_perfil(con, pid)
-    if "--universo" in sys.argv:
-        perfil["universo"] = carregar_universo(con, int(sys.argv[sys.argv.index("--universo") + 1]))
+    if args.universo is not None:
+        perfil["universo"] = carregar_universo(con, args.universo)
     disc = con.execute("select nome from disciplinas where id=?", (perfil["disciplina_id"],)).fetchone()[0]
     out = BASE / "banco" / "analise"
     out.mkdir(exist_ok=True)
-    if "--comparar" in sys.argv:
+    if args.comparar:
         linhas, md = comparar(con, perfil)
         arq = out / f"{disc.lower().replace(' ', '_')}_perfil{pid}_comparacao_universos.md"
         arq.write_text(md, encoding="utf-8")
@@ -365,7 +370,7 @@ def main():
     (out / f"{stem}.json").write_text(json.dumps(r, ensure_ascii=False, indent=1), encoding="utf-8")
     (out / f"{stem}.md").write_text(para_md(r, disc), encoding="utf-8")
     ra = r["retro_assuntos"]
-    print(f"{stem}: n efetivo {r['n_efetivo']} | validas {r['n_validas']} | retro assuntos temporal {ra['media_temporal']} LOO {ra['media_loo']} acaso {ra['acaso']}")
+    print(f"{stem}: n efetivo {r['n_efetivo']} | válidas {r['n_validas']} | retro assuntos temporal {ra['media_temporal']} LOO {ra['media_loo']} acaso {ra['acaso']}")
     if "retro_pontos" in r:
         rp = r["retro_pontos"]
         print("pontos: temporal", rp["media_temporal"], "LOO", rp["media_loo"], "acaso", rp["acaso"])

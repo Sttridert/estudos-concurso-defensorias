@@ -10,6 +10,7 @@ orgao = "DPE-AM"
 ano_referencia = 2026
 edital_id = 4
 edital_slug = "dpeam2026_analista_juridico"
+editais_anteriores = ["dpeam2023_analista_juridico", "dpeam2022_analista_juridico"]
 meia_vida = 8
 estudo_geral = false
 pesos = { A = 1, B = 0.5, C = 0.25 }

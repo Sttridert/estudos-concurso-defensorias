@@ -166,7 +166,7 @@ def perfil_do_arquivo(con, pid):
          "pesos_grupo": json.dumps(c.get("pesos") or {"A": 1, "B": 0.5, "C": 0.25}), "meia_vida": c.get("meia_vida", 8),
          "estudo_geral": int(bool(c.get("estudo_geral"))), "confirmado_pelo_usuario": int(st in ("confirmada", "sem_base")),
          "confirmado_em": a.get("confirmado_em"), "observacoes": a.get("observacoes"), "universo_id": uid, "bloco_edital": a.get("bloco"),
-         "pasta": arq.parent, "arquivo_perfil": arq, "edital_slug": c.get("edital_slug"),
+         "pasta": arq.parent, "arquivo_perfil": arq, "edital_slug": c.get("edital_slug"), "editais_anteriores": c.get("editais_anteriores") or [],
          "universo_arquivo": {"id": uid, "nome": u.get("nome") or "Todas as questões", "descricao": u.get("descricao") or "", "filtro": u.get("filtro") or {}}}
     if st == "base_alterada":
         p["motivo_nao_confirmado"] = (f"Depois da confirmação de {a['confirmado_em']} mudou {det} usado pelo perfil {pid}. Mostre o perfil ao usuário "
@@ -198,7 +198,7 @@ def escrever(arq, c):
     L = ["# perfil.toml: perfil do concurso (ÚNICA fonte do perfil; a tabela `perfis` do banco foi aposentada). Plano 06, Etapa 2b.",
          "# ATENÇÃO: mudar banca, cargo, órgão, edital, universo, pesos, meia-vida, disciplina ou bloco invalida a confirmação",
          "# (o motor e o gerador recusam). Depois de mostrar ao usuário e ter o \"sim\" dele: scripts/72_perfil.py confirmar.", ""]
-    for k in ("nome", "banca", "carreira", "cargo", "orgao", "ano_referencia", "edital_id", "edital_slug", "meia_vida", "estudo_geral"):
+    for k in ("nome", "banca", "carreira", "cargo", "orgao", "ano_referencia", "edital_id", "edital_slug", "editais_anteriores", "meia_vida", "estudo_geral"):
         if c.get(k) is not None:
             L.append(f"{k} = {_v(c[k])}")
     L.append(f"pesos = {_v(c['pesos'])}")
