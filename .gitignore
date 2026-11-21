@@ -10,3 +10,9 @@ provas/*(edital, sem prova)*/
 
 # Copias automaticas do editor do catalogo (lib_rascunho.salvar)
 dados/catalogo/*.bak
+
+# Só locais (decisão do usuário, 21/11/2026), para o repositório não crescer de novo:
+# cópias de segurança do banco, PDFs das provas e PDFs dos guias (ficam no disco, fora do git)
+banco/backup/
+provas/**/*.pdf
+docs/guias/*.pdf
