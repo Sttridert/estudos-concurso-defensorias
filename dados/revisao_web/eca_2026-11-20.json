@@ -1,0 +1,73 @@
+{
+ "disciplina": "Direito da Criança e do Adolescente (perfil 9): teste do roteiro do grupo E, com verificador independente",
+ "consultado_em": "2026-11-20",
+ "itens": [
+  {
+   "questao": "2025 - DPE-SP - Analista de Defensoria|38",
+   "resultado": "corrigido",
+   "afirmacao": "ECA art. 121, §§ 2º a 4º (sem prazo determinado, reavaliação a cada 6 meses, limite de 3 anos, liberação ou semiliberdade ou liberdade assistida); Lei 12.594/2012, art. 42, § 2º. Verificador independente (sem ver o gabarito nem o comentário) chegou à B.",
+   "fonte": [
+    "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+    "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12594.htm"
+   ],
+   "dispositivos": [
+    "ECA|art. 121, §§ 1º a 4º",
+    "Lei 12.594/2012|art. 42, § 2º",
+    "ECA|art. 147, § 2º"
+   ],
+   "c": "Gabarito B. Conferido no texto oficial: a internação não comporta prazo determinado, com manutenção reavaliada, mediante decisão fundamentada, no máximo a cada seis meses (ECA, art. 121, § 2º); em nenhuma hipótese o período máximo excede três anos (§ 3º); atingido o limite, o adolescente deve ser liberado, colocado em regime de semiliberdade ou de liberdade assistida (§ 4º). Por isso B está certa. C está errada: o art. 42, § 2º, da Lei 12.594/2012 diz que a gravidade do ato infracional, os antecedentes e o tempo de duração da medida NÃO são fatores que, por si, justifiquem a não substituição da medida por outra menos grave. E está errada: não encontrei no ECA nem no SINASE o direito de passar os finais de semana com a família na internação; o texto prevê atividades externas, a critério da equipe técnica, salvo determinação judicial em contrário (art. 121, § 1º). A e D falam de jurisprudência (início do cumprimento antes do trânsito em julgado; juízo competente para a execução), que não consegui conferir; o ECA prevê que a execução pode ser delegada à autoridade do local da entidade (art. 147, § 2º), o que torna a D, no mínimo, não sustentada pela lei. Para marcar B não é preciso conferir A e D. Confirmar as teses no STJ se quiser estudar essas duas.",
+   "p": "Esquecer o limite de 3 anos e a liberação compulsória aos 21. C e D parecem lógicas, mas C inverte o art. 42, § 2º, da Lei 12.594/2012."
+  },
+  {
+   "questao": "2018 - DPE-AM - Analista Jurídico|53",
+   "resultado": "corrigido",
+   "afirmacao": "LBI (Lei 13.146/2015): art. 11 (Capítulo do direito à vida), art. 12, art. 15, I (habilitação e reabilitação), art. 18, § 4º, I (saúde), art. 32, I e § 3º. Verificador independente (sem ver o gabarito) chegou à A como a mais sustentada e achou a B também presente na lei.",
+   "fonte": [
+    "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm"
+   ],
+   "dispositivos": [
+    "Lei 13.146/2015|art. 11",
+    "Lei 13.146/2015|art. 12",
+    "Lei 13.146/2015|art. 15, I",
+    "Lei 13.146/2015|art. 18, § 4º, I",
+    "Lei 13.146/2015|art. 32, I e § 3º"
+   ],
+   "c": "Gabarito A. Conferido no texto oficial: o art. 11 (Capítulo I, direito à vida) diz que a pessoa com deficiência não poderá ser obrigada a se submeter a intervenção clínica ou cirúrgica, a tratamento ou a institucionalização forçada; por isso A está certa. C: o consentimento prévio, livre e esclarecido (art. 12) também está no capítulo do direito à vida, e não no da reabilitação. D: o art. 32, I, reserva no mínimo 3% das unidades habitacionais, mas o § 3º manda disponibilizar as unidades não utilizadas às demais pessoas quando não há interessado; logo a reserva não se mantém 'mesmo sem interessados'. E: a prioridade no atendimento com maior facilidade no campo de trabalho está no art. 37, parágrafo único, I, do capítulo do trabalho, e não no da assistência e previdência social. ATENÇÃO, QUESTÃO DUVIDOSA: a B também tem base na lei, porque o diagnóstico e a intervenção precoces estão no art. 18, § 4º, I, no capítulo da saúde (e repetidos no art. 15, I, no da habilitação e reabilitação). Pelo texto da lei a B parece correta além da A; o gabarito oficial é A e não localizei nota de recurso.",
+   "p": "O erro das alternativas é ligar o direito ao capítulo errado da lei; aqui a B também parece correta, pois o diagnóstico precoce consta do capítulo da saúde."
+  },
+  {
+   "questao": "2025 - DPE-SP - Analista de Defensoria|36",
+   "resultado": "sem_fonte",
+   "afirmacao": "ECA arts. 108, 174, 179, 180, 182, 187, 249. O verificador independente (sem ver o gabarito) apontou E por eliminação; o gabarito oficial é D, que depende de jurisprudência não conferível no texto da lei.",
+   "fonte": [
+    "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+   ],
+   "dispositivos": [
+    "ECA|art. 108",
+    "ECA|art. 174",
+    "ECA|art. 179",
+    "ECA|art. 180",
+    "ECA|art. 182",
+    "ECA|art. 187",
+    "ECA|art. 249"
+   ],
+   "c": "Gabarito oficial: D. ALERTA: lido só com a lei, o texto não leva à D; um verificador independente (que não viu o gabarito) apontou a E por eliminação. O que a lei diz: o art. 179 manda o Ministério Público proceder 'imediata e informalmente à sua oitiva' do adolescente apresentado; se não houver apresentação, o parágrafo único manda notificar os pais ou responsável, podendo requisitar o concurso das polícias civil e militar. Depois da oitiva, o MP pode arquivar, conceder remissão ou representar (art. 180). A internação antes da sentença é de no máximo 45 dias, com decisão fundamentada (art. 108). A afirmação da D (representar e pedir internação provisória sem a oitiva informal) não está literalmente na lei: depende da jurisprudência do STJ, que não consegui conferir. A: não achei crime para os pais que não apresentam o filho; o art. 174 trata do termo de compromisso e responsabilidade. B: a expressão 'condução coercitiva' do ECA está no art. 187, para o não comparecimento à audiência perante a autoridade judiciária; para o MP o art. 179 prevê notificação dos pais e requisição das polícias. C: não achei apreensão preventiva como consequência do não comparecimento. E: o art. 249 pune com multa quem descumpre dolosa ou culposamente os deveres do poder familiar ou determinação da autoridade judiciária ou do Conselho Tutelar; a multa seria aplicada em procedimento próprio de infração administrativa (arts. 194 e seguintes), e a parte 'ao final do procedimento de apuração de ato infracional' não tem apoio literal que eu tenha lido. Confirmar a tese do STJ sobre a oitiva informal antes de estudar por este gabarito.",
+   "p": "A pegadinha é imaginar consequências automáticas (crime, condução coercitiva, apreensão, multa) para o não comparecimento ao MP, e a lei não as prevê dessa forma."
+  },
+  {
+   "questao": "2025 - DPE-SP - Analista de Defensoria|32",
+   "resultado": "corrigido",
+   "afirmacao": "Portaria MS 3.088/2011, arts. 5º, 9º, 10 e 11 (Serviços Residenciais Terapêuticos para egressos de internação de longa permanência e de hospitais de custódia); Res. CNJ 487/2023, arts. 2º, II, 12, § 3º e 17. Verificador independente (sem ver o gabarito) chegou à C.",
+   "fonte": [
+    "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt3088_23_12_2011_rep.html",
+    "https://atos.cnj.jus.br/atos/detalhar/4960"
+   ],
+   "dispositivos": [
+    "Portaria MS 3.088/2011|arts. 5º, VI, 9º, 10 e 11",
+    "CNJ|Resolução 487/2023, arts. 2º, II, 12, § 3º e 17"
+   ],
+   "c": "Gabarito C. Conferido no texto oficial: o art. 11 da Portaria MS 3.088/2011 diz que os Serviços Residenciais Terapêuticos (SRT) são moradias inseridas na comunidade, destinadas a acolher pessoas egressas de internação de longa permanência (dois anos ou mais ininterruptos), egressas de hospitais psiquiátricos e hospitais de custódia, entre outros; eles são o ponto de atenção das estratégias de desinstitucionalização (art. 5º, VI). José está há cerca de vinte anos em HCTP, sem referência familiar e sem crise: o caso se encaixa no SRT. A Resolução CNJ 487/2023 exige Projeto Terapêutico Singular com alta planejada e reabilitação psicossocial assistida em meio aberto (art. 17), inclui os SRT na Rede de Atenção Psicossocial como estratégia de desinstitucionalização (art. 2º, II) e diz que a ausência de suporte familiar não é condição para a imposição, manutenção ou cessação do tratamento ambulatorial nem para a desinternação condicional (art. 12, § 3º). Erradas: A (Serviço de Atenção em Regime Residencial, art. 9º, II da Portaria) é transitório, por até nove meses, para adultos com necessidades decorrentes do uso de crack, álcool e outras drogas. D (Unidade de Acolhimento, art. 9º, I) também é transitória, de até seis meses, para uso de crack, álcool e outras drogas. E (serviço hospitalar de referência, art. 10, II) é internação de curta duração, para usuários de álcool e/ou outras drogas. B contraria a desinstitucionalização: pelo art. 11, § 2º, o hospital psiquiátrico só pode ser acionado enquanto a Rede ainda não é suficiente, e o enunciado diz que o município tem a Rede implantada. Observação: a página usada é a da Portaria 3.088/2011 no portal do Ministério da Saúde, que avisa não substituir o texto publicado no DOU; confirmar a numeração se o texto consolidado da Raps (Portaria de Consolidação nº 3/2017) for o cobrado. Nota: o comentário anterior citava o art. 5º, § 3º, da Resolução CNJ 487 para a ausência de suporte familiar; o texto oficial traz esse parágrafo no art. 12, § 3º.",
+   "p": "A, D e E são serviços da Raps que parecem 'residenciais' ou 'de referência', mas são transitórios e voltados a uso de crack, álcool e outras drogas. A chave é o tempo de internação (longa permanência) e o fim da internação: só o SRT é moradia permanente para egressos."
+  }
+ ]
+}

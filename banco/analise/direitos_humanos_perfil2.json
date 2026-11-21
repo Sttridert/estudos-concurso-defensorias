@@ -37,10 +37,10 @@
  },
  "soma_pesos": 33.23,
  "n_efetivo": 54.9,
- "K_assuntos": 9,
+ "K_assuntos": 13,
  "assuntos": {
   "DH02": {
-   "nome": "Direito Internacional dos Direitos Humanos: fontes e regras gerais",
+   "nome": "Direito Internacional dos Direitos Humanos: regras gerais",
    "n": 2.0,
    "peso": 1.21,
    "p": 3.6,
@@ -50,7 +50,7 @@
    "grupo": "Cai às vezes"
   },
   "DH03": {
-   "nome": "Sistema global (ONU): tratados, comitês e protocolos",
+   "nome": "Sistema global (ONU)",
    "n": 2.5,
    "peso": 1.83,
    "p": 5.5,
@@ -60,17 +60,27 @@
    "grupo": "Cai às vezes"
   },
   "DH04": {
-   "nome": "Sistema interamericano e demais sistemas regionais",
-   "n": 5.5,
-   "peso": 3.42,
-   "p": 10.3,
-   "lo": 4.7,
-   "hi": 21.1,
-   "provas": 6,
+   "nome": "Sistema interamericano: órgãos e procedimento",
+   "n": 4.0,
+   "peso": 2.69,
+   "p": 8.1,
+   "lo": 3.3,
+   "hi": 18.3,
+   "provas": 4,
    "grupo": "Cai às vezes"
   },
   "DH05": {
-   "nome": "Direito Internacional Humanitário, Direito Internacional Penal e refugiados",
+   "nome": "Sistema interamericano: direitos e jurisprudência",
+   "n": 1.5,
+   "peso": 0.73,
+   "p": 2.2,
+   "lo": 0.4,
+   "hi": 10.2,
+   "provas": 2,
+   "grupo": "Cai às vezes"
+  },
+  "DH07": {
+   "nome": "Direito internacional humanitário e penal",
    "n": 2.0,
    "peso": 1.25,
    "p": 3.8,
@@ -79,8 +89,18 @@
    "provas": 2,
    "grupo": "Cai às vezes"
   },
-  "DH06": {
-   "nome": "Tratados no Brasil: hierarquia, convencionalidade e federalização",
+  "DH08": {
+   "nome": "Mobilidade humana",
+   "n": 1.0,
+   "peso": 0.46,
+   "p": 1.4,
+   "lo": 0.2,
+   "hi": 8.9,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH09": {
+   "nome": "Tratados de direitos humanos no direito brasileiro",
    "n": 7.0,
    "peso": 4.66,
    "p": 14.0,
@@ -89,28 +109,48 @@
    "provas": 4,
    "grupo": "Cai às vezes"
   },
-  "DH07": {
-   "nome": "Direitos humanos no Brasil: políticas, memória e acesso à justiça",
-   "n": 3.0,
-   "peso": 1.64,
-   "p": 4.9,
-   "lo": 1.6,
-   "hi": 14.1,
+  "DH11": {
+   "nome": "Memória, verdade e justiça de transição",
+   "n": 1.5,
+   "peso": 0.82,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 10.6,
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH08": {
-   "nome": "Igualdade e grupos vulnerabilizados",
-   "n": 31.0,
-   "peso": 16.4,
-   "p": 49.4,
-   "lo": 36.6,
-   "hi": 62.2,
+  "DH12": {
+   "nome": "Acesso à justiça e instrumentos de atuação",
+   "n": 1.5,
+   "peso": 0.82,
+   "p": 2.5,
+   "lo": 0.5,
+   "hi": 10.6,
+   "provas": 1,
+   "grupo": "Cai às vezes"
+  },
+  "DH13": {
+   "nome": "Igualdade e não discriminação",
+   "n": 10.0,
+   "peso": 5.65,
+   "p": 17.0,
+   "lo": 9.3,
+   "hi": 29.0,
+   "provas": 6,
+   "grupo": "Cai muito"
+  },
+  "DH14": {
+   "nome": "Grupos vulnerabilizados",
+   "n": 20.0,
+   "peso": 10.3,
+   "p": 31.0,
+   "lo": 20.3,
+   "hi": 44.1,
    "provas": 7,
    "grupo": "Cai muito"
   },
-  "DH09": {
-   "nome": "Tortura e privação de liberdade",
+  "DH15": {
+   "nome": "Violência estatal e garantias penais",
    "n": 3.0,
    "peso": 1.82,
    "p": 5.5,
@@ -119,8 +159,8 @@
    "provas": 3,
    "grupo": "Cai às vezes"
   },
-  "DH10": {
-   "nome": "Direitos em espécie e temas contemporâneos",
+  "DH17": {
+   "nome": "Temas contemporâneos",
    "n": 2.0,
    "peso": 1.0,
    "p": 3.0,
@@ -130,7 +170,7 @@
    "grupo": "Cai às vezes"
   }
  },
- "n_assuntos_80pct": 5,
+ "n_assuntos_80pct": 6,
  "cobranca_pct": {
   "lei/tratado": 52.8,
   "lei_seca": 34.8,
@@ -159,8 +199,8 @@
    {
     "prova": "2019 - DPE-AM - Analista Jurídico",
     "n": 10.0,
-    "acertos": 4.0,
-    "pct": 40.0
+    "acertos": 3.5,
+    "pct": 35.0
    },
    {
     "prova": "2022 - DPE-AM - Analista Jurídico",
@@ -182,8 +222,8 @@
    }
   ],
   "media_temporal": 75.0,
-  "media_loo": 71.3,
-  "acaso": 44.4
+  "media_loo": 70.2,
+  "acaso": 30.8
  },
  "K_pontos": 27,
  "pontos": {
@@ -242,9 +282,9 @@
    "provas": 2,
    "grupo": "Cai às vezes"
   },
-  "DH04.06": {
+  "DH05.03": {
    "texto": "Casos do Brasil na Corte IDH",
-   "assunto": "DH04",
+   "assunto": "DH05",
    "n": 0.5,
    "peso": 0.27,
    "p": 0.8,
@@ -253,9 +293,9 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH04.07": {
+  "DH05.04": {
    "texto": "Outros casos e opiniões consultivas da Corte IDH",
-   "assunto": "DH04",
+   "assunto": "DH05",
    "n": 1.0,
    "peso": 0.46,
    "p": 1.4,
@@ -264,9 +304,9 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH05.02": {
+  "DH07.02": {
    "texto": "Tribunal Penal Internacional e crimes internacionais",
-   "assunto": "DH05",
+   "assunto": "DH07",
    "n": 2.0,
    "peso": 1.25,
    "p": 3.8,
@@ -275,9 +315,9 @@
    "provas": 2,
    "grupo": "Cai às vezes"
   },
-  "DH06.01": {
+  "DH09.01": {
    "texto": "Incorporação e hierarquia dos tratados de direitos humanos",
-   "assunto": "DH06",
+   "assunto": "DH09",
    "n": 3.0,
    "peso": 2.19,
    "p": 6.6,
@@ -286,9 +326,9 @@
    "provas": 3,
    "grupo": "Cai às vezes"
   },
-  "DH06.02": {
+  "DH09.02": {
    "texto": "Controle de convencionalidade e diálogo entre cortes",
-   "assunto": "DH06",
+   "assunto": "DH09",
    "n": 1.0,
    "peso": 0.5,
    "p": 1.5,
@@ -297,9 +337,9 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH06.03": {
+  "DH09.03": {
    "texto": "Incidente de deslocamento de competência (federalização)",
-   "assunto": "DH06",
+   "assunto": "DH09",
    "n": 3.0,
    "peso": 1.98,
    "p": 6.0,
@@ -308,9 +348,9 @@
    "provas": 3,
    "grupo": "Cai às vezes"
   },
-  "DH07.02": {
-   "texto": "Memória, verdade e justiça de transição",
-   "assunto": "DH07",
+  "DH11.01": {
+   "texto": "Lei de Anistia e justiça de transição",
+   "assunto": "DH11",
    "n": 1.5,
    "peso": 0.82,
    "p": 2.5,
@@ -319,9 +359,9 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH07.03": {
+  "DH12.01": {
    "texto": "Acesso à justiça e 100 Regras de Brasília",
-   "assunto": "DH07",
+   "assunto": "DH12",
    "n": 0.5,
    "peso": 0.27,
    "p": 0.8,
@@ -330,9 +370,9 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH07.04": {
+  "DH12.02": {
    "texto": "Instrumentos de atuação: remédios constitucionais, litígio estrutural e participação",
-   "assunto": "DH07",
+   "assunto": "DH12",
    "n": 1.0,
    "peso": 0.55,
    "p": 1.6,
@@ -341,9 +381,9 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH08.01": {
-   "texto": "Mulheres: igualdade de gênero e violência contra a mulher",
-   "assunto": "DH08",
+  "DH13.02": {
+   "texto": "Igualdade de gênero",
+   "assunto": "DH13",
    "n": 9.0,
    "peso": 5.19,
    "p": 15.6,
@@ -352,9 +392,9 @@
    "provas": 6,
    "grupo": "Cai muito"
   },
-  "DH08.03": {
-   "texto": "Povos indígenas, quilombolas e comunidades tradicionais",
-   "assunto": "DH08",
+  "DH14.01": {
+   "texto": "Povos indígenas",
+   "assunto": "DH14",
    "n": 0.5,
    "peso": 0.27,
    "p": 0.8,
@@ -363,9 +403,9 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH08.04": {
+  "DH14.03": {
    "texto": "Pessoas com deficiência",
-   "assunto": "DH08",
+   "assunto": "DH14",
    "n": 11.0,
    "peso": 5.34,
    "p": 16.1,
@@ -374,9 +414,9 @@
    "provas": 7,
    "grupo": "Cai muito"
   },
-  "DH08.05": {
-   "texto": "Saúde mental, internação e política antimanicomial",
-   "assunto": "DH08",
+  "DH14.04": {
+   "texto": "Saúde mental e política antimanicomial",
+   "assunto": "DH14",
    "n": 1.5,
    "peso": 0.71,
    "p": 2.1,
@@ -385,9 +425,9 @@
    "provas": 2,
    "grupo": "Cai às vezes"
   },
-  "DH08.06": {
+  "DH14.05": {
    "texto": "Pessoas idosas",
-   "assunto": "DH08",
+   "assunto": "DH14",
    "n": 6.0,
    "peso": 3.52,
    "p": 10.6,
@@ -396,9 +436,9 @@
    "provas": 4,
    "grupo": "Cai muito"
   },
-  "DH08.08": {
+  "DH13.05": {
    "texto": "LGBTQIA+, orientação sexual e identidade de gênero",
-   "assunto": "DH08",
+   "assunto": "DH13",
    "n": 1.0,
    "peso": 0.46,
    "p": 1.4,
@@ -407,7 +447,7 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH08.09": {
+  "DH08.03": {
    "texto": "Migrantes e trabalhadores migrantes",
    "assunto": "DH08",
    "n": 1.0,
@@ -418,9 +458,9 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH08.10": {
+  "DH14.07": {
    "texto": "Pessoas em situação de rua e vulnerabilidade social",
-   "assunto": "DH08",
+   "assunto": "DH14",
    "n": 1.0,
    "peso": 0.46,
    "p": 1.4,
@@ -429,9 +469,9 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH09.01": {
+  "DH15.01": {
    "texto": "Tortura: proibição, Convenção e Comitê contra a Tortura",
-   "assunto": "DH09",
+   "assunto": "DH15",
    "n": 1.5,
    "peso": 0.8,
    "p": 2.4,
@@ -440,9 +480,9 @@
    "provas": 2,
    "grupo": "Cai às vezes"
   },
-  "DH09.02": {
+  "DH15.02": {
    "texto": "OPCAT, Subcomitê e Mecanismo Nacional de Prevenção e Combate à Tortura",
-   "assunto": "DH09",
+   "assunto": "DH15",
    "n": 1.0,
    "peso": 0.77,
    "p": 2.3,
@@ -451,9 +491,9 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH10.05": {
+  "DH17.01": {
    "texto": "Meio ambiente, clima e Agenda 2030",
-   "assunto": "DH10",
+   "assunto": "DH17",
    "n": 1.5,
    "peso": 0.73,
    "p": 2.2,
@@ -462,9 +502,9 @@
    "provas": 2,
    "grupo": "Cai às vezes"
   },
-  "DH10.09": {
+  "DH17.04": {
    "texto": "Bioética, pesquisa genética e recursos genéticos",
-   "assunto": "DH10",
+   "assunto": "DH17",
    "n": 0.5,
    "peso": 0.27,
    "p": 0.8,
@@ -473,9 +513,9 @@
    "provas": 1,
    "grupo": "Cai às vezes"
   },
-  "DH09.04": {
-   "texto": "Garantias judiciais, direitos pré-processuais e proteção penal dos direitos humanos",
-   "assunto": "DH09",
+  "DH15.05": {
+   "texto": "Garantias judiciais e proteção penal dos direitos humanos",
+   "assunto": "DH15",
    "n": 0.5,
    "peso": 0.25,
    "p": 0.8,
@@ -487,12 +527,14 @@
  },
  "pontos_com_1_questao": 13,
  "pontos_sem_questao": [
-  "CA01.02",
+  "CA01.03",
   "DH01.01",
   "DH01.02",
   "DH01.03",
   "DH01.04",
   "DH01.05",
+  "DH01.06",
+  "DH01.07",
   "DH02.01",
   "DH02.03",
   "DH02.04",
@@ -501,30 +543,38 @@
   "DH03.01",
   "DH03.04",
   "DH04.03",
-  "DH04.04",
-  "DH04.05",
-  "DH04.08",
-  "DH04.09",
   "DH05.01",
-  "DH05.03",
-  "DH06.04",
+  "DH05.02",
+  "DH05.05",
+  "DH06.01",
+  "DH06.02",
   "DH07.01",
-  "DH07.05",
+  "DH08.01",
   "DH08.02",
-  "DH08.07",
-  "DH08.11",
-  "DH08.12",
-  "DH09.03",
+  "DH09.04",
   "DH10.01",
   "DH10.02",
   "DH10.03",
   "DH10.04",
-  "DH10.06",
-  "DH10.07",
-  "DH10.08",
-  "DH10.10",
-  "DH10.11",
-  "DH11.01"
+  "DH11.02",
+  "DH13.01",
+  "DH13.03",
+  "DH13.04",
+  "DH13.06",
+  "DH13.07",
+  "DH14.02",
+  "DH14.06",
+  "DH15.03",
+  "DH15.04",
+  "DH16.01",
+  "DH16.02",
+  "DH16.03",
+  "DH16.04",
+  "DH16.05",
+  "DH16.06",
+  "DH17.02",
+  "DH17.03",
+  "DH17.05"
  ],
  "good_turing_pontos_pct": 22.4,
  "retro_pontos": {

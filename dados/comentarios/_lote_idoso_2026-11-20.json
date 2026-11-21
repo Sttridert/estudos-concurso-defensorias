@@ -1,0 +1,306 @@
+{
+ "2021 - DPE-AM - Defensor Público|57": {
+  "c": "Gabarito oficial: D. A alternativa D repete uma tese do STJ: o Estatuto do Idoso se aplica de imediato às relações de trato sucessivo, mesmo anteriores à vigência, por ser norma cogente. A questão pergunta o que o STJ fixou, e não o que diz a lei; as demais alternativas também falam de jurisprudência (A, prioridade deferida de ofício; B, custas ao final só em ação coletiva; C, exclusão do benefício de outro familiar idoso ou com deficiência do cálculo da renda; E, MP fiscal da lei só em casos coletivos ou indisponíveis). Não consegui conferir as teses do STJ no texto oficial (o portal bloqueia consulta automática), então este comentário não cita precedente. Confirmar no Jurisprudência em Teses do STJ antes de estudar por ele.",
+  "p": "A prioridade processual tem base na lei (art. 71), mas ela exige requerimento do interessado com prova da idade (art. 71, §1º); isso é motivo para desconfiar de 'de ofício' na alternativa A. As alternativas erradas podem soar plausíveis pela lei seca e ser falsas na jurisprudência.",
+  "d": [
+   "Lei 10.741/2003|art. 71, §1º"
+  ],
+  "pend": 1,
+  "fontes": [
+   {
+    "dispositivo": "Lei 10.741/2003|art. 71, §1º",
+    "trecho": "fazendo prova de sua idade, requererá o benefício à autoridade judiciária competente",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   }
+  ]
+ },
+ "2021 - DPE-AM - Defensor Público|58": {
+  "c": "Gabarito oficial: E. O art. 8º do Estatuto diz que o envelhecimento é um direito personalíssimo e que a sua proteção é um direito social. As demais alternativas (fenômeno social complexo com o idoso como objeto da tutela, fato social que demanda custódia, condição etária delimitada, fator de vulnerabilidade) são formulações de doutrina que não constam do texto da lei, e a questão pede o que o Estatuto dispõe 'expressamente'.",
+  "p": "Cobra a redação literal do art. 8º. As erradas parecem sofisticadas, mas tratam o idoso como 'objeto' de tutela ou o envelhecimento como 'vulnerabilidade', o que contraria a ideia de direito personalíssimo.",
+  "d": [
+   "Lei 10.741/2003|art. 8º"
+  ],
+  "pend": 0,
+  "fontes": [
+   {
+    "dispositivo": "Lei 10.741/2003|art. 8º",
+    "trecho": "o envelhecimento é um direito personalíssimo e a sua proteção um direito social",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   }
+  ]
+ },
+ "2021 - DPE-RR - Defensor Público|89": {
+  "c": "Gabarito oficial: B. O laudo atesta que Joana mantém hoje sua capacidade, e ela quer se proteger de golpes. A medida que respeita isso é a tomada de decisão apoiada (art. 1.783-A do Código Civil): a própria pessoa com deficiência elege pelo menos duas pessoas de confiança para apoiá-la, e por isso Joana é a autora. Interdição total (C) e fixação de limites de curatela (D) restringem a capacidade de quem ainda a tem. Testamento vital (A) trata de tratamento de saúde, não de golpes financeiros. Procuração pública (E) delega poderes, mas não dá o apoio à decisão. A comparação entre as medidas é raciocínio da IA, não texto de lei: confirmar na doutrina.",
+  "p": "A pegadinha é pensar 'Alzheimer, então interdição'. Com capacidade atual atestada, vale a medida menos restritiva, que mantém a autonomia.",
+  "d": [
+   "Código Civil|art. 1.783-A"
+  ],
+  "pend": 1,
+  "fontes": [
+   {
+    "dispositivo": "Código Civil|art. 1.783-A",
+    "trecho": "a pessoa com deficiência elege pelo menos 2 (duas) pessoas idôneas, com as quais mantenha vínculos e que gozem de sua confiança",
+    "arquivo": "dados/fontes/lei_10406_2002_codigo_civil.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+    "consultado_em": "2026-11-20"
+   }
+  ]
+ },
+ "2021 - DPE-RR - Defensor Público|90": {
+  "c": "Gabarito oficial: A. O art. 3º, §1º, lista o que a prioridade compreende, e nela entram a garantia de acesso à rede de serviços de saúde e de assistência social locais (VIII) e a prioridade na restituição do Imposto de Renda (IX). B erra o §2º: a prioridade especial dos maiores de 80 anos é 'dentre os idosos' (entre as pessoas idosas), não em relação a todos. C erra o inciso V, que prioriza o atendimento do idoso pela própria família, em detrimento do asilar. D troca as áreas do inciso VI (geriatria e gerontologia, não pediatria e hebiatria). E troca 'saúde e assistência social' por 'educação e previdenciários'.",
+  "p": "Todas as alternativas imitam o art. 3º, §1º, trocando um detalhe: pediatria no lugar de geriatria, educação no lugar de saúde, e o 'sempre' do §2º sem o 'entre os idosos'.",
+  "d": [
+   "Lei 10.741/2003|art. 3º, §1º, V, VI, VIII e IX",
+   "Lei 10.741/2003|art. 3º, §2º"
+  ],
+  "pend": 0,
+  "fontes": [
+   {
+    "dispositivo": "Lei 10.741/2003|art. 3º, §1º, V, VI, VIII e IX",
+    "trecho": "garantia de acesso à rede de serviços de saúde e de assistência social locais",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 3º, §2º",
+    "trecho": "prioridade especial aos maiores de 80 (oitenta) anos, atendendo-se suas necessidades sempre preferencialmente em relação às demais pessoas idosas",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   }
+  ]
+ },
+ "2021 - DPE-RR - Defensor Público|91": {
+  "c": "Gabarito oficial: D. O art. 16 assegura à pessoa idosa internada ou em observação o direito a acompanhante, com condições adequadas para a permanência em tempo integral, segundo o critério médico. A erra o art. 15, §6º: o que se assegura é o atendimento domiciliar pela perícia para o laudo, e não atendimento ambulatorial agendado. B erra o art. 15, §4º: a pessoa idosa com deficiência ou limitação incapacitante tem atendimento especializado 'nos termos da lei', sem a instituição asilar da alternativa. C contraria o art. 15, §3º, que veda a discriminação nos planos de saúde pela cobrança de valores diferenciados em razão da idade. E (triagem domiciliar social e relatório gerontológico) não consta nos trechos conferidos.",
+  "p": "C engana quem lembra que há reajuste por faixa etária em plano de saúde: o Estatuto veda a cobrança diferenciada em razão da idade (art. 15, §3º). As regras de reajuste e a interpretação desse tema na jurisprudência ficam fora deste comentário.",
+  "d": [
+   "Lei 10.741/2003|art. 16",
+   "Lei 10.741/2003|art. 15, §3º",
+   "Lei 10.741/2003|art. 15, §4º",
+   "Lei 10.741/2003|art. 15, §6º"
+  ],
+  "pend": 0,
+  "fontes": [
+   {
+    "dispositivo": "Lei 10.741/2003|art. 16",
+    "trecho": "é assegurado o direito a acompanhante, devendo o órgão de saúde proporcionar as condições adequadas para a sua permanência em tempo integral, segundo o critério médico",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 15, §3º",
+    "trecho": "É vedada a discriminação da pessoa idosa nos planos de saúde pela cobrança de valores diferenciados em razão da idade",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 15, §4º",
+    "trecho": "terão atendimento especializado, nos termos da lei",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 15, §6º",
+    "trecho": "o atendimento domiciliar pela perícia médica do Instituto Nacional do Seguro Social (INSS)",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   }
+  ]
+ },
+ "2021 - DPE-RR - Defensor Público|92": {
+  "c": "Gabarito oficial: A. O art. 19 manda que os casos de suspeita ou confirmação de violência contra a pessoa idosa sejam objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade sanitária, além da comunicação obrigatória a outros órgãos (autoridade policial, Ministério Público, conselhos da pessoa idosa). C e D trocam a notificação à autoridade sanitária por uma lista de outros órgãos e citam destinatários que não são os do artigo. B e E erram o art. 17, parágrafo único: sem curador nem familiar conhecido, a opção de tratamento é do próprio médico, que deve comunicar o fato ao Ministério Público (não à Defensoria); a 'junta médica presidida pelo diretor' não aparece no inciso III, que fala do médico em iminente risco de vida.",
+  "p": "B copia quase todo o inciso IV do art. 17, trocando 'Ministério Público' por 'Defensoria Pública'. C e D omitem a autoridade sanitária, que é o acréscimo do art. 19 (Lei 12.461/2011, conforme a redação do texto oficial).",
+  "d": [
+   "Lei 10.741/2003|art. 19",
+   "Lei 10.741/2003|art. 17, parágrafo único, III e IV"
+  ],
+  "pend": 0,
+  "fontes": [
+   {
+    "dispositivo": "Lei 10.741/2003|art. 19",
+    "trecho": "serão objeto de notificação compulsória pelos serviços de saúde públicos e privados à autoridade sanitária",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 17, parágrafo único, III e IV",
+    "trecho": "pelo próprio médico, quando não houver curador ou familiar conhecido, caso em que deverá comunicar o fato ao Ministério Público",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   }
+  ]
+ },
+ "2022 - DPE-AP - Defensor Público|88": {
+  "c": "Gabarito oficial: A. O art. 15, §6º, assegura à pessoa idosa enferma o atendimento domiciliar pela perícia médica do INSS (ou pelo serviço de saúde ligado ao SUS) para expedir o laudo necessário aos seus direitos sociais e à isenção tributária. B erra o §5º, I: o agente promove o contato em casa 'quando de interesse do poder público', e não 'ainda que' o assunto seja do idoso. C erra o §5º, II: a representação por procurador é possibilidade quando o interesse é da própria pessoa idosa, e não substituição obrigatória da convocação. D e E (internação domiciliar para quem está em núcleo familiar; casa-lar quando falta entidade de longa permanência) não têm apoio nos trechos conferidos.",
+  "p": "B e C trocam a condição do §5º, que tem duas hipóteses: interesse do poder público (inciso I) e interesse da própria pessoa idosa (inciso II).",
+  "d": [
+   "Lei 10.741/2003|art. 15, §5º",
+   "Lei 10.741/2003|art. 15, §6º"
+  ],
+  "pend": 0,
+  "fontes": [
+   {
+    "dispositivo": "Lei 10.741/2003|art. 15, §6º",
+    "trecho": "é assegurado à pessoa idosa enferma o atendimento domiciliar pela perícia médica do Instituto Nacional do Seguro Social (INSS)",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 15, §5º",
+    "trecho": "quando de interesse do poder público, o agente promoverá o contato necessário com a pessoa idosa em sua residência",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   }
+  ]
+ },
+ "2022 - DPE-AP - Defensor Público|90": {
+  "c": "Gabarito oficial: C. A questão não é do Estatuto: cobra a Tipificação Nacional dos Serviços Socioassistenciais (norma do SUAS). A alternativa C descreve o Serviço de Proteção Social Especial para Pessoas com Deficiência, Idosas e suas Famílias, voltado a famílias com pessoas com deficiência e idosos com algum grau de dependência, cujas limitações foram agravadas por violações de direitos. As demais trocam público, serviço ou nível de proteção. Não busquei o texto da Tipificação e não o citei: confirmar na norma oficial do CNAS e do Ministério do Desenvolvimento Social antes de estudar por este comentário.",
+  "p": "Alternativas parecidas, que misturam nomes de serviços da proteção social básica e da especial. A chave é saber a que nível cada serviço pertence.",
+  "d": [],
+  "pend": 1
+ },
+ "2022 - DPE-CE - Defensor Público|58": {
+  "c": "Gabarito oficial: E. O art. 71, §5º, dá prioridade especial, entre os processos de pessoas idosas, aos maiores de 80 anos. A erra: a gratuidade em transporte coletivo urbano e semiurbano é a partir dos 65 anos (art. 39), e não dos 60. B erra: o desconto de pelo menos 50% nos ingressos é direito da pessoa idosa, que o art. 1º define como a de 60 anos ou mais, e não de 65. C erra: o benefício mensal de um salário-mínimo (art. 34) é a partir de 65 anos, e não de 70. D erra: o Estatuto veda a discriminação nos planos de saúde por valores diferenciados em razão da idade (art. 15, §3º), e o termo de 75 anos não consta do trecho conferido.",
+  "p": "Números parecidos (60, 65, 70, 75, 80): 60 define a pessoa idosa, 65 dá gratuidade em transporte e benefício assistencial, 80 dá prioridade especial.",
+  "d": [
+   "Lei 10.741/2003|art. 71, §5º",
+   "Lei 10.741/2003|art. 39",
+   "Lei 10.741/2003|art. 34",
+   "Lei 10.741/2003|art. 23",
+   "Lei 10.741/2003|art. 1º",
+   "Lei 10.741/2003|art. 15, §3º"
+  ],
+  "pend": 0,
+  "fontes": [
+   {
+    "dispositivo": "Lei 10.741/2003|art. 71, §5º",
+    "trecho": "dar-se-á prioridade especial aos das maiores de 80 (oitenta) anos",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 39",
+    "trecho": "Aos maiores de 65 (sessenta e cinco) anos fica assegurada a gratuidade dos transportes coletivos públicos urbanos e semi-urbanos",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 34",
+    "trecho": "Aos idosos, a partir de 65 (sessenta e cinco) anos, que não possuam meios",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 23",
+    "trecho": "descontos de pelo menos 50% (cinquenta por cento) nos ingressos para eventos artísticos, culturais, esportivos e de lazer",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 1º",
+    "trecho": "destinado a regular os direitos assegurados às pessoas com idade igual ou superior a 60 (sessenta) anos",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 15, §3º",
+    "trecho": "É vedada a discriminação da pessoa idosa nos planos de saúde pela cobrança de valores diferenciados em razão da idade",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   }
+  ]
+ },
+ "2025 - DPE-AM - Defensor Público|57": {
+  "c": "Gabarito oficial: E. O art. 65 diz que o procedimento de apuração de irregularidade em entidade de atendimento à pessoa idosa começa mediante petição fundamentada de pessoa interessada ou por iniciativa do Ministério Público. A erra: pelo art. 68, §4º, multa e advertência são impostas ao dirigente da entidade ou ao responsável pelo programa, e não à entidade. B e C citam providências que não aparecem nos arts. 65 a 68. D descreve o art. 62, que é da apuração administrativa, e não da judicial.",
+  "p": "D copia uma regra real (art. 62), mas de outro procedimento: a questão pede a apuração JUDICIAL (arts. 65 a 68), e o art. 62 é da apuração administrativa.",
+  "d": [
+   "Lei 10.741/2003|art. 65",
+   "Lei 10.741/2003|art. 68, §4º",
+   "Lei 10.741/2003|art. 62"
+  ],
+  "pend": 0,
+  "fontes": [
+   {
+    "dispositivo": "Lei 10.741/2003|art. 65",
+    "trecho": "terá início mediante petição fundamentada de pessoa interessada ou iniciativa do Ministério Público",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 68, §4º",
+    "trecho": "A multa e a advertência serão impostas ao dirigente da entidade ou ao responsável pelo programa de atendimento",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Lei 10.741/2003|art. 62",
+    "trecho": "Havendo risco para a vida ou à saúde da pessoa idosa, a autoridade competente aplicará à entidade de atendimento as sanções regulamentares",
+    "arquivo": "dados/fontes/lei_10741_2003_estatuto_pessoa_idosa.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm",
+    "consultado_em": "2026-11-20"
+   }
+  ]
+ },
+ "2025 - DPE-AM - Defensor Público|58": {
+  "c": "Gabarito oficial: C. O art. 244 do Código Penal (abandono material) tem como elementar a vítima 'ascendente inválido ou maior de 60 anos'; João tem 65. A erra: o art. 171, §4º, não cria qualificadora, e sim aumento de pena de 1/3 ao dobro quando o estelionato é contra idoso. B erra: a idade da vítima não gera excludente de imputabilidade. D erra: o art. 115 REDUZ de metade os prazos de prescrição quando o criminoso é maior de 70 anos na data da sentença (idade do autor, e redução). E erra: o constrangimento ilegal (art. 146) tem pena de detenção, de três meses a um ano, ou multa, e a idade da vítima não troca a espécie de pena.",
+  "p": "A confunde aumento de pena com qualificadora; D inverte o art. 115 (reduz, e para o autor maior de 70). Atenção aos dois limites: 60 anos no art. 244 e 70 no art. 115.",
+  "d": [
+   "Código Penal|art. 244",
+   "Código Penal|art. 171, §4º",
+   "Código Penal|art. 115",
+   "Código Penal|art. 146"
+  ],
+  "pend": 0,
+  "fontes": [
+   {
+    "dispositivo": "Código Penal|art. 244",
+    "trecho": "ascendente inválido ou maior de 60 (sessenta) anos",
+    "arquivo": "dados/fontes/decreto_lei_2848_1940_codigo_penal.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Código Penal|art. 171, §4º",
+    "trecho": "A pena aumenta-se de 1/3 (um terço) ao dobro, se o crime é cometido contra idoso ou vulnerável",
+    "arquivo": "dados/fontes/decreto_lei_2848_1940_codigo_penal.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Código Penal|art. 115",
+    "trecho": "São reduzidos de metade os prazos de prescrição quando o criminoso era, ao",
+    "arquivo": "dados/fontes/decreto_lei_2848_1940_codigo_penal.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+    "consultado_em": "2026-11-20"
+   },
+   {
+    "dispositivo": "Código Penal|art. 146",
+    "trecho": "detenção, de três meses a um ano, ou multa",
+    "arquivo": "dados/fontes/decreto_lei_2848_1940_codigo_penal.txt",
+    "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+    "consultado_em": "2026-11-20"
+   }
+  ]
+ }
+}

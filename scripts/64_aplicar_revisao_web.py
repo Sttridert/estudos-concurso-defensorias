@@ -12,10 +12,14 @@ Efeito por resultado:
   confirmado -> tira a marca (pendente_confirmacao = 0); tira do comentário as frases "Não consegui conferir..." e "Confirmar ..."; grava os dispositivos, se vierem.
   corrigido  -> troca comentário (e pegadinha/dispositivos, se vierem) e tira a marca.
   sem_fonte  -> mantém a marca; se vier "c", troca o comentário (o texto deve dizer "confirmar no Planalto/tribunal").
-Nada é citado sem ter sido lido na fonte. O comentário continua RASCUNHO da IA (estado 'rascunho'). Cópia do banco antes.
+Regras do grupo E (decisão 59): "confirmado" e "corrigido" EXIGEM "fonte" (lista não vazia), que é gravada no banco (tabela
+comentario_fontes, com a data da consulta); comentário já "conferido" pelo usuário não é alterado. Nada é citado sem ter sido lido na fonte. O comentário continua RASCUNHO da IA (estado 'rascunho'). Cópia do banco antes.
 """
 import datetime, json, re, sqlite3, sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import lib_comentarios as LC
 
 RAIZ = Path(__file__).resolve().parent.parent
 BANCO = RAIZ / "banco" / "estudos.db"
@@ -32,6 +36,7 @@ def main():
     simular = "--simular" in sys.argv
     dados = json.loads(arq.read_text(encoding="utf-8"))
     con = sqlite3.connect(BANCO)
+    LC.garantir_tabela(con)
     if not simular:
         dst = RAIZ / "banco" / "backup" / f"estudos_antes_revisao_web_{arq.stem}_{datetime.date.today().isoformat()}.db"
         if not dst.exists():
@@ -48,6 +53,10 @@ def main():
             sys.exit("a questão não tem comentário: " + it["questao"])
         texto, peg, disp, pend = atual
         r = it["resultado"]
+        if con.execute("select estado from comentarios where questao_id=?", (q[0],)).fetchone()[0] == "conferido":
+            sys.exit("comentário já CONFERIDO pelo usuário, não alterado: " + it["questao"])
+        if r in ("confirmado", "corrigido") and not [f for f in it.get("fonte", []) if str(f).strip()]:
+            sys.exit(f"{r} sem fonte: " + it["questao"])
         if r == "confirmado":
             texto, pend = limpa(texto), 0
         elif r == "corrigido":
@@ -66,6 +75,10 @@ def main():
             disp = json.dumps(it["dispositivos"], ensure_ascii=False)
         con.execute("update comentarios set texto=?, pegadinha=?, dispositivos=?, pendente_confirmacao=?, atualizado_em=? where questao_id=?",
                     (texto, peg, disp, pend, hoje, q[0]))
+        if r in ("confirmado", "corrigido"):
+            for f in it["fonte"]:
+                con.execute("insert into comentario_fontes(questao_id,dispositivo,trecho,arquivo,url,consultado_em) values(?,?,?,?,?,?)",
+                            (q[0], "; ".join(it.get("dispositivos") or []) or None, it.get("afirmacao"), None, f, dados.get("consultado_em") or hoje))
         cont[r] += 1
     con.execute("insert into log_alteracoes(quem,o_que) values('script 64', ?)",
                 (f"revisão web {arq.name}: {cont['confirmado']} confirmados, {cont['corrigido']} corrigidos, {cont['sem_fonte']} sem fonte suficiente" + (" [simulação]" if simular else ""),))

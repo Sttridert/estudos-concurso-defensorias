@@ -1,4 +1,4 @@
-# perfil.toml: perfil do concurso (fonte do perfil; a tabela `perfis` do banco é só cópia). Plano 06, Etapa 2b.
+# perfil.toml: perfil do concurso (ÚNICA fonte do perfil; a tabela `perfis` do banco foi aposentada). Plano 06, Etapa 2b.
 # ATENÇÃO: mudar banca, cargo, órgão, edital, universo, pesos, meia-vida, disciplina ou bloco invalida a confirmação
 # (o motor e o gerador recusam). Depois de mostrar ao usuário e ter o "sim" dele: scripts/72_perfil.py confirmar.
 
@@ -9,6 +9,7 @@ cargo = "Analista Jurídico"
 orgao = "DPE-AM"
 ano_referencia = 2026
 edital_id = 4
+edital_slug = "dpeam2026_analista_juridico"
 meia_vida = 8
 estudo_geral = false
 pesos = { A = 1, B = 0.5, C = 0.25 }

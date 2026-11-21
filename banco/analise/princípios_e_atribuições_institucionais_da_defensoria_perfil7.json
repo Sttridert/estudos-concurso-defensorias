@@ -26,8 +26,8 @@
    ]
   }
  },
- "n_total": 39,
- "n_validas": 38,
+ "n_total": 31,
+ "n_validas": 30,
  "n_anuladas_ou_fora": 1,
  "n_provas": 6,
  "provas_por_grupo": {
@@ -35,66 +35,56 @@
   "B": 1,
   "C": 0
  },
- "soma_pesos": 23.06,
- "n_efetivo": 36.6,
- "K_assuntos": 5,
+ "soma_pesos": 18.23,
+ "n_efetivo": 28.8,
+ "K_assuntos": 4,
  "assuntos": {
   "PI01": {
-   "nome": "Fundamentos constitucionais",
+   "nome": "Fundamentos constitucionais da Defensoria Pública",
    "n": 7.0,
    "peso": 4.31,
-   "p": 18.7,
-   "lo": 9.3,
-   "hi": 34.1,
+   "p": 23.6,
+   "lo": 11.8,
+   "hi": 41.6,
    "provas": 5,
    "grupo": "Cai às vezes"
   },
   "PI02": {
-   "nome": "Lei Orgânica Nacional (LC 80/1994)",
+   "nome": "Lei Orgânica Nacional da Defensoria Pública",
    "n": 8.0,
    "peso": 5.28,
-   "p": 22.9,
-   "lo": 12.3,
-   "hi": 38.7,
+   "p": 29.0,
+   "lo": 15.7,
+   "hi": 47.2,
    "provas": 5,
    "grupo": "Cai às vezes"
   },
   "PI03": {
-   "nome": "Organização da DPE-AM e normas estaduais",
+   "nome": "Normas estaduais de organização da Defensoria",
    "n": 10.0,
    "peso": 6.1,
-   "p": 26.5,
-   "lo": 14.9,
-   "hi": 42.5,
+   "p": 33.5,
+   "lo": 19.1,
+   "hi": 51.7,
    "provas": 6,
    "grupo": "Cai às vezes"
   },
   "PI04": {
-   "nome": "Atuação institucional, extrajudicial e ética",
+   "nome": "Atuação e ética institucional",
    "n": 5.0,
    "peso": 2.54,
-   "p": 11.0,
-   "lo": 4.4,
-   "hi": 25.1,
+   "p": 13.9,
+   "lo": 5.6,
+   "hi": 30.8,
    "provas": 3,
-   "grupo": "Cai às vezes"
-  },
-  "PI06": {
-   "nome": "Cobrado em provas anteriores, fora do edital 2026",
-   "n": 8.0,
-   "peso": 4.82,
-   "p": 20.9,
-   "lo": 10.8,
-   "hi": 36.5,
-   "provas": 5,
    "grupo": "Cai às vezes"
   }
  },
- "n_assuntos_80pct": 4,
+ "n_assuntos_80pct": 3,
  "cobranca_pct": {
-  "lei_seca": 89.9,
-  "caso_concreto": 8.1,
-  "jurisprudencia": 2.0
+  "lei_seca": 95.0,
+  "caso_concreto": 2.5,
+  "jurisprudencia": 2.5
  },
  "retro_assuntos": {
   "k": 4,
@@ -102,71 +92,71 @@
   "loo": [
    {
     "prova": "2018 - DPE-AM - Analista Jurídico",
+    "n": 2.0,
+    "acertos": 2.0,
+    "pct": 100.0
+   },
+   {
+    "prova": "2019 - DPE-AM - Analista Jurídico",
     "n": 4.0,
     "acertos": 4.0,
     "pct": 100.0
    },
    {
-    "prova": "2019 - DPE-AM - Analista Jurídico",
-    "n": 7.0,
-    "acertos": 7.0,
+    "prova": "2022 - DPE-AM - Analista Jurídico",
+    "n": 5.0,
+    "acertos": 5.0,
     "pct": 100.0
    },
    {
-    "prova": "2022 - DPE-AM - Analista Jurídico",
-    "n": 6.0,
-    "acertos": 5.5,
-    "pct": 91.7
-   },
-   {
     "prova": "2022 - DPE-AM - Analista Jurídico (2)",
-    "n": 6.0,
-    "acertos": 5.5,
-    "pct": 91.7
+    "n": 5.0,
+    "acertos": 5.0,
+    "pct": 100.0
    },
    {
     "prova": "2023 - DPE-AM - Analista Jurídico",
-    "n": 6.0,
-    "acertos": 6.0,
+    "n": 5.0,
+    "acertos": 5.0,
     "pct": 100.0
    }
   ],
   "media_temporal": null,
-  "media_loo": 96.6,
-  "acaso": 80.0
+  "media_loo": 100.0,
+  "acaso": 100.0
  },
- "K_pontos": 16,
+ "K_pontos": 13,
  "pontos": {
   "PI01.01": {
-   "texto": "CF art. 134: função essencial à Justiça, missão e necessitados",
+   "texto": "Função essencial à Justiça e missão constitucional",
    "assunto": "PI01",
    "n": 1.0,
    "peso": 0.58,
-   "p": 2.5,
-   "lo": 0.4,
-   "hi": 13.7,
+   "p": 3.2,
+   "lo": 0.5,
+   "hi": 16.9,
    "provas": 2,
    "grupo": "Cai às vezes"
   },
   "PI01.02": {
-   "texto": "Autonomia funcional, administrativa e orçamentária (EC 45/2004, EC 80/2014 e outras)",
+   "texto": "Autonomia funcional, administrativa e orçamentária",
    "assunto": "PI01",
    "n": 2.5,
    "peso": 1.71,
-   "p": 7.4,
-   "lo": 2.4,
-   "hi": 20.5,
+   "p": 9.4,
+   "lo": 3.1,
+   "hi": 25.2,
    "provas": 3,
    "grupo": "Cai às vezes"
   },
   "PI01.03": {
-   "texto": "Direitos e garantias fundamentais (CF art. 5º), inclusive assistência jurídica gratuita",
+   "texto": "Assistência jurídica integral e gratuita",
    "assunto": "PI01",
    "n": 3.5,
    "peso": 2.02,
-   "p": 8.8,
-   "lo": 3.1,
-   "hi": 22.2,
+   "p": 11.1,
+   "lo": 4.0,
+   "hi": 27.4,
    "provas": 3,
    "grupo": "Cai às vezes"
   },
@@ -175,86 +165,86 @@
    "assunto": "PI02",
    "n": 1.5,
    "peso": 1.06,
-   "p": 4.6,
-   "lo": 1.1,
-   "hi": 16.7,
+   "p": 5.8,
+   "lo": 1.4,
+   "hi": 20.6,
    "provas": 1,
    "grupo": "Cai às vezes"
   },
   "PI02.02": {
-   "texto": "Organização: Administração Superior, Conselho Superior, Corregedoria e Defensor Público-Geral",
+   "texto": "Defensor Público-Geral e Administração Superior",
    "assunto": "PI02",
    "n": 3.0,
    "peso": 1.9,
-   "p": 8.2,
-   "lo": 2.8,
-   "hi": 21.6,
+   "p": 10.4,
+   "lo": 3.6,
+   "hi": 26.6,
    "provas": 4,
    "grupo": "Cai às vezes"
   },
-  "PI02.03": {
+  "PI02.04": {
    "texto": "Órgãos de atuação e de execução; núcleos",
    "assunto": "PI02",
    "n": 2.0,
    "peso": 1.23,
-   "p": 5.3,
-   "lo": 1.5,
-   "hi": 17.7,
+   "p": 6.7,
+   "lo": 1.8,
+   "hi": 21.8,
    "provas": 2,
    "grupo": "Cai às vezes"
   },
-  "PI02.04": {
-   "texto": "Carreira: garantias, prerrogativas, deveres e vedações dos membros",
+  "PI02.05": {
+   "texto": "Garantias e prerrogativas dos membros",
    "assunto": "PI02",
    "n": 1.5,
    "peso": 1.09,
-   "p": 4.7,
-   "lo": 1.2,
-   "hi": 16.9,
+   "p": 6.0,
+   "lo": 1.5,
+   "hi": 20.8,
    "provas": 2,
    "grupo": "Cai às vezes"
   },
   "PI03.01": {
-   "texto": "Constituição do Estado do Amazonas (Defensoria Pública)",
+   "texto": "Constituição estadual e Defensoria Pública",
    "assunto": "PI03",
    "n": 0.5,
    "peso": 0.39,
-   "p": 1.7,
-   "lo": 0.2,
-   "hi": 12.3,
+   "p": 2.1,
+   "lo": 0.3,
+   "hi": 15.2,
    "provas": 1,
    "grupo": "Cai às vezes"
   },
   "PI03.02": {
-   "texto": "Lei Complementar estadual 01/1990 (Lei Orgânica da DPE-AM)",
+   "texto": "Lei orgânica estadual da Defensoria Pública",
    "assunto": "PI03",
    "n": 4.0,
    "peso": 2.3,
-   "p": 10.0,
-   "lo": 3.8,
-   "hi": 23.8,
+   "p": 12.6,
+   "lo": 4.8,
+   "hi": 29.2,
    "provas": 4,
    "grupo": "Cai às vezes"
   },
-  "PI03.04": {
-   "texto": "Lei estadual 4.077/2014 (servidores: estágio probatório e evolução funcional)",
+  "PI03.03": {
+   "texto": "Regime funcional dos servidores da Defensoria",
    "assunto": "PI03",
    "n": 5.0,
    "peso": 3.19,
-   "p": 13.8,
-   "lo": 6.1,
-   "hi": 28.5,
+   "p": 17.5,
+   "lo": 7.7,
+   "hi": 34.9,
    "provas": 5,
-   "grupo": "Cai às vezes"
+   "grupo": "Cai muito"
   },
-  "PI03.05": {
-   "texto": "Demais normas estaduais da organização da DPE-AM",
+  "PI03.04": {
+   "texto": "Demais normas estaduais de organização da Defensoria",
    "assunto": "PI03",
    "n": 0.5,
    "peso": 0.23,
-   "p": 1.0,
+   "p": 1.3,
    "lo": 0.1,
-   "hi": 11.2,
+   "hi": 13.9,
    "provas": 1,
    "grupo": "Cai às vezes"
   },
@@ -263,9 +253,9 @@
    "assunto": "PI04",
    "n": 3.5,
    "peso": 1.73,
-   "p": 7.5,
-   "lo": 2.5,
-   "hi": 20.6,
+   "p": 9.5,
+   "lo": 3.1,
+   "hi": 25.4,
    "provas": 2,
    "grupo": "Cai às vezes"
   },
@@ -274,93 +264,65 @@
    "assunto": "PI04",
    "n": 1.5,
    "peso": 0.81,
-   "p": 3.5,
-   "lo": 0.7,
-   "hi": 15.1,
+   "p": 4.5,
+   "lo": 0.9,
+   "hi": 18.7,
    "provas": 2,
-   "grupo": "Cai às vezes"
-  },
-  "PI06.01": {
-   "texto": "Crimes praticados por funcionário público contra a Administração (CP, arts. 312 a 327)",
-   "assunto": "PI06",
-   "n": 4.0,
-   "peso": 2.46,
-   "p": 10.7,
-   "lo": 4.2,
-   "hi": 24.6,
-   "provas": 4,
-   "grupo": "Cai às vezes"
-  },
-  "PI06.02": {
-   "texto": "Improbidade administrativa (Lei 8.429/1992, arts. 1º a 12)",
-   "assunto": "PI06",
-   "n": 3.0,
-   "peso": 1.86,
-   "p": 8.1,
-   "lo": 2.8,
-   "hi": 21.4,
-   "provas": 2,
-   "grupo": "Cai às vezes"
-  },
-  "PI06.03": {
-   "texto": "Outros temas da Constituição Federal fora dos arts. 5º, 37 e 134",
-   "assunto": "PI06",
-   "n": 1.0,
-   "peso": 0.5,
-   "p": 2.2,
-   "lo": 0.3,
-   "hi": 13.1,
-   "provas": 1,
    "grupo": "Cai às vezes"
   }
  },
- "pontos_com_1_questao": 4,
+ "pontos_com_1_questao": 3,
  "pontos_sem_questao": [
   "PI01.04",
-  "PI03.03",
+  "PI02.03",
+  "PI02.06",
+  "PI03.03#v1",
   "PI04.03",
   "PI05.01",
-  "PI05.02"
+  "PI05.02",
+  "PI06.01#v1",
+  "PI06.02#v1",
+  "PI06.03#v1"
  ],
- "good_turing_pontos_pct": 10.5,
+ "good_turing_pontos_pct": 10.0,
  "retro_pontos": {
   "k": 10,
   "temporal": [],
   "loo": [
    {
     "prova": "2018 - DPE-AM - Analista Jurídico",
-    "n": 4.0,
-    "acertos": 3.0,
-    "pct": 75.0
+    "n": 2.0,
+    "acertos": 2.0,
+    "pct": 100.0
    },
    {
     "prova": "2019 - DPE-AM - Analista Jurídico",
-    "n": 7.0,
-    "acertos": 5.0,
-    "pct": 71.4
+    "n": 4.0,
+    "acertos": 4.0,
+    "pct": 100.0
    },
    {
     "prova": "2022 - DPE-AM - Analista Jurídico",
-    "n": 6.0,
-    "acertos": 4.0,
-    "pct": 66.7
+    "n": 5.0,
+    "acertos": 3.0,
+    "pct": 60.0
    },
    {
     "prova": "2022 - DPE-AM - Analista Jurídico (2)",
-    "n": 6.0,
-    "acertos": 4.5,
-    "pct": 75.0
+    "n": 5.0,
+    "acertos": 4.0,
+    "pct": 80.0
    },
    {
     "prova": "2023 - DPE-AM - Analista Jurídico",
-    "n": 6.0,
-    "acertos": 4.0,
-    "pct": 66.7
+    "n": 5.0,
+    "acertos": 3.5,
+    "pct": 70.0
    }
   ],
   "media_temporal": null,
-  "media_loo": 70.7,
-  "acaso": 62.5
+  "media_loo": 78.6,
+  "acaso": 76.9
  },
  "avisos": [
   "Número efetivo pequeno: faixas de Wilson largas."
