@@ -18,7 +18,7 @@ RAIZ = Path(__file__).resolve().parent.parent
 
 class TestArquivoFcc(unittest.TestCase):
     def test_estrutura_do_arquivo_de_dados(self):
-        d = json.loads((RAIZ / "dados" / "fcc_concursos.json").read_text(encoding="utf-8"))
+        d = json.loads((RAIZ / "dados" / "coleta" / "fcc_concursos.json").read_text(encoding="utf-8"))
         cods = d["concursos"]
         self.assertTrue(cods)
         self.assertEqual(len(cods), len(set(cods)), "código de concurso repetido")
@@ -86,7 +86,7 @@ Questão 2 tipo 2 C
         self.assertEqual([x[1] for x in g], [[(1, 1, "A"), (4, 2, "B")], [(8, 1, "C"), (6, 2, "D")]])
 
     def test_parse_tec(self):
-        # formato real do TEC (conferido em banco/fonte_tec/recebidos): "Questão N de T", Matéria, Assunto, linha "#id banca - ano - cargo", enunciado e alternativas
+        # formato real do TEC (conferido em banco/fontes/fonte_tec/recebidos): "Questão N de T", Matéria, Assunto, linha "#id banca - ano - cargo", enunciado e alternativas
         txt = ("Questão 12 de 100\nMatéria: Direito Penal\nAssunto:\nCrimes contra a pessoa\n   \n28\n    \n #123456 FCC - 2023 - Defensor Público\n  \n\n"
                "Enunciado da questão aqui\n\n\nA\n\tprimeira alternativa\n\n\nB\n\tsegunda alternativa\n")
         n, r = G._parse_tec(txt)

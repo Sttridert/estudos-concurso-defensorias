@@ -10,13 +10,13 @@ Apoio a estudos para concursos públicos de **Defensorias (banca FCC)**, por dis
 2. `docs/01-METODO.md`: como o projeto funciona (banco, perfil, pesos, ciclo por disciplina, edital real, modelo da apostila, scripts).
 3. `docs/02-DECISOES-EM-VIGOR.md`: decisões do usuário; **mandam sobre o resto**.
 4. `docs/03-PENDENCIAS.md`: **única fonte do estado do projeto** (o que está feito, em curso, bloqueado e a decidir).
-5. Planos: `docs/06-PLANO-MELHORIAS-E-ORGANIZACAO.md` (e `07-AUDITORIA-ETAPA-1.md`) e `docs/08-PLANO-FLUXOS-E-PORTEIRO.md` (só histórico). O andamento de cada plano está no `03`, não aqui.
+5. Planos: `docs/06-PLANO-MELHORIAS-E-ORGANIZACAO.md` (e `07-AUDITORIA-ETAPA-1.md`) e `docs/arquivo/08-PLANO-FLUXOS-E-PORTEIRO.md` (só histórico). O andamento de cada plano está no `03`, não aqui.
 Histórico (só se precisar): `docs/arquivo/`. Guias da análise: `docs/guias/`. Scripts aposentados: `legado/`.
 
 ## Estrutura
 ```
-banco/       estudos.db (fonte única, nunca recriado), texto-bruto, gabaritos, análises geradas, backup/, base-regressao-*/
-dados/       catalogo/ e classificacao/ (por disciplina), comentários, correções, editais_reais/, programas_editais/, revisao_web/
+banco/       estudos.db (fonte única, nunca recriado), fontes/ (texto-bruto, fonte_tec, gabaritos_fcc), analise/ (gerada), backup/ (só local), base-regressao-*/
+dados/       catalogo/ e classificacao/ (por disciplina), comentarios/, fontes/ (normas oficiais), editais_reais/, referencia/, revisao_web/, coleta/ (insumos da coleta: manifesto de provas, listas da FCC, textos-base, correções de texto, inventário e universos de editais), disciplinas.json
 docs/        01-METODO, 02-DECISOES-EM-VIGOR, 03-PENDENCIAS, planos em curso, guias/, arquivo/
 produtos/    apostilas/<concurso>/ (perfil.toml + Word); modelos/ (só base-estilos.docx)
 provas/      <ano - órgão - cargo>/ com edital, caderno, gabarito (PDF originais; não alterar; ficam só locais)

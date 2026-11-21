@@ -42,6 +42,6 @@ Os passos 1 a 9 acima valem, com estas diferenças: (a) o prefácio é o **edita
 ## Armadilhas já encontradas
 - Gabarito de **outro tipo de caderno** (GO e RR 2021): sempre casar tipo do caderno com tipo do gabarito.
 - Gabarito **preliminar**: procurar relatórios "Alteração de gabarito e Atribuição de questões" da FCC (atribuição = questão anulada).
-- Texto de provas digitalizadas: OCR erra; corrigir à mão as questões da disciplina (`dados/correcoes_texto.json`).
+- Texto de provas digitalizadas: OCR erra; corrigir à mão as questões da disciplina (`dados/coleta/correcoes_texto.json`).
 - Pesos e teste retroativo: sempre declarar a amostra e comparar com o acaso; abaixo de 100 questões efetivas não ordene temas.
 - Informação legal ou de jurisprudência sem fonte primária: marcar "confirmar".

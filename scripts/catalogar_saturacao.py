@@ -3,7 +3,7 @@
 
 Uso (sempre com `python -I`):
   python -I scripts/catalogar_saturacao.py [universo ...] [--simulacoes N]
-      Sem argumento, roda todos os universos de `dados/universos_editais.json`.
+      Sem argumento, roda todos os universos de `dados/coleta/universos_editais.json`.
 
 Pergunta que responde: os editais do universo já bastam para conhecer os assuntos e pontos do cargo? Mede quantos assuntos e pontos
 NOVOS cada edital traz, em ordem cronológica e na média de várias ordens aleatórias, e aplica o critério escrito no próprio arquivo
@@ -25,7 +25,7 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
 BANCO = RAIZ / "banco" / "estudos.db"
-UNIVERSOS = RAIZ / "dados" / "universos_editais.json"
+UNIVERSOS = RAIZ / "dados" / "coleta" / "universos_editais.json"
 
 UNIDADES = {
     "assunto": ("select o.edital_id, pt.assunto_id from edital_item_ocorrencias o join edital_item_pontos p on p.item_id=o.item_id "

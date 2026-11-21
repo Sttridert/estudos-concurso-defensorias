@@ -74,7 +74,7 @@ Gabaritos: 8 conferidos com a FCC; 5 oficiais com conferência datada; **11 aind
 Resposta. pode cortar o que você achar melhor.
 
 ### Andamento depois da resposta do usuário (16/11/2026)
-- **Base de regressão gravada:** `banco/base-regressao-2026-11-16/` (saída do motor dos 11 perfis, tamanhos das apostilas, hash do banco e dos scripts) e etiqueta git `base-regressao-2026-11-16` (aponta para o commit `70f8ac9`; o banco não mudou desde ele). Ao rodar o motor, só a saída do **perfil 1** diferia da versão commitada (a antiga era anterior às correções de dados), o que confirma o risco do universo "Todas as questões"; os perfis 2 a 11 saíram idênticos.
+- **Base de regressão gravada:** `legado/banco/base-regressao-2026-11-16/` (saída do motor dos 11 perfis, tamanhos das apostilas, hash do banco e dos scripts) e etiqueta git `base-regressao-2026-11-16` (aponta para o commit `70f8ac9`; o banco não mudou desde ele). Ao rodar o motor, só a saída do **perfil 1** diferia da versão commitada (a antiga era anterior às correções de dados), o que confirma o risco do universo "Todas as questões"; os perfis 2 a 11 saíram idênticos.
 - **Cortes feitos (movidos para `legado/`, nada apagado):** scripts `20`, `25`, `29`, `30`, `cmp_gab`, `receptor_local`; apostilas antigas de Penal (2) e DH (2); Modelo A e B. A apostila de DH "Defensoria Pública FCC" **foi mantida**, porque é a do perfil 1 (ainda ativo). Motor e gerador conferidos depois dos cortes.
 - **Cortes adiados:** os 6 documentos históricos ficam até a Etapa 4 (CLAUDE.md, README e `metodo/00` ainda os citam); `28`, `42` e o ramo antigo do `24` ficam para a Etapa 3, depois da Etapa 2.
 

@@ -3,7 +3,7 @@
 
 Uso:  python -I scripts/coletar_textos_base.py [--simular]
 
-Fonte: `dados/textos_base.json` = {nome da prova: [{ordem, titulo, subtitulo?, autoria, q_ini, q_fim, texto, fonte, verso?}]}.
+Fonte: `dados/coleta/textos_base.json` = {nome da prova: [{ordem, titulo, subtitulo?, autoria, q_ini, q_fim, texto, fonte, verso?}]}.
 O texto usa `\\n\\n` entre parágrafos (ou estrofes, com `verso`), `\\n` para quebra de verso, e as marcas `<u>…</u>` (sublinhado)
 e `<b>…</b>` (destaque) como nas questões. Cria a tabela `textos_base` se não existir (o banco nunca é recriado) e, a cada
 execução, substitui as linhas das provas do JSON. Cópia do banco antes (em `banco/backup/`) e registro em `log_alteracoes`.
@@ -15,7 +15,7 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 BANCO = RAIZ / "banco" / "estudos.db"
 simular = "--simular" in sys.argv
-dados = json.loads((RAIZ / "dados" / "textos_base.json").read_text(encoding="utf-8"))
+dados = json.loads((RAIZ / "dados" / "coleta" / "textos_base.json").read_text(encoding="utf-8"))
 if not simular:
     dst = RAIZ / "banco" / "backup" / f"estudos_antes_textos_base_{datetime.date.today().isoformat()}_{datetime.datetime.now().strftime('%H%M')}.db"
     s = sqlite3.connect(BANCO); o = sqlite3.connect(dst); s.backup(o); o.close(); s.close()

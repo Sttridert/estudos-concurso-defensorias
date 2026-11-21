@@ -37,3 +37,9 @@ Grupo B, B-7 (20/11/2026; decisões 53 e 54 do usuário): o ciclo do edital fict
 - `dados/edital_ficticio_geral/`: taxonomia, ajustes, tópicos aprovados e arquivos de itens por disciplina (13 MB).
 - `produtos/edital-ficticio/`: os 9 Word do edital fictício geral (v1).
 O subcomando `71 semear` e a marca `edital_ficticio` de `dados/disciplinas.json` também saíram. Fica no projeto: a base de itens de edital no banco (tabelas `edital_itens`, `edital_item_ocorrencias`, `edital_item_pontos`) e `dados/programas_editais/` (textos literais). Os caminhos internos dos scripts daqui apontam para `scripts/` e `dados/`: não funcionam sem ajuste, de propósito. Quando entrar edital novo (conector da PCI, A-7), o carregador novo deve extrair pelo `coletar_programa_edital`, juntar frases iguais e gravar de forma incremental, sem apagar nem religar o que existe (a ligação a tópicos é do grupo C).
+
+Reorganização das pastas (21/11/2026; nada foi apagado, para voltar é mover de volta com `git mv`): chegaram aqui o que nenhum script ativo usa.
+- `banco/`: `controle_extracao.json`, `log_extracao.txt`, `log_reocr.txt`, `log_reocr2.txt`, `matriz_editais_dh.md`, `questoes_por_ponto_dh.md`, `catalogo_pontos_dh.md`, `relatorio_migracao.md`, `programas_dh/`, `gabaritos_manuais/` e `base-regressao-2026-11-16/` (anterior ao catálogo v2; não compara com o motor de hoje).
+- `dados/`: `catalogo_assuntos_direito_penal.csv`, `catalogo_pontos_direito_penal.csv`, `catalogo_pontos_direitos_humanos.csv`, `classificacao_dh.csv`, `classificacao_penal_analista.csv`, `edital_dpeam2026_analista_dh.json`, `edital_dpeam2026_analista_penal.json` e `programas_editais/` (saída do ciclo do edital fictício).
+- `docs/08-PLANO-FLUXOS-E-PORTEIRO.md` foi para `docs/arquivo/`.
+

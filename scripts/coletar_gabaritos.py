@@ -6,14 +6,14 @@ Reúne os antigos 04, 05, 06 e 65 (decisão do usuário, A-2). Cada subcomando m
 Uso (sempre com `python -I`):
   python -I scripts/coletar_gabaritos.py baixar-fcc [--so CODIGO] [--saida PASTA]
       Baixa do site da FCC o gabarito oficial atual (relação geral, todos os tipos) de cada concurso.
-      Saída: banco/gabaritos_fcc/<codigo>__<tabela>__<opcao>.html (bruto) e resumo.json.   (antigo 04)
+      Saída: banco/fontes/gabaritos_fcc/<codigo>__<tabela>__<opcao>.html (bruto) e resumo.json.   (antigo 04)
   python -I scripts/coletar_gabaritos.py ajustes-fcc [--saida ARQUIVO.json]
       Lê os relatórios oficiais da FCC de "Alteração de gabarito e Atribuição de questões" (texto em
-      banco/gabaritos_fcc/pdf/) e gera banco/ajustes_gabarito.json. Atribuição = questão atribuída a todos
+      banco/fontes/gabaritos_fcc/pdf/) e gera banco/ajustes_gabarito.json. Atribuição = questão atribuída a todos
       (na prática, anulada); alteração = a letra do gabarito mudou. Cada grupo entre linhas '-----' é UMA questão,
       numerada diferente em cada tipo de caderno.                                          (antigo 05)
   python -I scripts/coletar_gabaritos.py ler-tec NOME
-      Lê o JSON baixado do TEC (banco/fonte_tec/recebidos/tec_NOME_questoes.json) e gera banco/fonte_tec/tec_NOME.json
+      Lê o JSON baixado do TEC (banco/fontes/fonte_tec/recebidos/tec_NOME_questoes.json) e gera banco/fontes/fonte_tec/tec_NOME.json
       com campos limpos.                                                                   (antigo 06)
   python -I scripts/coletar_gabaritos.py aplicar ARQUIVO.json [--simular]
       Aplica no banco o resultado da pesquisa de anulações e alterações de gabarito.
@@ -42,11 +42,11 @@ BANCO = BANCO_DIR / "estudos.db"
 
 # ---------------------------------------------------------------- baixar-fcc (antigo 04)
 SITE_FCC = "https://www.concursosfcc.com.br/concursos"
-ARQ_FCC = RAIZ / "dados" / "fcc_concursos.json"
+ARQ_FCC = RAIZ / "dados" / "coleta" / "fcc_concursos.json"
 
 
 def carregar_fcc(arquivo=None):
-    """Lê `dados/fcc_concursos.json`: -> (lista de códigos de concurso da FCC, {arquivo do relatório: (prova, tipo do caderno)})."""
+    """Lê `dados/coleta/fcc_concursos.json`: -> (lista de códigos de concurso da FCC, {arquivo do relatório: (prova, tipo do caderno)})."""
     arq = pathlib.Path(arquivo or ARQ_FCC)
     if not arq.exists():
         sys.exit(f"falta o arquivo de dados {arq} (concursos da FCC e relatórios de alteração de gabarito)")
@@ -63,7 +63,7 @@ def _curl(args, cj):
 
 
 def baixar_fcc(so=None, saida=None):
-    out = pathlib.Path(saida) if saida else BANCO_DIR / "gabaritos_fcc"
+    out = pathlib.Path(saida) if saida else BANCO_DIR / "fontes" / "gabaritos_fcc"
     out.mkdir(exist_ok=True, parents=True)
     resumo = {}
     cj = tempfile.mktemp()
@@ -130,7 +130,7 @@ def _parse_ajustes(txt):
 
 
 def ajustes_fcc(saida=None):
-    pdf = BANCO_DIR / "gabaritos_fcc" / "pdf"
+    pdf = BANCO_DIR / "fontes" / "gabaritos_fcc" / "pdf"
     ajustes = []
     for arq, (prova, tipo) in RELATORIOS_FCC.items():
         txt = (pdf / (arq + ".txt")).read_text(encoding="utf-8")
@@ -166,7 +166,7 @@ def _parse_tec(txt):
 
 
 def ler_tec(nome):
-    pasta = BANCO_DIR / "fonte_tec"
+    pasta = BANCO_DIR / "fontes" / "fonte_tec"
     d = json.loads((pasta / "recebidos" / f"tec_{nome}_questoes.json").read_text(encoding="utf-8"))
     out = {}
     for _, v in d.items():
@@ -225,7 +225,7 @@ def main():
     sub = ap.add_subparsers(dest="cmd", required=True)
     b = sub.add_parser("baixar-fcc")
     b.add_argument("--so", help="só este código de concurso (ex.: dpeam121)")
-    b.add_argument("--saida", help="pasta de saída (padrão: banco/gabaritos_fcc)")
+    b.add_argument("--saida", help="pasta de saída (padrão: banco/fontes/gabaritos_fcc)")
     a = sub.add_parser("ajustes-fcc")
     a.add_argument("--saida", help="arquivo de saída (padrão: banco/ajustes_gabarito.json)")
     t = sub.add_parser("ler-tec")

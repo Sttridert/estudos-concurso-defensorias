@@ -15,7 +15,7 @@ import csv, json, re, subprocess, sys, unicodedata, collections
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
-INVENTARIO = RAIZ / "dados" / "inventario_editais_edital_geral.csv"
+INVENTARIO = RAIZ / "dados" / "coleta" / "inventario_editais_edital_geral.csv"
 
 # Quais títulos (em maiúsculas, sem acento) pertencem a cada disciplina: padrões em dados/disciplinas.json (fonte única).
 sys.path.insert(0, str(Path(__file__).resolve().parent))

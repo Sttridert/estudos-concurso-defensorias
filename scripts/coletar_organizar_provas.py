@@ -2,7 +2,7 @@
   1. edital.pdf (abertura), 2. caderno de prova.pdf, 3. gabarito.<ext>, e o resto em outros/.
 Atualiza provas.arquivo_edital/caderno/gabarito no banco. So mexe em provas que ja estao no banco. Nao apaga nada:
 o que sobrar em NOVAS (arquivos de concursos sem prova no banco, como o III Concurso ja existente) fica la.
-Uso: python -I scripts/coletar_organizar_provas.py dados/provas_novas_manifesto.json [--simular]
+Uso: python -I scripts/coletar_organizar_provas.py dados/coleta/provas_novas_manifesto.json [--simular]
 """
 import json, shutil, sqlite3, sys
 from pathlib import Path

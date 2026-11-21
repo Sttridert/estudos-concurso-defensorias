@@ -66,7 +66,7 @@ def extrair(pasta_nome, slug, alvos):
     meta = LP.metadados()
     inv = {}
     rel = f"provas/{pasta.name}/1. edital.pdf"
-    with open(RAIZ / "dados" / "inventario_editais_edital_geral.csv", encoding="utf-8") as f:
+    with open(RAIZ / "dados" / "coleta" / "inventario_editais_edital_geral.csv", encoding="utf-8") as f:
         for r in csv.DictReader(f, delimiter=";"):
             if r["arquivo_local"].replace("\\", "/") == rel:
                 inv = r

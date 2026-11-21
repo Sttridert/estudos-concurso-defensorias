@@ -7,7 +7,7 @@ registro em `log_alteracoes`. Só aplica o que o usuário pedir: o texto vem de 
 
 Uso (sempre com `python -I`):
   python -I scripts/coletar_conferir_texto.py corrigir "<nome da prova>" <numero> [<numero> ...] [--simular]
-      Lê `dados/correcoes_texto.json` ({prova: {numero: {disciplina, enunciado, alts[5], mover_para?}}}; `mover_para` troca a
+      Lê `dados/coleta/correcoes_texto.json` ({prova: {numero: {disciplina, enunciado, alts[5], mover_para?}}}; `mover_para` troca a
       disciplina da questão) e, para cada número pedido, grava `enunciado` e `alt_a` a `alt_e` em `questoes` e passa `situacao`
       de `revisar_texto` para `valida`.                                                               (antigo 55)
   python -I scripts/coletar_conferir_texto.py confirmar "<nome da prova>" <numero> [<numero> ...] [--nota "texto"] [--simular]
@@ -45,7 +45,7 @@ def _abrir(simular, sufixo):
 
 
 def corrigir(prova, numeros, simular=False):
-    corr = json.loads((RAIZ / "dados" / "correcoes_texto.json").read_text(encoding="utf-8"))[prova]
+    corr = json.loads((RAIZ / "dados" / "coleta" / "correcoes_texto.json").read_text(encoding="utf-8"))[prova]
     con = _abrir(simular, "correcao_texto")
     pid = con.execute("select id from provas where nome=?", (prova,)).fetchone()[0]
     marca = " [simulação]" if simular else ""

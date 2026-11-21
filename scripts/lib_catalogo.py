@@ -6,7 +6,7 @@ O estado mora em `dados/catalogo/_estado.json` (o `_` no começo impede que o `7
   estado             "provisorio" ou "fechado"
   versao             "v1", "v2"... (muda quando o catálogo é refeito; ver o mapa antigo→novo em `_mapa_<disciplina>_<vA>_<vB>.csv`)
   data               data do último registro de estado
-  editais_usados     universo de editais que fundamentou o catálogo (id em `dados/universos_editais.json` e quantos editais)
+  editais_usados     universo de editais que fundamentou o catálogo (id em `dados/coleta/universos_editais.json` e quantos editais)
   riscos             lista de riscos conhecidos (o que pode estar errado ou incompleto)
   fechado_pelo_usuario_em   data em que o usuário disse "sim" (só para "fechado")
   historico          lista de {data, de, para, motivo}

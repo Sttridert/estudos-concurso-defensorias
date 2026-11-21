@@ -1,5 +1,5 @@
 """Ingestao de provas novas no banco permanente (estudos.db). Substitui o antigo 02/03 (que escrevia no banco antigo).
-Uso:  python -I scripts/coletar_ingerir_prova.py dados/provas_novas_manifesto.json [--so NOME] [--simular]
+Uso:  python -I scripts/coletar_ingerir_prova.py dados/coleta/provas_novas_manifesto.json [--so NOME] [--simular]
 Para cada prova do manifesto: extrai o texto do caderno (direto; OCR se nao houver texto), le o gabarito (txt da FCC ou PDF da
 publicacao), separa as questoes (enunciado + alternativas A a E), atribui a disciplina pelo cabecalho do caderno e grava
 provas/questoes. Nao classifica pontos nem escreve comentarios (isso e outra etapa). Idempotente: prova que ja existe e pulada.
@@ -13,7 +13,7 @@ from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
 DB = RAIZ / "banco" / "estudos.db"
-TEXTO = RAIZ / "banco" / "texto-bruto"
+TEXTO = RAIZ / "banco" / "fontes" / "texto-bruto"
 
 
 def sem_acento(s):
